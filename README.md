@@ -15,10 +15,12 @@ Installation Guide:
     Download the modpack for your version
     Simply click Add Instance ➞ Import ➞ Browse ➞ Select the modpack ➞ Click OK
 
-    TIP 1: For Prism users, make sure you select the correct Java version and dedicate at least 4GB of RAM. If you also plan on using
+    TIP 1: For Prism users, make sure you select the correct Java version and dedicate at least
+    4GB of RAM. If you also plan on using
     the Hypixel+ resource pack then put this inside the JVM arguments field: -Xss4M
-    TIP 2: After joining the game, type /firmament macros or tap the "Delete" key on your keyboard to open the command macros/keybinds.
-    These run commands for Hypixel SkyBlock such as warps and menus for quick access and you can edit them if you want.
+    TIP 2: After joining the game, type /firmament macros or tap the "Delete" key on your keyboard
+    to open the command macros/keybinds. These run commands for Hypixel SkyBlock such as warps and
+    menus for quick access and you can edit them if you want.
     TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
 ⚙️ Mods & Features (38 mods)
@@ -125,7 +127,8 @@ I have other questions/issues...
 ⭐️ Credits
 
     Huge thanks to ic22487 for creating the modpack icon! Get this man a Ko-fi on my behalf, would ya?
-    Big thanks to TraitorAlmighty from the Furfsky Reborn team for helping out with optimization and setup.
+    Big thanks to TraitorAlmighty from the Furfsky Reborn team for helping out with optimization
+    and setup.
     Shoutout to haimcyfly and Stay True for being awesome. Check out
     Stay True's CurseForge page here: https://www.curseforge.com/minecraft/texture-packs/stay-true
     All credit for the mods and resource packs goes to their original creators, I do not claim that
