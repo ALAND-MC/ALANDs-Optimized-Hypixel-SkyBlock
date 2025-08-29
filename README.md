@@ -86,33 +86,36 @@ Installation Guide:
 
 Why did the modpack crash/fail to load?
 
-    Make sure you select the correct Java version and dedicate at least 4GB of RAM. Guide: https://www.youtube.com/watch?v=JP1gQ-rnixM
+    Make sure you select the correct Java version and dedicate at least 4GB of RAM.
+    Guide: https://www.youtube.com/watch?v=JP1gQ-rnixM
 
 Why is my FPS stuck at 60?
 
-    vSync is turned on to prevent screen tear artefacts and reduce resource usage, ensuring a smooth experience. You can disable it in
-    the general Video Settings and by configuring the Dynamic FPS mod to be off everywhere.
+    vSync is turned on to prevent screen tear artefacts and reduce resource usage, ensuring a smooth
+    experience. You can disable it in the general Video Settings and by configuring the Dynamic FPS
+    mod to be off everywhere.
 
 I'm still having FPS issues! How to fix?
 
-    If you play on a potato, delete the Roughly Enough Items and REI Search Bar Calculations mods and disable all resource packs. You
-    can also lower your Render Distance and other graphical settings in Video Settings. If you're still somehow struggling, delete either
-    SkyHanni or Skyblocker. P.S. Lag during game startup is to be expected, just give it a minute or two.
+    If you play on a potato, delete the Roughly Enough Items and REI Search Bar Calculations mods and
+    disable all resource packs. You can also lower your Render Distance and other graphical settings in
+    Video Settings. If you're still somehow struggling, delete either SkyHanni or Skyblocker.
+    P.S. Lag during game startup is to be expected, just give it a minute or two.
 
 I don't use Prism Launcher, how do I load the modpack?
 
-    Install Prism Launcher, it's light-weight, super fast, and allows you to download mods/resource packs with ease. It's the best option
-    for modern Minecraft.
+    Install Prism Launcher, it's light-weight, super fast, and allows you to download mods/resource packs
+    with ease. It's the best option for modern Minecraft.
 
 Can I transfer my own config files for x mod?
 
-    Yes, you can just delete the config file of any mod in the modpack's "config" folder and replace it with your own. This way, you can
-    transfer your own SkyHanni/Skyblocker/other settings over.
+    Yes, you can just delete the config file of any mod in the modpack's "config" folder and replace it with
+    your own. This way, you can transfer your own SkyHanni/Skyblocker/other settings over.
 
 Why did I randomly warp/trigger a command by tapping a random key?
 
-    These are known as command macros/keybinds. Type /firmament macros or tap the "Delete" key to open the config menu. You can assign any
-    key and make it run any command you want to make warping/accessing menus easier!
+    These are known as command macros/keybinds. Type /firmament macros or tap the "Delete" key to open the
+    config menu. You can assign any key and make it run any command you want to make warping/accessing menus easier!
 
 I have other questions/issues...
 
@@ -124,5 +127,5 @@ I have other questions/issues...
     Big thanks to TraitorAlmighty from the Furfsky Reborn team for helping out with optimization and setup.
     Shoutout to haimcyfly and Stay True for being awesome. Check out
     Stay True's CurseForge page here: https://www.curseforge.com/minecraft/texture-packs/stay-true
-    All credit for the mods and resource packs goes to their original creators, I do not claim that I own any of their work. Be sure to check
-    out and support their mods and other projects.
+    All credit for the mods and resource packs goes to their original creators, I do not claim that I own any of
+    their work. Be sure to check out and support their mods and other projects.
