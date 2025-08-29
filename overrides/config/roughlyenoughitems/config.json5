@@ -56,7 +56,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "DARK",
+		"theme": "LIGHT",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",

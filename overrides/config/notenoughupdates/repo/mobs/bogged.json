@@ -1,9 +1,0 @@
-{
-  "entity": "Bogged",
-  "modifiers": [
-    {
-      "type": "equipment",
-      "hand": "BOW"
-    }
-  ] 
-}

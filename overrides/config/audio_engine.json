@@ -25,6 +25,6 @@
   },
   "instantCategories" : [ "music", "master" ],
   "soundVolumes" : { },
-  "maxDuplicatedSoundsByPos" : 10,
+  "maxDuplicatedSoundsByPos" : 20,
   "maxDuplicatedSoundsById" : 50
 }

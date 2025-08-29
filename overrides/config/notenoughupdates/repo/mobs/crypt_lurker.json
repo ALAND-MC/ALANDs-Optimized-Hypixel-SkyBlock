@@ -1,9 +1,0 @@
-{
-  "entity": "Zombie",
-  "modifiers": [
-    {
-      "type": "equipment",
-      "hand": "BONE"
-    }
-  ] 
-}

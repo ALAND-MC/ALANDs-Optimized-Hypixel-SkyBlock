@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.03934588916806E7,
+              "exp": 4.042498042816063E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.145706477124668E8,
+              "exp": 2.145896064956668E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -270,7 +270,7 @@
               "petInternalName": "JELLYFISH;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.710379218369215E7,
+              "exp": 2.7105023227100153E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -525,14 +525,14 @@
               "petInternalName": "MOSQUITO;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MOSQUITO;4",
-              "exp": 2.2568949069941897E7,
+              "exp": 2.2705032453903504E7,
               "uuid": "d2bcd2b4-6ae4-4db7-885e-75f1d4135d2d"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "JADE_DRAGON;4",
-              "exp": 2.20537622E8,
+              "exp": 2.217495419230772E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             }
           ],

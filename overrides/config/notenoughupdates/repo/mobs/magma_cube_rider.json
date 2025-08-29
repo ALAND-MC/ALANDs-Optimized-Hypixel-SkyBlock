@@ -1,9 +1,0 @@
-{
-  "entity": "MagmaCube",
-  "modifiers": [
-    {
-      "type": "riding",
-      "entity": "Pigman"
-    }
-  ]
-}

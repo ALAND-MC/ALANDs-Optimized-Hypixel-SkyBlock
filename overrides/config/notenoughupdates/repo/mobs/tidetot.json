@@ -1,9 +1,0 @@
-{
-  "entity": "Drowned",
-  "modifiers": [
-    {
-      "type": "age",
-      "baby": "true"
-    }
-  ]
-}
