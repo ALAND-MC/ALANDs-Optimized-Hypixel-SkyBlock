@@ -93,9 +93,9 @@ Why did the modpack crash/fail to load?
 
 Why is my FPS stuck at 60?
 
-    vSync is turned on to prevent screen tear artefacts and reduce resource usage, ensuring a smooth
+    VSync is turned on to prevent screen tear artefacts and reduce resource usage, ensuring a smooth
     experience. You can disable it in the general Video Settings and by configuring the Dynamic FPS
-    mod to be off everywhere.
+    mod to turn it off everywhere.
 
 I'm still having FPS issues! How to fix?
 
@@ -106,7 +106,7 @@ I'm still having FPS issues! How to fix?
 
 I don't use Prism Launcher, how do I load the modpack?
 
-    Install Prism Launcher, it's light-weight, super fast, and allows you to download mods/resource
+    Install Prism Launcher, it's lightweight, super fast, and allows you to download mods/resource
     packs with ease. It's the best option for modern Minecraft.
 
 Can I transfer my own config files for x mod?
