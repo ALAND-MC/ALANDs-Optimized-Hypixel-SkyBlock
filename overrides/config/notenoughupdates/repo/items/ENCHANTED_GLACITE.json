@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:packed_ice",
+  "displayname": "§9Enchanted Glacite",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GLACITE\"},HideFlags:254,ItemModel:\"minecraft:packed_ice\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Glacite\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Brewing Ingredient",
+    "§8Collection Item",
+    "",
+    "§9§lRARE DWARVEN METAL"
+  ],
+  "internalname": "ENCHANTED_GLACITE",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Glacite II",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Glacite",
+    "https://wiki.hypixel.net/Enchanted_Glacite"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "GLACITE:32",
+    "A3": "",
+    "B1": "GLACITE:32",
+    "B2": "GLACITE:32",
+    "B3": "GLACITE:32",
+    "C1": "",
+    "C2": "GLACITE:32",
+    "C3": ""
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "_": "The list below is an ALLOWLIST for NPC sell. It was named misleadingly when added, and renaming it now would break things.",
+  "hide_npc_sell": {
+    "equals": [
+      "Ancient Claw",
+      "Arachne's Belt",
+      "Arachne's Boots",
+      "Arachne's Chestplate",
+      "Arachne's Cloak",
+      "Arachne's Gloves",
+      "Arachne's Helmet",
+      "Arachne's Leggings",
+      "Arachne's Necklace",
+      "Arack",
+      "Ascension Rope",
+      "Azure Bluet",
+      "Bag of Gold",
+      "Battle Disc",
+      "Birch Sapling",
+      "Blaze Powder",
+      "Cobblestone Slab",
+      "Condensed Fermento",
+      "Corrupted Fragment",
+      "Crown of Greed",
+      "Deep Root",
+      "Defuse Kit",
+      "Doubloon of the Family",
+      "Enchanted Brown Mushroom",
+      "Enchanted Golden Apple",
+      "Enchanted Red Mushroom",
+      "Enchanted Sugar",
+      "Enchanted Wool",
+      "Ender Belt",
+      "Ender Boots",
+      "Ender Chestplate",
+      "Ender Cloak",
+      "Ender Gauntlet",
+      "Ender Helmet",
+      "Ender Leggings",
+      "Ender Necklace",
+      "Endstone Rose",
+      "Fairy's Fedora",
+      "Fairy's Galoshes",
+      "Fairy's Polo",
+      "Fairy's Trousers",
+      "Fermento",
+      "Goblin Boots",
+      "Goblin Chestplate",
+      "Goblin Helmet",
+      "Goblin Leggings",
+      "Golden Apple",
+      "Healing VIII Splash Potion",
+      "Ice Rod",
+      "Journal Entry",
+      "Match-Sticks",
+      "Netherrack-Looking Sunshade",
+      "Pet Cake",
+      "Polished Andesite",
+      "Premium Flesh",
+      "Revive Stone",
+      "Sea Lantern",
+      "Spruce Wood Plank",
+      "Spruce Wood Slab",
+      "Squid Boots",
+      "Stone Brick Slab",
+      "Stretching Sticks",
+      "Sulphur",
+      "Superboom TNT",
+      "Toxic Arrow Poison",
+      "Training Weights",
+      "Tripwire Hook",
+      "Twilight Arrow Poison",
+      "White Wool",
+      "Winter Disc",
+      "Wishing Compass"
+    ],
+    "startsWith": [
+      "Music Disc",
+      "Wisp's Ice-Flavored Water I Splash"
+    ],
+    "endsWith": [
+      " Rune I",
+      " Vinyl"
+    ]
+  },
+  "hide_in_storage": {
+    "equals": [
+      "Basket of Seeds",
+      "Builder's Ruler",
+      "Builder's Wand",
+      "Nether Wart Pouch",
+      "Trick or Treat Bag"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "New Year Cake Bag"
+    ]
+  },
+  "hide_player_trade": {
+    "equals": [
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Cat Talisman",
+      "Cheetah Talisman",
+      "Lynx Talisman"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
+  "not_auctionable": {
+    "equals": [
+      "Basket of Seeds",
+      "InfiniDirt™ Wand",
+      "Nether Wart Pouch",
+      "Prismapump"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Cat Talisman",
+      "Cheetah Talisman",
+      "Lynx Talisman"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
+  "salvage": {
+    "armor": [
+      "Bouncy",
+      "Flaming",
+      "Heavy",
+      "Moogma",
+      "Rampart",
+      "Rotten",
+      "Skeleton Grunt",
+      "Skeleton Lord",
+      "Skeleton Master",
+      "Skeleton Soldier",
+      "Sniper",
+      "Zombie Commander",
+      "Zombie Knight",
+      "Zombie Soldier",
+      "Skeletor",
+      "Snow Suit"
+    ],
+    "items": [
+      "Blade of the Volcano",
+      "Conjuring",
+      "Dreadlord Sword",
+      "Earth Shard",
+      "Machine Gun Shortbow",
+      "Magma Rod",
+      "Silent Death",
+      "Soulstealer Bow",
+      "Staff of the Volcano",
+      "Sword of Bad Health",
+      "Slug Boots",
+      "Sniper Bow",
+      "Taurus Helmet",
+      "Zombie Commander Whip",
+      "Zombie Knight Sword",
+      "Zombie Soldier Cutlass",
+      "Arachne's Belt",
+      "Arachne's Boots",
+      "Arachne's Chestplate",
+      "Arachne's Cloak",
+      "Arachne's Gloves",
+      "Arachne's Helmet",
+      "Arachne's Leggings",
+      "Arachne's Necklace",
+      "Arack",
+      "Spider Talisman",
+      "Ice Rod",
+      "Yeti Rod",
+      "Luxurious Spool",
+      "Pickonimbus 2000",
+      "Handy Blood Chalice",
+      "Pocket Espresso Machine",
+      "Glacial Talisman",
+      "Tarantula Talisman"
+    ]
+  }
+}

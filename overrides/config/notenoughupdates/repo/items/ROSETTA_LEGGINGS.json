@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:diamond_leggings",
+  "displayname": "§aRosetta's Leggings",
+  "nbttag": "{ExtraAttributes:{enchantments:{growth:1},id:\"ROSETTA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §a+15\",1:\"§7Defense: §a+30\",2:\"\",3:\"§9Growth I\",4:\"§7Grants §a+15 §c❤ Health§7.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§a§lUNCOMMON LEGGINGS\"],Name:\"§aRosetta's Leggings\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §a+15",
+    "§7Defense: §a+30",
+    "",
+    "§9Growth I",
+    "§7Grants §a+15 §c❤ Health§7.",
+    "",
+    "§8This item can be reforged!",
+    "§a§lUNCOMMON LEGGINGS"
+  ],
+  "internalname": "ROSETTA_LEGGINGS",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Rosetta%27s_Leggings",
+    "https://wiki.hypixel.net/Rosetta%27s_Leggings"
+  ]
+}

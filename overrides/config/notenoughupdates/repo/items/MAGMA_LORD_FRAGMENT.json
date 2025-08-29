@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6Magma Lord Fragment",
+  "nbttag": "{ExtraAttributes:{id:\"MAGMA_LORD_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1886eae2-3046-39c6-9c30-e7890c081069\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzUwNDQyNTQ3MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmNjZjFhMWE2ZjRiMTgwNTRiZjRlYzY2YmNkMzc5ZjEyMTViMDZmMzc1OThiYTc5ZTBkZTIwOTI4MjNmYjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Magma Lord Fragment\"}}",
+  "damage": 3,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§6§lLEGENDARY"
+  ],
+  "internalname": "MAGMA_LORD_FRAGMENT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Fragment",
+    "https://wiki.hypixel.net/Magma_Lord_Fragment"
+  ]
+}

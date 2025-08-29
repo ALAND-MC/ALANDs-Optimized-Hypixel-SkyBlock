@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:spawn_egg",
+  "displayname": "§9Living Metal Chestspawn",
+  "nbttag": "{ExtraAttributes:{id:\"LM_EGG_CHEST\"},HideFlags:254,ItemModel:\"minecraft:endermite_spawn_egg\",display:{Lore:[0:\"§6Ability: Spawn  §e§lRIGHT CLICK\",1:\"§7Spawns a living metal autoarmor which can be\",2:\"§7assimilated into your own armor.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Living Metal Chestspawn\"}}",
+  "damage": 67,
+  "lore": [
+    "§6Ability: Spawn  §e§lRIGHT CLICK",
+    "§7Spawns a living metal autoarmor which can be",
+    "§7assimilated into your own armor.",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "LM_EGG_CHEST",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Living_Metal_Chestspawn",
+    "https://wiki.hypixel.net/Living_Metal_Chestspawn"
+  ],
+  "recipe": {
+    "A1": "LIVING_METAL:1",
+    "A2": "",
+    "A3": "LIVING_METAL:1",
+    "B1": "LIVING_METAL:1",
+    "B2": "LIVING_METAL:1",
+    "B3": "LIVING_METAL:1",
+    "C1": "LIVING_METAL:1",
+    "C2": "LIVING_METAL:1",
+    "C3": "LIVING_METAL:1"
+  }
+}

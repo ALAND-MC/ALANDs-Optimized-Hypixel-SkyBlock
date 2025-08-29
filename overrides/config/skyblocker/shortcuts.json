@@ -1,0 +1,20 @@
+{
+  "commands": {
+    "/cg": "/chat guild",
+    "/pd": "/p disband",
+    "/s": "/skyblock",
+    "/d": "/warp dungeon_hub",
+    "/h": "/hub",
+    "/ga": "/warp garden",
+    "/vp": "/visit portalhub",
+    "/i": "/is",
+    "/co": "/chat officer",
+    "/cp": "/chat party",
+    "/ca": "/chat all"
+  },
+  "commandArgs": {
+    "/pa": "/p accept",
+    "/m": "/msg",
+    "/v": "/visit"
+  }
+}

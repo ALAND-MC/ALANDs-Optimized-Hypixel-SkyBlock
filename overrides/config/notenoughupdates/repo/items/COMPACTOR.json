@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:dropper",
+  "displayname": "§aCompactor",
+  "nbttag": "{ExtraAttributes:{id:\"COMPACTOR\"},HideFlags:254,ItemModel:\"minecraft:dropper\",display:{Lore:[0:\"§7This item can be used as a minion\",1:\"§7upgrade. This will automatically turn\",2:\"§7materials that a minion produces into\",3:\"§7their block form.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aCompactor\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7This item can be used as a minion",
+    "§7upgrade. This will automatically turn",
+    "§7materials that a minion produces into",
+    "§7their block form.",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "COMPACTOR",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Cobblestone V",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Compactor",
+    "https://wiki.hypixel.net/Compactor"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_COBBLESTONE:1",
+    "A2": "ENCHANTED_COBBLESTONE:1",
+    "A3": "ENCHANTED_COBBLESTONE:1",
+    "B1": "ENCHANTED_COBBLESTONE:1",
+    "B2": "",
+    "B3": "ENCHANTED_COBBLESTONE:1",
+    "C1": "ENCHANTED_COBBLESTONE:1",
+    "C2": "ENCHANTED_REDSTONE:1",
+    "C3": "ENCHANTED_COBBLESTONE:1"
+  }
+}

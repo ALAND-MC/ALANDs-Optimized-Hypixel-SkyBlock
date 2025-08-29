@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:beacon",
+  "displayname": "§9Beacon II",
+  "nbttag": "{ExtraAttributes:{id:\"BEACON_2\"},HideFlags:254,ItemModel:\"minecraft:beacon\",display:{Lore:[0:\"§7Tier: §bII\",1:\"\",2:\"§7Can be placed on your private island.\",3:\"\",4:\"§7Grants special buffs to the island\",5:\"§7owners when powered by §dPower\",6:\"§dCrystals §7obtained from the forge in\",7:\"§7the §2Dwarven Mines§7.\",8:\"\",9:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",10:\"§9§lRARE\"],Name:\"§9Beacon II\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7Tier: §bII",
+    "",
+    "§7Can be placed on your private island.",
+    "",
+    "§7Grants special buffs to the island",
+    "§7owners when powered by §dPower",
+    "§dCrystals §7obtained from the forge in",
+    "§7the §2Dwarven Mines§7.",
+    "",
+    "§4❣ §cRequires §5Heart of the Mountain Tier 2§c.",
+    "§9§lRARE"
+  ],
+  "internalname": "BEACON_2",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Mithril X & HotM 2",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Beacon",
+    "https://wiki.hypixel.net/Beacon"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "REFINED_MITHRIL:5",
+        "BEACON_1:1"
+      ],
+      "count": 1,
+      "overrideOutputId": "BEACON_2",
+      "duration": 72000
+    }
+  ]
+}

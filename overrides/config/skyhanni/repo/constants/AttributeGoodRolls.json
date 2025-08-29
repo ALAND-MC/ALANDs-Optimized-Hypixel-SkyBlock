@@ -1,0 +1,225 @@
+{
+  "good_rolls": {
+    "Aurora Armor": {
+      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?AURORA_(?:CHESTPLATE|LEGGINGS|BOOTS)",
+      "list": [
+        [
+          "mana_regeneration",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Crimson Helmet": {
+      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_HELMET",
+      "list": [
+        [
+          "veteran",
+          "magic_find"
+        ]
+      ]
+    },
+    "Crimson Armor": {
+      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_(?:CHESTPLATE|LEGGINGS|BOOTS)",
+      "list": [
+        [
+          "veteran",
+          "mending"
+        ],
+        [
+          "mending",
+          "magic_find"
+        ],
+        [
+          "veteran",
+          "magic_find"
+        ]
+      ]
+    },
+    "Terror Armor": {
+      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?TERROR_(?:CHESTPLATE|LEGGINGS|BOOTS)",
+      "list": [
+        [
+          "mana_pool",
+          "lifeline"
+        ]
+      ]
+    },
+    "Magma Lord Armor": {
+      "regex": "MAGMA_LORD_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+      "list": [
+        [
+          "fishing_experience",
+          "blazing_fortune"
+        ],
+        [
+          "fishing_experience",
+          "magic_find"
+        ],
+        [
+          "blazing_fortune",
+          "magic_find"
+        ]
+      ]
+    },
+    "Magma Lord Gauntlet": {
+      "regex": "MAGMA_LORD_GAUNTLET",
+      "list": [
+        [
+          "fishing_experience",
+          "blazing_fortune"
+        ],
+        [
+          "blazing_fortune",
+          "magic_find"
+        ],
+        [
+          "lifeline",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Thunderbolt Necklace": {
+      "regex": "THUNDERBOLT_NECKLACE",
+      "list": [
+        [
+          "fishing_experience",
+          "blazing_fortune"
+        ]
+      ]
+    },
+    "Lava Shell Necklace": {
+      "regex": "LAVA_SHELL_NECKLACE",
+      "list": [
+        [
+          "mana_pool",
+          "lifeline"
+        ]
+      ]
+    },
+    "Scourge Cloak": {
+      "regex": "SCOURGE_CLOAK",
+      "list": [
+        [
+          "mana_pool",
+          "lifeline"
+        ]
+      ]
+    },
+    "Implosion Belt": {
+      "regex": "IMPLOSION_BELT",
+      "list": [
+        [
+          "mana_regeneration",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Gauntlet Of Contagion": {
+      "regex": "GAUNTLET_OF_CONTAGION",
+      "list": [
+        [
+          "mana_pool",
+          "lifeline"
+        ],
+        [
+          "mana_regeneration",
+          "mana_pool"
+        ],
+        [
+          "dominance",
+          "mana_pool"
+        ],
+        [
+          "dominance",
+          "speed"
+        ],
+        [
+          "veteran",
+          "mending"
+        ]
+      ]
+    },
+    "Molten Belt": {
+      "regex": "MOLTEN_BELT",
+      "list": [
+        [
+          "veteran",
+          "magic_find"
+        ],
+        [
+          "lifeline",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Molten Bracelet": {
+      "regex": "MOLTEN_BRACELET",
+      "list": [
+        [
+          "veteran",
+          "magic_find"
+        ],
+        [
+          "lifeline",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Molten Cloak": {
+      "regex": "MOLTEN_CLOAK",
+      "list": [
+        [
+          "veteran",
+          "magic_find"
+        ],
+        [
+          "lifeline",
+          "mana_pool"
+        ],
+        [
+          "mana_regeneration",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Molten Necklace": {
+      "regex": "MOLTEN_NECKLACE",
+      "list": [
+        [
+          "mana_pool",
+          "mana_regeneration"
+        ],
+        [
+          "dominance",
+          "mana_pool"
+        ]
+      ]
+    },
+    "Magma Necklace": {
+      "regex": "(?:VANQUISHED_)?MAGMA_NECKLACE",
+      "list": [
+        [
+          "dominance",
+          "mana_pool"
+        ],
+        [
+          "veteran",
+          "mending"
+        ],
+        [
+          "mana_pool",
+          "mana_regeneration"
+        ]
+      ]
+    },
+    "Ghast Cloak": {
+      "regex": "(?:VANQUISHED_)?GHAST_CLOAK",
+      "list": [
+        [
+          "veteran",
+          "mending"
+        ]
+      ]
+    }
+  }
+}

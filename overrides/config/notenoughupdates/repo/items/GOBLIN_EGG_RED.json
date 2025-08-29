@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:spawn_egg",
+  "displayname": "§cRed Goblin Egg",
+  "nbttag": "{ExtraAttributes:{id:\"GOBLIN_EGG_RED\"},HideFlags:254,ItemModel:\"minecraft:mooshroom_spawn_egg\",display:{Lore:[0:\"§7§oWhat came first the goblin or the\",1:\"§7§oegg?\",2:\"\",3:\"§9§lRARE\"],Name:\"§cRed Goblin Egg\"}}",
+  "damage": 96,
+  "lore": [
+    "§7§oWhat came first the goblin or the",
+    "§7§oegg?",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "GOBLIN_EGG_RED",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Red_Goblin_Egg",
+    "https://wiki.hypixel.net/Red_Goblin_Egg"
+  ]
+}

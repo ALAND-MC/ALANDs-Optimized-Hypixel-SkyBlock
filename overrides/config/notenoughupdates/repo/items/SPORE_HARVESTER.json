@@ -1,0 +1,24 @@
+{
+  "itemid": "minecraft:iron_axe",
+  "displayname": "§aSpore Harvester",
+  "nbttag": "{ExtraAttributes:{id:\"SPORE_HARVESTER\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§7A magically imbued axe used by\",1:\"§5Mages §7to carefully harvest\",2:\"§aBrown Mushrooms §7in the\",3:\"§cCrimson Isle§7.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON HOE\"],Name:\"§aSpore Harvester\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7A magically imbued axe used by",
+    "§5Mages §7to carefully harvest",
+    "§aBrown Mushrooms §7in the",
+    "§cCrimson Isle§7.",
+    "",
+    "§8This item can be reforged!",
+    "§a§lUNCOMMON HOE"
+  ],
+  "internalname": "SPORE_HARVESTER",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Spore_Harvester",
+    "https://wiki.hypixel.net/Spore_Harvester"
+  ]
+}

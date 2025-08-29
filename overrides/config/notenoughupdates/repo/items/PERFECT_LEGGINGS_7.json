@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:diamond_leggings",
+  "displayname": "§5Perfect Leggings - Tier VII",
+  "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+260\",1:\" §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier VII\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Defense: §a+260",
+    " §8[§7❈§8] [§7❈§8] [§7❈§8]",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC LEGGINGS"
+  ],
+  "internalname": "PERFECT_LEGGINGS_7",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Perfect_Armor#Tier_VII",
+    "https://wiki.hypixel.net/Perfect_Leggings_-_Tier_VII"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "ENCHANTED_DIAMOND_BLOCK:1",
+    "A3": "",
+    "B1": "ENCHANTED_DIAMOND_BLOCK:1",
+    "B2": "PERFECT_LEGGINGS_6:1",
+    "B3": "ENCHANTED_DIAMOND_BLOCK:1",
+    "C1": "",
+    "C2": "ENCHANTED_DIAMOND_BLOCK:1",
+    "C3": ""
+  },
+  "parent": "PERFECT_LEGGINGS_1"
+}

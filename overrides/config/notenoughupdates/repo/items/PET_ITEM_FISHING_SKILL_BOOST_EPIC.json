@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:fish",
+  "displayname": "§5Fishing Exp Boost",
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many powerful ways!\",3:\"§7A pet can only hold one §aPet Item §7at a time.\",4:\"§7The pet must be §evisible §7to apply the item!\",5:\"\",6:\"§7§7Gives §a+50% §7pet exp for Fishing.\",7:\"\",8:\"§7§eRight-click on your summoned pet to\",9:\"§egive it this item!\",10:\"\",11:\"§5§lEPIC PET ITEM\"],Name:\"§5Fishing Exp Boost\"},ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_EPIC\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Consumed on use",
+    "",
+    "§aPet Items §7can boost pets in many powerful ways!",
+    "§7A pet can only hold one §aPet Item §7at a time.",
+    "§7The pet must be §evisible §7to apply the item!",
+    "",
+    "§7§7Gives §a+50% §7pet exp for Fishing.",
+    "",
+    "§7§eRight-click on your summoned pet to",
+    "§egive it this item!",
+    "",
+    "§5§lEPIC PET ITEM"
+  ],
+  "internalname": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Fishing_Exp_Boost",
+    "https://wiki.hypixel.net/Fishing_Exp_Boost"
+  ],
+  "crafttext": ""
+}

@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:spawn_egg",
+  "displayname": "§3Blue Goblin Egg",
+  "nbttag": "{ExtraAttributes:{id:\"GOBLIN_EGG_BLUE\"},HideFlags:254,ItemModel:\"minecraft:squid_spawn_egg\",display:{Lore:[0:\"§7§oWhat came first the goblin or the\",1:\"§7§oegg?\",2:\"\",3:\"§9§lRARE\"],Name:\"§3Blue Goblin Egg\"}}",
+  "damage": 94,
+  "lore": [
+    "§7§oWhat came first the goblin or the",
+    "§7§oegg?",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "GOBLIN_EGG_BLUE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Blue_Goblin_Egg",
+    "https://wiki.hypixel.net/Blue_Goblin_Egg"
+  ]
+}

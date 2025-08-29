@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:carpet",
+  "displayname": "§6Anti-Bite Scarf",
+  "nbttag": "{ExtraAttributes:{id:\"ANTI_BITE_SCARF\"},HideFlags:254,ItemModel:\"minecraft:red_carpet\",display:{Lore:[0:\"§7Intelligence: §a+20\",1:\"\",2:\"§6Ability: Helmets All The Way Around \",3:\"§7Regain §a+2ф §7when killing a monster.\",4:\"\",5:\"§7If you would take §c❤ §7damage, take\",6:\"§c0.3❤ §7less.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",10:\"§6§lLEGENDARY HELMET\"],Name:\"§6Anti-Bite Scarf\"}}",
+  "damage": 14,
+  "lore": [
+    "§7Intelligence: §a+20",
+    "",
+    "§6Ability: Helmets All The Way Around ",
+    "§7Regain §a+2ф §7when killing a monster.",
+    "",
+    "§7If you would take §c❤ §7damage, take",
+    "§c0.3❤ §7less.",
+    "",
+    "§8This item can be reforged!",
+    "§4☠ §cRequires §5Vampire Slayer 1§c.",
+    "§6§lLEGENDARY HELMET"
+  ],
+  "internalname": "ANTI_BITE_SCARF",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Vampire Slayer 1",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Anti-Bite_Scarf",
+    "https://wiki.hypixel.net/Anti-Bite_Scarf"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "",
+    "A3": "",
+    "B1": "COVEN_SEAL:8",
+    "B2": "",
+    "B3": "COVEN_SEAL:8",
+    "C1": "COVEN_SEAL:8",
+    "C2": "DETRANSFIGURED_MASK:1",
+    "C3": "COVEN_SEAL:8"
+  }
+}

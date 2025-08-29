@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:dropper",
+  "displayname": "§aPersonal Compactor 4000",
+  "nbttag": "{ExtraAttributes:{id:\"PERSONAL_COMPACTOR_4000\"},HideFlags:254,ItemModel:\"minecraft:dropper\",display:{Lore:[0:\"§7Automatically turns certain materials\",1:\"§7in your inventory into their\",2:\"§7enchanted form.\",3:\"\",4:\"§eRight-click to configure!\",5:\"\",6:\"§8Does not grant Carpentry XP!\",7:\"\",8:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aPersonal Compactor 4000\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7Automatically turns certain materials",
+    "§7in your inventory into their",
+    "§7enchanted form.",
+    "",
+    "§eRight-click to configure!",
+    "",
+    "§8Does not grant Carpentry XP!",
+    "",
+    "§a§lUNCOMMON ACCESSORY"
+  ],
+  "internalname": "PERSONAL_COMPACTOR_4000",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Redstone IX",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Personal_Compactor_4000",
+    "https://wiki.hypixel.net/Personal_Compactor_4000"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_REDSTONE:64",
+    "A2": "ENCHANTED_REDSTONE:64",
+    "A3": "ENCHANTED_REDSTONE:64",
+    "B1": "ENCHANTED_REDSTONE:64",
+    "B2": "",
+    "B3": "ENCHANTED_REDSTONE:64",
+    "C1": "ENCHANTED_REDSTONE:64",
+    "C2": "SUPER_COMPACTOR_3000:1",
+    "C3": "ENCHANTED_REDSTONE:64"
+  }
+}

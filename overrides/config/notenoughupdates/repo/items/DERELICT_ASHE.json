@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:gunpowder",
+  "displayname": "§aDerelict Ashe",
+  "nbttag": "{ExtraAttributes:{id:\"DERELICT_ASHE\"},HideFlags:254,ItemModel:\"minecraft:gunpowder\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aDerelict Ashe\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "DERELICT_ASHE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Derelict_Ashe",
+    "https://wiki.hypixel.net/Derelict_Ashe"
+  ]
+}

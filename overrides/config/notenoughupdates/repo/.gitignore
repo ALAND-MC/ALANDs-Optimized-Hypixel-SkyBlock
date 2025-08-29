@@ -1,0 +1,6 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/json.code-snippets
+.idea
+items/null.json
+itemsOverlay/*/null.snbt

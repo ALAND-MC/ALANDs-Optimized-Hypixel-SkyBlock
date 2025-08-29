@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:ghast_tear",
+  "displayname": "§6Great White Shark Tooth",
+  "nbttag": "{ExtraAttributes:{id:\"GREAT_WHITE_SHARK_TOOTH\"},HideFlags:254,ItemModel:\"minecraft:ghast_tear\",display:{Lore:[0:\"§7Dropped by a Shark during\",1:\"§7Fishing Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Great White Shark Tooth\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§7Dropped by a Shark during",
+    "§7Fishing Festival.",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§6§lLEGENDARY"
+  ],
+  "internalname": "GREAT_WHITE_SHARK_TOOTH",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Great_White_Shark_Tooth",
+    "https://wiki.hypixel.net/Great_White_Shark_Tooth"
+  ]
+}

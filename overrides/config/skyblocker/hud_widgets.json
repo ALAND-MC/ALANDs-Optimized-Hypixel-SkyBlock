@@ -1,0 +1,142 @@
+{
+  "positions": {
+    "garden": {
+      "Item Pickup": {
+        "relative_x": 5,
+        "relative_y": 5,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
+      "hud_farming": {
+        "relative_x": 0,
+        "relative_y": 0,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      }
+    },
+    "hub": {
+      "Item Pickup": {
+        "relative_x": 318,
+        "relative_y": 198,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "CENTER",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "combat_3": {
+      "hud_end": {
+        "relative_x": 10,
+        "relative_y": 10,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      }
+    },
+    "mining_3": {
+      "powders": {
+        "relative_x": 0,
+        "relative_y": 2,
+        "layer": "HUD",
+        "parent": "commissions",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
+      "commissions": {
+        "relative_x": 5,
+        "relative_y": 5,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      }
+    },
+    "crystal_hollows": {
+      "powders": {
+        "relative_x": 0,
+        "relative_y": 2,
+        "layer": "HUD",
+        "parent": "commissions",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
+      "commissions": {
+        "relative_x": 5,
+        "relative_y": 5,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      }
+    },
+    "dungeon": {
+      "Dungeon Splits": {
+        "relative_x": 5,
+        "relative_y": 0,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "CENTER",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "CENTER",
+          "h": "LEFT"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:stained_hardened_clay",
+  "displayname": "§6Hive Barn Skin",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§7Consume this item to unlock the §6Hive\",1:\"§6Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Hive Barn Skin\"},ExtraAttributes:{id:\"HIVE_BARN_SKIN\"}}",
+  "damage": 4,
+  "lore": [
+    "§7§7Consume this item to unlock the §6Hive",
+    "§6Barn Skin §7on §aThe Garden§7!",
+    "",
+    "§eClick to consume!",
+    "",
+    "§6§lLEGENDARY COSMETIC"
+  ],
+  "internalname": "HIVE_BARN_SKIN",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Hive_Barn_Skin",
+    "https://wiki.hypixel.net/Hive_Barn_Skin"
+  ]
+}

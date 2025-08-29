@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:string",
+  "displayname": "§5Braided Griffin Feather",
+  "nbttag": "{ExtraAttributes:{id:\"BRAIDED_GRIFFIN_FEATHER\"},HideFlags:254,ItemModel:\"minecraft:string\",display:{Lore:[0:\"§5§lEPIC\"],Name:\"§5Braided Griffin Feather\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§5§lEPIC"
+  ],
+  "internalname": "BRAIDED_GRIFFIN_FEATHER",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Braided_Griffin_Feather",
+    "https://wiki.hypixel.net/Braided_Griffin_Feather"
+  ],
+  "recipe": {
+    "A1": "GRIFFIN_FEATHER:32",
+    "A2": "SOUL_STRING:64",
+    "A3": "GRIFFIN_FEATHER:32",
+    "B1": "SOUL_STRING:64",
+    "B2": "GRIFFIN_FEATHER:32",
+    "B3": "SOUL_STRING:64",
+    "C1": "GRIFFIN_FEATHER:32",
+    "C2": "SOUL_STRING:64",
+    "C3": "GRIFFIN_FEATHER:32"
+  }
+}

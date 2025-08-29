@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§f§9Enchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{ender_slayer:6},id:\"ENDER_SLAYER;6\"},HideFlags:254,display:{Lore:[0:\"§9Ender Slayer VI\",1:\"§7Increases damage dealt to §5⊙ Ender§7\",2:\"§7mobs by §a100%§7.\",3:\"\",4:\"§7Use this on an item in an Anvil\",5:\"§7to apply it!\",6:\"\",7:\"§6Source:\",8:\"§aVI: §7Pearl Dealer\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§9§lRARE\"],Name:\"§f§9Enchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§9Ender Slayer VI",
+    "§7Increases damage dealt to §5⊙ Ender§7",
+    "§7mobs by §a100%§7.",
+    "",
+    "§7Use this on an item in an Anvil",
+    "§7to apply it!",
+    "",
+    "§6Source:",
+    "§aVI: §7Pearl Dealer",
+    "",
+    "§6Applied To:",
+    "§7- §fSword",
+    "§7- §fFishing Weapon",
+    "§7- §fLongsword",
+    "§7- §fGauntlet",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "ENDER_SLAYER;6",
+  "parent": "ENDER_SLAYER;4",
+  "modver": "2.1.1-PRE",
+  "crafttext": "",
+  "clickcommand": "",
+  "infoType": "",
+  "recipes": [
+    {
+      "type": "trade",
+      "cost": "ENCHANTED_EMERALD:50",
+      "result": "ENDER_SLAYER;6"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:wool",
+  "displayname": "§aCube Barn Skin",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§7Consume this item to unlock the §aCube\",1:\"§aBarn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCube Barn Skin\"},ExtraAttributes:{id:\"CUBE_BARN_SKIN\"}}",
+  "damage": 14,
+  "lore": [
+    "§7§7Consume this item to unlock the §aCube",
+    "§aBarn Skin §7on §aThe Garden§7!",
+    "",
+    "§eClick to consume!",
+    "",
+    "§a§lUNCOMMON COSMETIC"
+  ],
+  "internalname": "CUBE_BARN_SKIN",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Cube_Barn_Skin",
+    "https://wiki.hypixel.net/Cube_Barn_Skin"
+  ]
+}

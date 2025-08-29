@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§7[Lvl {LVL}] §6Scatha",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"730a6086-ad87-38fa-8fa4-0b76a060f4fc\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDQ0NTc2NDQ1MSwKICAicHJvZmlsZUlkIiA6ICJmNDY0NTcxNDNkMTU0ZmEwOTkxNjBlNGJmNzI3ZGNiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWxhcGFnbzA1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmMDNhZDk2MDkyZjNmNzg5OTAyNDM2NzA5Y2RmNjlkZTZiNzI3YzEyMWIzYzJkYWVmOWZmYTFjY2FlZDE4NmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Mining Speed: §a{MINING_SPEED}\",3:\"§7Mining Fortune: §a{MINING_FORTUNE}\",4:\"\",5:\"§6Burrowing\",6:\"§7§7Grants a §a+{0}% §7chance to find\",7:\"§7§eTreasure Chests §7while mining.\",8:\"\",9:\"§6Drill Infusion\",10:\"§7§7Grants §6+{1}☘ Gemstone Fortune §7to\",11:\"§7Drills.\",12:\"\",13:\"§6Bejeweled Eyes\",14:\"§7§7Earn §a+{2}% §dGemstone Powder §7from all\",15:\"§7sources.\",16:\"\",17:\"§7§eRight-click to add this pet to your\",18:\"§epet menu!\",19:\"\",20:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Scatha\"},ExtraAttributes:{petInfo:\"{\\\"type\\\":\\\"SCATHA\\\",\\\"active\\\":false,\\\"exp\\\":0,\\\"tier\\\":\\\"LEGENDARY\\\",\\\"hideInfo\\\":false,\\\"candyUsed\\\":0,\\\"uuid\\\":\\\"b622bf32-98e3-430a-924a-e026d5e29a66\\\",\\\"uniqueId\\\":\\\"38ee8c0c-1af9-4ff2-bf87-4361569b834f\\\",\\\"hideRightClick\\\":false,\\\"noMove\\\":false}\",id:\"SCATHA;4\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Mining Pet",
+    "",
+    "§7Mining Speed: §a{MINING_SPEED}",
+    "§7Mining Fortune: §a{MINING_FORTUNE}",
+    "",
+    "§6Burrowing",
+    "§7§7Grants a §a+{0}% §7chance to find",
+    "§7§eTreasure Chests §7while mining.",
+    "",
+    "§6Drill Infusion",
+    "§7§7Grants §6+{1}☘ Gemstone Fortune §7to",
+    "§7Drills.",
+    "",
+    "§6Bejeweled Eyes",
+    "§7§7Earn §a+{2}% §dGemstone Powder §7from all",
+    "§7sources.",
+    "",
+    "§7§eRight-click to add this pet to your",
+    "§epet menu!",
+    "",
+    "§6§lLEGENDARY"
+  ],
+  "internalname": "SCATHA;4",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet",
+    "https://wiki.hypixel.net/Scatha_Pet"
+  ],
+  "recipes": [
+    {
+      "type": "katgrade",
+      "coins": 250000000,
+      "time": 1209600,
+      "input": "SCATHA;3",
+      "output": "SCATHA;4",
+      "items": [
+        "ENCHANTED_HARD_STONE:256"
+      ]
+    }
+  ]
+}

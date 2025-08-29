@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:golden_sword",
+  "displayname": "§6⚚ Daedalus Blade",
+  "nbttag": "{ExtraAttributes:{id:\"STARRED_DAEDALUS_AXE\"},HideFlags:254,ItemModel:\"minecraft:golden_sword\",Unbreakable:1B,display:{Lore:[0:\" §8[⚔] [⚔]\",1:\"\",2:\"§7Gains §c+5 Damage §7per Taming level.\",3:\"§7Copies the stats from your active\",4:\"§7pet.\",5:\"\",6:\"§7Earn §6+35 coins §7from monster kills.\",7:\"\",8:\"§7Deals §a+200% §7damage against §2✿\",9:\"§2Mythological §7mobs.\",10:\"\",11:\"§7Gain §b+0.5✯ §7against §2✿ Mythological\",12:\"§7mobs for each §3Bestiary §7tier you\",13:\"§7have unlocked for §2✿ Mythological\",14:\"§7mobs.\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY SWORD\"],Name:\"§6⚚ Daedalus Blade\"}}",
+  "damage": 0,
+  "lore": [
+    " §8[⚔] [⚔]",
+    "",
+    "§7Gains §c+5 Damage §7per Taming level.",
+    "§7Copies the stats from your active",
+    "§7pet.",
+    "",
+    "§7Earn §6+35 coins §7from monster kills.",
+    "",
+    "§7Deals §a+200% §7damage against §2✿",
+    "§2Mythological §7mobs.",
+    "",
+    "§7Gain §b+0.5✯ §7against §2✿ Mythological",
+    "§7mobs for each §3Bestiary §7tier you",
+    "§7have unlocked for §2✿ Mythological",
+    "§7mobs.",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY SWORD"
+  ],
+  "internalname": "STARRED_DAEDALUS_AXE",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/⚚_Daedalus_Axe"
+  ],
+  "recipes": [
+    {
+      "A1": "GOLDEN_FRAGMENT:1",
+      "A2": "GOLDEN_FRAGMENT:1",
+      "A3": "GOLDEN_FRAGMENT:1",
+      "B1": "GOLDEN_FRAGMENT:1",
+      "B2": "DAEDALUS_AXE:1",
+      "B3": "GOLDEN_FRAGMENT:1",
+      "C1": "GOLDEN_FRAGMENT:1",
+      "C2": "GOLDEN_FRAGMENT:1",
+      "C3": "GOLDEN_FRAGMENT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STARRED_DAEDALUS_AXE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:porkchop",
+  "displayname": "§aEnchanted Pork",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PORK\"},HideFlags:254,ItemModel:\"minecraft:porkchop\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Pork\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Collection Item",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "ENCHANTED_PORK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Raw Porkchop IV",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Pork",
+    "https://wiki.hypixel.net/Enchanted_Pork"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "PORK:32",
+    "A3": "",
+    "B1": "PORK:32",
+    "B2": "PORK:32",
+    "B3": "PORK:32",
+    "C1": "",
+    "C2": "PORK:32",
+    "C3": ""
+  }
+}

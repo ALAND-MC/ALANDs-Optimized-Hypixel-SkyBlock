@@ -1,0 +1,474 @@
+{
+  "PARK": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Night Squid": {
+        "chat_message": "§aPitch darkness reveals a Night Squid.",
+        "fishing_experience": 270,
+        "rarity": "COMMON"
+      }
+    }
+  },
+  "CHUMCAP": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Agarimoo": {
+        "chat_message": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+        "fishing_experience": 80,
+        "rarity": "RARE"
+      }
+    }
+  },
+  "CARROT": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Carrot King": {
+        "chat_message": "§aIs this even a fish? It's the Carrot King!",
+        "fishing_experience": 810,
+        "rarity": "RARE",
+        "rare": true
+      }
+    }
+  },
+  "WATER": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Squid": {
+        "chat_message": "§aA Squid appeared.",
+        "fishing_experience": 41,
+        "rarity": "COMMON"
+      },
+      "Sea Walker": {
+        "chat_message": "§aYou caught a Sea Walker.",
+        "fishing_experience": 68,
+        "rarity": "COMMON"
+      },
+      "Sea Guardian": {
+        "chat_message": "§aYou stumbled upon a Sea Guardian.",
+        "fishing_experience": 101,
+        "rarity": "COMMON"
+      },
+      "Sea Archer": {
+        "chat_message": "§aYou reeled in a Sea Archer.",
+        "fishing_experience": 169,
+        "rarity": "UNCOMMON"
+      },
+      "Rider of the Deep": {
+        "chat_message": "§aThe Rider of the Deep has emerged.",
+        "fishing_experience": 270,
+        "rarity": "UNCOMMON"
+      },
+      "Sea Witch": {
+        "chat_message": "§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+        "fishing_experience": 338,
+        "rarity": "UNCOMMON"
+      },
+      "Catfish": {
+        "chat_message": "§aHuh? A Catfish!",
+        "fishing_experience": 405,
+        "rarity": "RARE"
+      },
+      "Sea Leech": {
+        "chat_message": "§aGross! A Sea Leech!",
+        "fishing_experience": 675,
+        "rarity": "RARE"
+      },
+      "Guardian Defender": {
+        "chat_message": "§aYou've discovered a Guardian Defender of the sea.",
+        "fishing_experience": 1013,
+        "rarity": "EPIC"
+      },
+      "Deep Sea Protector": {
+        "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
+        "fishing_experience": 2721,
+        "rarity": "EPIC"
+      },
+      "Water Hydra": {
+        "chat_message": "§aThe Water Hydra has come to test your strength.",
+        "fishing_experience": 4050,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "The Sea Emperor": {
+        "chat_message": "§aThe Loch Emperor arises from the depths.",
+        "fishing_experience": 3375,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "WINTER_ISLAND": {
+    "chat_color": "§f",
+    "sea_creatures": {
+      "Frozen Steve": {
+        "chat_message": "§aFrozen Steve fell into the pond long ago, never to resurface...until now!",
+        "fishing_experience": 101,
+        "rarity": "COMMON"
+      },
+      "Frosty": {
+        "chat_message": "§aIt's a snowman! He looks harmless.",
+        "fishing_experience": 203,
+        "rarity": "COMMON"
+      },
+      "Grinch": {
+        "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
+        "alternate_messages": [
+          "§aThe Grinch stole Jerry's §rGifts...get§r them back!"
+        ],
+        "fishing_experience": 405,
+        "rarity": "UNCOMMON"
+      },
+      "Nutcracker": {
+        "chat_message": "§aYou found a forgotten Nutcracker laying beneath the ice.",
+        "fishing_experience": 950,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Yeti": {
+        "chat_message": "§aWhat is this creature!?",
+        "fishing_experience": 4050,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Reindrake": {
+        "chat_message": "§aA Reindrake forms from the depths.",
+        "fishing_experience": 0,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "SPOOKY": {
+    "chat_color": "§5",
+    "sea_creatures": {
+      "Scarecrow": {
+        "chat_message": "§aPhew! It's only a Scarecrow.",
+        "fishing_experience": 420,
+        "rarity": "COMMON"
+      },
+      "Nightmare": {
+        "chat_message": "§aYou hear trotting from beneath the waves, you caught a Nightmare.",
+        "fishing_experience": 820,
+        "rarity": "RARE"
+      },
+      "Werewolf": {
+        "chat_message": "§aIt must be a full moon, a Werewolf appears.",
+        "fishing_experience": 1235,
+        "rarity": "EPIC"
+      },
+      "Phantom Fisher": {
+        "chat_message": "§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
+        "fishing_experience": 2525,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Grim Reaper": {
+        "chat_message": "§aThis can't be! The manifestation of death himself!",
+        "fishing_experience": 3950,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "SHARK": {
+    "chat_color": "§3",
+    "sea_creatures": {
+      "Nurse Shark": {
+        "chat_message": "§aA tiny fin emerges from the water, you've caught a Nurse Shark.",
+        "fishing_experience": 405,
+        "rarity": "COMMON"
+      },
+      "Blue Shark": {
+        "chat_message": "§aYou spot a fin as blue as the water it came from, it's a Blue Shark.",
+        "fishing_experience": 810,
+        "rarity": "UNCOMMON"
+      },
+      "Tiger Shark": {
+        "chat_message": "§aA striped beast bounds from the depths, the wild Tiger Shark!",
+        "fishing_experience": 1013,
+        "rarity": "EPIC"
+      },
+      "Great White Shark": {
+        "chat_message": "§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+        "fishing_experience": 2025,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "OASIS": {
+    "chat_color": "§a",
+    "sea_creatures": {
+      "Oasis Sheep": {
+        "chat_message": "§aAn Oasis Sheep appears from the water.",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Oasis Rabbit": {
+        "chat_message": "§aAn Oasis Rabbit appears from the water.",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      }
+    }
+  },
+  "ABANDONED_QUARRY": {
+    "chat_color": "§a",
+    "sea_creatures": {
+      "Small Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Medium Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Large Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Large Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Bloated Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      }
+    }
+  },
+  "MAGMA_FIELDS": {
+    "chat_color": "§c",
+    "sea_creatures": {
+      "Lava Blaze": {
+        "chat_message": "§aA Lava Blaze has surfaced from the depths!",
+        "fishing_experience": 548,
+        "rarity": "RARE"
+      },
+      "Lava Pigman": {
+        "chat_message": "§aA Lava Pigman arose from the depths!",
+        "fishing_experience": 568,
+        "rarity": "RARE"
+      }
+    }
+  },
+  "LAVA_PRECURSOR": {
+    "chat_color": "§c",
+    "sea_creatures": {
+      "Flaming Worm": {
+        "chat_message": "§aA Flaming Worm surfaces from the depths!",
+        "fishing_experience": 240,
+        "rarity": "RARE"
+      }
+    }
+  },
+  "GOBLIN_BURROWS": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Water Worm": {
+        "chat_message": "§aA Water Worm surfaces!",
+        "fishing_experience": 240,
+        "rarity": "RARE"
+      },
+      "Poisoned Water Worm": {
+        "chat_message": "§aA Poisoned Water Worm surfaces!",
+        "fishing_experience": 270,
+        "rarity": "RARE"
+      }
+    }
+  },
+  "WATER_CRYSTAL_HOLLOWS": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Abyssal Miner": {
+        "chat_message": "§aAn Abyssal Miner breaks out of the water!",
+        "fishing_experience": 770,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "LAVA_CRIMSON_ISLE": {
+    "chat_color": "§c",
+    "sea_creatures": {
+      "Moogma": {
+        "chat_message": "§aYou hear a faint Moo from the lava... A Moogma appears.",
+        "fishing_experience": 950,
+        "rarity": "RARE"
+      },
+      "Magma Slug": {
+        "chat_message": "§aFrom beneath the lava appears a Magma Slug.",
+        "fishing_experience": 730,
+        "rarity": "RARE"
+      },
+      "Pyroclastic Worm": {
+        "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
+        "fishing_experience": 1100,
+        "rarity": "RARE"
+      },
+      "Lava Flame": {
+        "chat_message": "§aA Lava Flame flies out from beneath the lava.",
+        "fishing_experience": 2100,
+        "rarity": "RARE"
+      },
+      "Fire Eel": {
+        "chat_message": "§aA Fire Eel slithers out from the depths.",
+        "fishing_experience": 2200,
+        "rarity": "RARE"
+      },
+      "Lava Leech": {
+        "chat_message": "§aA small but fearsome Lava Leech emerges.",
+        "fishing_experience": 1400,
+        "rarity": "RARE"
+      },
+      "Taurus": {
+        "chat_message": "§aTaurus and his steed emerge.",
+        "fishing_experience": 4300,
+        "rarity": "RARE"
+      },
+      "Thunder": {
+        "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
+        "fishing_experience": 12000,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Lord Jawbus": {
+        "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived.",
+        "fishing_experience": 40000,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "PLHLEGBLAST": {
+    "chat_color": "§c",
+    "sea_creatures": {
+      "Plhlegblast": {
+        "chat_message": "§aWOAH! A Plhlegblast appeared.",
+        "fishing_experience": 5000,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "BACKWATER_BAYOU": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Trash Gobbler": {
+        "chat_message": "§aThe Trash Gobbler is hungry for you!",
+        "fishing_experience": 175,
+        "rarity": "COMMON"
+      },
+      "Banshee": {
+        "chat_message": "§aThe desolate wail of a Banshee breaks the silence.",
+        "fishing_experience": 1000,
+        "rarity": "RARE"
+      },
+      "Alligator": {
+        "chat_message": "§aA long snout breaks the surface of the water. It's an Alligator!",
+        "fishing_experience": 1250,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Dumpster Diver": {
+        "chat_message": "§aA Dumpster Diver has emerged from the swamp!",
+        "fishing_experience": 250,
+        "rarity": "UNCOMMON"
+      },
+      "Bayou Sludge": {
+        "chat_message": "§aA swampy mass of slime emerges, the Bayou Sludge!",
+        "fishing_experience": 1000,
+        "rarity": "EPIC"
+      },
+      "Titanoboa": {
+        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
+        "fishing_experience": 4500,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "LAVA_HOTSPOT": {
+    "chat_color": "§d",
+    "sea_creatures": {
+      "Ragnarok": {
+        "chat_message": "§c§r§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+        "fishing_experience": 20000,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Fireproof Witch": {
+        "chat_message": "§aTrouble's brewing, it's a Fireproof Witch!",
+        "fishing_experience": 1250,
+        "rarity": "RARE"
+      },
+      "Fried Chicken": {
+        "chat_message": "§aSmells of burning. Must be a Fried Chicken.",
+        "fishing_experience": 400,
+        "rarity": "COMMON"
+      },
+      "Fiery Scuttler": {
+        "chat_message": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+        "fishing_experience": 15000,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "WATER_HOTSPOT": {
+    "chat_color": "§d",
+    "sea_creatures": {
+      "Wiki Tiki": {
+        "chat_message": "§c§r§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+        "fishing_experience": 7500,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Blue Ringed Octopus": {
+        "chat_message": "§aA garish set of tentacles arise. It's a Blue Ringed Octopus!",
+        "fishing_experience": 5000,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Snapping Turtle": {
+        "chat_message": "§aA Snapping Turtle is coming your way, and it's ANGRY!",
+        "fishing_experience": 500,
+        "rarity": "RARE"
+      },
+      "Frog Man": {
+        "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+        "fishing_experience": 200,
+        "rarity": "COMMON"
+      }
+    }
+  },
+  "GALETEA": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Wetwing": {
+        "chat_message": "§aLook! A Wetwing emerges!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Ent": {
+        "chat_message": "§aYou've hooked an Ent, as ancient as the forest itself.",
+        "fishing_experience": 0,
+        "rarity": "EPIC"
+      },
+      "Tadgang": {
+        "chat_message": "§aA gang of Liltads!",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      },
+      "Bogged": {
+        "chat_message": "§aYou've hooked a Bogged!",
+        "fishing_experience": 225,
+        "rarity": "COMMON"
+      },
+      "Stridersurfer": {
+        "chat_message": "§aYou caught a Stridersurfer.",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:hopper",
+  "displayname": "§aBudget Hopper",
+  "nbttag": "{ExtraAttributes:{id:\"BUDGET_HOPPER\"},HideFlags:254,ItemModel:\"minecraft:hopper\",display:{Lore:[0:\"§7This item can be placed inside any\",1:\"§7minion. Automatically sells generated\",2:\"§7items when the minion has no space.\",3:\"§7Items are sold for §a50% §7of their\",4:\"§7selling price.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aBudget Hopper\"}}",
+  "damage": 0,
+  "lore": [
+    "§7This item can be placed inside any",
+    "§7minion. Automatically sells generated",
+    "§7items when the minion has no space.",
+    "§7Items are sold for §a50% §7of their",
+    "§7selling price.",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "BUDGET_HOPPER",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Iron Ingot V",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Budget_Hopper",
+    "https://wiki.hypixel.net/Budget_Hopper"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_IRON:1",
+    "A2": "",
+    "A3": "ENCHANTED_IRON:1",
+    "B1": "ENCHANTED_IRON:1",
+    "B2": "CHEST:1",
+    "B3": "ENCHANTED_IRON:1",
+    "C1": "",
+    "C2": "ENCHANTED_IRON:1",
+    "C3": ""
+  }
+}

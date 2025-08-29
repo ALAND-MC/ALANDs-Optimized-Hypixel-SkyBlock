@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:leather_boots",
+  "displayname": "§fRabbit Boots",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Farming Fortune: §a+15\",1:\" §8[§7☘§8]\",2:\"\",3:\"§6Full Set Bonus: Bonus Farming Fortune §7(0/4)\",4:\"§7Increases §6☘ Farming Fortune §7by §a+10§7.\",5:\"\",6:\"§7§8This item can be reforged!\",7:\"§7§4❣ §cRequires §aFarming Skill 15§c.\",8:\"§f§lCOMMON BOOTS\"],color:13357787,Name:\"§fRabbit Boots\"},ExtraAttributes:{id:\"RABBIT_BOOTS\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Farming Fortune: §a+15",
+    " §8[§7☘§8]",
+    "",
+    "§6Full Set Bonus: Bonus Farming Fortune §7(0/4)",
+    "§7Increases §6☘ Farming Fortune §7by §a+10§7.",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aFarming Skill 15§c.",
+    "§f§lCOMMON BOOTS"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_RABBIT_HIDE:5",
+    "A2": "",
+    "A3": "ENCHANTED_RABBIT_HIDE:5",
+    "B1": "ENCHANTED_RABBIT_FOOT:10",
+    "B2": "",
+    "B3": "ENCHANTED_RABBIT_FOOT:10",
+    "C1": "",
+    "C2": "",
+    "C3": ""
+  },
+  "internalname": "RABBIT_BOOTS",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "crafttext": "Requires: Raw Rabbit IX",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Boots",
+    "https://wiki.hypixel.net/Rabbit_Boots"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "filters": [
+    {
+      "description": "Player is advertising their lowballing",
+      "contains": [
+        "low balling",
+        "lowbal"
+      ],
+      "containsWord": [
+        "lowwbal",
+        "lo-ballin",
+        "loballin",
+        "lowblling"
+      ]
+    },
+    {
+      "description": "Player wants to buy stuff",
+      "contains": [
+        "i buy",
+        "someone sells",
+        "buying",
+        "buyin"
+      ]
+    },
+    {
+      "description": "Player wants to sell stuff",
+      "contains": [
+        "my ah",
+        "my auction",
+        "on ah",
+        "selling",
+        "sellin",
+        "buy my",
+        "low price",
+        "bid on",
+        "to buy",
+        "my /ah",
+        "i buy",
+        "check out my auction",
+        "on /ah",
+        "buy quickly for"
+      ],
+      "containsWord": [
+        "sell",
+        "sellng",
+        "sellomg",
+        "seling"
+      ]
+    },
+    {
+      "description": "Player wants to advertise a minion shop",
+      "contains": [
+        "minion shop",
+        "minion store"
+      ]
+    },
+    {
+      "description": "Player wants to quit skyblock",
+      "contains": [
+        "quitting skyblock",
+        "quitting sb"
+      ]
+    },
+    {
+      "description": "Player wants to apply reforge stone",
+      "contains": [
+        "applying reforges",
+        "mining 30 to apply",
+        "apply spiritual to"
+      ]
+    },
+    {
+      "description": "Player wants to sell building island farms",
+      "contains": [
+        "building your farms",
+        "building farms"
+      ]
+    },
+    {
+      "description": "Player asks for free stuff",
+      "contains": [
+        "at map",
+        "upgrade my",
+        "fund me",
+        "donate me",
+        "can someone give me",
+        "got scammed",
+        "dirt to hyp",
+        "give me plz",
+        "trading from dirt to"
+      ]
+    },
+    {
+      "description": "Player want you to visit them",
+      "contains": [
+        "visit me"
+      ]
+    }
+  ]
+}

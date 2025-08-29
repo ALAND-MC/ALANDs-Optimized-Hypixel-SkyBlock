@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§fBase Griffin Upgrade Stone",
+  "nbttag": "{ExtraAttributes:{id:\"BASE_GRIFFIN_UPGRADE_STONE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e5e4b1d4-7145-3d47-8bd7-ff7e8cf2626f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BAbDbeWCcP0Pc/B2faY268thByaMqD1IJQtvG8e/0GdzQm9MQLDLG/ycgiltvEXWubz3hBLzsq7dNmWxEHVTxu89qzTLmVu0sZRrEnBgv9Am4rlYZw1g9sv0wUhAnIZXGWRJnv+9FW/CT8871KuCmyJbzKSL7D4DNa2TEU6WYotaanH9p7A43X7Qy87bdcxtVLS+AxiMqcotYaL2F+unFGGzpy3V8vwQSp25+/kJ+k584KYxJUqCQ1eOyK1Lx/+adxinQTHmDp91p0zuJ6t2XpAMy13tfNYg3TyFwYUX/W4P2ZUAMjXGGs9GQbaL1gYrFk/b/mt5++2BV2HQo/DiXCe21xrv2SxLSVfUV5iQUfttpUNumlpqsBxiaRsJ9fPvFTRBAvCXemP3cCbU/CZVmnh0nDaTCn8hmqRHRsitdTmTi+9MauRQ3iGUv2WcwWDHH8TwjWBl69RDXEQI1/8DT1lZXnZkzkYBJ1PCkyLCpjK6ZrYQ+aRTS0/ab1hgw4/3xeRvI6fzRQKRoDR/9Bxi/aAE/ppYCOiDMT2yyUPXf7TXZadz/8JbaWkM5Xn/Gb4cOSwWuAD1RZ1oNRwq+Pfi9aORhhser0lFti45Hs2lDJUA9AmrSwFSTDbyH0v2GdZFS8CQ9nwP6w8L6ZYDL4/l7ITXrSe/8+5KvCKpblHdv+8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxNjM2NzE2Nzk3MCwKICAicHJvZmlsZUlkIiA6ICI5OTdjZjFlMmY1NGQ0YzEyOWY2ZjU5ZTVlNjU1YjZmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbzEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhlMTM5NTIwMjVhMjMyNGE2NjZmN2VkZjY1MzU4MzI1YWM2M2JhYTM3OTkwMmUzOTBmYzI3MjAxNDYzMTkzZTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Base component to upgrade your\",1:\"§7Griffin's rarity.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fBase Griffin Upgrade Stone\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Base component to upgrade your",
+    "§7Griffin's rarity.",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "BASE_GRIFFIN_UPGRADE_STONE",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Base_Griffin_Upgrade_Stone",
+    "https://wiki.hypixel.net/Base_Griffin_Upgrade_Stone"
+  ],
+  "recipe": {
+    "A1": "GRIFFIN_FEATHER:2",
+    "A2": "ENCHANTED_GOLD:4",
+    "A3": "GRIFFIN_FEATHER:2",
+    "B1": "ENCHANTED_GOLD:4",
+    "B2": "ENCHANTED_COBBLESTONE:8",
+    "B3": "ENCHANTED_GOLD:4",
+    "C1": "GRIFFIN_FEATHER:2",
+    "C2": "ENCHANTED_GOLD:4",
+    "C3": "GRIFFIN_FEATHER:2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:leather_boots",
+  "displayname": "§fLeaflet Sandals",
+  "nbttag": "{ExtraAttributes:{id:\"LEAFLET_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §a+25\",1:\"§7Foraging Fortune: §a+3\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON BOOTS\"],Name:\"§fLeaflet Sandals\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §a+25",
+    "§7Foraging Fortune: §a+3",
+    "",
+    "§8This item can be reforged!",
+    "§f§lCOMMON BOOTS"
+  ],
+  "internalname": "LEAFLET_BOOTS",
+  "clickcommand": "",
+  "crafttext": "Requires: Oak Wood II",
+  "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Leaflet_Sandals",
+    "https://wiki.hypixel.net/Leaflet_Sandals"
+  ],
+  "recipes": [
+    {
+      "A1": "LOG:1",
+      "A2": "",
+      "A3": "LOG:1",
+      "B1": "LOG:1",
+      "B2": "",
+      "B3": "LOG:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LEAFLET_BOOTS"
+    }
+  ]
+}

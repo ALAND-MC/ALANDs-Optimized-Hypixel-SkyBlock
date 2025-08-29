@@ -1,0 +1,11 @@
+{
+  "entity": "Creeper",
+  "modifiers": [
+    {
+      "type": "charged"
+    },
+    {
+      "type": "invisible"
+    }
+  ]
+}

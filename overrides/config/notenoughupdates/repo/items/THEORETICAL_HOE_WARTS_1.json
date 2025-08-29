@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:stone_hoe",
+  "displayname": "§fNewton Nether Warts Hoe",
+  "nbttag": "{ExtraAttributes:{id:\"THEORETICAL_HOE_WARTS_1\"},HideFlags:254,ItemModel:\"minecraft:stone_hoe\",Unbreakable:1B,display:{Lore:[0:\" §8[☘]\",1:\"\",2:\"§7Gain §6+10☘ Nether Wart Fortune §7and\",3:\"§3+1☯ Farming Wisdom §7for nether\",4:\"§7warts.\",5:\"\",6:\"§7Counter: §e0 Nether Warts\",7:\"\",8:\"§eReach 100k Counter for +1 Rarity!\",9:\"\",10:\"§eRight-click to view recipes!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aFarming Skill 15§c.\",14:\"§f§lCOMMON HOE\"],Name:\"§fNewton Nether Warts Hoe\"}}",
+  "damage": 0,
+  "lore": [
+    " §8[☘]",
+    "",
+    "§7Gain §6+10☘ Nether Wart Fortune §7and",
+    "§3+1☯ Farming Wisdom §7for nether",
+    "§7warts.",
+    "",
+    "§7Counter: §e0 Nether Warts",
+    "",
+    "§eReach 100k Counter for +1 Rarity!",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aFarming Skill 15§c.",
+    "§f§lCOMMON HOE"
+  ],
+  "internalname": "THEORETICAL_HOE_WARTS_1",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Newton_Nether_Warts_Hoe",
+    "https://wiki.hypixel.net/Newton_Nether_Warts_Hoe"
+  ],
+  "recipe": {
+    "A1": "NETHER_STALK:64",
+    "A2": "NETHER_STALK:64",
+    "A3": "NETHER_STALK:64",
+    "B1": "NETHER_STALK:64",
+    "B2": "THEORETICAL_HOE:1",
+    "B3": "NETHER_STALK:64",
+    "C1": "NETHER_STALK:64",
+    "C2": "NETHER_STALK:64",
+    "C3": "NETHER_STALK:64"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:repeater",
+  "displayname": "§9Talbot's Theodolite",
+  "nbttag": "{ExtraAttributes:{id:\"TALBOTS_THEODOLITE\"},HideFlags:254,ItemModel:\"minecraft:repeater\",display:{Lore:[0:\"§6Ability: Track §e§lRIGHT CLICK\",1:\"§7Indicates the approximate height\",2:\"§7difference and angle between you\",3:\"§7and your tracked mob.\",4:\"§8Mana Cost: §398\",5:\"§8Cooldown: §a10s\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Talbot's Theodolite\"}}",
+  "damage": 0,
+  "lore": [
+    "§6Ability: Track §e§lRIGHT CLICK",
+    "§7Indicates the approximate height",
+    "§7difference and angle between you",
+    "§7and your tracked mob.",
+    "§8Mana Cost: §398",
+    "§8Cooldown: §a10s",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "TALBOTS_THEODOLITE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite",
+    "https://wiki.hypixel.net/Talbot%27s_Theodolite"
+  ]
+}

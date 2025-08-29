@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:leather_chestplate",
+  "displayname": "§fLeaflet Tunic",
+  "nbttag": "{ExtraAttributes:{id:\"LEAFLET_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §a+80\",1:\"§7Foraging Fortune: §a+3\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON CHESTPLATE\"],Name:\"§fLeaflet Tunic\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §a+80",
+    "§7Foraging Fortune: §a+3",
+    "",
+    "§8This item can be reforged!",
+    "§f§lCOMMON CHESTPLATE"
+  ],
+  "internalname": "LEAFLET_CHESTPLATE",
+  "clickcommand": "",
+  "crafttext": "Requires: Oak Wood II",
+  "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Leaflet_Tunic",
+    "https://wiki.hypixel.net/Leaflet_Tunic"
+  ],
+  "recipes": [
+    {
+      "A1": "LOG:1",
+      "A2": "",
+      "A3": "LOG:1",
+      "B1": "LOG:1",
+      "B2": "LOG:1",
+      "B3": "LOG:1",
+      "C1": "LOG:1",
+      "C2": "LOG:1",
+      "C3": "LOG:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LEAFLET_CHESTPLATE"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6❤ Perfect Ruby Gemstone",
+  "nbttag": "{ExtraAttributes:{id:\"PERFECT_RUBY_GEM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6173f4f6-03dd-36b6-9797-4bd41cde5552\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTIxNzI5OCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YjZlMDQ3ZDNiMmJjYTg1ZThjYzQ5ZTU0ODBmOTc3NGQ4YTBlYWZlNmRmYTk1NTk1MzA1OTAyODM3MTUxNDIiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A perfectly §crefined Ruby§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§c❤ Health§7.\",7:\"\",8:\"§6§lLEGENDARY GEMSTONE\"],Name:\"§6❤ Perfect Ruby Gemstone\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Collection Item",
+    "",
+    "§7A perfectly §crefined Ruby§7.",
+    "",
+    "§7Some say that when §eharnessed",
+    "§eproperly§7, it can give its owner extra",
+    "§c❤ Health§7.",
+    "",
+    "§6§lLEGENDARY GEMSTONE"
+  ],
+  "internalname": "PERFECT_RUBY_GEM",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Gemstone X & HotM 5",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Gemstone",
+    "https://wiki.hypixel.net/Gemstone"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "RUBY_CRYSTAL:1",
+        "FLAWLESS_RUBY_GEM:5"
+      ],
+      "count": 1,
+      "overrideOutputId": "PERFECT_RUBY_GEM",
+      "duration": 72000
+    }
+  ]
+}

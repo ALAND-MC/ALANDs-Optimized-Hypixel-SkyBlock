@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§5Enchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{sharpness:7},id:\"SHARPNESS;7\"},HideFlags:254,display:{Lore:[0:\"§9Sharpness VII\",1:\"§7Increases melee damage dealt by\",2:\"§7§a65%§7\",3:\"\",4:\"§7Use this on an item in an Anvil\",5:\"§7to apply it!\",6:\"\",7:\"§6Source:\",8:\"§aVII: §7Scorpius,\",9:\"§7Experiments\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fFishing Weapon\",14:\"§7- §fLongsword\",15:\"§7- §fGauntlet\",16:\"\",17:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[],overrideMeta:1B}",
+  "damage": 0,
+  "lore": [
+    "§9Sharpness VII",
+    "§7Increases melee damage dealt by",
+    "§7§a65%§7",
+    "",
+    "§7Use this on an item in an Anvil",
+    "§7to apply it!",
+    "",
+    "§6Source:",
+    "§aVII: §7Scorpius,",
+    "§7Experiments",
+    "",
+    "§6Applied To:",
+    "§7- §fSword",
+    "§7- §fFishing Weapon",
+    "§7- §fLongsword",
+    "§7- §fGauntlet",
+    "",
+    "§5§lEPIC"
+  ],
+  "internalname": "SHARPNESS;7",
+  "parent": "SHARPNESS;4",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": ""
+}

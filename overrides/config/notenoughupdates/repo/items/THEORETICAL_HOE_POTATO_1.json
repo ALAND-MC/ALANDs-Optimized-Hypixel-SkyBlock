@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:stone_hoe",
+  "displayname": "§fPythagorean Potato Hoe",
+  "nbttag": "{ExtraAttributes:{id:\"THEORETICAL_HOE_POTATO_1\"},HideFlags:254,ItemModel:\"minecraft:stone_hoe\",Unbreakable:1B,display:{Lore:[0:\" §8[☘]\",1:\"\",2:\"§7Gain §6+10☘ Potato Fortune §7and §3+1☯\",3:\"§3Farming Wisdom §7for potatoes.\",4:\"\",5:\"§7Counter: §e0 Potatoes\",6:\"\",7:\"§eReach 100k Counter for +1 Rarity!\",8:\"\",9:\"§eRight-click to view recipes!\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFarming Skill 15§c.\",13:\"§f§lCOMMON HOE\"],Name:\"§fPythagorean Potato Hoe\"}}",
+  "damage": 0,
+  "lore": [
+    " §8[☘]",
+    "",
+    "§7Gain §6+10☘ Potato Fortune §7and §3+1☯",
+    "§3Farming Wisdom §7for potatoes.",
+    "",
+    "§7Counter: §e0 Potatoes",
+    "",
+    "§eReach 100k Counter for +1 Rarity!",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aFarming Skill 15§c.",
+    "§f§lCOMMON HOE"
+  ],
+  "internalname": "THEORETICAL_HOE_POTATO_1",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Pythagorean_Potato_Hoe",
+    "https://wiki.hypixel.net/Pythagorean_Potato_Hoe"
+  ],
+  "recipe": {
+    "A1": "POTATO_ITEM:64",
+    "A2": "POTATO_ITEM:64",
+    "A3": "POTATO_ITEM:64",
+    "B1": "POTATO_ITEM:64",
+    "B2": "THEORETICAL_HOE:1",
+    "B3": "POTATO_ITEM:64",
+    "C1": "POTATO_ITEM:64",
+    "C2": "POTATO_ITEM:64",
+    "C3": "POTATO_ITEM:64"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:chest",
+  "displayname": "§aMedium Storage",
+  "nbttag": "{ExtraAttributes:{id:\"MEDIUM_ENCHANTED_CHEST\"},HideFlags:254,ItemModel:\"minecraft:chest\",display:{Lore:[0:\"§7Place this chest next to a minion and\",1:\"§7the minion will store items inside once\",2:\"§7its storage is full!\",3:\"\",4:\"§7Storage space: §b9 §7items\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aMedium Storage\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Place this chest next to a minion and",
+    "§7the minion will store items inside once",
+    "§7its storage is full!",
+    "",
+    "§7Storage space: §b9 §7items",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "MEDIUM_ENCHANTED_CHEST",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Oak Wood VII",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Medium_Storage",
+    "https://wiki.hypixel.net/Medium_Storage"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_OAK_LOG:1",
+    "A2": "ENCHANTED_OAK_LOG:1",
+    "A3": "ENCHANTED_OAK_LOG:1",
+    "B1": "ENCHANTED_OAK_LOG:1",
+    "B2": "SMALL_ENCHANTED_CHEST:1",
+    "B3": "ENCHANTED_OAK_LOG:1",
+    "C1": "ENCHANTED_OAK_LOG:1",
+    "C2": "ENCHANTED_OAK_LOG:1",
+    "C3": "ENCHANTED_OAK_LOG:1"
+  }
+}

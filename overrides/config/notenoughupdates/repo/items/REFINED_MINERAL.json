@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:dye",
+  "displayname": "§9Refined Mineral",
+  "nbttag": "{ExtraAttributes:{id:\"REFINED_MINERAL\"},HideFlags:254,ItemModel:\"minecraft:light_blue_dye\",display:{Lore:[0:\"§7Rare minerals found during\",1:\"§7National Mining Month.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Refined Mineral\"}}",
+  "damage": 12,
+  "lore": [
+    "§7Rare minerals found during",
+    "§7National Mining Month.",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "REFINED_MINERAL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Refined_Mineral",
+    "https://wiki.hypixel.net/Refined_Mineral"
+  ]
+}

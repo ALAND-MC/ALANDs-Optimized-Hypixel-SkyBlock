@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:ender_pearl",
+  "displayname": "§9Fel Pearl",
+  "nbttag": "{ExtraAttributes:{id:\"FEL_PEARL\"},HideFlags:254,ItemModel:\"minecraft:ender_pearl\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Fel Pearl\"}}",
+  "damage": 0,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§9§lRARE DUNGEON ITEM"
+  ],
+  "internalname": "FEL_PEARL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Fel_Pearl",
+    "https://wiki.hypixel.net/Fel_Pearl"
+  ]
+}
