@@ -15,8 +15,7 @@ Release Trailer: https://www.youtube.com/watch?v=plB94X265z4
 Installation Guide:
 
 1. Install Prism Launcher (HIGHLY RECOMMENDED, It's faster, better, and has a ton of QoL features)
-2. Download the modpack for your version
-3. Simply click Add Instance ➞ Import ➞ Browse ➞ Select the modpack ➞ Click OK
+2. In Prism Launcher, click Add Instance ➞ Modrinth ➞ Type "ALAND" in the Search ➞ Click the Modpack ➞ Click OK
 
 TIP 1: For Prism users, make sure you select the correct Java version and dedicate at least 4GB of RAM. If you
 also plan on using the Hypixel+ resource pack then put this inside the JVM arguments field: -Xss4M
