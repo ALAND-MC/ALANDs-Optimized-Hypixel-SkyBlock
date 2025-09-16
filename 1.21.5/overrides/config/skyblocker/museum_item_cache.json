@@ -1,0 +1,22 @@
+{
+  "2c3c97d72b1c4355b856dae991ddf5db": {
+    "446a2a88-0c37-464b-91f0-45f84b8cd22b": {
+      "lastResync": 0,
+      "collectedItemIds": []
+    },
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "lastResync": 0,
+      "collectedItemIds": [
+        "ROGUE_SWORD",
+        "DIAMOND_NECRON_HEAD",
+        "FANCY_SWORD",
+        "CRYPT_DREADLORD_SWORD",
+        "HEARTFIRE_DAGGER",
+        "HEARTMAW_DAGGER",
+        "SQUIRE_SWORD",
+        "CLEAVER",
+        "END_SWORD"
+      ]
+    }
+  }
+}
