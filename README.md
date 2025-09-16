@@ -5,6 +5,7 @@ What sets this modpack apart from others:
 * Includes all the essential optimization and QoL mods for Hypixel SkyBlock
 * Pre-configured mods with all the necessary features without having 20 obtrusive overlays
 * Ready-to-go command macros/keybinds for almost every warp and menu in SkyBlock
+* Fully open source with frequent updates for all relevant versions
 * Optional resource packs that enhance the general experience
 
 Release Trailer: https://www.youtube.com/watch?v=plB94X265z4
@@ -24,7 +25,7 @@ command macros/keybinds. These run commands for Hypixel SkyBlock such as warps a
 and you can edit them if you want.
 TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
-⚙️ Mods & Features (43 mods)
+⚙️ Mods & Features (45 mods)
 
 🌎 Hypixel SkyBlock Mods:
 
@@ -34,15 +35,16 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 
 ⚡️ Performance Mods:
 
+* Async
 * AsyncParticles
 * Audio Engine Tweaks
 * BadOptimizations
 * Better Biome Reblend
 * Dynamic FPS
 * Entity Culling
+* Exordium
 * Fast IP Ping
 * FerriteCore
-* GPUBooster
 * ImmediatelyFast
 * Krypton
 * Ksyxis
@@ -50,6 +52,7 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * More Culling
 * ScalableLux
 * Sodium
+* Stfu
 * Very Many Players (Fabric)
 
 ❤️ QoL Mods:
@@ -123,7 +126,7 @@ Why did I randomly warp/trigger a command by tapping a random key?
 * These are known as command macros/keybinds. Type /firmament macros or tap the "Delete" key to open the config menu.
   You can assign any key and make it run any command you want to make warping/accessing menus easier!
 
-I have other questions/issues...
+I have other questions/feedback/issues...
 
 * Join the Discord and feel free to ping me so I can help!
 
