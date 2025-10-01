@@ -1078,6 +1078,61 @@
               "amount": 77,
               "lastChange": 0,
               "status": "CORRECT"
+            },
+            "BLAZE_ROD": {
+              "amount": 19001,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "BONE": {
+              "amount": 33965,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CHILI_PEPPER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENDER_PEARL": {
+              "amount": 51251,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GHAST_TEAR": {
+              "amount": 45,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SULPHUR": {
+              "amount": 3290,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MAGMA_CREAM": {
+              "amount": 11838,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ROTTEN_FLESH": {
+              "amount": 35681,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SLIME_BALL": {
+              "amount": 22655,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SPIDER_EYE": {
+              "amount": 9821,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "STRING": {
+              "amount": 30144,
+              "lastChange": 0,
+              "status": "CORRECT"
             }
           }
         },
