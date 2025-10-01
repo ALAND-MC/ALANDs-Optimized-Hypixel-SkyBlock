@@ -4,8 +4,8 @@
     "/cp": "/chat party",
     "/co": "/chat officer",
     "/d": "/warp dungeon_hub",
-    "/i": "/is",
     "/cg": "/chat guild",
+    "/i": "/is",
     "/ca": "/chat all",
     "/h": "/hub",
     "/s": "/skyblock",
@@ -14,7 +14,7 @@
   },
   "commandArgs": {
     "/v": "/visit",
-    "/m": "/msg",
-    "/pa": "/p accept"
+    "/pa": "/p accept",
+    "/m": "/msg"
   }
 }
