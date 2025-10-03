@@ -26,7 +26,7 @@ and you can edit them if you want.
 
 TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
-⚙️ Mods & Features (45 mods)
+⚙️ Mods & Features (45)
 
 🌎 Hypixel SkyBlock Mods:
 
@@ -85,7 +85,7 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Text Placeholder API
 * YetAnotherConfigLib (YACL)
 
-🖼️ Resource Packs
+🖼️ Resource Packs (6)
 
 * Hypixel Plus: Retextures SkyBlock items in a style faithful to vanilla
 * Furfsky Reborn: Retextures SkyBlock items in an artistic and themed style
@@ -129,7 +129,7 @@ Why did I randomly warp/trigger a command by tapping a random key?
 
 I have other questions/feedback/issues...
 
-* Join the Discord and feel free to ping me so I can help!
+* Join the Discord and feel free to ping me so I can help! Discord: https://discord.gg/J6E8PDdeZj
 
 ⭐️ Credits
 
