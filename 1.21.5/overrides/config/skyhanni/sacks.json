@@ -1080,12 +1080,12 @@
               "status": "CORRECT"
             },
             "BLAZE_ROD": {
-              "amount": 19001,
+              "amount": 20662,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "BONE": {
-              "amount": 33965,
+              "amount": 34197,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1095,12 +1095,12 @@
               "status": "CORRECT"
             },
             "ENDER_PEARL": {
-              "amount": 51251,
+              "amount": 52210,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GHAST_TEAR": {
-              "amount": 45,
+              "amount": 125,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1110,27 +1110,27 @@
               "status": "CORRECT"
             },
             "MAGMA_CREAM": {
-              "amount": 11838,
+              "amount": 11846,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ROTTEN_FLESH": {
-              "amount": 35681,
+              "amount": 35790,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SLIME_BALL": {
-              "amount": 22655,
+              "amount": 22706,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SPIDER_EYE": {
-              "amount": 9821,
+              "amount": 9989,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "STRING": {
-              "amount": 30144,
+              "amount": 30410,
               "lastChange": 0,
               "status": "CORRECT"
             }

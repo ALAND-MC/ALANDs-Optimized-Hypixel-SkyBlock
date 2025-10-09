@@ -78,7 +78,7 @@
     "backpackPreviewWithoutShift": true,
     "hideEmptyTooltips": true,
     "fancyCraftingTable": true,
-    "hideStatusEffectOverlay": false,
+    "hideStatusEffectOverlay": true,
     "showEquipmentInInventory": true,
     "cancelComponentUpdateAnimation": true,
     "showCustomizeButton": true,

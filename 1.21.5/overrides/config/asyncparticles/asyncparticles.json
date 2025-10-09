@@ -7,7 +7,7 @@
     "cullUnderwaterParticleType": true
   },
   "tick": {
-    "animationTickMode": "INTERRUPTIBLE",
+    "animationTickMode": "FORCE_COMPLETE",
     "particleTickMode": "INTERRUPTIBLE",
     "tickWeatherAsync": true,
     "failPerSecLimit": 5,

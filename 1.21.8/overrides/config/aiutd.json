@@ -1,0 +1,16 @@
+{
+  "menuAlert": true,
+  "chatAlert": true,
+  "localVersion": "1.1.0",
+  "versionAPI": "https://api.modrinth.com/v2/project/1LW7ibPy/version",
+  "changelogLink": "https://modrinth.com/modpack/alands-optimized-hypixel-skyblock/changelog",
+  "maxChecks": 5,
+  "multiVersion": false,
+  "multiLoaderBool": false,
+  "multiLoader": "FABRIC",
+  "useModpackName": false,
+  "modpackName": "Default",
+  "useCustomMessage": false,
+  "customMessage": "This is a custom message!",
+  "linkChangelog": true
+}
