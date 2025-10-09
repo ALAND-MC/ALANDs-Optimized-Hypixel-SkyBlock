@@ -26,7 +26,7 @@ and you can edit them if you want.
 
 TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it however you like!
 
-⚙️ Mods & Features (45)
+⚙️ Mods & Features (47)
 
 🌎 Hypixel SkyBlock Mods:
 
@@ -58,6 +58,7 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 
 ❤️ QoL Mods:
 
+* Am I Up To Date?: Checks for modpack updates
 * BetterF3: Makes the F3 menu more readable and customizable
 * Capes: Lets you use capes from OptiFine, LabyMod and other cape mods
 * Chat Patches: QoL changes and improvements to chat
@@ -82,16 +83,18 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Cloth Config API
 * Fabric API
 * Fabric Language Kotlin
+* MidnightLib
 * Text Placeholder API
 * YetAnotherConfigLib (YACL)
 
-🖼️ Resource Packs (6)
+🖼️ Resource Packs (7)
 
 * Hypixel Plus: Retextures SkyBlock items in a style faithful to vanilla
 * Furfsky Reborn: Retextures SkyBlock items in an artistic and themed style
 * FurfSky Legacy: Similar to the original, but brings back older textures of Hyperion and more
 * Stay True: Retextures the whole game in a faithful vanilla+ style
 * Skyblock Dark UI: Makes every menu dark so you don't get flashbanged
+* ALAND's Hypixel SkyBlock Enchanted Books: Gives Hypixel SkyBlock's enchanted books unique textures
 * Cookie Clicker Click Sound: Replaces the menu clicking sound with the one from Cookie Clicker
 
 ❓ FAQ
