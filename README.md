@@ -33,12 +33,12 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * SkyHanni: Broad list of QoL features (Garden, Chocolate Factory, Slayer, etc.)
 * Skyblocker: More QoL not in SkyHanni (Dungeons, Chat Filters, UI & Armor Customization, etc.)
 * Firmament: Small but neat QoL (Item List, Command Macros/Keybinds, NEU Textures, etc.)
+* SkyBlock Profile Viewer: Adds a /pv command to view player profiles like NEU
 
 ⚡️ Performance Mods:
 
 * Async
 * AsyncParticles
-* Audio Engine Tweaks
 * BadOptimizations
 * Better Biome Reblend
 * Dynamic FPS
@@ -87,13 +87,14 @@ TIP 3: Don't like a certain mod/feature/resource pack? Just delete/configure it 
 * Text Placeholder API
 * YetAnotherConfigLib (YACL)
 
-🖼️ Resource Packs (7)
+🖼️ Resource Packs (8)
 
 * Hypixel Plus: Retextures SkyBlock items in a style faithful to vanilla
 * Furfsky Reborn: Retextures SkyBlock items in an artistic and themed style
 * FurfSky Legacy: Similar to the original, but brings back older textures of Hyperion and more
 * Stay True: Retextures the whole game in a faithful vanilla+ style
 * Skyblock Dark UI: Makes every menu dark so you don't get flashbanged
+* SkyBlock Dark Mode: Makes The Mist, The End, Glacite Tunnels, and more places dark
 * ALAND's Hypixel SkyBlock Enchanted Books: Gives Hypixel SkyBlock's enchanted books unique textures
 * Cookie Clicker Click Sound: Replaces the menu clicking sound with the one from Cookie Clicker
 
