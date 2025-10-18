@@ -536,6 +536,22 @@
           "centerX": false,
           "centerY": true,
           "ignoreCustomScale": false
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
         }
       ]
     },
@@ -1176,6 +1192,8 @@
         "cooldownOverWarning": false,
         "repeatWarning": false,
         "cooldownWarningTime": 5,
+        "customCooldown": false,
+        "customCooldownTime": 135,
         "averagePestSpawnTimeout": 30,
         "pestSpawnChatMessage": false,
         "sound": {
@@ -1280,6 +1298,13 @@
       "display": false,
       "compactFormat": false,
       "hideMissingFortuneWarnings": false,
+      "showPestBonusFortune": false,
+      "bonusFortuneChat": true,
+      "bonusFortuneTitle": false,
+      "sound": {
+        "name": "fireworks.blast",
+        "pitch": 0.5
+      },
       "position": {
         "x": 5,
         "y": -180,
@@ -2021,7 +2046,7 @@
         "centerY": true,
         "ignoreCustomScale": false
       },
-      "levelStackSize": true,
+      "levelStackSize": false,
       "tokenStackSize": false,
       "powderSpent": false,
       "powderSpentDesign": "NUMBER_AND_PERCENTAGE",
@@ -2346,7 +2371,7 @@
         "centerY": true,
         "ignoreCustomScale": false
       },
-      "levelStackSize": true,
+      "levelStackSize": false,
       "tokenStackSize": false
     },
     "trees": {
@@ -2868,6 +2893,11 @@
       "enabled": true,
       "percent": 80,
       "repeat": false
+    },
+    "activeBossTransparency": {
+      "enabled": false,
+      "transparencyLevel": 35,
+      "applyToPlayers": false
     },
     "blockNotSpawnable": false,
     "slayerMinibossHighlight": false,
@@ -4435,7 +4465,7 @@
       "empty": true,
       "warping": false,
       "welcome": false,
-      "guildExp": true,
+      "guildEventExp": true,
       "friendJoinLeft": false,
       "winterGift": false,
       "killCombo": false,
@@ -4452,7 +4482,7 @@
       "hideAlphaAchievements": false,
       "parkour": false,
       "teleportPads": true,
-      "others": true
+      "others": false
     },
     "playerMessage": {
       "enable": false,
@@ -4706,6 +4736,10 @@
       }
     },
     "particleHiders": {
+      "blockBreakParticle": {
+        "hide": false,
+        "onlyInGarden": false
+      },
       "hideBlazeParticles": true,
       "hideEndermanParticles": true,
       "hideFireballParticles": true,
@@ -5000,7 +5034,7 @@
     "transparentTooltips": false,
     "hideExCoopMembers": false,
     "abiphoneAcceptKey": -1,
-    "fixDoubleClicks": true
+    "fixDoubleClicks": false
   },
   "dev": {
     "repo": {
@@ -5441,7 +5475,7 @@
                 "customGoalLevel": 0
               }
             },
-            "totalSkyBlockXP": 51915,
+            "totalSkyBlockXP": 51957,
             "crimsonIsleFaction": "MAGE",
             "ghostStorage": {
               "ghostTracker": {
@@ -5686,26 +5720,26 @@
             "chocolateFactory": {
               "currentRabbits": 512,
               "maxRabbits": 512,
-              "currentChocolate": 44908685497,
+              "currentChocolate": 30689123735,
               "maxChocolate": 60000000000,
-              "chocolateThisPrestige": 2174754220791,
-              "chocolateAllTime": 2221198574503,
+              "chocolateThisPrestige": 2210534659029,
+              "chocolateAllTime": 2256979012741,
               "rawChocPerSecond": 7741,
               "chocolateMultiplier": 7.248,
               "rawChocolateMultiplier": 5.748,
               "timeTowerLevel": 15,
-              "currentTimeTowerEnds": 1760007800922,
-              "nextTimeTower": 1760021990922,
+              "currentTimeTowerEnds": 0,
+              "nextTimeTower": 1760730737059,
               "currentTimeTowerUses": 1,
               "timeTowerCooldown": 8,
               "maxTimeTowerUses": 3,
               "bestUpgradeAvailableAt": 0,
               "bestUpgradeCost": 0,
-              "lastDataSave": 1760006567923,
+              "lastDataSave": 1760709482059,
               "positionChange": {
-                "lastTime": 1759866870266,
-                "lastPosition": 96,
-                "lastLeaderboard": "#96 §7Top §a0.001%"
+                "lastTime": 1760709478162,
+                "lastPosition": 99,
+                "lastLeaderboard": "#99 §7Top §a0.001%"
               },
               "rabbitCounts": {
                 "Ellie": 5,
@@ -5896,7 +5930,7 @@
                 "Dash": 9,
                 "Cajun": 3,
                 "Gee-Gee": 11,
-                "Iggy": 2,
+                "Iggy": 3,
                 "Oliver": 7,
                 "Arnie": 6,
                 "Prince": 5,
@@ -6190,7 +6224,7 @@
               },
               "residentRabbits": {},
               "hotspotRabbitStorage": {
-                "skyblockYear": 448,
+                "skyblockYear": 450,
                 "hotspotRabbits": {}
               },
               "hoppityShopYearOpened": 443,
@@ -6217,12 +6251,12 @@
               },
               "mealLastFound": {},
               "mealNextSpawn": {
-                "BREAKFAST": 1759867250000,
-                "BRUNCH": 1759868450000,
-                "LUNCH": 1759867600000,
-                "DEJEUNER": 1759868800000,
-                "DINNER": 1759867950000,
-                "SUPPER": 1759869150000
+                "BREAKFAST": 1760709650000,
+                "BRUNCH": 1760710850000,
+                "LUNCH": 1760710000000,
+                "DEJEUNER": 1760711200000,
+                "DINNER": 1760710350000,
+                "SUPPER": 1760711550000
               },
               "hotChocolateMixinExpiry": 1754493118935,
               "hitmanStats": {
@@ -7471,6 +7505,70 @@
                   "dupes": 0,
                   "strays": 0
                 }
+              },
+              "449": {
+                "mealsFound": {},
+                "rabbitsFound": {},
+                "dupeChocolateGained": 0,
+                "strayChocolateGained": 0,
+                "rabbitTheFishFinds": 0,
+                "millisInCf": 0,
+                "initialLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "finalLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "lastLbUpdate": 0,
+                "summarized": true,
+                "typeCountSnapshot": {
+                  "uniques": 434,
+                  "dupes": 1893,
+                  "strays": 18
+                },
+                "typeCountsSince": {
+                  "uniques": 0,
+                  "dupes": 0,
+                  "strays": 0
+                }
+              },
+              "450": {
+                "mealsFound": {
+                  "SUPPER": 1
+                },
+                "rabbitsFound": {
+                  "COMMON": {
+                    "uniques": 0,
+                    "dupes": 1,
+                    "strays": 0
+                  }
+                },
+                "dupeChocolateGained": 22286811,
+                "strayChocolateGained": 0,
+                "rabbitTheFishFinds": 0,
+                "millisInCf": 6000000000,
+                "initialLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "finalLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "lastLbUpdate": 0,
+                "summarized": false,
+                "typeCountSnapshot": {
+                  "uniques": 434,
+                  "dupes": 1894,
+                  "strays": 18
+                },
+                "typeCountsSince": {
+                  "uniques": 0,
+                  "dupes": 0,
+                  "strays": 0
+                }
               }
             },
             "hoppityStatLiveDisplayToggledOff": false,
@@ -8550,17 +8648,17 @@
                     "isUnlocked": true
                   },
                   "DEEP_WATERS": {
-                    "level": 1,
+                    "level": 18,
                     "enabled": true,
                     "isUnlocked": true
                   },
                   "EFFICIENT_FORAGER": {
-                    "level": 92,
+                    "level": 100,
                     "enabled": true,
                     "isUnlocked": true
                   },
                   "COLLECTOR": {
-                    "level": 11,
+                    "level": 38,
                     "enabled": true,
                     "isUnlocked": true
                   },
@@ -8671,11 +8769,11 @@
                   }
                 }
               },
-              "tokens": 63981,
+              "tokens": 64086,
               "availableTokens": 0,
               "whispers": {
-                "available": 130668,
-                "total": 27672098
+                "available": 4628,
+                "total": 29189244
               },
               "trackerData": {
                 "treesCut": {
@@ -9056,16 +9154,16 @@
               },
               "powder": {
                 "MITHRIL": {
-                  "available": 13666309,
-                  "total": 24728152
+                  "available": 24740629,
+                  "total": 35802472
                 },
                 "GEMSTONE": {
-                  "available": 19898865,
-                  "total": 46445687
+                  "available": 46471186,
+                  "total": 73018008
                 },
                 "GLACITE": {
-                  "available": 5198330,
-                  "total": 29263832
+                  "available": 29269543,
+                  "total": 53335045
                 }
               },
               "tokens": 6786,
@@ -9345,9 +9443,15 @@
                 "gainPerBoss": -1,
                 "goalNeeded": -1,
                 "itemGoal": "?"
+              },
+              "Blaze Slayer": {
+                "currentMeter": -1,
+                "gainPerBoss": -1,
+                "goalNeeded": -1,
+                "itemGoal": "?"
               }
             },
-            "currentPetUuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7",
+            "currentPetUuid": "50dc765b-bdaa-4993-934f-3bf11d407909",
             "stats": {
               "HEALTH": 5310.05,
               "DEFENSE": 939.46,
@@ -9360,10 +9464,10 @@
               "TREASURE_CHANCE": 5.2,
               "HEAT_RESISTANCE": 31.0,
               "FEROCITY": 52.0,
-              "MINING_SPEED": 3465.0,
+              "MINING_SPEED": 1085.0,
               "MINING_SPREAD": 300.0,
-              "PRISTINE": 2.0,
-              "MINING_FORTUNE": 574.0,
+              "PRISTINE": 1.0,
+              "MINING_FORTUNE": 374.0,
               "FORAGING_FORTUNE": 874.0,
               "FARMING_FORTUNE": 1057.0,
               "HEALTH_REGEN": 309.5,
@@ -9406,8 +9510,8 @@
               "HUNTING_WISDOM": 38.0,
               "PULL": 0.0,
               "PRESSURE_RESISTANCE": 111.0,
-              "RIFT_DAMAGE": 43.0,
-              "MANA_REGEN": 149.0,
+              "RIFT_DAMAGE": 29.0,
+              "MANA_REGEN": 145.0,
               "BREAKING_POWER": 0.0
             },
             "maxwell": {
@@ -9438,8 +9542,8 @@
               }
             },
             "bits": {
-              "bits": 699697,
-              "bitsAvailable": 145972,
+              "bits": 756806,
+              "bitsAvailable": 88863,
               "boosterCookieExpiryTime": 1773447221636,
               "museumMilestone": 29
             },
@@ -9464,7 +9568,7 @@
               "found": {}
             },
             "cakeCounterData": {
-              "cakesEaten": 7616,
+              "cakesEaten": 7918,
               "soulsFound": 10
             },
             "attributeShards": {
@@ -12623,6 +12727,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 106,
+  "lastVersion": 107,
   "lastMinecraftVersion": "1.21.8"
 }

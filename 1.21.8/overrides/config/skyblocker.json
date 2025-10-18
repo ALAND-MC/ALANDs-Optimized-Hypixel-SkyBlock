@@ -95,7 +95,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
-        "enchantment_level": true,
+        "enchantment_level": false,
         "skyblock_guide": true,
         "power_stones_guide": false
       },

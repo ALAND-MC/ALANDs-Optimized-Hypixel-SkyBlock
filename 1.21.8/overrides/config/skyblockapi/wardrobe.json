@@ -1,0 +1,192 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "currentSlot": -1,
+        "slots": [
+          {
+            "id": 1,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 2,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 3,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 4,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 5,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 6,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 7,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 8,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 9,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 10,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 11,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 12,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 13,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 14,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 15,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 16,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 17,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 18,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          }
+        ]
+      }
+    }
+  }
+}

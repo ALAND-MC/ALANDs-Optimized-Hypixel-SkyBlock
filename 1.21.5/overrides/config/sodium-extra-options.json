@@ -15,7 +15,7 @@
     "block_breaking": false,
     "other": {
       "minecraft:portal": false,
-      "minecraft:angry_villager": false,
+      "minecraft:angry_villager": true,
       "minecraft:ash": false,
       "minecraft:block": false,
       "minecraft:block_crumble": false,
@@ -69,7 +69,7 @@
       "minecraft:gust": false,
       "minecraft:gust_emitter_large": false,
       "minecraft:gust_emitter_small": false,
-      "minecraft:happy_villager": false,
+      "minecraft:happy_villager": true,
       "minecraft:heart": false,
       "minecraft:infested": false,
       "minecraft:instant_effect": false,
@@ -86,7 +86,7 @@
       "minecraft:note": false,
       "minecraft:ominous_spawning": false,
       "minecraft:pale_oak_leaves": false,
-      "minecraft:poof": false,
+      "minecraft:poof": true,
       "minecraft:raid_omen": false,
       "minecraft:rain": false,
       "minecraft:reverse_portal": false,
@@ -124,7 +124,8 @@
       "minecraft:witch": false,
       "minecraft:smoke": true,
       "minecraft:large_smoke": false,
-      "minecraft:dust": false
+      "minecraft:dust": false,
+      "minecraft:cloud": false
     }
   },
   "detail_settings": {

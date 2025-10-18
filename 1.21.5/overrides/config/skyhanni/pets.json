@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.058428764518009E7,
+              "exp": 4.0613674746939704E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -27,7 +27,7 @@
               "petInternalName": "ENDERMAN;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
-              "exp": 2.1619881853318733E8,
+              "exp": 2.162205905620668E8,
               "uuid": "33c65214-b8cd-4207-a820-08020d5302a2"
             },
             {
@@ -41,7 +41,7 @@
               "petInternalName": "FLYING_FISH;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 3.0070717565845346E8,
+              "exp": 3.0076571716048664E8,
               "uuid": "039672f1-b74a-47f4-ab53-aec5f59722ad"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.160329138878706E8,
+              "exp": 2.167271418106961E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -158,7 +158,7 @@
               "petInternalName": "BLUE_WHALE;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 3.917869047329513E7,
+              "exp": 3.917885795670353E7,
               "uuid": "abcc1ac6-db6a-4b8a-86fe-fff83ca7ff40"
             },
             {
@@ -249,7 +249,7 @@
               "petInternalName": "HEDGEHOG;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 5.448731340736399E7,
+              "exp": 5.4709933E7,
               "uuid": "8996cd10-99d2-44eb-b90e-97542c21ab8a"
             },
             {
@@ -394,7 +394,7 @@
               "petInternalName": "SCATHA;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.0868025768913573E8,
+              "exp": 3.08718657E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.40857455E8,
+              "exp": 2.5679235947176737E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {

@@ -1,0 +1,18 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "sbLevelProgress": {
+        "Pear": 57
+      },
+      "coop": {},
+      "profileType": {
+        "Pear": "NORMAL",
+        "raeP": "NORMAL"
+      },
+      "sbLevel": {
+        "Pear": 519
+      }
+    }
+  }
+}

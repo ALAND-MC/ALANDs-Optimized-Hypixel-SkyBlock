@@ -1,0 +1,11 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "boosterCookieExpireTime": 1773165598704,
+        "godPotionDuration": 54000000
+      }
+    }
+  }
+}

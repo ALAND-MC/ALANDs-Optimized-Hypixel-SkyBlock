@@ -1,0 +1,119 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "data": {
+          "BLOBFISH": {
+            "BRONZE": 20974,
+            "SILVER": 7969,
+            "GOLD": 691,
+            "DIAMOND": 89
+          },
+          "LAVA_HORSE": {
+            "BRONZE": 6184,
+            "SILVER": 2322,
+            "GOLD": 214,
+            "DIAMOND": 25
+          },
+          "VOLCANIC_STONEFISH": {
+            "BRONZE": 380,
+            "SILVER": 122,
+            "GOLD": 6,
+            "DIAMOND": 1
+          },
+          "MANA_RAY": {
+            "BRONZE": 2011,
+            "GOLD": 80,
+            "SILVER": 746,
+            "DIAMOND": 5
+          },
+          "GUSHER": {
+            "SILVER": 6711,
+            "GOLD": 569,
+            "BRONZE": 17932,
+            "DIAMOND": 58
+          },
+          "GOLDEN_FISH": {
+            "BRONZE": 930,
+            "SILVER": 351,
+            "GOLD": 21,
+            "DIAMOND": 2
+          },
+          "FLYFISH": {
+            "BRONZE": 357,
+            "SILVER": 143,
+            "GOLD": 11,
+            "DIAMOND": 1
+          },
+          "MOLDFIN": {
+            "SILVER": 745,
+            "BRONZE": 1932,
+            "GOLD": 82,
+            "DIAMOND": 1
+          },
+          "OBFUSCATED_ONE": {
+            "BRONZE": 3225,
+            "SILVER": 1099,
+            "GOLD": 105,
+            "DIAMOND": 11
+          },
+          "OBFUSCATED_TWO": {
+            "BRONZE": 371,
+            "SILVER": 125,
+            "GOLD": 10,
+            "DIAMOND": 2
+          },
+          "STEAMING_HOT_FLOUNDER": {
+            "BRONZE": 381,
+            "SILVER": 145,
+            "GOLD": 12,
+            "DIAMOND": 1
+          },
+          "SULPHUR_SKITTER": {
+            "BRONZE": 741,
+            "SILVER": 260,
+            "GOLD": 17,
+            "DIAMOND": 1
+          },
+          "SKELETON_FISH": {
+            "BRONZE": 571,
+            "SILVER": 220,
+            "GOLD": 11,
+            "DIAMOND": 1
+          },
+          "SOUL_FISH": {
+            "BRONZE": 331,
+            "SILVER": 123,
+            "GOLD": 6,
+            "DIAMOND": 1
+          },
+          "KARATE_FISH": {
+            "BRONZE": 80,
+            "SILVER": 23,
+            "GOLD": 3,
+            "DIAMOND": 1
+          },
+          "OBFUSCATED_THREE": {
+            "SILVER": 90,
+            "BRONZE": 200,
+            "GOLD": 7,
+            "DIAMOND": 1
+          },
+          "SLUGFISH": {
+            "BRONZE": 693,
+            "SILVER": 238,
+            "GOLD": 22,
+            "DIAMOND": 1
+          },
+          "VANILLE": {
+            "BRONZE": 598,
+            "SILVER": 228,
+            "GOLD": 27,
+            "DIAMOND": 1
+          }
+        }
+      }
+    }
+  }
+}

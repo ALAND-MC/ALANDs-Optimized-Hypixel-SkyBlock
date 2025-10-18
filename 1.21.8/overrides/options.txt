@@ -49,12 +49,12 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.2112676056338028
-damageTiltStrength:1.0
+damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/§6Furf§0Sky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.5 for 1.21.5+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lCC Click Sound §e§l1.21.8.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§0Sky §5LEGACY §f§lOVERLAY§r 1.21.5.zip"]
+resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/§6Furf§0Sky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dark SkyBlock.zip","file/Skyblock Dark UI 1.5 for 1.21.5+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lCC Click Sound §e§l1.21.8.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§0Sky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dark SkyBlock.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -134,27 +134,6 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_options.narrator_hotkey:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
-key_firmament.config.power-user.copy-item-id:key.keyboard.unknown
-key_firmament.config.power-user.copy-texture-pack-id:key.keyboard.unknown
-key_firmament.config.power-user.copy-nbt-data:key.keyboard.unknown
-key_firmament.config.power-user.copy-lore:key.keyboard.unknown
-key_firmament.config.power-user.copy-skull-texture:key.keyboard.unknown
-key_firmament.config.power-user.entity-data:key.keyboard.unknown
-key_firmament.config.power-user.copy-item-stack:key.keyboard.unknown
-key_firmament.config.power-user.copy-title:key.keyboard.unknown
-key_firmament.config.power-user.export-item-stack:key.keyboard.unknown
-key_firmament.config.power-user.export-recipe:key.keyboard.unknown
-key_firmament.config.power-user.export-npc-location:key.keyboard.unknown
-key_firmament.config.diana.ancestral-teleport:key.keyboard.unknown
-key_firmament.config.fixes.auto-sprint-keybinding:key.keyboard.unknown
-key_firmament.config.fixes.peek-chat:key.keyboard.unknown
-key_firmament.config.item-hotkeys.global-trade-interface:key.keyboard.unknown
-key_firmament.config.junk-highlighter.highlight:key.keyboard.unknown
-key_firmament.config.price-data.enable-keybind:key.keyboard.unknown
-key_firmament.config.price-data.stack-size-keybind:key.keyboard.unknown
-key_firmament.config.slot-locking.lock:key.keyboard.unknown
-key_firmament.config.slot-locking.lock-uuid:key.keyboard.unknown
-key_firmament.config.slot-locking.bind:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.change-page:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.next-page:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.previous-page:key.keyboard.unknown
@@ -167,7 +146,29 @@ key_firmament.config.wardrobe-keybinds.slot-6:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-7:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-8:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-9:key.keyboard.unknown
+key_firmament.config.fixes.auto-sprint-keybinding:key.keyboard.unknown
+key_firmament.config.fixes.peek-chat:key.keyboard.unknown
+key_firmament.config.diana.ancestral-teleport:key.keyboard.unknown
+key_firmament.config.slot-locking.lock:key.keyboard.unknown
+key_firmament.config.slot-locking.lock-uuid:key.keyboard.unknown
+key_firmament.config.slot-locking.bind:key.keyboard.unknown
+key_firmament.config.junk-highlighter.highlight:key.keyboard.unknown
+key_firmament.config.price-data.enable-keybind:key.keyboard.unknown
+key_firmament.config.price-data.stack-size-keybind:key.keyboard.unknown
+key_firmament.config.item-hotkeys.global-trade-interface:key.keyboard.unknown
 key_firmament.config.block-zapper-overlay.undo-key:key.keyboard.unknown
+key_firmament.config.power-user.copy-item-id:key.keyboard.unknown
+key_firmament.config.power-user.copy-texture-pack-id:key.keyboard.unknown
+key_firmament.config.power-user.copy-nbt-data:key.keyboard.unknown
+key_firmament.config.power-user.copy-lore:key.keyboard.unknown
+key_firmament.config.power-user.copy-skull-texture:key.keyboard.unknown
+key_firmament.config.power-user.entity-data:key.keyboard.unknown
+key_firmament.config.power-user.copy-item-stack:key.keyboard.unknown
+key_firmament.config.power-user.copy-title:key.keyboard.unknown
+key_firmament.config.power-user.export-item-stack:key.keyboard.unknown
+key_firmament.config.power-user.export-recipe:key.keyboard.unknown
+key_firmament.config.power-user.export-npc-location:key.keyboard.unknown
+key_firmament.config.power-user.slot-numbers:key.keyboard.unknown
 key_key.jarvis.open-gui-editor:key.keyboard.unknown
 key_key.tooltipscroll.moveUp:key.keyboard.unknown
 key_key.tooltipscroll.moveDown:key.keyboard.unknown
