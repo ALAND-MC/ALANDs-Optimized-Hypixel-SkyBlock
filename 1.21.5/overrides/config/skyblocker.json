@@ -56,7 +56,6 @@
       "rareDyeDropEffects": true
     },
     "hitbox": {
-      "oldFarmlandHitbox": false,
       "oldLeverHitbox": false,
       "oldMushroomHitbox": false
     },
@@ -92,6 +91,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
+        "rancher_boots": false,
         "enchantment_level": false,
         "skyblock_guide": true,
         "power_stones_guide": false
@@ -162,14 +162,14 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "❂ Fine Opal Gemstone",
-        "Smoldering I",
-        "Smoldering V"
+        "Fermento",
+        "Moby-Duck: Collector\u0027s Edition",
+        "Spotlite"
       ],
       "auctionHistory": [
-        "deathr",
-        "Pyrochaos Dagger",
-        "Hyperion"
+        "Cicada Symphony Vinyl",
+        "Discrite",
+        "Moby-Duck"
       ]
     },
     "bazaarQuickQuantities": {
@@ -218,7 +218,7 @@
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
     "enableWardrobeHelper": true,
-    "enableDateCalculator": false,
+    "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
     "mythologicalRitual": {
       "enableMythologicalRitualHelper": false
@@ -476,12 +476,12 @@
       "powderTrackerFilter": []
     },
     "crystalsHud": {
-      "enabled": false,
-      "showLocations": false,
+      "enabled": true,
+      "showLocations": true,
       "locationSize": 8,
       "x": 10,
       "y": 130,
-      "mapScaling": 1.0
+      "mapScaling": 1.5
     },
     "crystalsWaypoints": {
       "enabled": false,

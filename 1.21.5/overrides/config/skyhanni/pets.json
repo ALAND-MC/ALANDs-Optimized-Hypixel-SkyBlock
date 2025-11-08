@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.0613674746939704E7,
+              "exp": 4.0628711E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.5679235947176737E8,
+              "exp": 2.66411199E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -563,6 +563,10 @@
           "expSharePets": []
         },
         "papaya": {
+          "pets": [],
+          "expSharePets": []
+        },
+        "cucumber": {
           "pets": [],
           "expSharePets": []
         }

@@ -58,7 +58,7 @@
       "rareDyeDropEffects": true
     },
     "hitbox": {
-      "oldFarmlandHitbox": false,
+      "oldCactusHitbox": false,
       "oldLeverHitbox": false,
       "oldMushroomHitbox": false
     },
@@ -68,7 +68,11 @@
     "customDyeColors": {},
     "customArmorTrims": {},
     "customAnimatedDyes": {},
-    "customHelmetTextures": {}
+    "customHelmetTextures": {},
+    "customGlint": {},
+    "customItemModel": {},
+    "customArmorModel": {},
+    "customAnimatedHelmetTextures": {}
   },
   "uiAndVisuals": {
     "swingOnAbilities": false,
@@ -83,6 +87,7 @@
     "cancelComponentUpdateAnimation": true,
     "showCustomizeButton": true,
     "showConfigButton": false,
+    "trueQuiverCount": true,
     "chestValue": {
       "enableChestValue": false,
       "color": "DARK_GREEN",
@@ -95,6 +100,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
+        "rancher_boots": false,
         "enchantment_level": false,
         "skyblock_guide": true,
         "power_stones_guide": false
@@ -118,9 +124,12 @@
       "tabHudScale": 100,
       "showVanillaTabByDefault": false,
       "style": "FANCY",
+      "displayIcons": true,
+      "compactWidgets": false,
       "enableHudBackground": true,
       "effectsFromFooter": false,
-      "defaultPositioning": "CENTERED"
+      "defaultPositioning": "CENTERED",
+      "nameSorting": "DEFAULT"
     },
     "fancyAuctionHouse": {
       "enabled": false,
@@ -138,7 +147,8 @@
     },
     "waypoints": {
       "enableWaypoints": false,
-      "waypointType": "WAYPOINT"
+      "waypointType": "WAYPOINT",
+      "enableChatWaypoints": true
     },
     "teleportOverlay": {
       "enableTeleportOverlays": false,
@@ -151,6 +161,7 @@
       "enableWitherImpact": false
     },
     "smoothAOTE": {
+      "predictive": false,
       "enableWeirdTransmission": false,
       "enableInstantTransmission": false,
       "enableEtherTransmission": false,
@@ -161,6 +172,7 @@
     "searchOverlay": {
       "enableBazaar": true,
       "enableAuctionHouse": true,
+      "enableMuseum": true,
       "keepPreviousSearches": false,
       "maxSuggestions": 3,
       "historyLength": 3,
@@ -174,7 +186,8 @@
         "deathr",
         "Pyrochaos Dagger",
         "Hyperion"
-      ]
+      ],
+      "museumHistory": []
     },
     "bazaarQuickQuantities": {
       "enabled": false,
@@ -226,8 +239,9 @@
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
     "enableWardrobeHelper": true,
-    "enableDateCalculator": false,
+    "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
+    "enableBuildersWandPreview": true,
     "mythologicalRitual": {
       "enableMythologicalRitualHelper": false
     },
@@ -298,17 +312,22 @@
     },
     "bazaar": {
       "enableBazaarHelper": false,
-      "enableReorderHelper": false
+      "enableReorderHelper": false,
+      "enableOrderTracker": true
     },
     "itemPrice": {
       "enableItemPriceLookup": false,
       "enableItemPriceRefresh": false
+    },
+    "greatSpookEvent": {
+      "enableMathTeacherHelper": true
     }
   },
   "dungeons": {
     "fancyPartyFinder": true,
     "croesusHelper": true,
     "salvageHelper": false,
+    "onlyHighlightDonatedItems": false,
     "sellableItemsHighlighter": false,
     "bloodCampHelper": false,
     "playerSecretsTracker": false,
@@ -371,7 +390,9 @@
     },
     "devices": {
       "solveSimonSays": true,
-      "solveLightsOn": true
+      "solveLightsOn": true,
+      "solveArrowAlign": true,
+      "solveTargetPractice": true
     },
     "goldor": {
       "enableGoldorWaypoints": false,
@@ -477,6 +498,9 @@
   },
   "mining": {
     "enableDrillFuel": false,
+    "commissionHighlight": false,
+    "callMismyla": true,
+    "redialOnBadSignal": true,
     "dwarvenMines": {
       "solveFetchur": true,
       "solvePuzzler": true,
@@ -493,12 +517,12 @@
       "powderTrackerFilter": []
     },
     "crystalsHud": {
-      "enabled": false,
-      "showLocations": false,
+      "enabled": true,
+      "showLocations": true,
       "locationSize": 8,
       "x": 10,
       "y": 130,
-      "mapScaling": 1.0
+      "mapScaling": 1.5
     },
     "crystalsWaypoints": {
       "enabled": false,
@@ -510,7 +534,8 @@
       "mode": "OFF",
       "useColor": false,
       "showBaseCamp": false,
-      "showEmissary": false
+      "showEmissary": false,
+      "hideEmissaryOnPigeon": true
     },
     "glacite": {
       "coldOverlay": false,
@@ -518,9 +543,9 @@
       "enableCorpseFinder": false,
       "enableParsingChatCorpseFinder": false,
       "autoShareCorpses": false,
-      "enableCorpseProfitTracker": false
-    },
-    "commissionHighlight": false
+      "enableCorpseProfitTracker": false,
+      "forceEnglishCorpseProfitTracker": true
+    }
   },
   "farming": {
     "garden": {
@@ -550,14 +575,23 @@
     },
     "huntingMobs": {
       "silencePhantoms": false,
-      "highlightHideonleaf": false
+      "highlightHideonleaf": false,
+      "hideonleafGlowColor": -256,
+      "highlightShellwise": false,
+      "shellwiseGlowColor": -38881,
+      "highlightCoralot": false,
+      "coralotGlowColor": -16776961
+    },
+    "lassoHud": {
+      "enabled": true
     }
   },
   "otherLocations": {
     "barn": {
       "enableGlowingMushroomHelper": true,
       "solveHungryHiker": false,
-      "solveTreasureHunter": false
+      "solveTreasureHunter": false,
+      "enableCallTrevorMessage": true
     },
     "rift": {
       "mirrorverseWaypoints": false,
@@ -568,6 +602,7 @@
     },
     "end": {
       "enableEnderNodeHelper": false,
+      "enderNodeWaypointType": "OUTLINED_HIGHLIGHT",
       "hudEnabled": false,
       "zealotKillsEnabled": false,
       "protectorLocationEnabled": false,
@@ -591,6 +626,10 @@
     "miniBossSpawnAlert": false,
     "slainTime": false,
     "enableHud": false,
+    "callMaddox": {
+      "sendMessageOnFail": true,
+      "sendMessageOnKill": false
+    },
     "endermanSlayer": {
       "enableYangGlyphsNotification": false,
       "highlightBeacons": false,
@@ -644,6 +683,7 @@
     "enableQuickNav": true,
     "button1": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:diamond_sword",
         "count": 1,
@@ -655,6 +695,7 @@
     },
     "button2": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:painting",
         "count": 1,
@@ -666,6 +707,7 @@
     },
     "button3": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:bone",
         "count": 1,
@@ -677,6 +719,7 @@
     },
     "button4": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:leather_chestplate",
         "count": 1,
@@ -688,6 +731,7 @@
     },
     "button5": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -699,6 +743,7 @@
     },
     "button6": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -710,6 +755,7 @@
     },
     "button7": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:chest",
         "count": 1,
@@ -721,6 +767,7 @@
     },
     "button8": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -732,6 +779,7 @@
     },
     "button9": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -743,6 +791,7 @@
     },
     "button10": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -754,6 +803,7 @@
     },
     "button11": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -765,6 +815,7 @@
     },
     "button12": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:gold_block",
         "count": 1,
@@ -776,6 +827,7 @@
     },
     "button13": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,
@@ -787,6 +839,7 @@
     },
     "button14": {
       "render": true,
+      "doubleClick": false,
       "itemData": {
         "item": "minecraft:player_head",
         "count": 1,

@@ -10,7 +10,7 @@
             "disabled": false
           },
           "Deep Waters": {
-            "level": 18,
+            "level": 35,
             "unlocked": true,
             "disabled": false
           },
@@ -51,8 +51,8 @@
           }
         },
         "tokens": 0,
-        "forest": 4628,
-        "forestTotal": 29189244
+        "forest": 1099322,
+        "forestTotal": 32256206
       }
     }
   }

@@ -1515,11 +1515,6 @@
             "lastUpdated": 1760707222130
           },
           {
-            "id": "FINE_FLOUR",
-            "amount": 5,
-            "lastUpdated": 1760707222130
-          },
-          {
             "id": "ENCHANTED_GOLD_BLOCK",
             "amount": 2298,
             "lastUpdated": 1760707222130
@@ -1840,11 +1835,6 @@
             "lastUpdated": 1760709025057
           },
           {
-            "id": "COMPOST",
-            "amount": 3604,
-            "lastUpdated": 1760709025058
-          },
-          {
             "id": "DARK_CANDY",
             "amount": 10,
             "lastUpdated": 1760709025058
@@ -1855,28 +1845,8 @@
             "lastUpdated": 1760709025058
           },
           {
-            "id": "HONEY_JAR",
-            "amount": 318,
-            "lastUpdated": 1760709025058
-          },
-          {
-            "id": "PLANT_MATTER",
-            "amount": 473,
-            "lastUpdated": 1760709025058
-          },
-          {
-            "id": "CHEESE_FUEL",
-            "amount": 1033,
-            "lastUpdated": 1760709025058
-          },
-          {
             "id": "ENCHANTED_RED_MUSHROOM",
             "amount": 23334,
-            "lastUpdated": 1760709025060
-          },
-          {
-            "id": "DUNG",
-            "amount": 369,
             "lastUpdated": 1760709025060
           },
           {
@@ -1888,6 +1858,36 @@
             "id": "UMBER",
             "amount": 11674,
             "lastUpdated": 1760709025060
+          },
+          {
+            "id": "COMPOST",
+            "amount": 3623,
+            "lastUpdated": 1762514731261
+          },
+          {
+            "id": "DUNG",
+            "amount": 390,
+            "lastUpdated": 1762514731262
+          },
+          {
+            "id": "FINE_FLOUR",
+            "amount": 54,
+            "lastUpdated": 1762514731262
+          },
+          {
+            "id": "HONEY_JAR",
+            "amount": 342,
+            "lastUpdated": 1762514731262
+          },
+          {
+            "id": "PLANT_MATTER",
+            "amount": 497,
+            "lastUpdated": 1762514731262
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "amount": 922,
+            "lastUpdated": 1762514731263
           }
         ]
       }

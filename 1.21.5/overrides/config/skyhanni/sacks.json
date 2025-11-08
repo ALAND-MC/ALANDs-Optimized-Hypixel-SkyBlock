@@ -1133,6 +1133,46 @@
               "amount": 30410,
               "lastChange": 0,
               "status": "CORRECT"
+            },
+            "COMPOST": {
+              "amount": 3623,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CROPIE": {
+              "amount": 1240,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DUNG": {
+              "amount": 390,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FINE_FLOUR": {
+              "amount": 54,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HONEY_JAR": {
+              "amount": 342,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "PLANT_MATTER": {
+              "amount": 497,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SQUASH": {
+              "amount": 203,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CHEESE_FUEL": {
+              "amount": 922,
+              "lastChange": 0,
+              "status": "CORRECT"
             }
           }
         },

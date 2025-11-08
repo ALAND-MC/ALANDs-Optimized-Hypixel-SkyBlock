@@ -1,0 +1,27 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "players": {
+      "fe2378c5-fdfe-4590-8c13-7dc667461b95": {
+        "name": "Stone11",
+        "time": 1761916141487
+      },
+      "38abcd4d-cb75-4c7d-98c0-07019146a874": {
+        "name": "_Not_56ms",
+        "time": 1761916072023
+      },
+      "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+        "name": "ALAND_",
+        "time": 1761916279115
+      },
+      "6b46e21f-daf2-4cd6-8af5-a0844fa7119d": {
+        "name": "Yosuf1",
+        "time": 1761916273815
+      },
+      "8726bc46-af52-4d4b-875e-f7f4cc89dbd2": {
+        "name": "_ZARD_",
+        "time": 1761916044524
+      }
+    }
+  }
+}

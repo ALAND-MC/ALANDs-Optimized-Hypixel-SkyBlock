@@ -50,8 +50,8 @@
         },
         {
           "pest": {
-            "pest": 0,
-            "inaccurate": false
+            "pest": 2,
+            "inaccurate": true
           },
           "locked": false,
           "id": 22,
@@ -74,6 +74,51 @@
           "locked": false,
           "id": 1,
           "name": "1"
+        },
+        {
+          "pest": {
+            "pest": 2,
+            "inaccurate": true
+          },
+          "locked": false,
+          "id": 2,
+          "name": "2"
+        },
+        {
+          "pest": {
+            "pest": 2,
+            "inaccurate": true
+          },
+          "locked": false,
+          "id": 3,
+          "name": "3"
+        },
+        {
+          "pest": {
+            "pest": 2,
+            "inaccurate": true
+          },
+          "locked": false,
+          "id": 7,
+          "name": "7"
+        },
+        {
+          "pest": {
+            "pest": 2,
+            "inaccurate": true
+          },
+          "locked": false,
+          "id": 8,
+          "name": "8"
+        },
+        {
+          "pest": {
+            "pest": 2,
+            "inaccurate": true
+          },
+          "locked": false,
+          "id": 21,
+          "name": "21"
         }
       ]
     }

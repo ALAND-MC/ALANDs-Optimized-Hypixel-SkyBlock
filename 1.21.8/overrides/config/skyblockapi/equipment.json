@@ -1,0 +1,1026 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "slots": {
+          "NECKLACE": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Mangrove Locket",
+                    "color": "blue"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Vitality: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4",
+                      "color": "dark_red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sweep: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3 ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "(+2)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5 ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "(+0.5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Boosters: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "⸙",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "ꕮ",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "⎋",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Quantum V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4♨ Vitality ",
+                      "color": "dark_red"
+                    },
+                    {
+                      "text": "on weekdays and",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+2☯ ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "of a random ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Wisdom ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "stat on",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "weekends.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "RARE NECKLACE",
+                      "bold": true,
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  520129544,
+                  -1237109779,
+                  -1266876645,
+                  -531984619
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjMyOTg1NSwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYzNjlkYTNhN2Q2MWNmMGFkNzkxM2E3ODRkMGUyYTkwMWUwNDJmZTBmNzE3ZjI5ZTY2NWJhNjlkNzYwNGVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                    "signature": "CxPbWdqgmr7/BEuiGHQUo8kqsLuMVXYCL/U0+K0rK9gNwZbO044HcrYS2fOKj7J5Yun8YSXoyJEnv3sB3jWSPrUsow0h+lUWhcZoqd2xckaq7E0fMePUSnI6xqW8384srLmsB2Qs5QMtI3I7sbmKK4IW1EJg0evYbtpu5Smi6sZlRK7yJdkqaTAkgZJCxAStvVrj/kr8bKiA6moge91uexIl6WTbHWCzYqfuRHHs5dxiglIcauJM8Yodv5sM8V3dRPGU3U7n3FQ56d0/96NE0iD39IcEqY1MtWotIvH49WEc/7QWnfxx79GGNZ/Yy+8yJp1J3r9ssoUbPhQ6VdWWzMX3mqwgj/3vSqBiMHNr7FGJAloaekmFmo1nKTeDabsfr2PhSyW28MbN4/JSKN1Ws95ITV9D4RaGhkQwsCiyay1Vs6Trk+dH8Kql6hSGyd/w+loOmxyBXSvM/kHWUT6wy6Ch1FIHyozKM6T1zYr6MKLkEp73t4anH44dLCgLEO2J+iTYk26yxWTUXMH4I7oLTwPl8yr8TNuaBdT6bHmVOML0I9ujg1/4FUR4p4m0vxFkpU1sU1dp5Ig6zMFpLta2WxdnGGLowHDdwV0C3/qHnMnnf4o86CEgM9knO6vLW6I0KmAMLH5skI1mCuqSbX57Y8ejDJhjDy/PYVaHFfCRUq0\u003d"
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "enchantments": {
+                  "quantum": 5
+                },
+                "timestamp": 1750839377334,
+                "id": "MANGROVE_LOCKET",
+                "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
+                "donated_museum": 1,
+                "boosters": [
+                  "foraging_wisdom",
+                  "foraging_fortune",
+                  "sweep"
+                ]
+              }
+            }
+          },
+          "CLOAK": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Strengthened David\u0027s Cloak",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Health: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+100",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Defense: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10 ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "(+10)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "True Defense: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+13",
+                      "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Strength: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+57 ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "(+7)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sweep: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+102 ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "(+2)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+55 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Hunter Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+30",
+                      "color": "light_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Magic Find: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+2",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5.5 ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "(+0.5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Hunting Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Boosters: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "⸙",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "ꕮ",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "⎋",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "The more you Hunt, the stronger this",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "cloak gets!",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Talk to ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "David ",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "to view your progress!",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MYTHIC CLOAK",
+                      "bold": true,
+                      "color": "light_purple"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  1126569235,
+                  -1085194983,
+                  -1979055533,
+                  1134457348
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjI1MzkwNCwKICAicHJvZmlsZUlkIiA6ICI4ZTFjZTM2ZGE2Mzk0ZjgwOTFmZjZjYTZiZTNhZTA5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWxsY3JlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OTIzZjM3YTBlN2M2MTJjZmQ0MDhlYzNkMTNhNzVkMDlhMmRiYjM5NTJjMWJhY2JjMzU4MDc0NDMyOGEyYjgzIgogICAgfQogIH0KfQ\u003d\u003d",
+                    "signature": "CUuZcP0cXPm2S5Rzeh+0r1DBbDSmBjWb+SV09MvO6Y7ENoFO4+icEevQbQre8y7g7S0HPY4TjF17ZjNH3GC1J2e13Xtmsc8q9zW+SDTXuEBQhk5lUUptfgasL5lru/0Z/Uair2sExXD2MsBtKuUYP7QBzUy/KrQBgoLY4j9iEgt9dFZDC5+sA4pIdO/5rFpEi6lwN+mH8xjE+RS1gUot++PcbXDUM/S9IrVmtS8HRjimvBQqFk6afvqWfuf60H6l2x/6iCKTB2haRUwnDSOPI6VW0m5NJwBzFKhTWLxMne60lsjx0AyDCnLXqlxPfhr6zmfGcdgxg+7cG+4hE9Xa+ZI3DTrk2azmSKhde1iq5kx4v0jKQvKxLpxSAY+Ouv8AGFZsnhGxHTRgY3/juAsJUA8ijGW4tnCNk+pf2t5RKcYkjC9I8ajAR8EJCCN+JXcfhn7cZcAq5QKKo7aca/ZcA4MGE76y5RGV3r0vYEK0SCOYgTisZ+rX91ZcHB4rUZahF/gC1Y5dX+sZnti0iZHPUIoScwec9ujEfS7tg5UDYGlXq2rIYssbkRjKbv6T83MbzY/F5937jqJTcm9xPYuIUluEFsO+vFqK4nA95Q44MG+HP5ZqODE3SgdpGc4itV6KW9dY75DSKO6D5FBpV4zf5FgJOtyuPhRJfre9elugOgY\u003d"
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "timestamp": 1750708843299,
+                "modifier": "strengthened",
+                "uuid": "a0283aad-b60b-4e16-8311-ccceea9683ef",
+                "attributeMenuValue": 30,
+                "id": "DAVIDS_CLOAK",
+                "donated_museum": 1,
+                "boosters": [
+                  "sweep",
+                  "foraging_fortune",
+                  "foraging_wisdom"
+                ]
+              }
+            }
+          },
+          "BELT": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Mangrove Vine",
+                    "color": "blue"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sweep: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3 ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "(+2)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5 ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "(+0.5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Boosters: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "⸙",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "ꕮ",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "⎋",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "RARE BELT",
+                      "bold": true,
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  1129328593,
+                  -1816185389,
+                  -1204881675,
+                  -1907701108
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+                    "signature": "LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE\u003d"
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "timestamp": 1750850470008,
+                "id": "MANGROVE_VINE",
+                "donated_museum": 1,
+                "uuid": "fcecf9f1-eceb-4872-8995-0c214125c03e",
+                "boosters": [
+                  "foraging_wisdom",
+                  "foraging_fortune",
+                  "sweep"
+                ]
+              }
+            }
+          },
+          "GLOVES": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Mangrove Grippers",
+                    "color": "blue"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sweep: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3 ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "(+2)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Foraging Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5 ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "(+0.5)",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Boosters: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "⸙",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "ꕮ",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": "/",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "⎋",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "RARE GLOVES",
+                      "bold": true,
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  1778096560,
+                  1981168166,
+                  -2098097267,
+                  1095519903
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjUyOTA5NCwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYTRjZmE1ZGMwOWZiNDk4YmFiMjg1NDYzYWE4ZDc1NDBkZWNjNGRiYWFmYzQyN2I1NjI1MTg2NWFhMmYzMDhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+                    "signature": "vtmVgh6Ncz9fWgWLTuR5MM1YthcncSoFidFqiE0JRLg+Wzg5Nv+YGKBcl4DGYIZuSdmtd5i5+hb+yW/0+UDrJj1wwV0o7k//wmYDUDFlIbR3DmD6RYYAiiK1T1teSlDzHhGRNdruxBiqLik3nBrGXiuWFy+2CNVA1hk9zJ0Mx6eVJDtztdP1YBOgq46d7VwDX8LshgHi/4RuBwhghc9+Jp0sMYzvFZXu0D49Sb5A6wKxUR0E4BzXhXWdQE8FEjylxVI9vwEilpGhyCgmg4vicIbrabP8InqWlGDzjDz7cdF45LgvoNlFGy1sjF3xHKekbH3cjSKjPljYdsASvDhi6PSDUiKymUnTUOaeFilIQ4LKBcV0XYbP4evxD8aZOn3iVfDGrdPKaiVOWT//uEpEfpzQjNrGZ+YxtqjRAKZuUgQ6UsCoRi5y/oBqC30oCeVMsEkjniI7lUPGM9QR1JYTem+HyfOnzXgR6DWT3NlpZuECmkGUc7ANpRP6DOeszdV4w7asJKnZhoGU6CGgZZXhNMx8ZsUrAyk+Uy7oxaFTkPUkfwmGtGyUVCxy9KGehpOBYqF1wUw/dxGBfGT6s4lwxjEQ5g277MAbB7HM0wNTq5h+2I2qjPx70MPE8wQTQxE2ihat5wwiJv0yqlq1Dc15fLBd1EC5+5pBCgE2orDuq18\u003d"
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "timestamp": 1750966611761,
+                "id": "MANGROVE_GRIPPERS",
+                "donated_museum": 1,
+                "uuid": "fd22f8f6-3a04-4f72-98a2-130be88fba03",
+                "boosters": [
+                  "sweep",
+                  "foraging_wisdom",
+                  "foraging_fortune"
+                ]
+              }
+            }
+          }
+        },
+        "riftSlots": {}
+      }
+    }
+  }
+}

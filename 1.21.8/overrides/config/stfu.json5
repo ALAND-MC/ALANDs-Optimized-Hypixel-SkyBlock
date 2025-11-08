@@ -7,7 +7,7 @@
 	compactChat: "ONLY_CONSECUTIVE",
 	disableWidgetFade: true,
 	disableFade: false,
-	disableSplash: true,
+	disableSplash: false,
 	disableLoadingTerrain: true,
 	disableWorldAdvice: false,
 	fixModelGaps: true,
