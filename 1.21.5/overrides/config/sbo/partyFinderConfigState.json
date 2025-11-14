@@ -1,0 +1,36 @@
+{
+  "checkboxes": {
+    "custom": {
+      "eman9": false
+    },
+    "diana": {
+      "eman9": false,
+      "looting5": false
+    }
+  },
+  "inputs": {
+    "custom": {
+      "lvl": 0,
+      "mp": 0,
+      "partySize": 0,
+      "note": "..."
+    },
+    "diana": {
+      "kills": 0,
+      "lvl": 0,
+      "note": "..."
+    }
+  },
+  "filters": {
+    "custom": {
+      "eman9Filter": false,
+      "noteFilter": ".",
+      "canIjoinFilter": false
+    },
+    "diana": {
+      "eman9Filter": false,
+      "looting5Filter": false,
+      "canIjoinFilter": false
+    }
+  }
+}

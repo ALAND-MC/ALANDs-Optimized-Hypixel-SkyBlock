@@ -208,7 +208,6 @@
     "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,
     "cloud_height": 192,
-    "cloud_distance": 100,
     "toasts": true,
     "advancement_toast": false,
     "recipe_toast": false,

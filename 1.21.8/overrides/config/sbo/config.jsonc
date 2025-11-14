@@ -1,0 +1,157 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    "General": {
+        "bobberOverlay": false,
+        "legionOverlay": false,
+        // Valid Values: NORMAL, INQ, MANTICORE, KING, SPHINX
+        "hideOwnWaypoints": [],
+        "patcherWaypoints": true
+    },
+    "Diana": {
+        "dianaBurrowGuess": true,
+        "dianaMultiBurrowGuess": false,
+        "dianaBurrowDetect": true,
+        "focusedWarp": false,
+        // Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR
+        "allowedWarps": [
+            "WIZARD",
+            "DA",
+            "CASTLE"
+        ],
+        "dontWarpIfBurrowClose": true,
+        // Range: 0 - 60
+        "warpDiff": 10,
+        // Range: 0 - 1000
+        "warpDelay": 0,
+        // Valid Values: OFF, TOTAL, EVENT, SESSION
+        "mobTracker": "OFF",
+        // Valid Values: OFF, TOTAL, EVENT, SESSION
+        "lootTracker": "OFF",
+        "hideUnobtainedItems": true,
+        "combineLootLines": false,
+        "statsTracker": false,
+        "magicFindTracker": false,
+        "fourEyedFish": false,
+        "sendSinceMessage": true,
+        // Valid Values: INSTASELL, SELLOFFER
+        "bazaarSettingDiana": "SELLOFFER",
+        "lootAnnouncerChat": false,
+        "lootAnnouncerScreen": true,
+        "lootAnnouncerPrice": true,
+        "lootAnnouncerParty": false,
+        "chimMessageBool": false,
+        "customChimMessage": [
+            "&6[SBO] &6&lRARE DROP! &d&lChimera! &b{mf} &b#{amount}"
+        ],
+        "guessLine": true,
+        "inqLine": true,
+        "burrowLine": true,
+        // Range: 1 - 20
+        "dianaLineWidth": 5,
+        // Range: 0 - 20
+        "removeGuessDistance": 0,
+        "removeRareMobwaypoint": true,
+        "shareRareMob": true,
+        // Valid Values: INQ, MANTICORE, KING, SPHINX
+        "ShareMobs": [
+            "INQ",
+            "MANTICORE",
+            "KING",
+            "SPHINX"
+        ],
+        "receiveRareMob": true,
+        // Valid Values: INQ, MANTICORE, KING, SPHINX, OTHER
+        "ReceiveMobs": [
+            "INQ",
+            "MANTICORE",
+            "KING",
+            "SPHINX",
+            "OTHER"
+        ],
+        "allWaypointsAreInqs": false,
+        "announceKilltext": [
+            ""
+        ],
+        "announceCocoon": false,
+        "cocoonTitle": true,
+        "mythosMobHp": false
+    },
+    "Party Commands": {
+        "warpCommand": false,
+        "allinviteCommand": false,
+        "transferCommand": false,
+        "moteCommand": false,
+        "carrotCommand": false,
+        "timeCommand": false,
+        "tpsCommand": false,
+        "dianaPartyCommands": true
+    },
+    "Customization": {
+        // [Color Format: RGBA]
+        "guessColor": -16713985,
+        // [Color Format: RGBA]
+        "StartColor": -11141291,
+        // [Color Format: RGBA]
+        "focusedColor": -6736948,
+        // [Color Format: RGBA]
+        "MobColor": -43691,
+        // [Color Format: RGBA]
+        "TreasureColor": -22016,
+        "waypointTextShadow": true,
+        // Range: 0.30000001192092896 - 2
+        "waypointTextScale": 0.7,
+        "inqSound": [
+            "exporb"
+        ],
+        // Range: 0 - 1
+        "inqVolume": 1.0,
+        "burrowSound": [
+            ""
+        ],
+        // Range: 0 - 1
+        "burrowVolume": 1.0,
+        "chimSound": [
+            ""
+        ],
+        // Range: 0 - 1
+        "chimVolume": 1.0,
+        "relicSound": [
+            ""
+        ],
+        // Range: 0 - 1
+        "relicVolume": 1.0,
+        "stickSound": [
+            ""
+        ],
+        // Range: 0 - 1
+        "stickVolume": 1.0,
+        "sprSound": [
+            ""
+        ],
+        // Range: 0 - 1
+        "sprVolume": 1.0
+    },
+    "PartyFinder": {
+        "autoInvite": true,
+        "autoRequeue": true,
+        // Range: -2 - 2
+        "scaleText": 0.0,
+        // Range: -20 - 20
+        "scaleIcon": 0.0
+    },
+    "QOL": {
+        "pickuplogOverlay": false,
+        "phoenixAnnouncer": true,
+        "dianaMessageHider": false,
+        "hideAutoPetMSG": false,
+        "hideImplosionMSG": false,
+        "hideSacksMSG": false
+    },
+    "Debug": {
+        "itsAlwaysDiana": false,
+        "alwaysInSkyblock": false,
+        "debugMessages": false
+    },
+    "Credits": {}
+}

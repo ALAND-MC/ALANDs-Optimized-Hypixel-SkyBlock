@@ -1,7 +1,7 @@
 {
   "menuAlert": true,
   "chatAlert": true,
-  "localVersion": "1.3.0",
+  "localVersion": "2.0.0",
   "versionAPI": "https://api.modrinth.com/v2/project/1LW7ibPy/version",
   "changelogLink": "https://modrinth.com/modpack/alands-optimized-hypixel-skyblock/changelog",
   "maxChecks": 5,

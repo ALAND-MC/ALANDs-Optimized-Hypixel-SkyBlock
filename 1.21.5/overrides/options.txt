@@ -1,5 +1,4 @@
 version:4325
-betterBiomeBlendRadius:14
 ao:true
 biomeBlendRadius:2
 enableVsync:true
@@ -14,7 +13,6 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:1.0
 graphicsMode:1
 guiScale:3
 maxFps:260
@@ -53,7 +51,7 @@ highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/Skyblock Dark UI 1.6.1 for 1.21.5+.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dark Skyblock v0.2.1 - 1.21.5+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lCC Click Sound §e§l1.21.5.zip"]
-incompatibleResourcePacks:["asyncparticles","badoptimizations","betterbiomeblend","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["asyncparticles","badoptimizations","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -127,6 +125,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.aaron-mod.zoom:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_firmament.config.power-user.copy-item-id:key.keyboard.unknown
@@ -163,12 +162,24 @@ key_firmament.config.wardrobe-keybinds.slot-7:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-8:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-9:key.keyboard.unknown
 key_firmament.config.block-zapper-overlay.undo-key:key.keyboard.unknown
+key_key.gammautils.gammaToggle:key.keyboard.period
+key_key.gammautils.increaseGamma:key.keyboard.unknown
+key_key.gammautils.decreaseGamma:key.keyboard.unknown
+key_key.gammautils.maxGamma:key.keyboard.unknown
+key_key.gammautils.minGamma:key.keyboard.unknown
+key_key.gammautils.nightVisionToggle:key.keyboard.unknown
+key_key.gammautils.increaseNightVision:key.keyboard.unknown
+key_key.gammautils.decreaseNightVision:key.keyboard.unknown
 key_key.jarvis.open-gui-editor:key.keyboard.unknown
 key_key.tooltipscroll.moveUp:key.keyboard.unknown
 key_key.tooltipscroll.moveDown:key.keyboard.unknown
 key_key.tooltipscroll.reset:key.keyboard.unknown
 key_key.tooltipscroll.horizontal:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.sbo-kotlin.guess_warp:key.keyboard.r
+key_key.sbo-kotlin.inq_warp:key.keyboard.f
+key_key.sbo-kotlin.general_warp:key.keyboard.unknown
+key_key.sbo-kotlin.send_coords:key.keyboard.unknown
 key_key.hotbarSlotLock:key.keyboard.unknown
 key_key.itemPriceLookup:key.keyboard.unknown
 key_key.itemPriceRefresh:key.keyboard.unknown
@@ -185,7 +196,7 @@ soundCategory_music:0.0
 soundCategory_record:0.20892018779342736
 soundCategory_weather:0.2018779342723004
 soundCategory_block:0.20892018779342736
-soundCategory_hostile:0.051643192488262976
+soundCategory_hostile:0.056338028169014086
 soundCategory_neutral:0.20422535211267606
 soundCategory_player:0.2018779342723004
 soundCategory_ambient:0.20892018779342736

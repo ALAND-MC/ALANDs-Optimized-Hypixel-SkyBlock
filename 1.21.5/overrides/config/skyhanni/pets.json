@@ -7,7 +7,7 @@
             {
               "petInternalName": "RABBIT;5",
               "skinVariantIndex": -1,
-              "exp": 4.0628711E7,
+              "exp": 4.069536651727196E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -27,7 +27,7 @@
               "petInternalName": "ENDERMAN;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_SPOOKY_CUPCAKE",
-              "exp": 2.162205905620668E8,
+              "exp": 2.1646454771970573E8,
               "uuid": "33c65214-b8cd-4207-a820-08020d5302a2"
             },
             {
@@ -102,7 +102,7 @@
               "petInternalName": "GOLDEN_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.167271418106961E8,
+              "exp": 2.1757667556396067E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -239,10 +239,10 @@
               "uuid": "9e29dacc-d6a9-49a3-8c48-73b917ee969d"
             },
             {
-              "petInternalName": "GRIFFIN;4",
+              "petInternalName": "GRIFFIN;5",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
-              "exp": 3.500521153129969E7,
+              "exp": 3.854882984124494E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -525,7 +525,7 @@
               "petInternalName": "JADE_DRAGON;4",
               "skinVariantIndex": -1,
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.66411199E8,
+              "exp": 2.700506907391813E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
