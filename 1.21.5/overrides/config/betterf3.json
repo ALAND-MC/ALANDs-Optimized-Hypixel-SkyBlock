@@ -65,7 +65,7 @@
 			"lines": {
 				"chunk_coords": false,
 				"player_coords": true,
-				"block_coords": false,
+				"block_coords": true,
 				"absolute_velocity": false,
 				"velocity": false,
 				"chunk_relative_coords": false,

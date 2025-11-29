@@ -146,8 +146,13 @@
       }
     },
     "waypoints": {
-      "enableWaypoints": false,
+      "enableWaypoints": true,
       "waypointType": "WAYPOINT",
+      "renderLine": true,
+      "lineColor": -16711936,
+      "lineWidth": 5.0,
+      "allowSkippingWaypoints": true,
+      "allowGoingBackwards": true,
       "enableChatWaypoints": true
     },
     "teleportOverlay": {
@@ -178,9 +183,9 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
+        "prosperity",
         "brain f",
-        "Mythos Fragment",
-        "fire as"
+        "Mythos Fragment"
       ],
       "auctionHistory": [
         "Manti-core",
@@ -238,7 +243,7 @@
   "helpers": {
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
-    "enableWardrobeHelper": true,
+    "enableWardrobeHelper": false,
     "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
     "enableBuildersWandPreview": true,
@@ -300,11 +305,12 @@
     },
     "chocolateFactory": {
       "enableChocolateFactoryHelper": false,
+      "enableTimeTowerReminder": false,
+      "straySound": false,
       "enableEggFinder": false,
       "sendEggFoundMessages": false,
       "waypointType": "WAYPOINT",
-      "enableTimeTowerReminder": false,
-      "straySound": false
+      "showThroughWalls": false
     },
     "carnival": {
       "catchAFishHelper": false,
@@ -342,6 +348,7 @@
       "enableMap": true,
       "fancyMap": true,
       "showSelfHead": true,
+      "showRoomLabels": true,
       "mapScaling": 1.0,
       "mapX": 2,
       "mapY": 2
@@ -461,8 +468,8 @@
       "solveForestTemplePuzzle": true,
       "enableLushlilacHighlighter": false,
       "enableSeaLumiesHighlighter": false,
-      "enableTreeBreakProgress": false,
       "seaLumiesMinimumCount": 3,
+      "enableTreeBreakProgress": false,
       "enableTunerSolver": false,
       "enableSweepDetailsWidget": false
     },
@@ -685,25 +692,25 @@
       "render": true,
       "doubleClick": false,
       "itemData": {
-        "item": "minecraft:diamond_sword",
+        "item": "minecraft:crafting_table",
         "count": 1,
         "components": "[]"
       },
-      "uiTitle": "Your Skills",
-      "tooltip": "Skills",
-      "clickEvent": "/skills"
+      "uiTitle": "Craft",
+      "tooltip": "Craft",
+      "clickEvent": "/craft"
     },
     "button2": {
       "render": true,
       "doubleClick": false,
       "itemData": {
-        "item": "minecraft:painting",
+        "item": "minecraft:writable_book",
         "count": 1,
         "components": "[]"
       },
-      "uiTitle": "Collections",
-      "tooltip": "Collections",
-      "clickEvent": "/collection"
+      "uiTitle": "Bestiary",
+      "tooltip": "Bestiary",
+      "clickEvent": "/be"
     },
     "button3": {
       "render": true,
@@ -907,6 +914,10 @@
         300
       ],
       "Year of the Pig Begins": [
+        60,
+        300
+      ],
+      "Election Booth Closes": [
         60,
         300
       ]

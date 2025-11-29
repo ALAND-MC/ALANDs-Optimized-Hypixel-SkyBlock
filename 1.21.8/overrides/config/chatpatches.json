@@ -4,5 +4,6 @@
   "compactChat": true,
   "compactDistance": 10,
   "boundary": false,
-  "chatlog": false
+  "chatlog": false,
+  "contextMenu": false
 }

@@ -1,0 +1,21 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "mithril": {
+          "current": 13680481,
+          "total": 13680481
+        },
+        "gemstone": {
+          "current": 19928474,
+          "total": 19928474
+        },
+        "glacite": {
+          "current": 5249522,
+          "total": 5249522
+        }
+      }
+    }
+  }
+}

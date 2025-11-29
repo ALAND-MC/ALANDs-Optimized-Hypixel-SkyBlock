@@ -1,0 +1,59 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "attribute:c11": {
+          "owned": 177,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c14": {
+          "owned": 1,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c17": {
+          "owned": 602,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c21": {
+          "owned": 4,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c29": {
+          "owned": 425,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:u10": {
+          "owned": 3,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u15": {
+          "owned": 2,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u18": {
+          "owned": 2,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r35": {
+          "owned": 21,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:l4": {
+          "owned": 2,
+          "syphoned": 0,
+          "rarity": "LEGENDARY"
+        }
+      }
+    }
+  }
+}

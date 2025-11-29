@@ -134,7 +134,7 @@
       }
     },
     "waypoints": {
-      "enableWaypoints": false,
+      "enableWaypoints": true,
       "waypointType": "WAYPOINT"
     },
     "teleportOverlay": {
@@ -217,7 +217,7 @@
   "helpers": {
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
-    "enableWardrobeHelper": true,
+    "enableWardrobeHelper": false,
     "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
     "mythologicalRitual": {
@@ -625,24 +625,24 @@
     "button1": {
       "render": true,
       "itemData": {
-        "item": "minecraft:diamond_sword",
+        "item": "minecraft:crafting_table",
         "count": 1,
         "components": "[]"
       },
-      "uiTitle": "Your Skills",
-      "tooltip": "Skills",
-      "clickEvent": "/skills"
+      "uiTitle": "Craft",
+      "tooltip": "Craft",
+      "clickEvent": "/craft"
     },
     "button2": {
       "render": true,
       "itemData": {
-        "item": "minecraft:painting",
+        "item": "minecraft:writable_book",
         "count": 1,
         "components": "[]"
       },
-      "uiTitle": "Collections",
-      "tooltip": "Collections",
-      "clickEvent": "/collection"
+      "uiTitle": "Bestiary",
+      "tooltip": "Bestiary",
+      "clickEvent": "/be"
     },
     "button3": {
       "render": true,
