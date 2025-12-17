@@ -3,15 +3,18 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "sbLevelProgress": {
-        "Pear": 65
+        "Pear": 12,
+        "Tomato": 10
       },
       "coop": {},
       "profileType": {
         "Pear": "NORMAL",
-        "raeP": "NORMAL"
+        "raeP": "NORMAL",
+        "Tomato": "BINGO"
       },
       "sbLevel": {
-        "Pear": 521
+        "Pear": 529,
+        "Tomato": 2
       }
     }
   }

@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 graphicsMode:1
 guiScale:3
 maxFps:260
@@ -186,12 +186,13 @@ key_key.sbo-kotlin.guess_warp:key.keyboard.r
 key_key.sbo-kotlin.inq_warp:key.keyboard.f
 key_key.sbo-kotlin.general_warp:key.keyboard.unknown
 key_key.sbo-kotlin.send_coords:key.keyboard.unknown
-key_key.hotbarSlotLock:key.keyboard.unknown
-key_key.itemPriceLookup:key.keyboard.unknown
-key_key.itemProtection:key.keyboard.unknown
+key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
+key_key.skyblocker.itemPriceLookup:key.keyboard.unknown
+key_key.skyblocker.itemProtection:key.keyboard.unknown
+key_key.skyblocker.valueBreadownPopup:key.keyboard.i
 key_key.skyblocker.slottext:key.keyboard.unknown
-key_key.wikiLookup.official:key.keyboard.unknown
-key_key.wikiLookup.fandom:key.keyboard.unknown
+key_key.skyblocker.wikiLookup.official:key.keyboard.unknown
+key_key.skyblocker.wikiLookup.fandom:key.keyboard.unknown
 key_key.skyblocker.toggleA:key.keyboard.unknown
 key_key.skyblocker.defaultTgl:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c

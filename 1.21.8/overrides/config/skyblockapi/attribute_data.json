@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "attribute:c11": {
-          "owned": 177,
+          "owned": 179,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -19,7 +19,7 @@
           "rarity": "COMMON"
         },
         "attribute:c21": {
-          "owned": 4,
+          "owned": 18,
           "syphoned": 96,
           "rarity": "COMMON"
         },
@@ -29,22 +29,22 @@
           "rarity": "COMMON"
         },
         "attribute:u10": {
-          "owned": 3,
+          "owned": 13,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:u15": {
-          "owned": 2,
+          "owned": 4,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:u18": {
-          "owned": 2,
+          "owned": 5,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:r35": {
-          "owned": 21,
+          "owned": 51,
           "syphoned": 48,
           "rarity": "RARE"
         },
@@ -52,6 +52,26 @@
           "owned": 2,
           "syphoned": 0,
           "rarity": "LEGENDARY"
+        },
+        "attribute:c25": {
+          "owned": 2,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c10": {
+          "owned": 3,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:u20": {
+          "owned": 7,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u33": {
+          "owned": 9,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
         }
       }
     }

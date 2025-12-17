@@ -1,11 +1,10 @@
 {
   "2c3c97d72b1c4355b856dae991ddf5db": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "tier": "MYTHIC",
-      "uuid": "3322b899-3609-4cfe-85e9-96ecbf93385a",
-      "name": "[Lvl 100] Rabbit",
-      "type": "RABBIT",
-      "exp": 4.0738797019029215E7
+      "tier": "COMMON",
+      "name": "Precursor Drone",
+      "type": "PRECURSOR_DRONE",
+      "exp": 4549685.0
     }
   }
 }

@@ -1,6 +1,6 @@
 {
     // The version of the config file. Do not change this unless you know what you are doing.
-    "rconfig:version": 0,
+    "rconfig:version": 1,
     "profileSpying": true,
     "profileChatClick": true,
     "profileChatClickOther": true,
@@ -8,7 +8,8 @@
     "currency": "USD",
     "alignCategoryButtonsLeft": true,
     "showPronouns": true,
-    "partyFinderMessage": true,
+    // Valid Values: OFF, OPEN_PV, BREAKDOWN
+    "partyFinderMessage": "OPEN_PV",
     "disableOutsideHypixel": false,
     "skillOverflow": true,
     "displayScaling": false,

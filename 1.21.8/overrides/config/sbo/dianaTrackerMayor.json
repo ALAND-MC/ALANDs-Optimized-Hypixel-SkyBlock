@@ -35,7 +35,8 @@
     "SPHINX_SHARD": 0,
     "MINOTAUR_SHARD": 0,
     "CRETAN_BULL_SHARD": 2,
-    "HARPY_SHARD": 0
+    "HARPY_SHARD": 0,
+    "MYTH_THE_FISH": 0
   },
   "mobs": {
     "King Minos": 0,

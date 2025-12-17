@@ -81,7 +81,7 @@
 		"secureSkinDownloads": true,
 		"silenceResourcePackLogSpam": true,
 		"chat": {
-			"copyChatMessages": true,
+			"copyChatMessages": false,
 			"copyChatMode": "ENTIRE_MESSAGE",
 			"copyChatMouseButton": "MIDDLE",
 			"chatHistoryLength": 100

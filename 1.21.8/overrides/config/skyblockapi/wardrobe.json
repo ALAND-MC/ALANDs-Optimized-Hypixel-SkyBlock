@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": 1,
+        "currentSlot": -1,
         "slots": [
           {
             "id": 1,
@@ -284,8 +284,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -302,7 +302,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -354,17 +354,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -786,8 +776,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -804,7 +794,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -856,17 +846,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1313,8 +1293,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1331,7 +1311,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1383,17 +1363,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1835,8 +1805,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1853,7 +1823,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1905,17 +1875,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -2825,7 +2785,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+737 ",
+                          "text": "+777 ",
                           "color": "red"
                         },
                         {
@@ -3438,7 +3398,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+674 ",
+                          "text": "+714 ",
                           "color": "red"
                         },
                         {
@@ -4056,7 +4016,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+485 ",
+                          "text": "+525 ",
                           "color": "red"
                         },
                         {
@@ -4783,7 +4743,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -5313,7 +5273,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -5727,7 +5687,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -6142,7 +6102,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+160 ",
+                          "text": "+170 ",
                           "color": "gold"
                         },
                         {
@@ -6576,7 +6536,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Helmet",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -6626,7 +6586,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -6640,15 +6600,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+92 ",
+                          "text": "+83 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -6789,8 +6749,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6799,7 +6759,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -6809,15 +6769,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -6827,7 +6787,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -6837,7 +6797,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -6845,7 +6871,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -6886,7 +6922,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -6901,15 +6937,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC HELMET ",
+                          "text": "LEGENDARY HELMET ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6990,7 +7026,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Chestplate",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -7040,7 +7076,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -7054,15 +7090,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+97 ",
+                          "text": "+88 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -7321,8 +7357,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7331,7 +7367,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -7341,15 +7377,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -7359,7 +7395,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -7369,7 +7405,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -7377,7 +7479,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -7418,7 +7530,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -7433,15 +7545,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC CHESTPLATE ",
+                          "text": "LEGENDARY CHESTPLATE ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7506,7 +7618,7 @@
                     "extra": [
                       {
                         "text": "Mossy Fermento Leggings",
-                        "color": "light_purple"
+                        "color": "gold"
                       }
                     ],
                     "italic": false
@@ -7556,7 +7668,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+6%",
+                          "text": "+23.5%",
                           "color": "dark_green"
                         }
                       ],
@@ -7570,15 +7682,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+97 ",
+                          "text": "+88 ",
                           "color": "gold"
                         },
                         {
-                          "text": "(+30) ",
+                          "text": "(+25) ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20)",
+                          "text": "(+16)",
                           "color": "light_purple"
                         }
                       ],
@@ -7837,8 +7949,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (3/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7847,7 +7959,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Combines the Tiered Bonuses of",
+                          "text": "Farming Wild Rose, Sunflower, and",
                           "color": "gray"
                         }
                       ],
@@ -7857,15 +7969,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "wearing ",
+                          "text": "Moonflower have a ",
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "0.003% ",
                           "color": "green"
                         },
                         {
-                          "text": "of the Melon Armor,",
+                          "text": "chance of",
                           "color": "gray"
                         }
                       ],
@@ -7875,7 +7987,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Cropie Armor, and Squash Armor.",
+                          "text": "dropping a Helianthus. Inside the",
                           "color": "gray"
                         }
                       ],
@@ -7885,7 +7997,73 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
+                          "text": "Greenhouse gives a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1.2%",
+                          "color": "green"
+                        },
+                        {
+                          "text": " chance to",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "drop one from any crop grown",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "inside. Also combines the Tiered",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonuses of wearing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "3 pieces ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "of the",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Melon Armor, Cropie Armor, and",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Squash Armor. ",
                           "color": "gray"
                         },
                         {
@@ -7893,7 +8071,17 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming Fortune",
+                          "text": "50☘ Farming",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Fortune",
                           "color": "gold"
                         },
                         {
@@ -7934,7 +8122,7 @@
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         "",
                         {
@@ -7949,15 +8137,15 @@
                           "underlined": false
                         },
                         {
-                          "text": "MYTHIC LEGGINGS ",
+                          "text": "LEGENDARY LEGGINGS ",
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         },
                         {
                           "text": "a",
                           "obfuscated": true,
                           "bold": true,
-                          "color": "light_purple"
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -8052,7 +8240,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+90",
+                          "text": "+210",
                           "color": "green"
                         }
                       ],
@@ -8080,7 +8268,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+53 ",
+                          "text": "+113 ",
                           "color": "gold"
                         },
                         {
@@ -8102,7 +8290,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+57 ",
+                          "text": "+297 ",
                           "color": "white"
                         },
                         {
@@ -12797,7 +12985,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+420 ",
+                          "text": "+460 ",
                           "color": "red"
                         },
                         {
@@ -13420,7 +13608,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+480 ",
+                          "text": "+520 ",
                           "color": "red"
                         },
                         {
@@ -14018,7 +14206,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+450 ",
+                          "text": "+490 ",
                           "color": "red"
                         },
                         {
@@ -14604,7 +14792,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+390 ",
+                          "text": "+430 ",
                           "color": "red"
                         },
                         {
@@ -26878,6 +27066,64 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Tiered Bonus: Glossy Mineralworks (0/4)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0▚ Mining Spread ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "on ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Ores",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Blocks",
+                          "color": "blue"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "* ",
                           "bold": true,
                           "color": "dark_gray"
@@ -27210,6 +27456,64 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Tiered Bonus: Glossy Mineralworks (0/4)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0▚ Mining Spread ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "on ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Ores",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Blocks",
+                          "color": "blue"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "* ",
                           "bold": true,
                           "color": "dark_gray"
@@ -27513,6 +27817,64 @@
                         },
                         {
                           "text": "of damage dealt back at the attacker.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Tiered Bonus: Glossy Mineralworks (0/4)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0▚ Mining Spread ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "on ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Ores",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Blocks",
+                          "color": "blue"
+                        },
+                        {
+                          "text": ".",
                           "color": "gray"
                         }
                       ],
@@ -27925,6 +28287,64 @@
                         },
                         {
                           "text": "of damage dealt back at the attacker.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Tiered Bonus: Glossy Mineralworks (0/4)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Grants ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0▚ Mining Spread ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "on ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Ores",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "and ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Blocks",
+                          "color": "blue"
+                        },
+                        {
+                          "text": ".",
                           "color": "gray"
                         }
                       ],
@@ -36118,6 +36538,191 @@
               }
             ],
             "locked": false
+          }
+        ]
+      },
+      "Tomato": {
+        "currentSlot": -1,
+        "slots": [
+          {
+            "id": 1,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 2,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 3,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 4,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 5,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 6,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 7,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 8,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 9,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 10,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 11,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 12,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 13,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 14,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 15,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 16,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 17,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 18,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
           }
         ]
       }

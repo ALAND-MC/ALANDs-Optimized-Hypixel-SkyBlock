@@ -1,5 +1,10 @@
 {
   "2c3c97d72b1c4355b856dae991ddf5db": {
+    "aa36e81d-27e3-4919-94c5-4ed6ef554adf": {
+      "lastResync": 1764670869212,
+      "collectedItemIds": [],
+      "dataVersion": 1
+    },
     "446a2a88-0c37-464b-91f0-45f84b8cd22b": {
       "lastResync": 0,
       "collectedItemIds": []
@@ -80,6 +85,7 @@
         "SAVANA_BOW",
         "GOLEM_ARMOR_CHESTPLATE",
         "FIG_BOOTS",
+        "BLOSSOM_BRACELET",
         "PUMPKIN_DICER",
         "ROOKIE_PICKAXE",
         "CANOPY_BOOTS",
@@ -113,6 +119,7 @@
         "PESTHUNTERS_BELT",
         "UMBERELLA",
         "ZOMBIE_MASK",
+        "BLOSSOM_CLOAK",
         "BRONZE_HUNTER_BOOTS",
         "SKELETON_SOLDIER_HELMET",
         "MERCENARY_HELMET",
@@ -252,6 +259,7 @@
         "ITEM_SPIRIT_BOW",
         "ANGLER_BELT",
         "THEORETICAL_HOE_CARROT_2",
+        "BLOSSOM_NECKLACE",
         "HOLY_DRAGON_CHESTPLATE",
         "PARTY_BELT",
         "MASTIFF_HELMET",
@@ -884,6 +892,7 @@
         "BONZO_STAFF",
         "SNOW_BELT",
         "SNORKELING_BOOTS",
+        "BLOSSOM_BELT",
         "ENDER_NECKLACE",
         "ENDER_BELT",
         "SKELETOR_LEGGINGS",

@@ -183,14 +183,14 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "prosperity",
-        "brain f",
-        "Mythos Fragment"
+        "drag",
+        "Dragon Claw",
+        "Mantid Claw"
       ],
       "auctionHistory": [
-        "Manti-core",
-        "Shimmering Wool",
-        "Minos Relic"
+        "Firefly in the Hole Vinyl",
+        "Imagine Dragonflies Vinyl",
+        "vinyl"
       ],
       "museumHistory": []
     },
@@ -247,6 +247,7 @@
     "enableDateCalculator": true,
     "enableCopyUnderbidPrice": false,
     "enableBuildersWandPreview": true,
+    "enableAnvilHelper": true,
     "mythologicalRitual": {
       "enableMythologicalRitualHelper": false
     },
@@ -285,7 +286,7 @@
         "CRYSTAL_HOLLOWS",
         "DUNGEON",
         "KUUDRAS_HOLLOW",
-        "GLACITE_MINESHAFT",
+        null,
         "GALATEA",
         "UNKNOWN"
       ],
@@ -415,6 +416,7 @@
       "enableItemWaypoints": true,
       "enableBatWaypoints": true,
       "enableWitherWaypoints": true,
+      "enableRedstoneKeyWaypoints": true,
       "enableLeverWaypoints": true,
       "enableFairySoulWaypoints": true,
       "enableStonkWaypoints": true,
@@ -422,6 +424,11 @@
       "enablePearlWaypoints": true,
       "enablePrinceWaypoints": true,
       "enableDefaultWaypoints": true
+    },
+    "secretSync": {
+      "receiveRoomMatch": true,
+      "receiveRoomSecretCount": true,
+      "hideReceivedWaypoints": true
     },
     "mimicMessage": {
       "sendMimicMessage": true
@@ -508,6 +515,7 @@
     "commissionHighlight": false,
     "callMismyla": true,
     "redialOnBadSignal": true,
+    "enablePickobulusHelper": false,
     "dwarvenMines": {
       "solveFetchur": true,
       "solvePuzzler": true,
@@ -538,10 +546,10 @@
       "shareFairyGrotto": false
     },
     "commissionWaypoints": {
-      "mode": "OFF",
-      "useColor": false,
-      "showBaseCamp": false,
-      "showEmissary": false,
+      "mode": "BOTH",
+      "useColor": true,
+      "showBaseCamp": true,
+      "showEmissary": true,
       "hideEmissaryOnPigeon": true
     },
     "glacite": {
@@ -595,7 +603,7 @@
   },
   "otherLocations": {
     "barn": {
-      "enableGlowingMushroomHelper": true,
+      "enableGlowingMushroomHelper": false,
       "solveHungryHiker": false,
       "solveTreasureHunter": false,
       "enableCallTrevorMessage": true
@@ -918,6 +926,10 @@
         300
       ],
       "Election Booth Closes": [
+        60,
+        300
+      ],
+      "Bonus Fishing Festival": [
         60,
         300
       ]
