@@ -1,0 +1,15 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "players": {
+      "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+        "name": "ALAND_",
+        "time": 1769704278878
+      },
+      "361532d2-acce-4c0e-8be3-670226276ee0": {
+        "name": "QWERTZ_EXE",
+        "time": 1769704287826
+      }
+    }
+  }
+}

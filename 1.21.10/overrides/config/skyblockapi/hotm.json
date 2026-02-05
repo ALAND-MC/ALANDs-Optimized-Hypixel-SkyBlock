@@ -1,0 +1,243 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "perks": {
+          "Daily Grind": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Core of the Mountain": {
+            "level": 10,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Daily Powder": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Sky Mall": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Old-School": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Professional": {
+            "level": 140,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Mole": {
+            "level": 200,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Gem Lover": {
+            "level": 20,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Seasoned Mineman": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Front Loaded": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Luck of the Cave": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Efficient Miner": {
+            "level": 100,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Quick Forge": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Mining Speed Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Precision Mining": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Mining Fortune": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Titanium Insanium": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Pickobulus": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Mining Speed": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Gemstone Infusion": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Crystalline": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Gifts from the Departed": {
+            "level": 100,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Mining Master": {
+            "level": 10,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Dead Man's Chest": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Vanguard Seeker": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Sheer Force": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Metal Head": {
+            "level": 20,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Rags to Riches": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Eager Adventurer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Miner's Blessing": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "No Stone Unturned": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Strong Arm": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Steady Hand": {
+            "level": 100,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Warm Heart": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Surveyor": {
+            "level": 20,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Mineshaft Mayhem": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Speedy Mineman": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Powder Buff": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Fortunate Mineman": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Tunnel Vision": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Blockhead": {
+            "level": 20,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Subterranean Fisher": {
+            "level": 40,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Keep It Cool": {
+            "level": 50,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Lonesome Miner": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Great Explorer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Maniac Miner": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          }
+        },
+        "tokens": 0,
+        "tier": 10
+      }
+    }
+  }
+}

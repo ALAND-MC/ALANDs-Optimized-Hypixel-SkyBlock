@@ -1,0 +1,127 @@
+{
+  "rules": [
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[SkyHanni] Pest detection requires the tab list widget to be enabled. Enable the \u0027Pests Widget\u0027 via /widget!",
+      "name": "Hide Pest Error",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "There is already a crop planted here.",
+      "name": "Hide Crop Spam",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "You cannot place crops outside of the Greenhouse planter.",
+      "name": "Hide Greenhouse Spam",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "Unable to handle packet. Click here to",
+      "name": "Hide Packet Error",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[SkyHanni] Can not read Farming Fortune from tab list! Open /widget, enable the Stats Widget and show the Farming Fortune stat, also give the widget enough priority.",
+      "name": "Hide SkyHanni Error",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[Skyblocker] Failed to refresh your Skyblocker API token, some features may not work temporarily!",
+      "name": "Hide Skyblocker Error",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[Bobby] This world contains data from an old version of Minecraft. Run `/bobby upgrade` to upgrade it.",
+      "name": "Hide Bobby Messages",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": false,
+      "filter": "Your radio",
+      "name": "Hide Ham Radio Spam",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [],
+      "hideOriginalMessage": true,
+      "regex": false,
+      "ignoreCase": false,
+      "filter": "[Skyblocker] Received a waypoint to",
+      "name": "Hide Waypoint Error",
+      "enabled": true,
+      "partialMatch": true
+    },
+    {
+      "locations": [
+        "hub"
+      ],
+      "hideOriginalMessage": true,
+      "regex": true,
+      "ignoreCase": true,
+      "filter": "(selling)|(buying)|(lowb)|(visit)|(/p)|(/ah)|(my ah)",
+      "name": "Clean Hub Chat",
+      "enabled": false,
+      "partialMatch": true
+    },
+    {
+      "announcementMessage": {
+        "message": "\u00261Ability",
+        "displayDuration": 3000
+      },
+      "customSound": {
+        "sound_id": "minecraft:entity.arrow.hit_player"
+      },
+      "locations": [
+        "mining_3",
+        "crystal_hollows"
+      ],
+      "hideOriginalMessage": false,
+      "chatMessage": "\u00261Ability",
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "is now available!",
+      "name": "Mining Ability Alert",
+      "enabled": false,
+      "partialMatch": true
+    }
+  ]
+}

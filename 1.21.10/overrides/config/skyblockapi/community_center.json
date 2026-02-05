@@ -1,0 +1,12 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "rank": "ambassador",
+      "gems": 500,
+      "bitsAvailable": {
+        "Pear": 0
+      }
+    }
+  }
+}

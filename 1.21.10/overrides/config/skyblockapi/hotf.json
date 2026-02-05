@@ -1,0 +1,88 @@
+{
+  "@skyblockapi:version": 1,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "perks": {
+          "Center of the Forest": {
+            "level": 5,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Precision Cutting": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Luck of the Forest": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Damage Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Strength Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Speed Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Axe Toss": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Daily Wishes": {
+            "level": 100,
+            "unlocked": true,
+            "disabled": true
+          },
+          "Homing Axe": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Galatea's Might": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Essence Fortune": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Maniac Slicer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Empty": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Ricochet": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Half Full": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          }
+        },
+        "tokens": 0,
+        "tier": 7
+      }
+    }
+  }
+}

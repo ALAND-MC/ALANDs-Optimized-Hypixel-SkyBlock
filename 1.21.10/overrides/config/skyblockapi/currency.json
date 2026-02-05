@@ -1,0 +1,59 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "sowdust": 1855805,
+        "northStars": 704,
+        "soulflow": 7479,
+        "bits": 1472037,
+        "gems": 0,
+        "copper": 259004,
+        "personalBank": 0,
+        "coopBank": 11700000000,
+        "motes": 4266903,
+        "purse": 6.3032016E7,
+        "purseType": "NORMAL"
+      },
+      "Tomato": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 1651.2,
+        "purseType": "NORMAL"
+      },
+      "Cucumber": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 4235.5,
+        "purseType": "NORMAL"
+      },
+      "Grapes": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 4907.4,
+        "purseType": "NORMAL"
+      }
+    }
+  }
+}

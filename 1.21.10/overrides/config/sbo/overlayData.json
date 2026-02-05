@@ -1,0 +1,49 @@
+{
+  "overlays": {
+    "pickuplog": {
+      "x": 508.66653,
+      "y": 351.91052,
+      "scale": 1.0
+    },
+    "bobberOverlay": {
+      "x": 10.0,
+      "y": 10.0,
+      "scale": 1.0
+    },
+    "legionOverlay": {
+      "x": 413.33316,
+      "y": 390.63315,
+      "scale": 1.0
+    },
+    "Diana Stats": {
+      "x": 10.0,
+      "y": 10.0,
+      "scale": 1.0
+    },
+    "Diana MagicFind": {
+      "x": 10.0,
+      "y": 10.0,
+      "scale": 1.0
+    },
+    "Diana Mobs": {
+      "x": 1.0000008,
+      "y": 1.3189067,
+      "scale": 0.6999999
+    },
+    "mythosMobHp": {
+      "x": 217.66693,
+      "y": 1.3188919,
+      "scale": 1.0
+    },
+    "Diana Loot": {
+      "x": 1.3333375,
+      "y": 100.149994,
+      "scale": 0.70000005
+    },
+    "noShuriken": {
+      "x": 10.0,
+      "y": 10.0,
+      "scale": 3.0
+    }
+  }
+}

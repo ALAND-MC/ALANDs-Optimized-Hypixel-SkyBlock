@@ -1,0 +1,20 @@
+{
+	"favorites": [
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"COMBO_MANIA_TALISMAN\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"ARTISANAL_SHORTBOW\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"INFERNAL_CRIMSON_CHESTPLATE\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"INFERNAL_CRIMSON_BOOTS\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"ATTRIBUTE_SHARD_HUNTERS_FANGS;1\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"LOTUS_BRACELET\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"RAT;5\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"SORROW_BOOTS\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"VERMIN_VAPORIZER_GARDEN_CHIP\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"GRAND_EXP_BOTTLE\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"DOUBLE_PLANT\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"GLACITE_GOLEM;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PHOENIX;4\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

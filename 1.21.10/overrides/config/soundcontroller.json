@@ -1,0 +1,154 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "minecraft:block.piston.contract",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:block.piston.extend",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:block.slime_block.break",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.arrow.hit",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.arrow.hit_player",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.arrow.shoot",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.blaze.shoot",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.chicken.egg",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.creaking.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.creaking.spawn",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.creeper.hurt",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.creeper.primed",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.death",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.enderman.death",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.enderman.hurt",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.enderman.scream",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.enderman.stare",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.blast",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.blast_far",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.large_blast",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.firework_rocket.large_blast_far",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.generic.explode",
+      "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.ghast.hurt",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.ghast.scream",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.ghast.shoot",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.ghast.warn",
+      "volume": 0.05
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.impact",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.lightning_bolt.thunder",
+      "volume": 0.01
+    },
+    {
+      "soundId": "minecraft:entity.phantom.ambient",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.wither.ambient",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.wither.break_block",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.wither.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.wither.hurt",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.wither.shoot",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.wolf.growl",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.zombie_villager.cure",
+      "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:weather.end_flash",
+      "volume": 2.0
+    }
+  ]
+}

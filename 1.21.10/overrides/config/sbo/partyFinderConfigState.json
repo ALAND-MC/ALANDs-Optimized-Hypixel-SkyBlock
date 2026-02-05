@@ -1,0 +1,36 @@
+{
+  "checkboxes": {
+    "custom": {
+      "eman9": false
+    },
+    "diana": {
+      "eman9": false,
+      "looting5": false
+    }
+  },
+  "inputs": {
+    "custom": {
+      "lvl": 0,
+      "mp": 0,
+      "partySize": 6,
+      "note": "Mythic Griffin"
+    },
+    "diana": {
+      "kills": 5000,
+      "lvl": 1,
+      "note": "Mythic Griffin - Share Sphinx"
+    }
+  },
+  "filters": {
+    "custom": {
+      "eman9Filter": false,
+      "noteFilter": ".",
+      "canIjoinFilter": false
+    },
+    "diana": {
+      "eman9Filter": false,
+      "looting5Filter": false,
+      "canIjoinFilter": false
+    }
+  }
+}

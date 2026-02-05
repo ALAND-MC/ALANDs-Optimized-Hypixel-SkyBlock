@@ -1,0 +1,11 @@
+{
+  "time": false,
+  "counterFormat": "&7($)",
+  "compactChat": true,
+  "compactDistance": 10,
+  "boundary": false,
+  "chatlog": false,
+  "chatShift": 10,
+  "dynamicChatShift": false,
+  "contextMenu": false
+}

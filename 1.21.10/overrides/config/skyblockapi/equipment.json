@@ -1,0 +1,2054 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "slots": {
+          "NECKLACE": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Rooted Blossom Necklace",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Health: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+29 ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "(+14)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Vitality: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4",
+                      "color": "dark_red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Farming Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+58 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+18)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Green Thumb V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "0.25☘ Farming Fortune ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "per",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "unique visitor served.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Quantum V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4♨ Vitality ",
+                      "color": "dark_red"
+                    },
+                    {
+                      "text": "on weekdays and",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+2☯ ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "of a random ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Wisdom ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "stat on",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "weekends.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: Florist",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Complete ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Garden Visitor Offers ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "to",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "☘ Farming Fortune",
+                      "color": "gold"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22.5☘",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MAXED OUT! NICE!",
+                      "bold": true,
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Garden Visitors Served: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10,943",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    "",
+                    {
+                      "text": "",
+                      "extra": [
+                        " "
+                      ],
+                      "strikethrough": false,
+                      "obfuscated": false,
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false
+                    },
+                    {
+                      "text": "LEGENDARY NECKLACE ",
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1142087558,
+                  -1326894569,
+                  -1599952386,
+                  1419476057
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAxOTE2MSwKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb25raWl6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlOGUyMGYxNTM0YzJhOWQ5NDBiYWM5N2M0YzRiMjliNjhkYjZhMjg2YWQ5YzkyYWU4NWFlZTc4ZTA0ODYwNDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                    "signature": "oCxjq1ZiecABgfgzI5Iov/ujYBFFA3jooIRhhx9sC49qMWe7IkuqtcDVBMOkfhjZ9PC7t9WCP5pqS3aoVowbtEUKkfe+1nWvbGbdqXy/ZIj+ntYPQuWe/Bt76Udg7MOUFoY28djMMkw8VAPPcIVWBSvJsCfdHHxyQEg+Q22PJPL3dqvsZUpr106sUIGP9vsDkV0W99hvw0ND97/IG566L2BpkC3IbPjQol8OAn+eNcN2rcBLjxqPLkX7wqT7C3A7EMtiPR1yufBm5EbySv3NwZSOlpm5d77EYxTRAFGLtJ4ngWHHyFDjQ50P4LH3Fbi7jswhJPy7CNOtZezRH4DtMeZ7YLszGFgDuzhVcXUMd+MdjL9Z77c5c+QaGpQuaAthfksSEsJkK6voMpG3RxRruiyufW6Ofnngm4FUWdpaaj8NQXDEgF5FhhThtuO1jcQYooae/7teafahMBor7xrkOAEj9Rj8sW3JCcDpaYE08T/imWcoanRv8VTSrr8Am5mUVRyj8y5NoZ4Bj+cc0X7Nw4jPrjeFhndiMGL+VG8eJklVkW1iH5fPRxUu/M6OU8jGyoz5uQNZNW4HEEzpIC88ZKUnPQVdRC1Ac/j8scOWhuIfegWn4mKFaC/KgruQbzQxrEPZOijsop2ZP1MGTsWtNQToKe3NJRTF+08jkVUPcFY="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "enchantments": {
+                  "quantum": 5,
+                  "green_thumb": 5
+                },
+                "timestamp": 1676405220000,
+                "modifier": "rooted",
+                "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
+                "rarity_upgrades": 1,
+                "donated_museum": 1,
+                "id": "BLOSSOM_NECKLACE"
+              }
+            }
+          },
+          "CLOAK": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Rooted Blossom Cloak",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Health: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+29 ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "(+14)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Farming Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+58 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+18)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Green Thumb V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "0.25☘ Farming Fortune ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "per",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "unique visitor served.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: Florist",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Complete ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Garden Visitor Offers ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "to",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "☘ Farming Fortune",
+                      "color": "gold"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22.5☘",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MAXED OUT! NICE!",
+                      "bold": true,
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Garden Visitors Served: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10,943",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    "",
+                    {
+                      "text": "",
+                      "extra": [
+                        " "
+                      ],
+                      "strikethrough": false,
+                      "obfuscated": false,
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false
+                    },
+                    {
+                      "text": "LEGENDARY CLOAK ",
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1719036932,
+                  314260245,
+                  -1728587929,
+                  1813814881
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMDM1MywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDUzYTgwODRiNzc3M2MxYjJiYjYyMTM5MDFkYThjZmI1MGRlNWU1ZDBjOGM1MjRmZjRmYWQwZTE4MmVhNjhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "h2vhpLaPp6oEx2Rb0zHmUh0mqZmwbAqxjGRPa8vjLuuco+FikVMIB2P3xJg45HyEJeWOxSsyBhJnhbiKdrlzKNko3wsh5yHLGyijj+gTffxBnBh6uuxMir/YebgncOrO+LJY9NnIveQll8JdKOD8lCwa6liw5BKi00MBnna8FwgHIZtJXpbOc8tia7e8mq/va24JK2DFDrY0fd2ZAnlDtD1GEvOYg/c+gIa9ppaGdRpVI4Q+dRfK0EIDbN06RbllX5R4X3FJETwm1FikwTrmbRV1bl0yriLQyarMSe4YHAap8Ljdg+f3UoxuVstgSTqMK4FcRyhGEh7YAZaSQd4Q7M3BtS9KCoCOnJxPS42rrpbqeVaUoTqAWIDaXyADw9IpWhVNCCIBy6pW46sWh1CmqH2YamhtE9ik4TSEVzynA69Pchu5dbeZzwTwW5vX0T2U80GKcAh8tLcC3aOVoQFgPo6aWHzZ1shoR7FJzpOaonfyp/AfHwy2mVjfy+QXTqA+QjbDVU2TG9bD7jUZg6sMKLlJbuGZQybIVvC1NMI3dAZ11lp2mlBTgWzMQMoI9ETGDRDZtmWPi/gsfj/Sl7+RomtFz6pDRF2IG8XARI/chD5zhCdtTlkNBAga5mxi3M0PANpxXio5Z4RMnwdfXLNONKb6HDjFVCYCCqfaMVqZeP4="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "enchantments": {
+                  "green_thumb": 5
+                },
+                "timestamp": 1676405400000,
+                "modifier": "rooted",
+                "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
+                "rarity_upgrades": 1,
+                "donated_museum": 1,
+                "id": "BLOSSOM_CLOAK"
+              }
+            }
+          },
+          "BELT": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Rooted Blossom Belt",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Health: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+29 ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "(+14)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Farming Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+58 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+18)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Green Thumb V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "0.25☘ Farming Fortune ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "per",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "unique visitor served.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: Florist",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Complete ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Garden Visitor Offers ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "to",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "☘ Farming Fortune",
+                      "color": "gold"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22.5☘",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MAXED OUT! NICE!",
+                      "bold": true,
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Garden Visitors Served: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10,943",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    "",
+                    {
+                      "text": "",
+                      "extra": [
+                        " "
+                      ],
+                      "strikethrough": false,
+                      "obfuscated": false,
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false
+                    },
+                    {
+                      "text": "LEGENDARY BELT ",
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  907380003,
+                  481378166,
+                  -1346849325,
+                  1648503514
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMjAwOCwKICAicHJvZmlsZUlkIiA6ICI1ODM1MmNlODFmM2I0YjQxODFjOWNiYzM3MTY4NGYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdm9JX1NlTVBhSV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE4YzQ4Y2JmMzcxYzJkYWY0MWZjMjJlNWE5ZjhhMzVlZTZhNGJiMmU4YmM2MWQ2YjI0NzAwOWJlNDlkZDI1YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                    "signature": "UvslxJm0ydul+u05Ijx2+cyKPK2AWwWB68NFsPc145k/UbB6ApnT4sx7T94LREDqgUrX7AlwojX/ayk65X+27X5ObyPJpO3ySHcNplYh2mqj1ui7esvW6R0f4LtHMiEyZYcCWm75sJAwtBHHQFW86wwCyYbedWAhJELJ/Fdnb/axzzytQrBFpxxguHPFYWtULhy7DniSZL9SW441fsPrZvjlzkNX8hBLc4M82vxhFCvj7EhJxyyJ47j4YbKTYZE/y7BIqgAEsd4MuBbw6hhQ7bL0BZ7sJaorbs8S4kpZSiTMuuzlXa4EWIVp5RjttvO2xK5LXjGuBvfTTDurXoYbN/Ho5bqaPaiqIUy6NUEN7oC2PPWJY3TpA3vx+ALA2z1CVuRUiFMH8q7vNhd/V9FK+ETpn9UAwnLJiiCeCwF4pp4KQfUG3GrNh/Fnq0SAAaaVQdGd1YQnCRUvAhB4YDNCjWb6eYxGcPSLiwqDqpgoDNx6/6mKb4G5o6NwBQRpWvoahtujX8qoF9vNyLJOhrIBJCxJtzOwLiX6mHTOq3vN5innR/NKpu7MPEqo2Tio1mtqRY8JpWbxxPiACSwE2iMtDVa+5D//NKJb2H3aiiV0gE875fy3JpIwP68grS9wAdhp4Er0r0JhoZWc+Z5UETuEHn5+qBFSg9MVFfJx2VEULVY="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "enchantments": {
+                  "green_thumb": 5
+                },
+                "timestamp": 1676405280000,
+                "modifier": "rooted",
+                "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
+                "rarity_upgrades": 1,
+                "donated_museum": 1,
+                "id": "BLOSSOM_BELT"
+              }
+            }
+          },
+          "GLOVES": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Rooted Blossom Bracelet",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Health: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+29 ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "(+14)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Farming Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+58 ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "(+18)",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Green Thumb V",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "0.25☘ Farming Fortune ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "per",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "unique visitor served.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: Florist",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Complete ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Garden Visitor Offers ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "to",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "☘ Farming Fortune",
+                      "color": "gold"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Piece Bonus: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22.5☘",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MAXED OUT! NICE!",
+                      "bold": true,
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Garden Visitors Served: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10,943",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Co-op Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    "",
+                    {
+                      "text": "",
+                      "extra": [
+                        " "
+                      ],
+                      "strikethrough": false,
+                      "obfuscated": false,
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false
+                    },
+                    {
+                      "text": "LEGENDARY BRACELET ",
+                      "bold": true,
+                      "color": "gold"
+                    },
+                    {
+                      "text": "a",
+                      "obfuscated": true,
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  645583040,
+                  1518550204,
+                  -1522318790,
+                  -616729133
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyNTEwMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjFkOGZmOGY0NjEzNDBjZDczYzkxMGFhNmRmMjk5Mzk1ZjVlODBhZGE0OWU0MzBlZmE5YzU3ZjViZjc1NWY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "Xso6o7oXhlXBJ5n9H4wPNnGKzJvns2NbRYF172X2zC+xqoFbQ/nAs4h+RRl0QplD1UiVkK2CCqNMs+L7WmsECI6HeOoIQK7IxcXrqIg0gzj1Mz/+JLXEaF8ZBAv7kr5Sp81vExne+tYz19t6s9H/7PZx48YHAyp8ZkZJgkTIXl5aGCPtc2nWSHb1pEOPimt9jYqLCdybFdVkvh+Nrhit4AJEOUt3qHve+ZhtlhFSsDiAkEdqx0jl5xAL/DkhPP+LAFRy8ABZi9Teao0HQWdDZcbD1rNo6B9CCxQVCSnuqL1ffphwkHaA+LuNFQ3DP3AHmvODbjBLMAz0sEcimiiZy8eGkkEhirAW+EenX46CEVgrSPUYRC14lRMvt4uM4tsSNduO4+WPyoHxe/tYqVn/p4nuOEqRTP4M5s692RtgOpUHGbLAR3u7+kyEFC8vVtkIdSKNPX/Aaek92patzp4LDl7MXPmHjdxovnDZr5CSDW5VyLcAA8eeH3FHWpf8UPhshewlBbPU3s2It1NEptG3Mjg63+fAmkRFT+LWZCwtrLIKkxibBjLvuvdkhorg8nDZzuDgb1Qdtpl4LpapxCTM8/EFsE6VeUwkQ3K+EEo82wk5yklC9ARCdk/ZVq0MojwlrdVJfhH+FmHJgqbedvebG973SzNa4AZ57W4bGimgpqY="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "enchantments": {
+                  "green_thumb": 5
+                },
+                "timestamp": 1676404560000,
+                "modifier": "rooted",
+                "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
+                "rarity_upgrades": 1,
+                "donated_museum": 1,
+                "id": "BLOSSOM_BRACELET"
+              }
+            }
+          }
+        },
+        "riftSlots": {
+          "NECKLACE": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "Rift Necklace",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Rift Time: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+380s",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Hearts: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Rift Damage: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "dark_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Intelligence: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+6",
+                      "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Mana Regen: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+25%",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "The most powerful necklace ever",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "created by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Elise DCLXX",
+                      "color": "light_purple"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Becomes more powerful as you fill",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "the ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Rift Gallery",
+                      "color": "light_purple"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Secured: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "8/8 Timecharms",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "MYTHIC NECKLACE",
+                      "bold": true,
+                      "color": "light_purple"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1392209337,
+                  409088015,
+                  -1596203051,
+                  -815832544
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                    "signature": "FzgY6lZN6PQ1XTZPQoqvDUTMg6uM8Q5g6DMJi2LfxqOQKGgcV1exkBxRJDEzlPZafg/anFsxaovU6wocV+naHSqLiltkJAbTEByg3IKXfT3mThzVfVckZDJ1xo1SfspYlw60P15oquJ8oE9KLZDGTr4VL7r4ps51df8QyVDZ772qW5mOHzwTuarFoH6zJyz/DjFTAPBOKeV790yuGKIeS69K8L/cVHjR8c5SqEDvVYdjXNHEk9q4q+FX0FInxuw1JkjYOIHXrlYwj2OJpIAMjHXBbCyhCrkZnq7uEJ46XJ02SThjL6ozKUh3ueda7ReKtP7YypOTy96FScf7+jgPr6OlS/fKLNHowABLfC1nb7iKPWENTxE9l/EX6Q0GKoGzO0oxDxGk6YGk4XQjfTa9dOh2v8IBPVYayGlkHNaEkLgcq7z94a83X/NFq8kw6oD+nNb+COhVU7hDud2e+a7Ij79XdA2oziX/PZFq5vQNbKT9yAHPomhCrPszdbs5Re34kpo8z93UKRrWuPEWb+p1Xyr4kB8M5xkJlaYO/JIJ/C5/7/S7S+SvM5Eg7KS/KjBgnnt3hyVxdDTVCfUs9dvLs9ztbYnPoY0lL8BddGN6DnbV1Ejk1GzBGu2+AhRbICRy7/vx+2E3UrurIRJZs91hS2oSZAV6Jxh5RITzzDdwhs0="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "4518fb47-1b1c-4c0f-addd-eddfe25f7132",
+                "timestamp": "6/20/23 3:35 PM",
+                "id": "RIFT_NECKLACE_INSIDE"
+              }
+            }
+          },
+          "CLOAK": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Enigma Cloak",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Find ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Enigma Souls ",
+                      "color": "dark_purple"
+                    },
+                    {
+                      "text": "across the Rift",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Dimension.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Each adds ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+",
+                      "color": "green"
+                    },
+                    {
+                      "text": "20ф Rift Time ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "to this item.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Every ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "4 Souls",
+                      "color": "dark_purple"
+                    },
+                    {
+                      "text": ", go back to ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Enigma ",
+                      "color": "dark_purple"
+                    },
+                    {
+                      "text": "for",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "more upgrades.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "You found: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "52",
+                      "color": "light_purple"
+                    },
+                    {
+                      "text": "/52 Souls",
+                      "color": "dark_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "EPIC CLOAK",
+                      "bold": true,
+                      "color": "dark_purple"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  139781096,
+                  115750765,
+                  -1928896529,
+                  386246246
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDMzODg4MzYzMSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjZDliOTNjODg4MmRjMmJlZmU5YzEzZDc2NTlhMzM4ZWI3NDU0YjhhMThlNzUzMTBkZjA1MTAxOTRlMmQ3YTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                    "signature": "CfTVFXLxftB0CfAoZd5G3W6EwWHiJCtja3bIyB4vdjACtXP4vQ6Oy5A3lDP5Xig9f9QUt4rCs01VVex7JyLQi8EzOTPEq6fUupd7p4zA7UOld0oMkehlY//Tu1sNQku5tPACwio7RyYfrfuREHs6w1ftVm9484oQs88Yn8Q36dzh6+7HKc5a6EVVgD9VS9C0JFP8huyHB1tocZj5dkUsIw8MfT/BKPp1ClFLqFEJBDEpZcjY8ACJ8mTqFSWH/LBdTsqLY2GcDObsNP04XH5ybFg29xQgLE9GgXCehb/KzFwhWaxMwswS0kJvputV305GgPtI75BKzYpaZ6smxS2JLOLy3a8uB5bAknPiznynU5uWQOphJliWGP72X5If6DNFKt64b75K3hol5g2ArO0436Kfj9kZs+wMDmeT2LrUoW0X/6NEed41yv+IEpFiE1yh4fi57kKRVyPO1RFi+Z4TL4FiJ/K6y76k/OJ4F7xD3IYjMbntlfuDACxy6o7ZthkD1XUMN6myZ+6qrbUbneRj9rWQ19gGY50RRPCxfUX/un6o4Hl5tkCAwpAxC7IJIb2Pzg9MYS+WYBnDru5/PgvStCeW0MfIHG2IIhsBh09bZFTjSllhzPs8ZssKm8Yds6gSLyLTNsEZN0vM0hWiTfRQ2VksDOkoa5X9twt0/H+taoA="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "649c386f-cdeb-4b60-956b-f70b1872a32a",
+                "timestamp": "6/20/23 10:52 AM",
+                "id": "ENIGMA_CLOAK"
+              }
+            }
+          },
+          "BELT": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Golden Belt",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Rift Time: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+100s",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Intelligence: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4",
+                      "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Ability: Gravity Falls ",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Increases your total ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "ф Rift Time ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "by",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "5%",
+                      "color": "green"
+                    },
+                    {
+                      "text": " but it goes down ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "3% ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "faster.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Monster melee attacks reduce ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "1 ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "less",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "ф Rift Time",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "LEGENDARY BELT",
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1315994709,
+                  -819579852,
+                  -1721497307,
+                  1398063776
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMjEzNjgxMjE5MiwKICAicHJvZmlsZUlkIiA6ICI5YjhhN2NlMmJlYjI0NjdkYTJjZmU4MzQ1YTNjOTZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFyR2FtZXJTaGFsb20iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNlYjg3NGE1YWE5YWFiNWI5ZTA5Zjc5Zjc5ZTU5N2YzMjBhYWMzNmY0MmQ3ZmYwNzRhNmM2MjliNzY4OWY5MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                    "signature": "wpr6CzRBAQlE5reQaFsHRa81Vekb4+Okua1QizmH+DUBlS1w1B3fWVM1lqrylWKjkXFKzEPc85E7fQCVk3uuSNk43AQo96Y0PYuY2B384quzURcIS/7Ef0aQkuHnbXZ14b96NRpoEVHtGRyK9VoV/y+Jet0h9s8dRHEy1O6DxDsw2BiINe44a6Dj+KC+Yst0xb5OQ5X6eGWPzEcao0MEMMO2x+QJXakuNclQV6E8aUw1ZpjL9nKTlQsDwR1FBhwparZi3HMO1Rf/LAeMLLRSNpOC0Dk8WOYfdNxrdFivmUgu0PaUwf3nplV8oSkd8d7Q+Y5vy3UchGZCBSnJGton5kEpAiPzpjAvb2D0EE12Pb4hP/oOYV/ztBY/ucPjCtkB6eiy+G9hX50VI0BiXHPgzKP00VABpHUkhiM90cALHGPp3x2fjTN8oc6bJWZQtX4wqG8hZ2I+qqlIVNaZDGkw0t7B6JoO3X9NVWa26oVsbGY8638DdBHnHxxkBvIrjS9IM8QgsVvgGyYctmjyGdoDcarCtG4JGnaT8ENlBPGr7djZLuuTdWYQ2KWh9qEHANoQ48HfSiC46s1WJHAxArs9T/pPtIWdNQTe3GlqfMcqMyN6uabCU6MQDTSMjGXgv8/FnPX22y6UAEGt0jqbYq6YZ2SXPd36ux+C2vxSs/vY1C8="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "9dfba63b-5e8c-4231-8cd3-648a24e07929",
+                "timestamp": 1733950491304,
+                "id": "GOLDEN_BELT"
+              }
+            }
+          },
+          "GLOVES": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Shen's Ringalia",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Rift Time: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+50s",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "No matter the place or when, anyone",
+                      "italic": true,
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "marked by Shen will gain control.",
+                      "italic": true,
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "bold": true,
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "bold": true,
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "LEGENDARY BRACELET",
+                      "bold": true,
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -2049225607,
+                  237908696,
+                  -1866903590,
+                  -559462129
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMjEzNjgyNzM1NCwKICAicHJvZmlsZUlkIiA6ICI1MWI4MjcxNDE5YWE0NDA5YTFhNmU1OTcwYTc1MzgyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRHJha2U5OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZWJhZmIxMGUyOTliNDJjYzE3NzViZDMyYjI2NzM2OTNiNzlmNjdmYjM2ZTBiZmNjY2U0YWJmMjQxZDI1NTZmIgogICAgfQogIH0KfQ==",
+                    "signature": "Fecd9SPyFq1+Usykkow8YxVBFGpgHjgYC1Au78wZmgK9gCqzvRfaPYzey96ewqjrHGKsWliPmp/V6eyZe3HkP5doGFhYvNwIvZ3Yp1uUs1uAQCaJkimL/3LodZX7uOmb2Tka9M2ZPg+aiiVjXsEk1izc7Gf3XvQIm0zOhA194VasSdIW7zcWw8u0IqM4O+10GwER2l9iWQsumvBZw4MUFv49UdPwhuoY++twPvb9xwDO33NOhYu4QBqA2A7ty/jTgYIylvHiGy3YmgqyjN19R7BEcxc1Q7RPsfCyDMeegT/mnvHe3L13l3pFyqUflYAATPG6+qIu319Man8oRmA8K3BUPYbk/hJMVS2Zg5mLE5919ZRSUGTWCXgLk29QBE1CstGf3TR15pwzLG+/djkFw2Vjv7WhCBtd85+bCuImRfo+vX/PDzeZrMuGuPKQYNVdU/vhkYj2N5hvNbsI6ZrIIh+L7zNzLbJ94KwApG1kK8EgT7izhwX6rQoWvCMXArEcoW1ClvzXRSrNnFNufKH2HDC8e//g18FqN+SI5kexWq9np79lwvpj/kkrT82IH367rOEsK3x6XZx9aWLkcSapVFBh2CCKz/ZaZCIV2i2oYBt0S3s4mXaE1raPyVx8C3CxKeBNVgIqnmWb3rSJAQLd67I9Q25Y5mhbQ/fQP+kvKx8="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "9de15843-3033-43e6-821e-04e1c90ff896",
+                "timestamp": 1733948168907,
+                "id": "SHENS_RINGALIA"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

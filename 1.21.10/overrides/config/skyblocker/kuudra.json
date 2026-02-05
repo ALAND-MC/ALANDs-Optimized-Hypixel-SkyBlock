@@ -1,0 +1,22 @@
+{
+  "2c3c97d72b1c4355b856dae991ddf5db": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "faction": "MAGE",
+      "kuudraPet": {
+        "tier": "LEGENDARY",
+        "uuid": "dccd24f2-7902-4780-a205-d68437725c6c",
+        "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_EPIC",
+        "name": "[Lvl 100] Kuudra",
+        "type": "KUUDRA",
+        "exp": 2.574349766972715E7
+      },
+      "kuudraKeyPrices": {
+        "KUUDRA_INFERNAL_TIER_KEY": 2328000,
+        "KUUDRA_BURNING_TIER_KEY": 582000,
+        "KUUDRA_FIERY_TIER_KEY": 1164000,
+        "KUUDRA_HOT_TIER_KEY": 310400,
+        "KUUDRA_TIER_KEY": 155200
+      }
+    }
+  }
+}

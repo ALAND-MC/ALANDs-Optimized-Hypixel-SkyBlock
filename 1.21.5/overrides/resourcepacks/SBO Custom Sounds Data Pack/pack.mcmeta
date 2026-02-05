@@ -1,9 +1,0 @@
-{
-  "pack": {
-    "description": "SBO Custom Sounds",
-    "pack_format": 55,
-    "supported_formats": {
-      "resource": [1, 999]
-    }
-  }
-}

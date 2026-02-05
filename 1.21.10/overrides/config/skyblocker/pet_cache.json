@@ -1,0 +1,22 @@
+{
+  "2c3c97d72b1c4355b856dae991ddf5db": {
+    "4babc446-fe9c-4420-96dd-c97e51df9e5f": {
+      "tier": "LEGENDARY",
+      "name": "[Lvl 33] Bingo",
+      "type": "BINGO",
+      "exp": 19614.250527999942
+    },
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "tier": "LEGENDARY",
+      "name": "Hedgehog",
+      "type": "HEDGEHOG",
+      "exp": 2.535323E7
+    },
+    "": {
+      "tier": "COMMON",
+      "name": "Precursor Drone",
+      "type": "PRECURSOR_DRONE",
+      "exp": 5624785.0
+    }
+  }
+}
