@@ -51,7 +51,15 @@
       "Send Only PB": false,
       "Numbers After Decimal": 2.0,
       "Show Tick Time": false,
-      "KuudraT5": {},
+      "KuudraT5": {
+        "§2Supplies": 40.219,
+        "§bBuild": 22.496,
+        "§dEaten": 6.623,
+        "§cStun": 0.367,
+        "§4DPS": 7.71,
+        "§4Cleared": 31.304,
+        "Total": 126.729
+      },
       "KuudraT4": {},
       "KuudraT3": {},
       "KuudraT2": {},
@@ -142,6 +150,7 @@
     "enabled": true,
     "settings": {
       "Sorting": "Odin Sorting",
+      "On Key Release": false,
       "Only Classes": false,
       "Color Style": false,
       "Background Color": "#262626BF",
@@ -403,6 +412,8 @@
     "name": "Dungeon Waypoints",
     "enabled": false,
     "settings": {
+      "Active Packs": "dungeon-waypoint-config",
+      "Active Edit Pack": "dungeon-waypoint-config",
       "Allow Edits": false,
       "Allow Midair": false,
       "Reach Color": "#00FFD56D",
@@ -411,7 +422,7 @@
       "Title Scale": 1.0000000149011612,
       "Global Depth": false,
       "Waypoint Type": "None",
-      "Color pallet": "None",
+      "Color palette": "None",
       "Color": "#55FF55FF",
       "Filled": false,
       "Depth check": false,
@@ -419,6 +430,11 @@
       "Size X": 1.0,
       "Size Y": 1.0,
       "Size Z": 1.0,
+      "None Color": "#55FF55FF",
+      "Normal Color": "#FF5555FF",
+      "Secret Color": "#5555FFFF",
+      "Etherwarp Color": "#FFAA00FF",
+      "Cycle Waypoint": "key.keyboard.unknown",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -977,7 +993,7 @@
           "extended": true
         }
       },
-      "Keybind": "key.keyboard.right.shift"
+      "Keybind": "key.keyboard.unknown"
     }
   },
   {

@@ -55,8 +55,8 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.9 for 1.21.10.zip","file/Dark Skyblock v0.2.1 - 1.21.5+.zip","file/§6§lCC Click Sound §e§l1.21.10.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dark Skyblock v0.2.1 - 1.21.5+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
+resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.11 for 1.21.10+.zip","file/Dark Skyblock v0.2.2 - 1.21.5+.zip","file/§6§lCC Click Sound §e§l1.21.10.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Dark Skyblock v0.2.2 - 1.21.5+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -207,7 +207,7 @@ key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:0.5022075055187638
 soundCategory_music:0.0
-soundCategory_record:0.20892018779342736
+soundCategory_record:0.20422535211267606
 soundCategory_weather:0.20892018779342716
 soundCategory_block:0.20892018779342736
 soundCategory_hostile:0.1009389671361503

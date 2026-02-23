@@ -1,10 +1,12 @@
-#Enables parallel processing of entity.
+#Enables parallel processing of entities.
 disabled = false
-#Maximum number of threads to use for parallel processing. Set to -1 to use default value. Note: If 'virtualThreads' is enabled, this setting will be ignored.
-paraMax = -1
-#List of entity class for sync processing.
-synchronizedEntities = ["minecraft:experience_orb", "minecraft:tnt", "minecraft:item"]
-#Enables parallel processing of entity spawns. Warning, incompatible with Carpet mod lagFreeSpawning rule.
+#List of entity IDs or namespaces (*):
+#  - 'minecraft:zombie' = specific entity
+#  - 'minecraft:*'      = all entities in namespace
+synchronizedEntities = ["minecraft:tnt", "minecraft:experience_orb", "minecraft:item"]
+#Enables async entity spawning. WARNING: incompatible with Carpet's lagFreeSpawning.
 enableAsyncSpawn = true
-#Enables async processing of random ticks.
+#Experimental! Enables async random ticks.
 enableAsyncRandomTicks = false
+#Maximum worker threads. -1 = auto.
+maxThreads = -1

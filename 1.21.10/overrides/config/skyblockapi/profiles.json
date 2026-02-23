@@ -7,7 +7,6 @@
         "Pear": "2c3c97d7-2b1c-4355-b856-dae991ddf5db",
         "Grapes": "c537f596-b1ea-4086-a729-4e1990b3b690"
       },
-      "bingoRank": "LEGENDARY",
       "profileType": {
         "Pear": "NORMAL",
         "raeP": "NORMAL",
@@ -16,13 +15,13 @@
         "Grapes": "BINGO"
       },
       "sbLevel": {
-        "Pear": 538,
+        "Pear": 539,
         "Tomato": 2,
         "Cucumber": 3,
         "Grapes": 2
       },
       "sbLevelProgress": {
-        "Pear": 18,
+        "Pear": 26,
         "Tomato": 10,
         "Cucumber": 62,
         "Grapes": 91

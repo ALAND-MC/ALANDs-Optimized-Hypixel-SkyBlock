@@ -3,16 +3,16 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "sowdust": 1855805,
+        "sowdust": 4020896,
         "northStars": 704,
-        "soulflow": 7479,
-        "bits": 1472037,
+        "soulflow": 7406,
+        "bits": 1468887,
         "gems": 0,
-        "copper": 259004,
+        "copper": 287972,
         "personalBank": 0,
-        "coopBank": 11700000000,
-        "motes": 4266903,
-        "purse": 6.3032016E7,
+        "coopBank": 11200000000,
+        "motes": 6215318,
+        "purse": 1.37244862E8,
         "purseType": "NORMAL"
       },
       "Tomato": {

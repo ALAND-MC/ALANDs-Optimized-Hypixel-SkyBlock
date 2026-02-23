@@ -15,6 +15,7 @@
     "displayScaling": false,
     "theme": "skyblock-pv:neu",
     "socials": true,
+    "rememberLastTab": true,
     "Dev": {
         "devMode": false,
         "hoppityParser": false,

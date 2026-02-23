@@ -97,7 +97,9 @@
         // Valid Values: TOP, CENTER, BOTTOM
         "vertical_alignment": "CENTER",
         // Valid Values: LEFT, CENTER, RIGHT
-        "horizontal_alignment": "RIGHT"
+        "horizontal_alignment": "RIGHT",
+        // Valid Values: START, CENTER, END
+        "defaultTextAlignment": "START"
     },
     "Background": {
         "enabled": true,
@@ -109,6 +111,7 @@
         "margin": 0,
         // Range: 0 - 20
         "radius": 5,
+        "blurEnabled": false,
         "borderEnabled": false,
         // Range: 0 - 10
         "borderSize": 3,

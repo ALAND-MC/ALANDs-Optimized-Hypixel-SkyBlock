@@ -2,7 +2,7 @@
   "version": 4,
   "general": {
     "enableTips": false,
-    "acceptReparty": false,
+    "acceptReparty": true,
     "speedPresets": {
       "enableSpeedPresets": false
     },
@@ -32,7 +32,7 @@
       "enableObtainedDate": false,
       "enableMuseumInfo": false,
       "enableExoticTooltip": false,
-      "enableAccessoriesHelper": false,
+      "enableAccessoriesHelper": true,
       "dungeonQuality": true,
       "showEssenceCost": false,
       "enableEstimatedItemValue": false,
@@ -143,7 +143,7 @@
       "nameSorting": "DEFAULT"
     },
     "fancyAuctionHouse": {
-      "enabled": true,
+      "enabled": false,
       "highlightCheapBIN": false
     },
     "bars": {
@@ -197,19 +197,19 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "Severed Hand",
-        "moon",
-        "turbo-sun"
+        "warty",
+        "disc",
+        "Severed Hand"
       ],
       "auctionHistory": [
-        "Rabbit the Fish",
-        "SkyMart Hyper Vacuum",
-        "rabbit the f"
+        "plush",
+        "Green Bandana",
+        "Discrite"
       ],
       "museumHistory": [
-        "ana",
-        "secret",
-        "Zombie Commander Whip"
+        "hydro",
+        "whi",
+        "ana"
       ]
     },
     "bazaarQuickQuantities": {
@@ -266,6 +266,7 @@
     "enableCopyUnderbidPrice": false,
     "enableBuildersWandPreview": false,
     "enableAnvilHelper": true,
+    "enableAccessoriesHelperWidget": true,
     "mythologicalRitual": {
       "enableMythologicalRitualHelper": false
     },
@@ -349,7 +350,7 @@
     }
   },
   "dungeons": {
-    "fancyPartyFinder": true,
+    "fancyPartyFinder": false,
     "croesusHelper": true,
     "salvageHelper": false,
     "onlyHighlightDonatedItems": false,
@@ -440,6 +441,7 @@
     "secretWaypoints": {
       "enableSecretWaypoints": true,
       "waypointType": "OUTLINE",
+      "adaptiveBoxSize": false,
       "showSecretText": true,
       "enableEntranceWaypoints": true,
       "enableSuperboomWaypoints": true,
@@ -449,7 +451,7 @@
       "enableWitherWaypoints": true,
       "enableRedstoneKeyWaypoints": true,
       "enableLeverWaypoints": true,
-      "enableFairySoulWaypoints": true,
+      "enableFairySoulWaypoints": false,
       "enableStonkWaypoints": true,
       "enableAotvWaypoints": true,
       "enablePearlWaypoints": true,
@@ -595,6 +597,10 @@
       "autoShareCorpses": false,
       "enableCorpseProfitTracker": false,
       "forceEnglishCorpseProfitTracker": true
+    },
+    "blockBreakPrediction": {
+      "enabled": false,
+      "playSound": false
     }
   },
   "farming": {
@@ -671,11 +677,16 @@
   "slayers": {
     "highlightMinis": "GLOW",
     "highlightBosses": "GLOW",
+    "highlightColor": -47104,
     "displayBossbar": false,
     "bossSpawnAlert": false,
     "miniBossSpawnAlert": false,
+    "alertOtherMinibosses": false,
+    "showMiniBossNameInAlert": false,
     "slainTime": false,
     "enableHud": false,
+    "hideSlayerMinibossSpawn": "PASS",
+    "highlightUnclaimedRewards": true,
     "callMaddox": {
       "sendMessageOnFail": true,
       "sendMessageOnKill": false
@@ -702,12 +713,22 @@
     },
     "blazeSlayer": {
       "firePillarCountdown": "SOUND_AND_VISUAL",
-      "attunementHighlights": true
+      "attunementHighlights": true,
+      "muteBlazeSounds": false,
+      "hideHellionShield": "PASS"
+    },
+    "wolfSlayer": {
+      "muteWolfSounds": false,
+      "hideSvenPupNametag": true
+    },
+    "spiderSlayer": {
+      "muteSpiderSounds": false
     }
   },
   "chat": {
     "skyblockXpMessages": false,
     "confirmationPromptHelper": false,
+    "toastDisplayDuration": 4.0,
     "hideAbility": "PASS",
     "hideHeal": "PASS",
     "hideAOTE": "PASS",

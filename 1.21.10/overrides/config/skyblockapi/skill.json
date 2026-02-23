@@ -4,15 +4,15 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "exp": {
-          "FORAGING": 1.2813952E8,
-          "FARMING": 6.430349E8,
-          "CARPENTRY": 2.5288685E8,
-          "HUNTING": 4292817.0,
-          "SOCIAL": 275279.0,
-          "COMBAT": 8.406057E8,
+          "FORAGING": 1.2888905E8,
+          "FARMING": 6.62369E8,
+          "CARPENTRY": 2.6087078E8,
+          "HUNTING": 4321907.0,
+          "SOCIAL": 275526.0,
+          "COMBAT": 8.414462E8,
           "FISHING": 2.1427198E8,
-          "ENCHANTING": 6.104716E9,
-          "MINING": 4.023494E8
+          "ENCHANTING": 6.1547694E9,
+          "MINING": 4.0240474E8
         }
       },
       "Cucumber": {
@@ -27,7 +27,7 @@
       "Grapes": {
         "exp": {
           "FORAGING": 6.4072436E7,
-          "MINING": 1.1167246E8,
+          "MINING": 1.116726E8,
           "FARMING": 1.1167248E8,
           "ENCHANTING": 1.1167271E8,
           "COMBAT": 1.1167248E8

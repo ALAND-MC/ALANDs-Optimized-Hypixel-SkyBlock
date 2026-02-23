@@ -11,9 +11,15 @@
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"VERMIN_VAPORIZER_GARDEN_CHIP\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"GRAND_EXP_BOTTLE\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"DOUBLE_PLANT\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"GLACITE_GOLEM;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PHOENIX;4\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PHOENIX;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"MONKEY;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"FROG;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"OWL;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"LION;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"MOSQUITO;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PARROT;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
