@@ -1,0 +1,12 @@
+{
+    // The public IP/host name to send to clients
+    serverIp: "http://127.0.0.1",
+    // The port to host content on, 0 to choose a random one or -1 to reuse the minecraft port on servers (requires restart)
+    port: 35535,
+    // The port to send to clients (for reverse proxies, -1 to disable)
+    portOverride: -1,
+    // The maximum number of concurrent connections to this server
+    maxConnections: 20,
+    // Whether files from config/wwwroot should be hosted as static resources
+    enableFileHost: false
+}

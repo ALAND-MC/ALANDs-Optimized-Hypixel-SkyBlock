@@ -1,0 +1,85 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "sowdust": 26906876,
+        "northStars": 704,
+        "soulflow": 7392,
+        "bits": 1541457,
+        "gems": 0,
+        "copper": 291845,
+        "personalBank": 0,
+        "coopBank": 12000000000,
+        "motes": 94808,
+        "purse": 4.894524E7,
+        "purseType": "NORMAL"
+      },
+      "Tomato": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 1651.2,
+        "purseType": "NORMAL"
+      },
+      "Cucumber": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 477.0,
+        "purseType": "NORMAL"
+      },
+      "Grapes": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 4907.4,
+        "purseType": "NORMAL"
+      },
+      "Blueberry": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 5.0,
+        "purseType": "NORMAL"
+      },
+      "Lime": {
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "purse": 0.0,
+        "purseType": "NORMAL"
+      }
+    }
+  }
+}

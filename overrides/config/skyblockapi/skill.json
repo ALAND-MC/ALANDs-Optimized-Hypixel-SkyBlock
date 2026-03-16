@@ -1,0 +1,49 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "exp": {
+          "FORAGING": 1.2956656E8,
+          "FARMING": 6.771745E8,
+          "CARPENTRY": 2.7693277E8,
+          "HUNTING": 4371115.0,
+          "SOCIAL": 275526.0,
+          "COMBAT": 8.438563E8,
+          "FISHING": 2.1436446E8,
+          "ENCHANTING": 6.208239E9,
+          "MINING": 4.0250486E8
+        }
+      },
+      "Cucumber": {
+        "exp": {
+          "FORAGING": 6.897245E7,
+          "MINING": 9.157244E7,
+          "FARMING": 1.0467341E8,
+          "CARPENTRY": 5.1172452E7,
+          "COMBAT": 1.04672536E8,
+          "FISHING": 5.517257E7
+        }
+      },
+      "Grapes": {
+        "exp": {
+          "FORAGING": 6.4072436E7,
+          "MINING": 1.116726E8,
+          "FARMING": 1.1167248E8,
+          "ENCHANTING": 1.1167271E8,
+          "COMBAT": 1.1167248E8
+        }
+      },
+      "Blueberry": {
+        "exp": {
+          "FORAGING": 7.417246E7
+        }
+      },
+      "Lime": {
+        "exp": {
+          "FORAGING": 7.4172456E7
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    islands: {
+        enableEnd: true,
+        enableRift: true,
+        enableNether: false,
+        enableWinter: true
+    },
+    zones: {
+        enableGhosts: true,
+        enableGlaciteTunnels: true,
+        enableDungeons: true,
+        enableKuudra: false
+    },
+    extras: {
+        removeEntityFire: false,
+        enableCustomFire: "none",
+        enableCustomLava: "none"
+    }
+}

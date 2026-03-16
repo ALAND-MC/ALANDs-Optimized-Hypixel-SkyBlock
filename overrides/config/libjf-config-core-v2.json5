@@ -1,0 +1,4 @@
+{
+    // Automatically reload configs when they are changed
+    watchForChanges: true
+}

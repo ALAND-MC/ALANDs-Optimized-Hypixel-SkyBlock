@@ -1,0 +1,6 @@
+{
+    // Valid: [Google, DeepLX, LibreTranslate, Noop]
+    translationService: "Google",
+    libreTranslateHost: null,
+    throttleMillis: 150
+}
