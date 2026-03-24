@@ -32,7 +32,7 @@
         "dianaBurrowDetect": true,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
-         * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR
+         * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, Museum
          */
         "allowedWarps": [
             "WIZARD",

@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.4494491E7,
+              "exp": 4.456248059847113E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -87,7 +87,7 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.2068915891539985E8,
+              "exp": 2.206940297061355E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -308,7 +308,7 @@
             {
               "petInternalName": "PIG;4",
               "heldItemInternalName": "PET_ITEM_FLYING_PIG",
-              "exp": 2.5874875E7,
+              "exp": 2.6029171731914032E7,
               "uuid": "5ffdcb5b-2ba0-4817-b3e2-d773bb4793a5"
             },
             {
@@ -437,13 +437,13 @@
             {
               "petInternalName": "FROG;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.540762571720859E7,
+              "exp": 2.5408772709208596E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.9613065749076414E8,
+              "exp": 2.966477584373635E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -467,7 +467,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
-              "exp": 7.918363467179534E7,
+              "exp": 9.299123544598633E7,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -484,7 +484,7 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 9144062.117098931,
+              "exp": 9909884.787372928,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
             }
           ],

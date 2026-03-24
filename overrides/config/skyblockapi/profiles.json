@@ -2,14 +2,6 @@
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "coop": {},
-      "profileId": {
-        "Pear": "2c3c97d7-2b1c-4355-b856-dae991ddf5db",
-        "Grapes": "c537f596-b1ea-4086-a729-4e1990b3b690",
-        "Blueberry": "bb55420c-44d8-47f4-94ec-63ad7ebf010b",
-        "Lime": "a9ddd34c-c914-4115-8284-6f6a075820e9",
-        "Cucumber": "b4fc16cc-b939-4728-bdce-ac71e46c0c85"
-      },
       "profileType": {
         "Pear": "NORMAL",
         "raeP": "NORMAL",
@@ -26,10 +18,18 @@
         "Grapes": 2
       },
       "sbLevelProgress": {
-        "Pear": 64,
+        "Pear": 73,
         "Tomato": 10,
         "Cucumber": 65,
         "Grapes": 91
+      },
+      "coop": {},
+      "profileId": {
+        "Pear": "2c3c97d7-2b1c-4355-b856-dae991ddf5db",
+        "Grapes": "c537f596-b1ea-4086-a729-4e1990b3b690",
+        "Blueberry": "bb55420c-44d8-47f4-94ec-63ad7ebf010b",
+        "Lime": "a9ddd34c-c914-4115-8284-6f6a075820e9",
+        "Cucumber": "b4fc16cc-b939-4728-bdce-ac71e46c0c85"
       }
     }
   }

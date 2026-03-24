@@ -1,7 +1,7 @@
 {
   "pack": {
     "description": "SBO Custom Sounds",
-    "pack_format": 69,
+    "pack_format": 75,
     "min_format": 65,
     "max_format": 999
   }

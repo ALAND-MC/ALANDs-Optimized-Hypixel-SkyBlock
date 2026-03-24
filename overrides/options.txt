@@ -1,6 +1,8 @@
-version:4556
+version:4671
 ao:true
 biomeBlendRadius:2
+chunkSectionFadeInTime:0.0
+cutoutLeaves:true
 enableVsync:true
 entityDistanceScaling:1.0
 entityShadows:false
@@ -11,11 +13,14 @@ fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
+graphicsPreset:"custom"
 prioritizeChunkUpdates:0
 fullscreen:false
-graphicsMode:1
 guiScale:3
+maxAnisotropyBit:2
+textureFiltering:0
 maxFps:260
+improvedTransparency:false
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -27,6 +32,8 @@ renderDistance:8
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
+vignette:true
+weatherRadius:10
 autoJump:false
 rotateWithMinecart:false
 operatorItemsTab:false
@@ -55,7 +62,7 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.11 for 1.21.10+.zip","file/Dark Skyblock v1.1.zip","file/§6§lCC Click Sound §e§l1.21.10.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
+resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.11 for 1.21.10+.zip","file/Dark Skyblock v1.1.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
 incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
 lastServer:
 lang:en_us
@@ -96,7 +103,7 @@ telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
 startedCleanly:true
-showNowPlayingToast:false
+musicToast:"never"
 musicFrequency:"DEFAULT"
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -114,6 +121,8 @@ key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
+key_key.toggleGui:key.keyboard.f1
+key_key.toggleSpectatorShaderEffects:key.keyboard.f4
 key_key.screenshot:key.keyboard.f2
 key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
@@ -125,6 +134,8 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.unknown
 key_key.quickActions:key.keyboard.unknown
+key_key.debug.overlay:key.keyboard.f3
+key_key.debug.modifier:key.keyboard.f3
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -134,9 +145,30 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.debug.reloadChunk:key.keyboard.a
+key_key.debug.showHitboxes:key.keyboard.b
+key_key.debug.clearChat:key.keyboard.d
+key_key.debug.crash:key.keyboard.c
+key_key.debug.showChunkBorders:key.keyboard.unknown
+key_key.debug.showAdvancedTooltips:key.keyboard.h
+key_key.debug.copyRecreateCommand:key.keyboard.i
+key_key.debug.spectate:key.keyboard.n
+key_key.debug.switchGameMode:key.keyboard.f4
+key_key.debug.debugOptions:key.keyboard.f6
+key_key.debug.focusPause:key.keyboard.p
+key_key.debug.dumpDynamicTextures:key.keyboard.s
+key_key.debug.reloadResourcePacks:key.keyboard.t
+key_key.debug.profiling:key.keyboard.l
+key_key.debug.copyLocation:key.keyboard.c
+key_key.debug.dumpVersion:key.keyboard.v
+key_key.debug.profilingChart:key.keyboard.1
+key_key.debug.fpsCharts:key.keyboard.2
+key_key.debug.networkCharts:key.keyboard.3
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_options.narrator_hotkey:key.keyboard.unknown
+key_key.stfu.narrator_hotkey:key.keyboard.unknown
+key_key.stfu.skip_music:key.keyboard.unknown
+key_key.stfu.toggle_music:key.keyboard.unknown
 key_key.aaron-mod.zoom:key.keyboard.unknown
 key_customscoreboard.keybinds.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
@@ -153,17 +185,15 @@ key_firmament.config.wardrobe-keybinds.slot-6:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-7:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-8:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.slot-9:key.keyboard.unknown
-key_firmament.config.fixes.auto-sprint-keybinding:key.keyboard.unknown
-key_firmament.config.fixes.peek-chat:key.keyboard.unknown
-key_firmament.config.diana.ancestral-teleport:key.keyboard.unknown
+key_firmament.config.price-data.enable-keybind:key.keyboard.unknown
+key_firmament.config.price-data.stack-size-keybind:key.keyboard.unknown
+key_firmament.config.item-hotkeys.global-trade-interface:key.keyboard.unknown
 key_firmament.config.slot-locking.lock:key.keyboard.unknown
 key_firmament.config.slot-locking.lock-uuid:key.keyboard.unknown
 key_firmament.config.slot-locking.bind:key.keyboard.unknown
 key_firmament.config.junk-highlighter.highlight:key.keyboard.unknown
-key_firmament.config.price-data.enable-keybind:key.keyboard.unknown
-key_firmament.config.price-data.stack-size-keybind:key.keyboard.unknown
-key_firmament.config.item-hotkeys.global-trade-interface:key.keyboard.unknown
-key_firmament.config.block-zapper-overlay.undo-key:key.keyboard.unknown
+key_firmament.config.fixes.auto-sprint-keybinding:key.keyboard.unknown
+key_firmament.config.fixes.peek-chat:key.keyboard.unknown
 key_firmament.config.power-user.copy-item-id:key.keyboard.unknown
 key_firmament.config.power-user.copy-texture-pack-id:key.keyboard.unknown
 key_firmament.config.power-user.copy-nbt-data:key.keyboard.unknown
@@ -176,6 +206,8 @@ key_firmament.config.power-user.export-item-stack:key.keyboard.unknown
 key_firmament.config.power-user.export-recipe:key.keyboard.unknown
 key_firmament.config.power-user.export-npc-location:key.keyboard.unknown
 key_firmament.config.power-user.slot-numbers:key.keyboard.unknown
+key_firmament.config.block-zapper-overlay.undo-key:key.keyboard.unknown
+key_firmament.config.diana.ancestral-teleport:key.keyboard.unknown
 key_key.gammautils.gammaToggle:key.keyboard.period
 key_key.gammautils.increaseGamma:key.keyboard.unknown
 key_key.gammautils.decreaseGamma:key.keyboard.unknown

@@ -1,22 +1,24 @@
 {
   "2c3c97d72b1c4355b856dae991ddf5db": {
     "4babc446-fe9c-4420-96dd-c97e51df9e5f": {
-      "tier": "LEGENDARY",
       "name": "[Lvl 33] Bingo",
       "type": "BINGO",
-      "exp": 19614.250527999942
+      "exp": 19614.250527999942,
+      "tier": "LEGENDARY"
     },
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "tier": "MYTHIC",
-      "name": "Rabbit",
-      "type": "RABBIT",
-      "exp": 2.535323E7
+      "name": "[Lvl 137] Rose Dragon",
+      "type": "ROSE_DRAGON",
+      "exp": 9.21827470672409E7,
+      "tier": "LEGENDARY",
+      "uuid": "5a977135-9b97-41cb-bbc0-07920f007a75",
+      "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_EPIC"
     },
     "": {
-      "tier": "COMMON",
       "name": "Precursor Drone",
       "type": "PRECURSOR_DRONE",
-      "exp": 5624785.0
+      "exp": 5624785.0,
+      "tier": "COMMON"
     }
   }
 }

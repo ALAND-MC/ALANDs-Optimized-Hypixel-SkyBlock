@@ -50,19 +50,9 @@
             "lastUpdated": 1767112633461
           },
           {
-            "id": "MILLENIA_OLD_BLAZE_ASHES",
-            "amount": 337,
-            "lastUpdated": 1767112633462
-          },
-          {
             "id": "MUTATED_BLAZE_ASHES",
             "amount": 375,
             "lastUpdated": 1767112633462
-          },
-          {
-            "id": "SPECTRE_DUST",
-            "amount": 4219,
-            "lastUpdated": 1767112633463
           },
           {
             "id": "SULPHURIC_COAL",
@@ -303,11 +293,6 @@
             "id": "FTX_3070",
             "amount": 4,
             "lastUpdated": 1768074387553
-          },
-          {
-            "id": "OIL_BARREL",
-            "amount": 0,
-            "lastUpdated": 1768074387554
           },
           {
             "id": "PRECURSOR_APPARATUS",
@@ -745,11 +730,6 @@
             "lastUpdated": 1768514732059
           },
           {
-            "id": "CHUM",
-            "amount": 2316,
-            "lastUpdated": 1768514732059
-          },
-          {
             "id": "SORROW",
             "amount": 52,
             "lastUpdated": 1768514732059
@@ -945,11 +925,6 @@
             "lastUpdated": 1768676107865
           },
           {
-            "id": "MATCH_STICKS",
-            "amount": 100,
-            "lastUpdated": 1768676107870
-          },
-          {
             "id": "SAPLING:4",
             "amount": 0,
             "lastUpdated": 1768735243037
@@ -1085,11 +1060,6 @@
             "lastUpdated": 1768825501524
           },
           {
-            "id": "BLUE_ICE_HUNK",
-            "amount": 7,
-            "lastUpdated": 1768858579611
-          },
-          {
             "id": "GLACITE",
             "amount": 86909,
             "lastUpdated": 1768898544539
@@ -1103,16 +1073,6 @@
             "id": "STONE",
             "amount": 126774,
             "lastUpdated": 1768898544544
-          },
-          {
-            "id": "TITANIUM_ORE",
-            "amount": 37112,
-            "lastUpdated": 1768898544545
-          },
-          {
-            "id": "TUNGSTEN",
-            "amount": 45658,
-            "lastUpdated": 1768924044647
           },
           {
             "id": "LOG:2",
@@ -1163,11 +1123,6 @@
             "id": "GLOWSTONE_DUST",
             "amount": 95943,
             "lastUpdated": 1769850732257
-          },
-          {
-            "id": "TREASURITE",
-            "amount": 33,
-            "lastUpdated": 1769850732258
           },
           {
             "id": "DUNGEON_DECOY",
@@ -1305,21 +1260,6 @@
             "lastUpdated": 1769850732262
           },
           {
-            "id": "BEZOS",
-            "amount": 159,
-            "lastUpdated": 1769850732262
-          },
-          {
-            "id": "TENTACLE_MEAT",
-            "amount": 716,
-            "lastUpdated": 1769850732262
-          },
-          {
-            "id": "HALLOWED_SKULL",
-            "amount": 10,
-            "lastUpdated": 1769850732263
-          },
-          {
             "id": "LUMINO_FIBER",
             "amount": 5,
             "lastUpdated": 1769850732263
@@ -1340,28 +1280,13 @@
             "lastUpdated": 1769850732263
           },
           {
-            "id": "COMPACT_OOZE",
-            "amount": 20,
-            "lastUpdated": 1769850732263
-          },
-          {
             "id": "ENCHANTED_SLIME_BALL",
             "amount": 47,
             "lastUpdated": 1769850732263
           },
           {
-            "id": "REKINDLED_EMBER_FRAGMENT",
-            "amount": 19,
-            "lastUpdated": 1769850732264
-          },
-          {
             "id": "THUNDER_SHARDS",
             "amount": 421,
-            "lastUpdated": 1769850732264
-          },
-          {
-            "id": "CORRUPTED_NETHER_STAR",
-            "amount": 2148,
             "lastUpdated": 1769850732264
           },
           {
@@ -1472,11 +1397,6 @@
           {
             "id": "FLAWED_AQUAMARINE_GEM",
             "amount": 493,
-            "lastUpdated": 1769850732267
-          },
-          {
-            "id": "CAN_OF_WORMS",
-            "amount": 6,
             "lastUpdated": 1769850732267
           },
           {
@@ -1595,16 +1515,6 @@
             "lastUpdated": 1770151763990
           },
           {
-            "id": "KADA_LEAD",
-            "amount": 936,
-            "lastUpdated": 1770151763990
-          },
-          {
-            "id": "MAGMAG",
-            "amount": 286,
-            "lastUpdated": 1770151763990
-          },
-          {
             "id": "YOUNG_FRAGMENT",
             "amount": 1465,
             "lastUpdated": 1770151763990
@@ -1700,11 +1610,6 @@
             "lastUpdated": 1770197673270
           },
           {
-            "id": "SQUASH",
-            "amount": 527,
-            "lastUpdated": 1770278522264
-          },
-          {
             "id": "NOCTILUME",
             "amount": 0,
             "lastUpdated": 1770295851219
@@ -1743,11 +1648,6 @@
             "id": "PUFFERCLOUD",
             "amount": 0,
             "lastUpdated": 1770630539798
-          },
-          {
-            "id": "COAL",
-            "amount": 104984,
-            "lastUpdated": 1770646383190
           },
           {
             "id": "STOPLIGHT_PETAL",
@@ -1833,11 +1733,6 @@
             "id": "DOUBLE_PLANT:4",
             "amount": 0,
             "lastUpdated": 1771252494175
-          },
-          {
-            "id": "CACTUS",
-            "amount": 2659,
-            "lastUpdated": 1771322677681
           },
           {
             "id": "ENDER_PEARL",
@@ -1940,34 +1835,9 @@
             "lastUpdated": 1771610305525
           },
           {
-            "id": "RAW_FISH:3",
-            "amount": 7653,
-            "lastUpdated": 1771610305525
-          },
-          {
             "id": "AGARIMOO_TONGUE",
             "amount": 9,
             "lastUpdated": 1771610305523
-          },
-          {
-            "id": "SPONGE",
-            "amount": 4648,
-            "lastUpdated": 1771610305527
-          },
-          {
-            "id": "PRISMARINE_CRYSTALS",
-            "amount": 7829,
-            "lastUpdated": 1771610305525
-          },
-          {
-            "id": "PRISMARINE_SHARD",
-            "amount": 7663,
-            "lastUpdated": 1771610305525
-          },
-          {
-            "id": "BLUE_RING",
-            "amount": 0,
-            "lastUpdated": 1771610305524
           },
           {
             "id": "BROKEN_RADAR",
@@ -1998,11 +1868,6 @@
             "id": "RUSTY_COIN",
             "amount": 0,
             "lastUpdated": 1771610305525
-          },
-          {
-            "id": "TORN_CLOTH",
-            "amount": 0,
-            "lastUpdated": 1771610305527
           },
           {
             "id": "WORM_MEMBRANE",
@@ -2040,21 +1905,6 @@
             "lastUpdated": 1771618146919
           },
           {
-            "id": "MYCEL",
-            "amount": 102960,
-            "lastUpdated": 1771619056580
-          },
-          {
-            "id": "MITHRIL_ORE",
-            "amount": 105719,
-            "lastUpdated": 1771619056580
-          },
-          {
-            "id": "ICE_HUNK",
-            "amount": 61,
-            "lastUpdated": 1771695526311
-          },
-          {
             "id": "PURPLE_CANDY",
             "amount": 3703,
             "lastUpdated": 1771695526325
@@ -2080,36 +1930,6 @@
             "lastUpdated": 1771928925004
           },
           {
-            "id": "UMBER",
-            "amount": 85122,
-            "lastUpdated": 1771959524267
-          },
-          {
-            "id": "OBSIDIAN",
-            "amount": 31857,
-            "lastUpdated": 1771959524252
-          },
-          {
-            "id": "HARD_STONE",
-            "amount": 81615,
-            "lastUpdated": 1771959524251
-          },
-          {
-            "id": "STARFALL",
-            "amount": 266,
-            "lastUpdated": 1771959524266
-          },
-          {
-            "id": "SAND",
-            "amount": 8215,
-            "lastUpdated": 1771959524266
-          },
-          {
-            "id": "ENDER_STONE",
-            "amount": 86122,
-            "lastUpdated": 1771959524251
-          },
-          {
             "id": "NETHERRACK",
             "amount": 88061,
             "lastUpdated": 1771959524251
@@ -2120,43 +1940,8 @@
             "lastUpdated": 1771959524251
           },
           {
-            "id": "REDSTONE",
-            "amount": 31924,
-            "lastUpdated": 1771959524266
-          },
-          {
-            "id": "IRON_INGOT",
-            "amount": 120391,
-            "lastUpdated": 1771959539267
-          },
-          {
-            "id": "DIGESTED_MUSHROOMS",
-            "amount": 3734,
-            "lastUpdated": 1771960973986
-          },
-          {
-            "id": "GAZING_PEARL",
-            "amount": 56,
-            "lastUpdated": 1771960974002
-          },
-          {
             "id": "KUUDRA_TEETH",
             "amount": 18,
-            "lastUpdated": 1771960974004
-          },
-          {
-            "id": "MAGMA_CREAM",
-            "amount": 13292,
-            "lastUpdated": 1771960974036
-          },
-          {
-            "id": "MAGMA_CHUNK",
-            "amount": 1747,
-            "lastUpdated": 1771960974035
-          },
-          {
-            "id": "HEAVY_PEARL",
-            "amount": 917,
             "lastUpdated": 1771960974004
           },
           {
@@ -2275,16 +2060,6 @@
             "lastUpdated": 1771961505247
           },
           {
-            "id": "WHEAT",
-            "amount": 91051,
-            "lastUpdated": 1772015476908
-          },
-          {
-            "id": "SEEDS",
-            "amount": 266,
-            "lastUpdated": 1772015476907
-          },
-          {
             "id": "GOLDEN_CARROT",
             "amount": 12,
             "lastUpdated": 1772102004498
@@ -2318,31 +2093,6 @@
             "id": "STRING",
             "amount": 31242,
             "lastUpdated": 1772389661858
-          },
-          {
-            "id": "BURNING_EYE",
-            "amount": 3990,
-            "lastUpdated": 1772389661858
-          },
-          {
-            "id": "SULPHUR_ORE",
-            "amount": 46250,
-            "lastUpdated": 1772389681072
-          },
-          {
-            "id": "CORRUPTED_FRAGMENT",
-            "amount": 35238,
-            "lastUpdated": 1772389681072
-          },
-          {
-            "id": "BLAZE_ASHES",
-            "amount": 23518,
-            "lastUpdated": 1772389706137
-          },
-          {
-            "id": "BLAZE_ROD",
-            "amount": 22411,
-            "lastUpdated": 1772389717754
           },
           {
             "id": "NEVER_MELT_ICE",
@@ -2400,48 +2150,13 @@
             "lastUpdated": 1772390341296
           },
           {
-            "id": "INK_SACK",
-            "amount": 11281,
-            "lastUpdated": 1772390465205
-          },
-          {
-            "id": "WATER_LILY",
-            "amount": 41695,
-            "lastUpdated": 1772390465205
-          },
-          {
-            "id": "RAW_FISH:2",
-            "amount": 20999,
-            "lastUpdated": 1772390465205
-          },
-          {
-            "id": "RAW_FISH:1",
-            "amount": 29494,
-            "lastUpdated": 1772390490938
-          },
-          {
-            "id": "RAW_FISH",
-            "amount": 38392,
-            "lastUpdated": 1772390490938
-          },
-          {
             "id": "BONE",
             "amount": 36428,
             "lastUpdated": 1772390513405
           },
           {
-            "id": "CLAY_BALL",
-            "amount": 10500,
-            "lastUpdated": 1772390513405
-          },
-          {
             "id": "ROTTEN_FLESH",
             "amount": 38686,
-            "lastUpdated": 1772390768943
-          },
-          {
-            "id": "GOLD_INGOT",
-            "amount": 3923,
             "lastUpdated": 1772390768943
           },
           {
@@ -2610,79 +2325,14 @@
             "lastUpdated": 1773362031912
           },
           {
-            "id": "ASHWREATH",
-            "amount": 0,
-            "lastUpdated": 1773409564890
-          },
-          {
             "id": "HAY_BLOCK",
             "amount": 920,
             "lastUpdated": 1773569967275
           },
           {
-            "id": "ETHEREAL_VINE",
-            "amount": 220,
-            "lastUpdated": 1773607016744
-          },
-          {
-            "id": "FERMENTO",
-            "amount": 179,
-            "lastUpdated": 1773607016745
-          },
-          {
-            "id": "HONEY_JAR",
-            "amount": 544,
-            "lastUpdated": 1773607016745
-          },
-          {
-            "id": "PLANT_MATTER",
-            "amount": 80,
-            "lastUpdated": 1773607016745
-          },
-          {
-            "id": "JELLY",
-            "amount": 73,
-            "lastUpdated": 1773607016745
-          },
-          {
-            "id": "DUNG",
-            "amount": 77,
-            "lastUpdated": 1773607016744
-          },
-          {
-            "id": "HELIANTHUS",
-            "amount": 0,
-            "lastUpdated": 1773607043877
-          },
-          {
-            "id": "CHEESE_FUEL",
-            "amount": 679,
-            "lastUpdated": 1773607043227
-          },
-          {
-            "id": "RED_MUSHROOM",
-            "amount": 14415,
-            "lastUpdated": 1773657736603
-          },
-          {
-            "id": "COMPOST",
-            "amount": 289,
-            "lastUpdated": 1773657736603
-          },
-          {
             "id": "WILD_ROSE",
             "amount": 45118,
             "lastUpdated": 1773657736616
-          },
-          {
-            "id": "NETHER_STALK",
-            "amount": 78692,
-            "lastUpdated": 1773657738004
-          },
-          {
-            "id": "AGATHA_COUPON",
-            "amount": 6180,
-            "lastUpdated": 1773670143774
           },
           {
             "id": "JACOBS_TICKET",
@@ -2793,6 +2443,356 @@
             "id": "ENCHANTED_BAKED_POTATO",
             "amount": 1432,
             "lastUpdated": 1773672148410
+          },
+          {
+            "id": "SQUASH",
+            "amount": 522,
+            "lastUpdated": 1773710737730
+          },
+          {
+            "id": "ASHWREATH",
+            "amount": 0,
+            "lastUpdated": 1773865878822
+          },
+          {
+            "id": "ETHEREAL_VINE",
+            "amount": 354,
+            "lastUpdated": 1773928704281
+          },
+          {
+            "id": "WHEAT",
+            "amount": 92708,
+            "lastUpdated": 1774031183007
+          },
+          {
+            "id": "SEEDS",
+            "amount": 2851,
+            "lastUpdated": 1774031183007
+          },
+          {
+            "id": "MILLENIA_OLD_BLAZE_ASHES",
+            "amount": 338,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "SPECTRE_DUST",
+            "amount": 4235,
+            "lastUpdated": 1774094321483
+          },
+          {
+            "id": "MATCH_STICKS",
+            "amount": 116,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "BEZOS",
+            "amount": 163,
+            "lastUpdated": 1774094321468
+          },
+          {
+            "id": "TENTACLE_MEAT",
+            "amount": 720,
+            "lastUpdated": 1774094321484
+          },
+          {
+            "id": "HALLOWED_SKULL",
+            "amount": 13,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "COMPACT_OOZE",
+            "amount": 22,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "REKINDLED_EMBER_FRAGMENT",
+            "amount": 21,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "CORRUPTED_NETHER_STAR",
+            "amount": 2200,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "KADA_LEAD",
+            "amount": 946,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "MAGMAG",
+            "amount": 292,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "DIGESTED_MUSHROOMS",
+            "amount": 3786,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "GAZING_PEARL",
+            "amount": 58,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "MAGMA_CREAM",
+            "amount": 13499,
+            "lastUpdated": 1774094321470
+          },
+          {
+            "id": "MAGMA_CHUNK",
+            "amount": 2144,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "HEAVY_PEARL",
+            "amount": 991,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "BURNING_EYE",
+            "amount": 4435,
+            "lastUpdated": 1774094321468
+          },
+          {
+            "id": "SULPHUR_ORE",
+            "amount": 46930,
+            "lastUpdated": 1774094321484
+          },
+          {
+            "id": "CORRUPTED_FRAGMENT",
+            "amount": 36019,
+            "lastUpdated": 1774094321469
+          },
+          {
+            "id": "BLAZE_ASHES",
+            "amount": 23539,
+            "lastUpdated": 1774094321468
+          },
+          {
+            "id": "BLAZE_ROD",
+            "amount": 22587,
+            "lastUpdated": 1774094321468
+          },
+          {
+            "id": "AGATHA_COUPON",
+            "amount": 6310,
+            "lastUpdated": 1774102934391
+          },
+          {
+            "id": "BLUE_RING",
+            "amount": 1,
+            "lastUpdated": 1774104307651
+          },
+          {
+            "id": "TORN_CLOTH",
+            "amount": 1,
+            "lastUpdated": 1774104307654
+          },
+          {
+            "id": "INK_SACK",
+            "amount": 11284,
+            "lastUpdated": 1774104307653
+          },
+          {
+            "id": "ICE_HUNK",
+            "amount": 61,
+            "lastUpdated": 1774104310652
+          },
+          {
+            "id": "BLUE_ICE_HUNK",
+            "amount": 0,
+            "lastUpdated": 1774104312920
+          },
+          {
+            "id": "OIL_BARREL",
+            "amount": 2,
+            "lastUpdated": 1774177911328
+          },
+          {
+            "id": "TITANIUM_ORE",
+            "amount": 152,
+            "lastUpdated": 1774177911329
+          },
+          {
+            "id": "TUNGSTEN",
+            "amount": 58,
+            "lastUpdated": 1774177911329
+          },
+          {
+            "id": "TREASURITE",
+            "amount": 34,
+            "lastUpdated": 1774177911329
+          },
+          {
+            "id": "COAL",
+            "amount": 106609,
+            "lastUpdated": 1774177911324
+          },
+          {
+            "id": "MITHRIL_ORE",
+            "amount": 105787,
+            "lastUpdated": 1774177911327
+          },
+          {
+            "id": "UMBER",
+            "amount": 2,
+            "lastUpdated": 1774177911329
+          },
+          {
+            "id": "OBSIDIAN",
+            "amount": 32503,
+            "lastUpdated": 1774177911328
+          },
+          {
+            "id": "HARD_STONE",
+            "amount": 106034,
+            "lastUpdated": 1774177911327
+          },
+          {
+            "id": "STARFALL",
+            "amount": 268,
+            "lastUpdated": 1774177911328
+          },
+          {
+            "id": "ENDER_STONE",
+            "amount": 89242,
+            "lastUpdated": 1774177911326
+          },
+          {
+            "id": "REDSTONE",
+            "amount": 31940,
+            "lastUpdated": 1774177911328
+          },
+          {
+            "id": "IRON_INGOT",
+            "amount": 120749,
+            "lastUpdated": 1774177911327
+          },
+          {
+            "id": "GOLD_INGOT",
+            "amount": 4395,
+            "lastUpdated": 1774177911327
+          },
+          {
+            "id": "MYCEL",
+            "amount": 102060,
+            "lastUpdated": 1774177911328
+          },
+          {
+            "id": "SAND",
+            "amount": 7831,
+            "lastUpdated": 1774177915921
+          },
+          {
+            "id": "RED_MUSHROOM",
+            "amount": 24255,
+            "lastUpdated": 1774177944608
+          },
+          {
+            "id": "FERMENTO",
+            "amount": 203,
+            "lastUpdated": 1774187617268
+          },
+          {
+            "id": "HELIANTHUS",
+            "amount": 23,
+            "lastUpdated": 1774187617268
+          },
+          {
+            "id": "CAN_OF_WORMS",
+            "amount": 13,
+            "lastUpdated": 1774198946201
+          },
+          {
+            "id": "RAW_FISH:3",
+            "amount": 7662,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "SPONGE",
+            "amount": 4664,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "PRISMARINE_CRYSTALS",
+            "amount": 7838,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "PRISMARINE_SHARD",
+            "amount": 7674,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "WATER_LILY",
+            "amount": 41960,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "RAW_FISH:2",
+            "amount": 21037,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "RAW_FISH:1",
+            "amount": 29549,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "RAW_FISH",
+            "amount": 38614,
+            "lastUpdated": 1774198946204
+          },
+          {
+            "id": "CLAY_BALL",
+            "amount": 10645,
+            "lastUpdated": 1774198946202
+          },
+          {
+            "id": "CHUM",
+            "amount": 2252,
+            "lastUpdated": 1774198948098
+          },
+          {
+            "id": "PLANT_MATTER",
+            "amount": 118,
+            "lastUpdated": 1774263265703
+          },
+          {
+            "id": "DUNG",
+            "amount": 117,
+            "lastUpdated": 1774263265702
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "amount": 608,
+            "lastUpdated": 1774263265703
+          },
+          {
+            "id": "JELLY",
+            "amount": 13,
+            "lastUpdated": 1774263265703
+          },
+          {
+            "id": "COMPOST",
+            "amount": 313,
+            "lastUpdated": 1774263265702
+          },
+          {
+            "id": "HONEY_JAR",
+            "amount": 390,
+            "lastUpdated": 1774263290902
+          },
+          {
+            "id": "CACTUS",
+            "amount": 23450,
+            "lastUpdated": 1774263662830
+          },
+          {
+            "id": "NETHER_STALK",
+            "amount": 5193,
+            "lastUpdated": 1774336865151
           }
         ]
       }
