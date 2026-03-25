@@ -2775,11 +2775,6 @@
             "lastUpdated": 1774263265703
           },
           {
-            "id": "COMPOST",
-            "amount": 313,
-            "lastUpdated": 1774263265702
-          },
-          {
             "id": "HONEY_JAR",
             "amount": 390,
             "lastUpdated": 1774263290902
@@ -2790,9 +2785,14 @@
             "lastUpdated": 1774263662830
           },
           {
+            "id": "COMPOST",
+            "amount": 315,
+            "lastUpdated": 1774425914956
+          },
+          {
             "id": "NETHER_STALK",
-            "amount": 5193,
-            "lastUpdated": 1774336865151
+            "amount": 28366,
+            "lastUpdated": 1774425916377
           }
         ]
       }

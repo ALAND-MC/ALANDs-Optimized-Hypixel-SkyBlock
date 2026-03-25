@@ -7,12 +7,10 @@
       "tier": "LEGENDARY"
     },
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "name": "[Lvl 137] Rose Dragon",
+      "name": "Rose Dragon",
       "type": "ROSE_DRAGON",
-      "exp": 9.21827470672409E7,
-      "tier": "LEGENDARY",
-      "uuid": "5a977135-9b97-41cb-bbc0-07920f007a75",
-      "heldItem": "PET_ITEM_FARMING_SKILL_BOOST_EPIC"
+      "exp": 9.3279985E7,
+      "tier": "LEGENDARY"
     },
     "": {
       "name": "Precursor Drone",

@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.456248059847113E7,
+              "exp": 4.4577811E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -467,7 +467,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
-              "exp": 9.299123544598633E7,
+              "exp": 9.488819081140986E7,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {

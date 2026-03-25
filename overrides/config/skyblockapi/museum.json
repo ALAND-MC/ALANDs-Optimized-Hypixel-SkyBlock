@@ -5508,11 +5508,11 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ANCIENT_CLOAK",
                     "timestamp": 1664721480000,
-                    "uuid": "07ba8b65-1ae2-4aec-829a-bca72289e700",
+                    "id": "ANCIENT_CLOAK",
+                    "donated_museum": 1,
                     "modifier": "glistening",
+                    "uuid": "07ba8b65-1ae2-4aec-829a-bca72289e700",
                     "rarity_upgrades": 1
                   }
                 }
@@ -6033,7 +6033,17 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Fire damage is increased by ",
+                          "text": "Fire damage taken is increased by",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
                           "color": "gray"
                         },
                         {
@@ -6041,7 +6051,7 @@
                           "color": "red"
                         },
                         {
-                          "text": ".",
+                          "text": ". Increases your next hit by",
                           "color": "gray"
                         }
                       ],
@@ -6051,7 +6061,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Increases your next hit by ",
+                          "text": "",
                           "color": "gray"
                         },
                         {
@@ -6059,17 +6069,7 @@
                           "color": "red"
                         },
                         {
-                          "text": "of",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "the last fire damage you took.",
+                          "text": "of the last fire damage you took.",
                           "color": "gray"
                         }
                       ],
@@ -6130,9 +6130,9 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "SCOURGE_CLOAK",
                     "timestamp": 1664387700000,
+                    "id": "SCOURGE_CLOAK",
+                    "donated_museum": 1,
                     "uuid": "783a54b1-8d36-4c7a-9d0b-b49b4b2f8e09"
                   }
                 }
@@ -6507,11 +6507,11 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "DEMONLORD_GAUNTLET",
                     "timestamp": 1651029900000,
-                    "uuid": "8b228201-0e06-464a-93ad-d4751ae8ae4e",
+                    "id": "DEMONLORD_GAUNTLET",
+                    "donated_museum": 1,
                     "modifier": "strengthened",
+                    "uuid": "8b228201-0e06-464a-93ad-d4751ae8ae4e",
                     "rarity_upgrades": 1
                   }
                 }
@@ -6630,10 +6630,6 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
                           "text": "When equipped, melee attacks fire",
                           "color": "gray"
                         }
@@ -6670,7 +6666,7 @@
                           "color": "red"
                         },
                         {
-                          "text": "fire damage.",
+                          "text": "fire damage over time.",
                           "color": "gray"
                         }
                       ],
@@ -6731,9 +6727,9 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "FLAMING_FIST",
                     "timestamp": 1664275200000,
+                    "id": "FLAMING_FIST",
+                    "donated_museum": 1,
                     "uuid": "7ebe8c4a-073d-43f5-845a-7b6dd550c482"
                   }
                 }
@@ -6743,247 +6739,7 @@
             "item:blazetekk_ham_radio": {},
             "item:annihilation_cloak": {},
             "item:sos_flare": {},
-            "item:golden_fleece": {
-              "item": {
-                "id": "minecraft:player_head",
-                "count": 1,
-                "components": {
-                  "minecraft:tooltip_display": {
-                    "hidden_components": [
-                      "minecraft:jukebox_playable",
-                      "minecraft:painting/variant",
-                      "minecraft:map_id",
-                      "minecraft:fireworks",
-                      "minecraft:attribute_modifiers",
-                      "minecraft:unbreakable",
-                      "minecraft:written_book_content",
-                      "minecraft:banner_patterns",
-                      "minecraft:trim",
-                      "minecraft:potion_contents",
-                      "minecraft:block_entity_data",
-                      "minecraft:dyed_color"
-                    ]
-                  },
-                  "minecraft:custom_name": {
-                    "text": "",
-                    "extra": [
-                      {
-                        "text": "Strengthened Golden Fleece",
-                        "color": "light_purple"
-                      }
-                    ],
-                    "italic": false
-                  },
-                  "minecraft:lore": [
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Defense: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+10 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "(+10)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "True Defense: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+10",
-                          "color": "white"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Strength: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+27 ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "(+7)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Crit Damage: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+15%",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5✯ Magic Find ",
-                          "color": "aqua"
-                        },
-                        {
-                          "text": "on ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "✿",
-                          "color": "dark_green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Mythological ",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "mobs.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Ability: Empyrean Intuition ",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+15❃ Tracking ",
-                          "color": "light_purple"
-                        },
-                        {
-                          "text": "on ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "Griffin",
-                          "color": "yellow"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Burrows",
-                          "color": "yellow"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "* ",
-                          "color": "dark_gray",
-                          "bold": true
-                        },
-                        {
-                          "text": "Co-op Soulbound ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "*",
-                          "color": "dark_gray",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    }
-                  ],
-                  "minecraft:profile": {
-                    "id": [
-                      2026336942,
-                      2076589711,
-                      -1751959628,
-                      -1067818287
-                    ],
-                    "properties": [
-                      {
-                        "name": "textures",
-                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTY0NTU1MDQ4NiwKICAicHJvZmlsZUlkIiA6ICI1NjExYmE1MjFmNDM0OWYwOWE0MTI5ZTM0NjQzMDM1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdXlOYW1lZEthaW5lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5YTI1Yjk4MTA0NmU2MDg3Mjc3ODA0YmJiYTYyYTMyYzdjNzhiMjUwYTUyYTZmYWU4NmU5OTFkZDFkNTZkZTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-                        "signature": "DnbdiHC2vBDt1QTq2nSgqOPizUVnf0i8IZXOowhW082dGWv6sub4dKwpCkI5xaRsvYBgEi1/X/pWDIvEHiAQ0LsfSfdC/pTh4LEKZc38GE2J8Uymi15Au47PqWnXbCwAlaVFzhDjx6ALwJAgyhmYqreI8vPnpUwg8bDSAbjices4U+r6InvY1x0oF7WErjnd8Yagf32j0xlvH6d4aVALQ9UyRrJV6BuRtSQamnEPwq97IJ9MfTS3DSSWph2NoT/JKQXINz/Q68QOzR9QNQ2yBdHZSiM8g7wXcGosxvr8Js2NwKcP29IWi7FdL8E6bE8tuPk86+XqXuBXvSh84Q9XLglVn4OfYgQyD4uCxx7Thnb5Q1qaqR90TxIsE2vif5DhcDA107Ni7a9SQCZUvk0XrVjHa8RusK7kZ8OKACARkz66qFr9QyNqXa5oJ12twRVU54qR2tZk3DUOaKDTQgy3LLAE/cWSXBgiIKLraJvXK6hKxNaNnCY04gWCjTJh0f3Yap6m3FMkNm7zeTNZHA+JupLfGX+BGQYMEqmbfbv9LKyYKVN8Q4Jrn1tXI4qTt8iQpyUnj7o9D7UCuqUaGqzg1cEIwAcV+h5tagp3PwyklBk9iqzt96iMiYPjQ9wGXiX5dS/V0/AIM2MZedwLOyyCNjRZFvHJ/+ung9T4r1z9DeA="
-                      }
-                    ]
-                  },
-                  "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "GOLDEN_FLEECE",
-                    "timestamp": 1766260000205,
-                    "uuid": "8410882e-051d-4c80-87f0-e1ad8d3c5cd9",
-                    "modifier": "strengthened",
-                    "rarity_upgrades": 1
-                  }
-                }
-              }
-            },
+            "item:golden_fleece": {},
             "item:fancy_sword": {
               "item": {
                 "id": "minecraft:golden_sword",
@@ -9021,7 +8777,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "4,968.2 ",
+                          "text": "5,054.7 ",
                           "color": "red"
                         },
                         {
@@ -10909,7 +10665,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "6,210.2 ",
+                          "text": "6,318.4 ",
                           "color": "red"
                         },
                         {
@@ -14464,7 +14220,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "18,505,277 ",
+                          "text": "18,512,285 ",
                           "color": "yellow"
                         },
                         {
@@ -15172,7 +14928,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "31,051.1",
+                          "text": "31,591.8",
                           "color": "green"
                         },
                         {
@@ -15391,7 +15147,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "923,671.3 ",
+                          "text": "939,244.9 ",
                           "color": "red"
                         },
                         {
@@ -15690,7 +15446,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "13,994.78❁ Damage ",
+                          "text": "14,241.98❁ Damage ",
                           "color": "red"
                         },
                         {
@@ -16109,7 +15865,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+405.6 ",
+                          "text": "+403.2 ",
                           "color": "red"
                         },
                         {
@@ -16348,7 +16104,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "245.6",
+                          "text": "243.2",
                           "color": "green"
                         }
                       ],
@@ -17247,13 +17003,13 @@
                     },
                     "anvil_uses": 1,
                     "timestamp": 1606323420000,
-                    "uuid": "5ad6e7c3-89fd-4b2d-85a3-a55e7dc7f3c6",
                     "hot_potato_count": 10,
-                    "rarity_upgrades": 1,
                     "modifier": "fabled",
+                    "rarity_upgrades": 1,
+                    "uuid": "5ad6e7c3-89fd-4b2d-85a3-a55e7dc7f3c6",
                     "donated_museum": 1,
-                    "wood_singularity_count": 1,
                     "id": "SWORD_OF_REVELATIONS",
+                    "wood_singularity_count": 1,
                     "originTag": "QUICK_CRAFTING"
                   }
                 }
@@ -18700,7 +18456,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "1,616,424.8 ",
+                          "text": "1,643,678.6 ",
                           "color": "red"
                         },
                         {
@@ -19408,319 +19164,9 @@
                 }
               }
             },
-            "item:silk_edge_sword": {},
-            "item:runic_staff": {
+            "item:silk_edge_sword": {
               "item": {
-                "id": "minecraft:blaze_rod",
-                "count": 1,
-                "components": {
-                  "minecraft:tooltip_display": {
-                    "hidden_components": [
-                      "minecraft:jukebox_playable",
-                      "minecraft:painting/variant",
-                      "minecraft:map_id",
-                      "minecraft:fireworks",
-                      "minecraft:attribute_modifiers",
-                      "minecraft:unbreakable",
-                      "minecraft:written_book_content",
-                      "minecraft:banner_patterns",
-                      "minecraft:trim",
-                      "minecraft:potion_contents",
-                      "minecraft:block_entity_data",
-                      "minecraft:dyed_color"
-                    ]
-                  },
-                  "minecraft:custom_name": {
-                    "text": "",
-                    "extra": [
-                      {
-                        "text": "Aurora Staff",
-                        "color": "gold"
-                      }
-                    ],
-                    "italic": false
-                  },
-                  "minecraft:lore": [
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+20",
-                          "color": "red"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Intelligence: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+250",
-                          "color": "aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        " ",
-                        {
-                          "text": "[",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "✎",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "] ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "[",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "✎",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "]",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Runic Item",
-                          "color": "aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Use with ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "Aurora Armor",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "! Cast Runic",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Zap while matching the rune of your",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "targets.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Left-Click To Swap Rune",
-                          "color": "yellow",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        " "
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Ability: Runic Zap  ",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "RIGHT CLICK",
-                          "color": "yellow",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Fires a beam of energy, hitting the",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "first enemy on its path for ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "262,408.7",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Deals reduced damage past ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "10",
-                          "color": "green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "green"
-                        },
-                        {
-                          "text": "blocks.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Mana Cost: ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "10",
-                          "color": "dark_aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Cooldown: ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "1s",
-                          "color": "green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "* ",
-                          "color": "dark_gray",
-                          "bold": true
-                        },
-                        {
-                          "text": "Co-op Soulbound ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "*",
-                          "color": "dark_gray",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    }
-                  ],
-                  "minecraft:custom_data": {
-                    "boss_tier": 1,
-                    "timestamp": 1666131660000,
-                    "id": "RUNIC_STAFF",
-                    "uuid": "802c5c1b-cda6-4621-8277-93e0e0ba82cb",
-                    "donated_museum": 1
-                  }
-                }
-              }
-            },
-            "item:aspect_of_the_dragon": {
-              "item": {
-                "id": "minecraft:diamond_sword",
+                "id": "minecraft:golden_sword",
                 "count": 1,
                 "components": {
                   "minecraft:tooltip_display": {
@@ -19744,7 +19190,7 @@
                     "text": "",
                     "extra": [
                       {
-                        "text": "Sharp Aspect of the Dragons",
+                        "text": "Spicy Silk-Edge Sword",
                         "color": "gold"
                       }
                     ],
@@ -19759,7 +19205,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+225",
+                          "text": "+175",
                           "color": "red"
                         }
                       ],
@@ -19773,8 +19219,12 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+100",
+                          "text": "+135 ",
                           "color": "red"
+                        },
+                        {
+                          "text": "(+10)",
+                          "color": "blue"
                         }
                       ],
                       "italic": false
@@ -19787,11 +19237,11 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+20% ",
+                          "text": "+1% ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+20%)",
+                          "text": "(+1%)",
                           "color": "blue"
                         }
                       ],
@@ -19805,11 +19255,11 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+125% ",
+                          "text": "+175% ",
                           "color": "blue"
                         },
                         {
-                          "text": "(+75%)",
+                          "text": "(+80%)",
                           "color": "blue"
                         }
                       ],
@@ -19818,18 +19268,17 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
                         {
-                          "text": "[",
-                          "color": "dark_gray"
+                          "text": "Bonus Attack Speed: ",
+                          "color": "gray"
                         },
                         {
-                          "text": "❁",
-                          "color": "dark_gray"
+                          "text": "+10% ",
+                          "color": "yellow"
                         },
                         {
-                          "text": "]",
-                          "color": "dark_gray"
+                          "text": "(+10%)",
+                          "color": "blue"
                         }
                       ],
                       "italic": false
@@ -19841,16 +19290,16 @@
                     {
                       "text": "",
                       "extra": [
+                        {
+                          "text": "Bane of Arthropods V, ",
+                          "color": "blue"
+                        },
                         {
                           "text": "Cleave V, ",
                           "color": "blue"
                         },
                         {
-                          "text": "Critical V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Cubism V",
+                          "text": "Critical VI",
                           "color": "blue"
                         }
                       ],
@@ -19860,15 +19309,15 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Cubism V, ",
+                          "color": "blue"
+                        },
+                        {
                           "text": "Drain III, ",
                           "color": "blue"
                         },
                         {
-                          "text": "Ender Slayer V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Execute V",
+                          "text": "Ender Slayer V",
                           "color": "blue"
                         }
                       ],
@@ -19896,15 +19345,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Impaling III, ",
+                          "text": "Gravity V, ",
                           "color": "blue"
                         },
                         {
-                          "text": "Lethality V, ",
+                          "text": "Impaling V, ",
                           "color": "blue"
                         },
                         {
-                          "text": "Looting III",
+                          "text": "Lethality V",
                           "color": "blue"
                         }
                       ],
@@ -19914,15 +19363,33 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "Looting III, ",
+                          "color": "blue"
+                        },
+                        {
                           "text": "Luck V, ",
                           "color": "blue"
                         },
+                        {
+                          "text": "Prosecute V",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
                         {
                           "text": "Scavenger III, ",
                           "color": "blue"
                         },
                         {
-                          "text": "Sharpness V",
+                          "text": "Sharpness V, ",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Smite V",
                           "color": "blue"
                         }
                       ],
@@ -19964,7 +19431,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Ability: Dragon Rage  ",
+                          "text": "Ability: Leap  ",
                           "color": "gold"
                         },
                         {
@@ -19979,15 +19446,15 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "All Monsters in front of you take ",
+                          "text": "Leap into the air and deal ",
                           "color": "gray"
                         },
                         {
-                          "text": "167,945.2",
-                          "color": "green"
+                          "text": "50,546.9",
+                          "color": "red"
                         },
                         {
-                          "text": "",
+                          "text": " damage to",
                           "color": "gray"
                         }
                       ],
@@ -19997,7 +19464,35 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "damage. Hit monsters take large knockback.",
+                          "text": "nearby enemies upon landing on the ground.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damaged enemies will also be frozen for ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "1",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "green"
+                        },
+                        {
+                          "text": "second.",
                           "color": "gray"
                         }
                       ],
@@ -20011,8 +19506,22 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "90",
+                          "text": "41",
                           "color": "dark_aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Cooldown: ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "1s",
+                          "color": "green"
                         }
                       ],
                       "italic": false
@@ -20043,506 +19552,42 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "bossId": "baf6eba7-e365-4fe4-af07-c9100d6ab98d",
                     "enchantments": {
                       "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
+                      "bane_of_arthropods": 5,
+                      "smite": 5,
                       "triple_strike": 4,
-                      "execute": 5,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
-                      "critical": 5,
+                      "impaling": 5,
+                      "critical": 6,
                       "looting": 3,
+                      "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
                       "luck": 5,
                       "thunderlord": 5,
-                      "lethality": 5,
+                      "dragon_hunter": 5,
                       "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
                       "scavenger": 3
                     },
-                    "timestamp": 1658668020000,
-                    "modifier": "sharp",
-                    "uuid": "9647a28b-d1c9-4947-9ce1-4c33d3eb432c",
-                    "donated_museum": 1,
-                    "id": "ASPECT_OF_THE_DRAGON",
-                    "spawnedFor": "0ff2841d-a8fe-4f65-97e5-d5edec0831ff"
-                  }
-                }
-              }
-            },
-            "item:pooch_sword": {
-              "item": {
-                "id": "minecraft:golden_sword",
-                "count": 1,
-                "components": {
-                  "minecraft:tooltip_display": {
-                    "hidden_components": [
-                      "minecraft:jukebox_playable",
-                      "minecraft:painting/variant",
-                      "minecraft:map_id",
-                      "minecraft:fireworks",
-                      "minecraft:attribute_modifiers",
-                      "minecraft:unbreakable",
-                      "minecraft:written_book_content",
-                      "minecraft:banner_patterns",
-                      "minecraft:trim",
-                      "minecraft:potion_contents",
-                      "minecraft:block_entity_data",
-                      "minecraft:dyed_color"
-                    ]
-                  },
-                  "minecraft:enchantment_glint_override": true,
-                  "minecraft:custom_name": {
-                    "text": "",
-                    "extra": [
-                      {
-                        "text": "Spicy Pooch Sword",
-                        "color": "gold"
-                      }
-                    ],
-                    "italic": false
-                  },
-                  "minecraft:lore": [
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+140 ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "(+20)",
-                          "color": "yellow"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Strength: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+50 ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "(+20) ",
-                          "color": "yellow"
-                        },
-                        {
-                          "text": "(+10)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Crit Chance: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+1% ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "(+1%)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Crit Damage: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+150% ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "(+80%)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Bonus Attack Speed: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+10% ",
-                          "color": "yellow"
-                        },
-                        {
-                          "text": "(+10%)",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Speed: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+5",
-                          "color": "white"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        " ",
-                        {
-                          "text": "[",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "❁",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "]",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Cleave V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Critical VI, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Cubism V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Ender Slayer V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Execute V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Experience III",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Fire Aspect II, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "First Strike IV, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Giant Killer V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Impaling III, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Lethality V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Life Steal III",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Looting IV, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Luck V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Scavenger IV",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Sharpness V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Thunderlord V, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Vampirism V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Venomous V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "◆ Spirit Rune III",
-                          "color": "aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Deal ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+1 Damage ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "per ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "50 max ❤",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Receive ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "-20% ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "damage from ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "☮ Animal ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "mobs.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Gain ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+150❁ Strength ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "against ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "☮ Animal ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "mobs.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Gain ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+45☯ Combat Wisdom",
-                          "color": "dark_aqua"
-                        },
-                        {
-                          "text": " against ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "☮ Animal ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "mobs.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "* ",
-                          "color": "dark_gray",
-                          "bold": true
-                        },
-                        {
-                          "text": "Co-op Soulbound ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "*",
-                          "color": "dark_gray",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    }
-                  ],
-                  "minecraft:custom_data": {
-                    "enchantments": {
-                      "cubism": 5,
-                      "ender_slayer": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "first_strike": 4,
-                      "execute": 5,
-                      "fire_aspect": 2,
-                      "impaling": 3,
-                      "critical": 6,
-                      "looting": 4,
-                      "venomous": 5,
-                      "vampirism": 5,
-                      "life_steal": 3,
-                      "luck": 5,
-                      "thunderlord": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
-                      "telekinesis": 1,
-                      "scavenger": 4,
-                      "sharpness": 5
-                    },
-                    "anvil_uses": 14,
-                    "timestamp": 1570973820000,
-                    "hot_potato_count": 10,
-                    "runes": {
-                      "SPIRIT": 3
-                    },
+                    "timestamp": 1670342580000,
+                    "id": "SILK_EDGE_SWORD",
                     "modifier": "spicy",
-                    "uuid": "f8fd91f6-4814-42f8-ab95-4f9790bf0c80",
-                    "donated_museum": 1,
-                    "id": "POOCH_SWORD",
-                    "originTag": "POOCH_SWORD",
-                    "hotPotatoBonus": "STRENGTH=20;DAMAGE=20;"
+                    "uuid": "5c8d93fd-4857-4573-9d23-d40274d5e15a",
+                    "donated_museum": 1
                   }
                 }
               }
             },
+            "item:runic_staff": {},
+            "item:aspect_of_the_dragon": {},
+            "item:pooch_sword": {},
             "item:hollow_wand": {
               "item": {
                 "id": "minecraft:feather",
@@ -20614,39 +19659,6 @@
                         {
                           "text": "+120",
                           "color": "aqua"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Arthropod Ruler III",
-                          "color": "gray",
-                          "strikethrough": true
-                        },
-                        "",
-                        {
-                          "text": "",
-                          "bold": false,
-                          "italic": false,
-                          "underlined": false,
-                          "strikethrough": false,
-                          "obfuscated": false
-                        },
-                        {
-                          "text": ", ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "Blazing III",
-                          "color": "gray",
-                          "strikethrough": true
                         }
                       ],
                       "italic": false
@@ -20960,10 +19972,6 @@
                     "boss_tier": 3,
                     "timestamp": 1666247220000,
                     "id": "HOLLOW_WAND",
-                    "attributes": {
-                      "arachno": 3,
-                      "blazing": 3
-                    },
                     "uuid": "2d58f7a0-3fe9-44dd-b0f2-3cdd3d108545",
                     "donated_museum": 1
                   }
@@ -21141,7 +20149,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "543.5",
+                          "text": "701.9",
                           "color": "red"
                         }
                       ],
@@ -21187,14 +20195,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "WAND_OF_STRENGTH",
                     "timestamp": 1651211760000,
-                    "uuid": "a9ec08da-ef43-42db-8ddb-d375fbfe8da7",
+                    "id": "WAND_OF_STRENGTH",
+                    "donated_museum": 1,
                     "attributes": {
                       "arachno": 1,
                       "combo": 1
-                    }
+                    },
+                    "uuid": "a9ec08da-ef43-42db-8ddb-d375fbfe8da7"
                   }
                 }
               }
@@ -21433,7 +20441,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "529,229.9 ",
+                          "text": "1,263,673.5 ",
                           "color": "green"
                         },
                         {
@@ -21511,8 +20519,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "INK_WAND",
                     "enchantments": {
                       "sharpness": 5,
                       "ender_slayer": 5,
@@ -21534,8 +20540,10 @@
                       "syphon": 3,
                       "scavenger": 3
                     },
+                    "timestamp": 1670663700000,
+                    "id": "INK_WAND",
                     "uuid": "8864827e-a6f2-4241-8075-55550295ca4e",
-                    "timestamp": 1670663700000
+                    "donated_museum": 1
                   }
                 }
               }
@@ -21863,26 +20871,26 @@
                   ],
                   "minecraft:custom_data": {
                     "enchantments": {
-                      "impaling": 3,
                       "cubism": 5,
-                      "infinite_quiver": 10,
+                      "impaling": 3,
                       "aiming": 5,
+                      "infinite_quiver": 10,
                       "chance": 3,
                       "power": 5,
                       "dragon_hunter": 5,
                       "flame": 1,
-                      "telekinesis": 1,
                       "piercing": 1,
+                      "telekinesis": 1,
                       "snipe": 3
                     },
                     "anvil_uses": 13,
                     "timestamp": 1564763040000,
-                    "uuid": "42b5641f-3b0e-4520-a6ac-3a66499cdf1c",
                     "hot_potato_count": 10,
                     "runes": {
                       "FIRE_SPIRAL": 3
                     },
                     "modifier": "spiritual",
+                    "uuid": "42b5641f-3b0e-4520-a6ac-3a66499cdf1c",
                     "donated_museum": 1,
                     "id": "RUNAANS_BOW",
                     "originTag": "CRAFTING_GRID_COLLECT",
@@ -22411,12 +21419,12 @@
                       "scavenger": 3
                     },
                     "timestamp": 1645109760000,
-                    "uuid": "5e7a8522-af72-4631-9562-cba235c82ac3",
                     "hot_potato_count": 10,
                     "modifier": "spicy",
+                    "uuid": "5e7a8522-af72-4631-9562-cba235c82ac3",
                     "winning_bid": 3280000,
-                    "donated_museum": 1,
                     "id": "MIDAS_SWORD",
+                    "donated_museum": 1,
                     "dungeon_item_level": 5,
                     "originTag": "DARK_AUCTION"
                   }
@@ -22714,8 +21722,8 @@
                   "minecraft:custom_data": {
                     "enchantments": {
                       "cubism": 5,
-                      "infinite_quiver": 10,
                       "aiming": 5,
+                      "infinite_quiver": 10,
                       "chance": 3,
                       "power": 5,
                       "impaling": 3,
@@ -22724,9 +21732,9 @@
                       "snipe": 3
                     },
                     "timestamp": 1664177340000,
-                    "uuid": "86df66dc-6002-4fa8-b690-d27a30c34806",
                     "hot_potato_count": 10,
                     "modifier": "hasty",
+                    "uuid": "86df66dc-6002-4fa8-b690-d27a30c34806",
                     "donated_museum": 1,
                     "id": "JUJU_SHORTBOW"
                   }
@@ -22844,7 +21852,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "168,219 ",
+                          "text": "391,352 ",
                           "color": "red"
                         },
                         {
@@ -22904,9 +21912,9 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ALCHEMISTS_STAFF",
                     "timestamp": 1659172500000,
+                    "id": "ALCHEMISTS_STAFF",
+                    "donated_museum": 1,
                     "uuid": "0ad97c40-2c64-4744-890e-d429371f76cb"
                   }
                 }
@@ -23314,12 +22322,10 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "MOSQUITO_BOW",
                     "enchantments": {
                       "cubism": 5,
-                      "infinite_quiver": 5,
                       "aiming": 5,
+                      "infinite_quiver": 5,
                       "chance": 3,
                       "power": 5,
                       "impaling": 3,
@@ -23327,8 +22333,10 @@
                       "piercing": 1,
                       "snipe": 3
                     },
+                    "timestamp": 1670591280000,
+                    "id": "MOSQUITO_BOW",
                     "uuid": "0e63fa13-065f-4920-a49d-39881e8cd8ce",
-                    "timestamp": 1670591280000
+                    "donated_museum": 1
                   }
                 }
               }
@@ -23880,7 +22888,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "195,219",
+                          "text": "426,352",
                           "color": "red"
                         },
                         {
@@ -23966,8 +22974,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "PIGMAN_SWORD",
                     "enchantments": {
                       "sharpness": 5,
                       "ender_slayer": 5,
@@ -23989,8 +22995,10 @@
                       "syphon": 3,
                       "scavenger": 3
                     },
+                    "timestamp": 1670655420000,
+                    "id": "PIGMAN_SWORD",
                     "uuid": "a4391b91-3161-447b-828f-4895c0b37bef",
-                    "timestamp": 1670655420000
+                    "donated_museum": 1
                   }
                 }
               }
@@ -24471,9 +23479,9 @@
                   "minecraft:custom_data": {
                     "enchantments": {
                       "sharpness": 5,
-                      "lethality": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
+                      "lethality": 5,
                       "bane_of_arthropods": 6,
                       "smite": 5,
                       "triple_strike": 4,
@@ -24496,12 +23504,12 @@
                     },
                     "anvil_uses": 12,
                     "timestamp": 1586612040000,
-                    "uuid": "89c8b9eb-c963-4261-9fa3-8689a7314ffc",
                     "hot_potato_count": 10,
                     "modifier": "spicy",
+                    "uuid": "89c8b9eb-c963-4261-9fa3-8689a7314ffc",
                     "donated_museum": 1,
-                    "wood_singularity_count": 0,
                     "id": "STING",
+                    "wood_singularity_count": 0,
                     "originTag": "QUICK_CRAFTING",
                     "hotPotatoBonus": "STRENGTH=20;DAMAGE=20;"
                   }
@@ -24865,7 +23873,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "256,601.2 ",
+                          "text": "596,968.4 ",
                           "color": "red"
                         },
                         {
@@ -25565,13 +24573,13 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ELEGANT_TUXEDO_CHESTPLATE",
-                    "timestamp": 1664345880000,
-                    "uuid": "d1453a8e-bc7b-49a7-8bd0-7dfd9da0b121",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "d1453a8e-bc7b-49a7-8bd0-7dfd9da0b121",
+                    "timestamp": 1664345880000
                   },
                   "minecraft:dyed_color": 1644825
                 }
@@ -25887,13 +24895,13 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ELEGANT_TUXEDO_LEGGINGS",
-                    "timestamp": 1664345880000,
-                    "uuid": "4963507b-fd75-49ed-bfae-b8d03e8d10b0",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "4963507b-fd75-49ed-bfae-b8d03e8d10b0",
+                    "timestamp": 1664345880000
                   },
                   "minecraft:dyed_color": 16711164
                 }
@@ -26319,15 +25327,15 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ELEGANT_TUXEDO_BOOTS",
-                    "timestamp": 1664345880000,
-                    "uuid": "ee8cf80d-88f7-4a75-a01d-9e7a234b70e2",
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "ee8cf80d-88f7-4a75-a01d-9e7a234b70e2",
+                    "timestamp": 1664345880000
                   },
                   "minecraft:dyed_color": 1644825
                 }
@@ -26711,7 +25719,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1635950760000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -26719,6 +25726,7 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
+                    "timestamp": 1635950760000,
                     "uuid": "b0d043c2-8d99-485c-9fea-f22cdc411501",
                     "color": "224:252:247",
                     "donated_museum": 1,
@@ -27001,14 +26009,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "MERCENARY_CHESTPLATE",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "00c4ec54-83c4-4946-bae4-d4d7edcc280c",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "00c4ec54-83c4-4946-bae4-d4d7edcc280c",
+                    "timestamp": 1635950760000
                   }
                 }
               }
@@ -27285,14 +26293,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "MERCENARY_LEGGINGS",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "cd2a21e1-fbce-4c5b-b43d-32cd93edfc5e",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "cd2a21e1-fbce-4c5b-b43d-32cd93edfc5e",
+                    "timestamp": 1635950760000
                   }
                 }
               }
@@ -27663,16 +26671,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "MERCENARY_HELMET",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "5c069feb-89c3-4abf-a555-b0895624dfa0",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "5c069feb-89c3-4abf-a555-b0895624dfa0",
+                    "timestamp": 1635950760000
                   }
                 }
               }
@@ -27971,14 +26979,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "STARLIGHT_LEGGINGS",
-                    "timestamp": 1635950820000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "bc2e6c3b-728e-4583-89c9-65ba24fc177b",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "bc2e6c3b-728e-4583-89c9-65ba24fc177b",
+                    "timestamp": 1635950820000
                   }
                 }
               }
@@ -28371,16 +27379,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "STARLIGHT_HELMET",
-                    "timestamp": 1635950820000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "7d8ac0dc-b313-48e9-b389-41132e34ab4e",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "7d8ac0dc-b313-48e9-b389-41132e34ab4e",
+                    "timestamp": 1635950820000
                   }
                 }
               }
@@ -28677,12 +27685,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1635950820000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "timestamp": 1635950820000,
                     "uuid": "48f4f188-7a91-4587-97a8-c47eb55a2f43",
                     "color": "212:0:255",
                     "donated_museum": 1,
@@ -29081,7 +28089,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1635950820000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -29089,6 +28096,7 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
+                    "timestamp": 1635950820000,
                     "uuid": "f559598e-c0fa-4d74-a953-fd32a29a71d9",
                     "color": "212:0:255",
                     "donated_museum": 1,
@@ -29465,16 +28473,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "GOLEM_ARMOR_HELMET",
+                    "timestamp": 1636014780000,
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "b064409c-3fc9-45cc-82a8-9026e683df3d",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    },
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "b064409c-3fc9-45cc-82a8-9026e683df3d",
-                    "timestamp": 1636014780000
+                    }
                   }
                 }
               }
@@ -29847,16 +28855,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "GOLEM_ARMOR_BOOTS",
+                    "timestamp": 1636014960000,
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "f85a548b-a2bc-4d47-8b5a-1bc9bd808d7e",
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
-                    },
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "f85a548b-a2bc-4d47-8b5a-1bc9bd808d7e",
-                    "timestamp": 1636014960000
+                    }
                   }
                 }
               }
@@ -30133,14 +29141,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "GOLEM_ARMOR_CHESTPLATE",
+                    "timestamp": 1636014960000,
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "f80d2d45-74b3-45b8-8e21-483db4c3b6d3",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    },
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "f80d2d45-74b3-45b8-8e21-483db4c3b6d3",
-                    "timestamp": 1636014960000
+                    }
                   }
                 }
               }
@@ -30417,14 +29425,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "GOLEM_ARMOR_LEGGINGS",
+                    "timestamp": 1636014960000,
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "bb2a2b74-2917-4ac4-a5f4-d21b63d5b008",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    },
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "bb2a2b74-2917-4ac4-a5f4-d21b63d5b008",
-                    "timestamp": 1636014960000
+                    }
                   }
                 }
               }
@@ -30460,7 +29468,237 @@
             "item:rampart_chestplate": {},
             "item:rampart_leggings": {},
             "item:rampart_boots": {},
-            "item:rampart_helmet": {}
+            "item:rampart_helmet": {},
+            "item:shriveled_bracelet": {},
+            "item:aspect_of_the_void": {},
+            "item:crystal_chestplate": {},
+            "item:crystal_helmet": {},
+            "item:crystal_boots": {},
+            "item:crystal_leggings": {},
+            "item:jerry_staff": {},
+            "item:revived_heart": {},
+            "item:crown_of_greed": {},
+            "item:soul_whip": {},
+            "item:scorpion_foil": {},
+            "item:werewolf_chestplate": {},
+            "item:werewolf_helmet": {},
+            "item:werewolf_boots": {},
+            "item:werewolf_leggings": {},
+            "item:moody_grappleshot": {},
+            "item:deific_spade": {},
+            "item:reaper_mask": {},
+            "item:glacial_scythe": {},
+            "item:rekindled_ember_boots": {},
+            "item:rekindled_ember_leggings": {},
+            "item:rekindled_ember_chestplate": {},
+            "item:rekindled_ember_helmet": {},
+            "item:daedalus_axe": {},
+            "item:wise_dragon_boots": {},
+            "item:wise_dragon_leggings": {},
+            "item:wise_dragon_chestplate": {},
+            "item:wise_dragon_helmet": {},
+            "item:hollow_leggings": {},
+            "item:hollow_chestplate": {},
+            "item:hollow_boots": {},
+            "item:hollow_helmet": {},
+            "item:fervor_leggings": {},
+            "item:fervor_helmet": {},
+            "item:fervor_boots": {},
+            "item:fervor_chestplate": {},
+            "item:atomsplit_katana": {},
+            "item:perfect_boots_13": {},
+            "item:perfect_chestplate_13": {},
+            "item:perfect_helmet_13": {},
+            "item:perfect_leggings_13": {},
+            "item:crown_of_avarice": {},
+            "item:axe_of_the_shredded": {},
+            "item:the_primordial": {},
+            "item:flaming_flay": {},
+            "item:warden_helmet": {},
+            "item:berserker_chestplate": {},
+            "item:berserker_boots": {},
+            "item:berserker_leggings": {},
+            "item:berserker_helmet": {},
+            "item:superior_dragon_chestplate": {},
+            "item:superior_dragon_helmet": {},
+            "item:superior_dragon_leggings": {},
+            "item:superior_dragon_boots": {},
+            "item:shimmering_light_slippers": {},
+            "item:shimmering_light_trousers": {},
+            "item:shimmering_light_tunic": {},
+            "item:shimmering_light_hood": {},
+            "item:hellstorm_staff": {},
+            "item:tormentor": {
+              "item": {
+                "id": "minecraft:iron_sword",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Tormentor",
+                        "color": "gold"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damage: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+525",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Crit Damage: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+100%",
+                          "color": "blue"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        " ",
+                        {
+                          "text": "[",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "✎",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "]",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Ability: Angered ",
+                          "color": "gold"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "The damage you take is ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "doubled ",
+                          "color": "red",
+                          "italic": true
+                        },
+                        {
+                          "text": "while",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "holding this weapon.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "boss_tier": 4,
+                    "timestamp": 1771597454257,
+                    "id": "TORMENTOR",
+                    "uuid": "5d8b0a3f-2c24-4cae-a110-fa8d240ae659",
+                    "donated_museum": 1
+                  }
+                }
+              }
+            }
           },
           "FARMING": {
             "item:chicken_head": {
@@ -30800,12 +30038,12 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ROOKIE_HOE",
-                    "timestamp": 1729022849128,
-                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
                     "enchantments": {
                       "telekinesis": 1,
                       "harvesting": 5
-                    }
+                    },
+                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
+                    "timestamp": 1729022849128
                   }
                 }
               }
@@ -31476,16 +30714,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ENCHANTED_JACK_O_LANTERN",
-                    "timestamp": 1636015380000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "07373e72-3ada-4a0f-a754-aa8d447b26d2",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "07373e72-3ada-4a0f-a754-aa8d447b26d2",
+                    "timestamp": 1636015380000
                   }
                 }
               }
@@ -31846,11 +31084,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ADVANCED_GARDENING_HOE",
+                    "timestamp": 1729027475026,
+                    "uuid": "3f9ad8a7-8030-464a-8c9c-169ed34c257a",
                     "enchantments": {
                       "replenish": 1
-                    },
-                    "uuid": "3f9ad8a7-8030-464a-8c9c-169ed34c257a",
-                    "timestamp": 1729027475026
+                    }
                   }
                 }
               }
@@ -32045,11 +31283,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ADVANCED_GARDENING_AXE",
+                    "timestamp": 1729027473033,
+                    "uuid": "386e23a6-3df1-4970-96da-5ee25835b67e",
                     "enchantments": {
                       "replenish": 1
-                    },
-                    "uuid": "386e23a6-3df1-4970-96da-5ee25835b67e",
-                    "timestamp": 1729027473033
+                    }
                   }
                 }
               }
@@ -33213,7 +32451,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1663267140000,
                     "enchantments": {
                       "efficiency": 5,
                       "dedication": 4,
@@ -33223,6 +32460,7 @@
                       "turbo_cactus": 5,
                       "cultivating": 8
                     },
+                    "timestamp": 1663267140000,
                     "modifier": "blessed",
                     "levelable_lvl": 28,
                     "farmed_cultivating": 5629561,
@@ -33236,8 +32474,8 @@
                         "PERIDOT_1"
                       ]
                     },
-                    "farming_for_dummies_count": 5,
                     "rarity_upgrades": 1,
+                    "farming_for_dummies_count": 5,
                     "donated_museum": 1
                   }
                 }
@@ -33614,7 +32852,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1613239260000,
                     "enchantments": {
                       "efficiency": 5,
                       "replenish": 1,
@@ -33624,6 +32861,7 @@
                       "dedication": 4,
                       "cultivating": 9
                     },
+                    "timestamp": 1613239260000,
                     "modifier": "blessed",
                     "levelable_lvl": 50,
                     "farmed_cultivating": 51788593,
@@ -33631,8 +32869,8 @@
                     "id": "COCO_CHOPPER_3",
                     "levelable_exp": 74193,
                     "uuid": "d15e5625-6faa-4227-9177-3d986f37dda3",
-                    "farming_for_dummies_count": 5,
                     "rarity_upgrades": 1,
+                    "farming_for_dummies_count": 5,
                     "donated_museum": 1,
                     "originTag": "SHOP_PURCHASE"
                   }
@@ -34189,7 +33427,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1663267140000,
                     "enchantments": {
                       "efficiency": 5,
                       "turbo_mushrooms": 5,
@@ -34197,6 +33434,7 @@
                       "dedication": 4,
                       "cultivating": 7
                     },
+                    "timestamp": 1663267140000,
                     "modifier": "blessed",
                     "levelable_lvl": 26,
                     "farmed_cultivating": 4229261,
@@ -34211,8 +33449,8 @@
                         "PERIDOT_1"
                       ]
                     },
-                    "farming_for_dummies_count": 5,
                     "rarity_upgrades": 1,
+                    "farming_for_dummies_count": 5,
                     "donated_museum": 1
                   }
                 }
@@ -34410,11 +33648,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "COW_AXE",
-                    "timestamp": 1665058920000,
-                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
                     "enchantments": {
                       "efficiency": 5
-                    }
+                    },
+                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
+                    "timestamp": 1665058920000
                   }
                 }
               }
@@ -35259,12 +34497,12 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "SPORE_HARVESTER",
-                    "timestamp": 1650480720000,
-                    "uuid": "85b69989-0dbb-44b2-a127-027f6602b014",
                     "enchantments": {
                       "harvesting": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "uuid": "85b69989-0dbb-44b2-a127-027f6602b014",
+                    "timestamp": 1650480720000
                   }
                 }
               }
@@ -35496,12 +34734,12 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "THORNLEAF_SCYTHE",
-                    "timestamp": 1659110760000,
-                    "uuid": "dfb5cd0e-0265-41b9-9321-84a4c8fbc216",
                     "enchantments": {
                       "harvesting": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "uuid": "dfb5cd0e-0265-41b9-9321-84a4c8fbc216",
+                    "timestamp": 1659110760000
                   }
                 }
               }
@@ -35708,10 +34946,10 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1560547920000,
                     "enchantments": {
                       "efficiency": 2
                     },
-                    "timestamp": 1560547920000,
                     "uuid": "9412f69b-cd44-4145-82cf-220e1031b27e",
                     "donated_museum": 1,
                     "id": "PROMISING_SPADE",
@@ -36117,15 +35355,15 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ZOMBIE_PICKAXE",
+                    "timestamp": 1560639720000,
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "0b88d34e-f6bb-4726-bcc7-c3d61499fd18",
                     "enchantments": {
                       "smelting_touch": 1,
                       "fortune": 3,
                       "experience": 3,
                       "efficiency": 5
-                    },
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "0b88d34e-f6bb-4726-bcc7-c3d61499fd18",
-                    "timestamp": 1560639720000
+                    }
                   }
                 }
               }
@@ -37517,14 +36755,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1610972880000,
                     "enchantments": {
                       "experience": 3,
                       "compact": 8,
-                      "fortune": 3,
                       "telekinesis": 1,
+                      "fortune": 3,
                       "efficiency": 5
                     },
-                    "timestamp": 1610972880000,
                     "uuid": "e57f3b0f-1812-4fdf-b907-408ba9a630b1",
                     "compact_blocks": 235057,
                     "donated_museum": 1,
@@ -38301,16 +37539,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1611124080000,
+                    "drill_fuel": 2940,
                     "enchantments": {
                       "experience": 3,
                       "compact": 9,
                       "pristine": 4,
-                      "fortune": 3,
                       "telekinesis": 1,
+                      "fortune": 3,
                       "efficiency": 5
                     },
-                    "drill_fuel": 2940,
-                    "timestamp": 1611124080000,
                     "uuid": "0ffd0058-199a-493c-87e8-2ef558367502",
                     "modifier": "fleet",
                     "rarity_upgrades": 1,
@@ -39074,16 +38312,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1640684460000,
+                    "drill_fuel": 619,
                     "enchantments": {
                       "experience": 3,
-                      "smelting_touch": 1,
                       "pristine": 2,
-                      "fortune": 3,
+                      "smelting_touch": 1,
                       "telekinesis": 1,
+                      "fortune": 3,
                       "efficiency": 5
                     },
-                    "drill_fuel": 619,
-                    "timestamp": 1640684460000,
                     "uuid": "07c3d6c9-e09f-45e9-9085-77f2634fb05a",
                     "gems": {
                       "unlocked_slots": [
@@ -40034,9 +39272,10 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1630223040000,
                     "enchantments": {
-                      "sharpness": 5,
-                      "scavenger": 3,
+                      "telekinesis": 1,
+                      "syphon": 3,
                       "pristine": 5,
                       "ender_slayer": 5,
                       "cleave": 5,
@@ -40045,22 +39284,21 @@
                       "cubism": 5,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "efficiency": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "compact": 10,
                       "lethality": 5,
                       "giant_killer": 5,
                       "fortune": 3,
-                      "syphon": 3,
-                      "telekinesis": 1
+                      "scavenger": 3,
+                      "sharpness": 5
                     },
-                    "timestamp": 1630223040000,
                     "uuid": "ce68a059-230a-40a4-82d1-30abce6ca74b",
                     "gems": {
                       "TOPAZ_0": "FINE",
@@ -40634,6 +39872,7 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1576409940000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -40641,7 +39880,6 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "timestamp": 1576409940000,
                     "uuid": "02930d01-f2b0-4a88-8e1d-8b0ec32566c6",
                     "color": "0:0:0",
                     "donated_museum": 1,
@@ -42563,16 +41801,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "WATER_HYDRA_HEAD",
+                    "timestamp": 1636013340000,
+                    "originTag": "UNKNOWN",
+                    "uuid": "7b94d3c9-eb6c-497d-a665-183b402ae5e1",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    },
-                    "originTag": "UNKNOWN",
-                    "uuid": "7b94d3c9-eb6c-497d-a665-183b402ae5e1",
-                    "timestamp": 1636013340000
+                    }
                   }
                 }
               }
@@ -43278,11 +42516,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ROOKIE_AXE",
+                    "timestamp": 1729028155363,
+                    "uuid": "a666be18-a857-49ff-a8f5-e713988d1183",
                     "enchantments": {
                       "efficiency": 1
-                    },
-                    "uuid": "a666be18-a857-49ff-a8f5-e713988d1183",
-                    "timestamp": 1729028155363
+                    }
                   }
                 }
               }
@@ -44159,11 +43397,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DECENT_AXE",
+                    "timestamp": 1750707518586,
+                    "uuid": "2e3ac731-ae6f-4794-89d8-4cfc7398136b",
                     "enchantments": {
                       "efficiency": 5
-                    },
-                    "uuid": "2e3ac731-ae6f-4794-89d8-4cfc7398136b",
-                    "timestamp": 1750707518586
+                    }
                   }
                 }
               }
@@ -44598,12 +43836,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1563820260000,
+                    "anvil_uses": 1,
                     "enchantments": {
                       "telekinesis": 1,
                       "efficiency": 5
                     },
-                    "anvil_uses": 1,
-                    "timestamp": 1563820260000,
                     "uuid": "10ca9df3-a6e2-4caa-a0cb-494e3bf3d08f",
                     "gems": {},
                     "rarity_upgrades": 1,
@@ -45097,12 +44335,12 @@
                   },
                   "minecraft:custom_data": {
                     "baseStatBoostPercentage": 15,
+                    "timestamp": 1683753060000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1683753060000,
                     "uuid": "26685080-8c48-4382-9a38-a837a7c77c65",
                     "modifier": "light",
                     "rarity_upgrades": 1,
@@ -47411,13 +46649,13 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "STEEL_CHESTPLATE",
+                    "timestamp": 1664344020000,
+                    "uuid": "3b5356bd-8b68-4eb3-95ce-01427a7010ba",
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
-                    },
-                    "uuid": "3b5356bd-8b68-4eb3-95ce-01427a7010ba",
-                    "timestamp": 1664344020000
+                    }
                   },
                   "minecraft:dyed_color": 14277081
                 }
@@ -47707,6 +46945,7 @@
                   },
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
+                    "timestamp": 1664387220000,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
@@ -47714,7 +46953,6 @@
                       "respiration": 3,
                       "growth": 5
                     },
-                    "timestamp": 1664387220000,
                     "uuid": "bea45b55-f3eb-4b34-8dfe-af768fe84513",
                     "modifier": "giant",
                     "donated_museum": 1,
@@ -49671,34 +48909,34 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "CLEAVER",
-                    "timestamp": 1561101420000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "62075103-8fa8-484d-a51e-593b3452d08b",
                     "enchantments": {
-                      "scavenger": 3,
-                      "syphon": 3,
+                      "sharpness": 5,
+                      "lethality": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
                       "giant_killer": 5,
                       "telekinesis": 1,
-                      "lethality": 5,
-                      "sharpness": 5
-                    }
+                      "syphon": 3,
+                      "scavenger": 3
+                    },
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "62075103-8fa8-484d-a51e-593b3452d08b",
+                    "timestamp": 1561101420000
                   }
                 }
               }
@@ -50075,31 +49313,31 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 2,
-                    "timestamp": 1680876000000,
                     "enchantments": {
-                      "scavenger": 5,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
+                      "scavenger": 5
                     },
+                    "timestamp": 1680876000000,
                     "baseStatBoostPercentage": 42,
                     "uuid": "541904dd-3f36-407a-a34f-9018824d5f48",
                     "modifier": "heroic",
@@ -50365,7 +49603,6 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 10,
-                    "timestamp": 1683199620000,
                     "enchantments": {
                       "cubism": 5,
                       "infinite_quiver": 5,
@@ -50378,6 +49615,7 @@
                       "impaling": 5,
                       "snipe": 3
                     },
+                    "timestamp": 1683199620000,
                     "baseStatBoostPercentage": 50,
                     "uuid": "18e81fe4-7956-4659-8075-6c733dfee878",
                     "modifier": "rich_bow",
@@ -50767,31 +50005,31 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 3,
-                    "timestamp": 1682837220000,
                     "enchantments": {
-                      "scavenger": 5,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
+                      "scavenger": 5
                     },
+                    "timestamp": 1682837220000,
                     "baseStatBoostPercentage": 22,
                     "uuid": "58b7c50b-70a9-4e02-b1a4-e7ce0a0e2e9a",
                     "modifier": "odd_sword",
@@ -51179,31 +50417,31 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 10,
-                    "timestamp": 1683715920000,
                     "enchantments": {
-                      "scavenger": 5,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
+                      "scavenger": 5
                     },
+                    "timestamp": 1683715920000,
                     "baseStatBoostPercentage": 11,
                     "uuid": "8b299829-16ba-49e8-acc5-0057988f8d1f",
                     "modifier": "heroic",
@@ -51560,7 +50798,6 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 3,
-                    "timestamp": 1682260740000,
                     "enchantments": {
                       "cubism": 5,
                       "infinite_quiver": 5,
@@ -51573,6 +50810,7 @@
                       "impaling": 5,
                       "snipe": 3
                     },
+                    "timestamp": 1682260740000,
                     "baseStatBoostPercentage": 36,
                     "uuid": "08a7e058-f24b-4684-8129-91bdeb2595e5",
                     "modifier": "unreal",
@@ -51794,7 +51032,6 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 10,
-                    "timestamp": 1683284580000,
                     "enchantments": {
                       "cubism": 5,
                       "infinite_quiver": 5,
@@ -51807,6 +51044,7 @@
                       "impaling": 5,
                       "snipe": 3
                     },
+                    "timestamp": 1683284580000,
                     "baseStatBoostPercentage": 14,
                     "uuid": "a685ebf5-5818-4775-a3af-71df74eca2af",
                     "modifier": "grand",
@@ -52079,8 +51317,6 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DEATH_BOW",
-                    "timestamp": 1664344260000,
-                    "uuid": "40aaec2f-dbfb-45a4-a3d2-fe2ee9e52f79",
                     "enchantments": {
                       "cubism": 5,
                       "infinite_quiver": 5,
@@ -52092,7 +51328,9 @@
                       "piercing": 1,
                       "impaling": 5,
                       "snipe": 3
-                    }
+                    },
+                    "uuid": "40aaec2f-dbfb-45a4-a3d2-fe2ee9e52f79",
+                    "timestamp": 1664344260000
                   }
                 }
               }
@@ -52505,31 +51743,31 @@
                   ],
                   "minecraft:custom_data": {
                     "baseStatBoostPercentage": 50,
-                    "timestamp": 1636629780000,
                     "enchantments": {
-                      "scavenger": 5,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
+                      "scavenger": 5
                     },
+                    "timestamp": 1636629780000,
                     "uuid": "ac17d1b7-54af-41a9-b6b1-dcfdb8248cba",
                     "modifier": "odd_sword",
                     "donated_museum": 1,
@@ -52928,31 +52166,31 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 10,
-                    "timestamp": 1649423640000,
                     "enchantments": {
-                      "scavenger": 5,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
+                      "scavenger": 5
                     },
+                    "timestamp": 1649423640000,
                     "baseStatBoostPercentage": 50,
                     "uuid": "0c937a44-071f-4358-8a01-f695a0235bf9",
                     "modifier": "fair",
@@ -53302,32 +52540,32 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "GIANT_CLEAVER",
-                    "timestamp": 1664344080000,
-                    "uuid": "941fc334-f094-45a5-af8b-10f3ec761459",
                     "enchantments": {
-                      "scavenger": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
-                    }
+                      "scavenger": 3
+                    },
+                    "uuid": "941fc334-f094-45a5-af8b-10f3ec761459",
+                    "timestamp": 1664344080000
                   }
                 }
               }
@@ -53709,7 +52947,6 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 5,
-                    "timestamp": 1664108520000,
                     "enchantments": {
                       "cubism": 5,
                       "ender_slayer": 5,
@@ -53718,19 +52955,20 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 3,
+                      "critical": 5,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
                       "life_steal": 3,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "scavenger": 5,
                       "sharpness": 5
                     },
+                    "timestamp": 1664108520000,
                     "baseStatBoostPercentage": 50,
                     "uuid": "470ef8f3-d14b-490c-a1e9-65f3dab388a7",
                     "modifier": "odd_sword",
@@ -54175,8 +53413,9 @@
                   ],
                   "minecraft:custom_data": {
                     "item_tier": 10,
+                    "timestamp": 1682499360000,
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -54184,19 +53423,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 5
+                      "sharpness": 5
                     },
-                    "timestamp": 1682499360000,
                     "baseStatBoostPercentage": 46,
                     "uuid": "902b048e-b576-447c-aaa4-ccbbdc9f8452",
                     "modifier": "fair",
@@ -54840,8 +54078,10 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "STONE_BLADE",
+                    "timestamp": 1670661420000,
+                    "uuid": "25029131-5686-457f-8158-85f07ce8a8d6",
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 3,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -54849,20 +54089,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 3
-                    },
-                    "uuid": "25029131-5686-457f-8158-85f07ce8a8d6",
-                    "timestamp": 1670661420000
+                      "sharpness": 5
+                    }
                   }
                 }
               }
@@ -55340,8 +54578,10 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "FEL_SWORD",
+                    "timestamp": 1659504480000,
+                    "uuid": "045974e1-ddfd-4e44-b12c-87da64c11757",
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 3,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -55349,20 +54589,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 3
-                    },
-                    "uuid": "045974e1-ddfd-4e44-b12c-87da64c11757",
-                    "timestamp": 1659504480000
+                      "sharpness": 5
+                    }
                   }
                 }
               }
@@ -55790,8 +55028,10 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "LIVID_DAGGER",
+                    "timestamp": 1664016000000,
+                    "uuid": "dccbc70d-28ae-401a-b712-42bdae0c87f4",
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 3,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -55799,20 +55039,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 3
-                    },
-                    "uuid": "dccbc70d-28ae-401a-b712-42bdae0c87f4",
-                    "timestamp": 1664016000000
+                      "sharpness": 5
+                    }
                   }
                 }
               }
@@ -56256,8 +55494,11 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "NECROMANCER_SWORD",
+                    "timestamp": 1669388520000,
+                    "uuid": "88101ed3-b7c4-4012-85c2-9e7b0d21ae9a",
+                    "necromancer_souls": [],
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 3,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -56265,21 +55506,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 3
-                    },
-                    "uuid": "88101ed3-b7c4-4012-85c2-9e7b0d21ae9a",
-                    "necromancer_souls": [],
-                    "timestamp": 1669388520000
+                      "sharpness": 5
+                    }
                   }
                 }
               }
@@ -56663,8 +55901,10 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "FELTHORN_REAPER",
+                    "timestamp": 1667824860000,
+                    "uuid": "3fb4d822-3633-4ddf-9d2f-e868fed3a866",
                     "enchantments": {
-                      "sharpness": 5,
+                      "scavenger": 3,
                       "ender_slayer": 5,
                       "cubism": 5,
                       "cleave": 5,
@@ -56672,20 +55912,18 @@
                       "triple_strike": 4,
                       "execute": 5,
                       "fire_aspect": 2,
-                      "impaling": 3,
                       "critical": 5,
+                      "impaling": 3,
                       "looting": 3,
                       "venomous": 5,
                       "vampirism": 5,
-                      "luck": 5,
                       "thunderlord": 5,
+                      "luck": 5,
                       "lethality": 5,
                       "giant_killer": 5,
                       "syphon": 3,
-                      "scavenger": 3
-                    },
-                    "uuid": "3fb4d822-3633-4ddf-9d2f-e868fed3a866",
-                    "timestamp": 1667824860000
+                      "sharpness": 5
+                    }
                   }
                 }
               }
@@ -57027,24 +56265,24 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1611398520000,
                     "enchantments": {
                       "telekinesis": 1,
                       "ultimate_one_for_all": 1
                     },
-                    "timestamp": 1611398520000,
                     "uuid": "7f979079-2d69-4d1a-b965-816b1d4a5dbc",
                     "gems": {
                       "JASPER_0": "FINE",
                       "JASPER_1": "FINE"
                     },
                     "rarity_upgrades": 1,
-                    "hot_potato_count": 15,
                     "modifier": "withered",
+                    "hot_potato_count": 15,
                     "donated_museum": 1,
                     "id": "GIANTS_SWORD",
                     "power_ability_scroll": "JASPER_POWER_SCROLL",
-                    "dungeon_item_level": 5,
-                    "originTag": "UNKNOWN"
+                    "originTag": "UNKNOWN",
+                    "dungeon_item_level": 5
                   }
                 }
               }

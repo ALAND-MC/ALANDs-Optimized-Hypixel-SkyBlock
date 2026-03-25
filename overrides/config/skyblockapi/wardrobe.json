@@ -50,7 +50,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+593 ",
+                          "text": "+553 ",
                           "color": "red"
                         },
                         {
@@ -284,8 +284,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -302,7 +302,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -354,17 +354,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -578,7 +568,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+784 ",
+                          "text": "+744 ",
                           "color": "red"
                         },
                         {
@@ -786,8 +776,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -804,7 +794,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -856,17 +846,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1117,7 +1097,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+707 ",
+                          "text": "+667 ",
                           "color": "red"
                         },
                         {
@@ -1313,8 +1293,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1331,7 +1311,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1383,17 +1363,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1616,7 +1586,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+518 ",
+                          "text": "+478 ",
                           "color": "red"
                         },
                         {
@@ -1811,8 +1781,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1829,7 +1799,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1881,17 +1851,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -2801,7 +2761,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+777 ",
+                          "text": "+737 ",
                           "color": "red"
                         },
                         {
@@ -3414,7 +3374,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+714 ",
+                          "text": "+674 ",
                           "color": "red"
                         },
                         {
@@ -4032,7 +3992,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+525 ",
+                          "text": "+485 ",
                           "color": "red"
                         },
                         {
@@ -4735,7 +4695,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -5265,7 +5225,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -5679,7 +5639,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -6094,7 +6054,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -6741,8 +6701,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6765,7 +6725,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -6797,7 +6757,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -7283,8 +7243,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7307,7 +7267,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -7339,7 +7299,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -7808,8 +7768,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7832,7 +7792,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -7864,7 +7824,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -8224,8 +8184,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -8248,7 +8208,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -8280,7 +8240,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -10953,7 +10913,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -10961,7 +10921,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -11297,7 +11257,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -11305,7 +11265,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -11703,7 +11663,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -11711,7 +11671,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -12125,7 +12085,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -12133,7 +12093,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         },
                         {
@@ -14930,7 +14890,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+460 ",
+                          "text": "+420 ",
                           "color": "red"
                         },
                         {
@@ -15553,7 +15513,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+520 ",
+                          "text": "+480 ",
                           "color": "red"
                         },
                         {
@@ -16151,7 +16111,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+490 ",
+                          "text": "+450 ",
                           "color": "red"
                         },
                         {
@@ -16737,7 +16697,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+430 ",
+                          "text": "+390 ",
                           "color": "red"
                         },
                         {
