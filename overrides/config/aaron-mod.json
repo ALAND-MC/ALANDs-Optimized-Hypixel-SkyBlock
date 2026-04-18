@@ -88,8 +88,7 @@
     },
     "input": {
       "disableScrollLooping": false,
-      "dontResetCursorPosition": false,
-      "alternateF3PlusNKeybind": false
+      "dontResetCursorPosition": false
     },
     "screenshots": {
       "optimizedScreenshots": true

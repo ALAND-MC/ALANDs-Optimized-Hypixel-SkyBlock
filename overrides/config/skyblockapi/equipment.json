@@ -283,7 +283,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,013",
+                      "text": "11,037",
                       "color": "red"
                     }
                   ],
@@ -403,8 +403,8 @@
                 "text": "",
                 "extra": [
                   {
-                    "text": "Rooted Zorro's Cape",
-                    "color": "light_purple"
+                    "text": "Rooted Blossom Cloak",
+                    "color": "gold"
                   }
                 ],
                 "italic": false
@@ -418,40 +418,12 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+34 ",
+                      "text": "+29 ",
                       "color": "red"
                     },
                     {
-                      "text": "(+17)",
+                      "text": "(+14)",
                       "color": "blue"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Strength: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+20",
-                      "color": "red"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Ferocity: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+4",
-                      "color": "red"
                     }
                   ],
                   "italic": false
@@ -464,26 +436,12 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+130 ",
+                      "text": "+59 ",
                       "color": "gold"
                     },
                     {
-                      "text": "(+21)",
+                      "text": "(+18)",
                       "color": "blue"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Farming Wisdom: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+2",
-                      "color": "dark_aqua"
                     }
                   ],
                   "italic": false
@@ -538,15 +496,25 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "The stats of this Cape ",
+                      "text": "Piece Bonus: Florist",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Complete ",
                       "color": "gray"
                     },
                     {
-                      "text": "double ",
+                      "text": "Garden Visitor Offers ",
                       "color": "green"
                     },
                     {
-                      "text": "",
+                      "text": "to",
                       "color": "gray"
                     }
                   ],
@@ -556,16 +524,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "",
+                      "text": "gain ",
                       "color": "gray"
                     },
                     {
-                      "text": "during ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Jacob's Farming Contest",
-                      "color": "yellow"
+                      "text": "☘ Farming Fortune",
+                      "color": "gold"
                     },
                     {
                       "text": ".",
@@ -576,18 +540,18 @@
                 },
                 {
                   "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
                   "extra": [
                     {
-                      "text": "Additionally, you have a ",
+                      "text": "Piece Bonus: ",
                       "color": "gray"
                     },
                     {
-                      "text": "20% ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "chance",
-                      "color": "gray"
+                      "text": "+22.5☘",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -596,18 +560,9 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "to obtain an extra medal from",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "contests.",
-                      "color": "gray"
+                      "text": "MAXED OUT! NICE!",
+                      "color": "green",
+                      "bold": true
                     }
                   ],
                   "italic": false
@@ -620,13 +575,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "",
+                      "text": "Garden Visitors Served: ",
                       "color": "gray"
                     },
                     {
-                      "text": "Not all Rabbits wear capes.",
-                      "color": "dark_gray",
-                      "italic": true
+                      "text": "11,037",
+                      "color": "red"
                     }
                   ],
                   "italic": false
@@ -660,7 +614,7 @@
                   "extra": [
                     {
                       "text": "a",
-                      "color": "light_purple",
+                      "color": "gold",
                       "bold": true,
                       "obfuscated": true
                     },
@@ -677,13 +631,13 @@
                       "obfuscated": false
                     },
                     {
-                      "text": "MYTHIC CLOAK ",
-                      "color": "light_purple",
+                      "text": "LEGENDARY CLOAK ",
+                      "color": "gold",
                       "bold": true
                     },
                     {
                       "text": "a",
-                      "color": "light_purple",
+                      "color": "gold",
                       "bold": true,
                       "obfuscated": true
                     }
@@ -693,16 +647,16 @@
               ],
               "minecraft:profile": {
                 "id": [
-                  -821459823,
-                  -651675929,
-                  -1938320423,
-                  -1964973834
+                  -1719036932,
+                  314260245,
+                  -1728587929,
+                  1813814881
                 ],
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjAyNDY1Mzc0MSwKICAicHJvZmlsZUlkIiA6ICI0MDNlYmEzYjhkODg0MDVlYjhjMDlkNTQ4NmFjYzdiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0ZXh0dHYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmNzIyNmE5Mjc1NThkMDY5YTZhZTM0M2I0ZTA4OWZiZDYwZmM2MDM3MTkwMDk3Yzc3MTMyMDhlOTg4ZmFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-                    "signature": "nGViCclXY0nHdAFJYhXFvGR6wXNO4BqBGE/QZjqDzFVlJuV0lBoZRXtFnQNcU1CSeqrSbGklXaCNCdQ5XpqOhcyImUtBtmhrpQ2wz5rHEAnmK+4h1qxxf5FTqydbq5kQgx5RQNT6gpauS2ltPchthvKL5IgCHtRtMW+bR/rxeuvbShTllBDRxlNbKuXraDHruBbVVvWvJqacWNk2T0XkDRsIef7Yu5auG6AA2jVFxmlQRh7PUwh4aXgCAoJm2VH1UUnXa57GxQKPFoT4gKz0VUkDO8svcYh24dh6y8IMnZ5iUn1VSKhf/Nlqn+62AO1LHkQa+7IWFREpFSZ1W7/l2MuT+7GmJsNhlWrgSZC+Gt6DhvalRokEM3mMGR8Q5Q/u39lA8aZdelolOYzsmPbwgPfEQjHBypZcYcmOuFDUGwGQ/TY6KbVKYPPes3+8NVw1PYVLP3Gz+70QE7AiY+0xRcPb88s7ehnRWmzzi4L6UsUsSTuXOxOW0luHEjv6yKbnOB8rBbjdaZUK3Z7ODGjDZQE5tD6xIRlBkGoD3Z66weacQOTs+HQqNiA7+9b2cXYCFOqL+xkcpCU+FkyTzZB4t43ZjcBDYlnHgwrqmpIiuiVoXoZ/tbDU2xhDz1uyDkrNo93vfvuNpjtyHJN8LXW8rvs2eAEvZHOR+L+K8gMnpvU="
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMDM1MywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDUzYTgwODRiNzc3M2MxYjJiYjYyMTM5MDFkYThjZmI1MGRlNWU1ZDBjOGM1MjRmZjRmYWQwZTE4MmVhNjhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "h2vhpLaPp6oEx2Rb0zHmUh0mqZmwbAqxjGRPa8vjLuuco+FikVMIB2P3xJg45HyEJeWOxSsyBhJnhbiKdrlzKNko3wsh5yHLGyijj+gTffxBnBh6uuxMir/YebgncOrO+LJY9NnIveQll8JdKOD8lCwa6liw5BKi00MBnna8FwgHIZtJXpbOc8tia7e8mq/va24JK2DFDrY0fd2ZAnlDtD1GEvOYg/c+gIa9ppaGdRpVI4Q+dRfK0EIDbN06RbllX5R4X3FJETwm1FikwTrmbRV1bl0yriLQyarMSe4YHAap8Ljdg+f3UoxuVstgSTqMK4FcRyhGEh7YAZaSQd4Q7M3BtS9KCoCOnJxPS42rrpbqeVaUoTqAWIDaXyADw9IpWhVNCCIBy6pW46sWh1CmqH2YamhtE9ik4TSEVzynA69Pchu5dbeZzwTwW5vX0T2U80GKcAh8tLcC3aOVoQFgPo6aWHzZ1shoR7FJzpOaonfyp/AfHwy2mVjfy+QXTqA+QjbDVU2TG9bD7jUZg6sMKLlJbuGZQybIVvC1NMI3dAZ11lp2mlBTgWzMQMoI9ETGDRDZtmWPi/gsfj/Sl7+RomtFz6pDRF2IG8XARI/chD5zhCdtTlkNBAga5mxi3M0PANpxXio5Z4RMnwdfXLNONKb6HDjFVCYCCqfaMVqZeP4="
                   }
                 ]
               },
@@ -710,12 +664,12 @@
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "timestamp": 1727645122418,
+                "timestamp": 1676405400000,
                 "modifier": "rooted",
-                "uuid": "c5a9a34a-bd6b-41d0-8ed0-8e53ac9b1d70",
+                "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
-                "id": "ZORROS_CAPE"
+                "id": "BLOSSOM_CLOAK"
               }
             }
           },
@@ -920,7 +874,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,013",
+                      "text": "11,037",
                       "color": "red"
                     }
                   ],
@@ -1215,7 +1169,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,013",
+                      "text": "11,037",
                       "color": "red"
                     }
                   ],
@@ -1452,7 +1406,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "Elise DCCCLVII",
+                      "text": "Elise DCCCLXXXVII",
                       "color": "light_purple"
                     },
                     {
@@ -2101,6 +2055,855 @@
           "CLOAK": {},
           "BELT": {},
           "GLOVES": {}
+        },
+        "riftSlots": {}
+      },
+      "Mango": {
+        "slots": {
+          "NECKLACE": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Angler Necklace",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sea Creature Chance: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5%",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Depth Champion (8/8)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Sea",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Creatures ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Deepness Within (4/4)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10❤ ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "per Fishing level.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Level I",
+                      "color": "yellow"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "COMMON NECKLACE",
+                      "color": "white",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  1063588826,
+                  -1922154636,
+                  -1847975249,
+                  865727982
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM0NjU2MywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFiM2Q3OTgzODg1Nzg4NzY5YzkwMTMyYjQzNDNmMzQ0MmRkYjQyMGQ0NmJjODBkMWEzNzEzYTRiMjFmZjk5YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                    "signature": "DJr/V0zf38Z9GqntC2WzF9PPAQ/BzQBykPnsvM6nmctOn4oMoNZURVSCVg0QNBShTCo1WiiujMAngmnT4noR0uhNtE5DY0TgxWrLyuYqt5exPKC67uzEgtqF+5ahDJCNyk7m4Yi/JcJSRO9bjBLGq+uVt5oDAK1+Bi1R5NDinkis/Vr4iQTOqBrp+In5Cpio/hNXNcpSIrRjUJjqGlof4D6hl4jCFTq567hTsWzzPHMJmz1tQXIiW2egli+HjnKRtcpU310XtLpjR+S8ltyyDnNN60C3sCCB0Zp6HZeIcOVsLim9GwMclR9+yj1OwC7pVIe2vKcV4wbUNzO5oPwopv35nF12vuSYQzdCYtJCyMNUUUuq/YWHH608B4iMUbv1GKpkkmoGfm1QnMqSbub3YmoHtgpwRGwIv2mOAu/LT0w6O9d/HxS9cCaMR8/7MPiP1xvXjoUrQUo9Y6Zr4816SX2dDCA4e98WtA1mMgj4E82BwaoyF9pt0mETR674IpE7pixS80PiYLTLKpiHdy+U+Hy+sGB66rhr6/XdrJ3c/6RQJGtRPoquuSQslKYM/QbGYdn46iVCyZXabSCmaakld0neUZKAftk1SCeIUeFax3I7DYB9+/t7hXEfsH11yfZNkZg59GS3mWVgY1pV4dJJ/r5D5FR6nI2zN7+0Im8arzU="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "a81d54ce-4ac5-417f-94eb-34d99e56ed72",
+                "timestamp": 1776424993023,
+                "id": "ANGLER_NECKLACE"
+              }
+            }
+          },
+          "CLOAK": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Angler Cloak",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sea Creature Chance: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5%",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Depth Champion (8/8)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Sea",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Creatures ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Deepness Within (4/4)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10❤ ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "per Fishing level.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Level I",
+                      "color": "yellow"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "COMMON CLOAK",
+                      "color": "white",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  339498752,
+                  246427888,
+                  -1304952574,
+                  1615463268
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM0Nzc3MiwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYxYmQwMDVjODNhY2U3MjM0NWQ0YWViZmRiNTI2ZWI0MmExMzExOWQ0NzFjMzQyYzFlZmIxNGY0MmVjZTY1ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                    "signature": "qZ7Dgif8fqYuZBxUJGOINcZa4+igMhBvfIO6+7TcNWB/1zWpdHAWvrpeOAOkXg16bML0N+1Ik34e2XR3oSY3WAl2z0AmORYW7Ex3oX780hLwSwWZQEdH35EBYP4XHMsK9c+vu8T5w76NaWBay1RuWzKrTFddT4DKf/eSssApOPJweU/cA37ZGCyw20l7X8MNAyJnGoBpaqaTABbgO3LGXC6jm2ppceuoP/6kmzSgCMk/QkjZzDeF7c+aQUWDeXzttBTHnPufJ57IC0kUau9YvYNW2jyCk4NQSFgnIhQBYLoiP7AnpiQjy5Y9rSkWa5zoLnNLzs/V5u10396DHMlWOPeRojjXnY1HpS6m6jHjoZd3Q+tuMyePJJcOpLHudUMIWio33j4KJrPauxVLV6nfjP5D1DT359rO0M7wjQ0UH5Nrf1byxfZXh8lGeM7Z4+TTqB7kyWDXGU2F14vSfX4T9RmpGphkjWij1Iv4ntTzO/Yc/nQ1R1CVW3WD3jhZrr5d3nSef2zQO5GmNDc38fdxbtUO08F4yl3etE0vRaxdrjQd8abmHNi+9N/+p7LEnuypKD1RSPShBBX/l+9K/h96UWn9cxvh8R07dOMwp48InEevPsBQooJ194/hj8kCrRJDYOSOEnq3TKW2nlyX+R6JVk7e+9nMofFP3YjOBXJb0TU="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "f6239d91-250c-4f50-a2fc-d62f12d5e840",
+                "timestamp": 1776424993523,
+                "id": "ANGLER_CLOAK"
+              }
+            }
+          },
+          "BELT": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Angler Belt",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sea Creature Chance: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5%",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Depth Champion (8/8)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Sea",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Creatures ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Deepness Within (4/4)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10❤ ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "per Fishing level.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Level I",
+                      "color": "yellow"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "COMMON BELT",
+                      "color": "white",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  1699831449,
+                  -1835254657,
+                  -2012196326,
+                  222678453
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM1MDA3MywKICAicHJvZmlsZUlkIiA6ICI5N2VmNDYyMzdhNGY0ZTQxYWY2ZTljYjg2MTdmNzc2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWthcmlLYXplIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NTFhYmQxNWJlZmE5YTQwNDYzODIxNDk5YmY0N2YxMTUzOWYyYzAwZGUwMWJhNDdjMGEwOWU0ZTBlZDhlZjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                    "signature": "w5oJGpUC7UGS3h8sj6a9PgcR7Amh+ut3Mm4NRVQQzBTqgGZiVeyZ77itaSURhnVV5JlXkwsRBSKo/ddL4rwOO/xlq0+n3kH1hYPAF7VLLcWtBTC42SJ0W6N4jCmqkFMhXk3M8XP5tSf/Y4tkLruoeRKpViP62oKgHJBVTjn7Jwd5d3t9q7uHG9++AwCDW8yI5+cN4yWBbM+10kYyB/OobQUbRGCSIwCWuA9p6pe2sXGeSihEatUZEhkO9md1ypdKEIbOA/OLYaMcS9v9qCMncrQbT7iLdjLIcOKe05awuNnnEiqfxqH6jyy2fSTywCZrOS5DxdvsIRPO4JsUMPQWclzLSJ+Nlm6JuyY3w+Yui9iXOBZJEViiSKRin86jIRYkB13jPxYKDnKfqwK/2dX0jmSgAYuRH8dgx4ihmJ2cUonrr13jjahmfryiUsw8KCd1l7x1mCMc/GT2tYfT3CJlDhxPVXtv/mLyjDeD88RXMS2g5zQJysdbQNr6Z2RJs3M4ySbioK4XM7/Zx/zCpPCOZEoiDdvnoYn8RiYvi2T4Lbh61lMOO73oLUIMkuy4UJTQidMlw6rFlQmUMiPzRMIfX7JM0AoXWV7CH/4WkmTnGCYsz9KWRwSnX+jxhEd+b/wIIBx3uNtndHbIw0TfAk1p/BsSSXCGI2gJEJAW5b8OMqo="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "021677b1-7e2f-40ce-89b9-bd2fe677f3e4",
+                "timestamp": 1776424994674,
+                "id": "ANGLER_BELT"
+              }
+            }
+          },
+          "GLOVES": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:block_entity_data",
+                  "minecraft:dyed_color"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Angler Bracelet",
+                    "color": "white"
+                  }
+                ],
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Sea Creature Chance: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5%",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Depth Champion (8/8)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Sea",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Creatures ",
+                      "color": "dark_aqua"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tiered Bonus: Deepness Within (4/4)",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Gain ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "10❤ ",
+                      "color": "red"
+                    },
+                    {
+                      "text": "per Fishing level.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Level I",
+                      "color": "yellow"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "This item can be reforged!",
+                      "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "COMMON BRACELET",
+                      "color": "white",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1367374536,
+                  1478964711,
+                  -1154313721,
+                  -1995530802
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDY3NTY1Mjk0MywKICAicHJvZmlsZUlkIiA6ICJiZTQxM2Y4M2Y4ZWE0MjE0OGMwMjk0YTJiYzIyN2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWdodGJveTEwMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjI1MTdmNTNmZDBjNzI5NTkwNjkzYzE5OTZiMWI4M2NjNzMwMGI4ZTBlMjk5MzVjNmU3ZTBmMWU1M2JlOTVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "LWHXjVPQB+Df0j5ILKmvRGLOfkNFBtG4eMNO7f0ArAXN/gdfhxe/fWlsAFdO5fZi1FE8ezzFmvAc3M3dqBea2eoaHo+tjdKCJjcvo2nd3pVQiTwXpJB8yWl4CRBz0qzkYXuEknfMbTVaV1VTZ3UpDFbm5S3KIH6Hch+P3whBDkDaXcJaNQC6dqaXXnHoGMaocb9qFywTGqPGLcINo77l/m8bf9G3xJrNYzGmmPMh9AgxiJX+1fv2wBWMACaeXbzqAqWbFhfdmC4JoEiLVBwOQURpaRBoBEEMlpQbFTWt3Fkj+rESwC3/Hu6novbS7GKlDpyubGgfVa7w22bElJZIZoFJaHrFPbTGkZQ2bGIaAHGVDcoOhvcDom5L0ttIHa/+m9NiB7d8JIX3eQWEc3bcLNGhAga9hzfYikeMQkJ0N+B/3PBQLvDv7BFfynd1Z45w9w8aF8pfFaLRVSji2yBkmBqR31vSbV7yOYXGLWr/A64DhAz+jjCyRT/+jizmd9lxV/wrDnY2I0mgCzViCkIW/krkBmYjjpizKvlB5WefcSXlHyXWXyzrL5BuJYPy7J/7GJ9KhvvXieQwLoUDoO53oiazWHOh2JLiFN8tuvhemoJll915hhlusw1ISNwy7yZ9vnzuPIuWhUZOhHVxEYYGWPj7HnlvluYDbn/90SrM2To="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "bbb7269a-bf8b-43bd-b6aa-129f6502171a",
+                "timestamp": 1776424994072,
+                "id": "ANGLER_BRACELET"
+              }
+            }
+          }
         },
         "riftSlots": {}
       }

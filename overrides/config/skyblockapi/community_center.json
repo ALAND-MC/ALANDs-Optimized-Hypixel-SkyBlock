@@ -3,9 +3,9 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "rank": "ambassador",
-      "gems": 500,
+      "gems": 1000,
       "bitsAvailable": {
-        "Pear": 24816,
+        "Pear": 0,
         "Cucumber": 118827
       }
     }

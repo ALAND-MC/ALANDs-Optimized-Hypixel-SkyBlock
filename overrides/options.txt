@@ -32,7 +32,7 @@ renderDistance:8
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
-vignette:true
+vignette:false
 weatherRadius:10
 autoJump:false
 rotateWithMinecart:false
@@ -62,8 +62,8 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/Skyblock Dark UI 1.11 for 1.21.10+.zip","file/Dark Skyblock v1.1.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6Furf§bSky §5LEGACY §f§lOVERLAY§r 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
+resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/FurfSky Reborn.cats.zip","file/Skyblock Dark UI 1.13 for 1.21.10+.zip","file/Dark Skyblock v1.2.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -222,8 +222,8 @@ key_key.tooltipscroll.moveDown:key.keyboard.unknown
 key_key.tooltipscroll.reset:key.keyboard.unknown
 key_key.tooltipscroll.horizontal:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.sbo-kotlin.guess_warp:key.keyboard.r
-key_key.sbo-kotlin.inq_warp:key.keyboard.f
+key_key.sbo-kotlin.guess_warp:key.keyboard.unknown
+key_key.sbo-kotlin.inq_warp:key.keyboard.unknown
 key_key.sbo-kotlin.general_warp:key.keyboard.unknown
 key_key.sbo-kotlin.send_coords:key.keyboard.unknown
 key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown

@@ -3,17 +3,17 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "purse": 9.0026428E7,
+        "purse": 2.68622E7,
         "purseType": "NORMAL",
         "personalBank": 0,
-        "coopBank": 12000000000,
-        "motes": 94808,
-        "bits": 1576495,
+        "coopBank": 13300000000,
+        "motes": 183408,
+        "bits": 1532521,
         "gems": 0,
-        "copper": 292288,
-        "sowdust": 36687764,
+        "copper": 218891,
+        "sowdust": 64995538,
         "northStars": 704,
-        "soulflow": 7392
+        "soulflow": 7389
       },
       "Tomato": {
         "purse": 1651.2,
@@ -72,6 +72,19 @@
         "purseType": "NORMAL",
         "personalBank": 0,
         "coopBank": 0,
+        "motes": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0
+      },
+      "Mango": {
+        "purse": 556.8,
+        "purseType": "NORMAL",
+        "personalBank": 0,
+        "coopBank": 78000,
         "motes": 0,
         "bits": 0,
         "gems": 0,

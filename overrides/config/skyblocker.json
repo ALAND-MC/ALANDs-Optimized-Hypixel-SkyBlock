@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 10,
   "general": {
     "enableTips": false,
     "acceptReparty": true,
@@ -18,6 +18,7 @@
       "enableQuiverWarningAfterDungeon": false
     },
     "itemList": {
+      "enableRecipeBook": false,
       "enableItemList": false,
       "enableCollapsibleEntries": true
     },
@@ -162,6 +163,7 @@
       "lineWidth": 5.0,
       "allowSkippingWaypoints": true,
       "allowGoingBackwards": true,
+      "waypointActivationRadius": 2.0,
       "enableChatWaypoints": true
     },
     "teleportOverlay": {
@@ -197,9 +199,9 @@
         "drain"
       ],
       "auctionHistory": [
-        "mixin",
-        "Hot Chocolate Mixin",
-        "Shattered Locket"
+        "Giant\u0027s Sword",
+        "claymore",
+        "mixin"
       ],
       "museumHistory": [
         "shiny rod",
@@ -930,71 +932,119 @@
   "eventNotifications": {
     "criterion": "NONE",
     "reminderSound": "NONE",
-    "eventsReminderTimes": {
-      "New Year Celebration": [
-        60,
-        300
-      ],
-      "Dark Auction": [
-        60,
-        300
-      ],
-      "Season of Jerry": [
-        60,
-        300
-      ],
-      "Jerry\u0027s Workshop Opens": [
-        60,
-        300
-      ],
-      "Traveling Zoo": [
-        60,
-        300
-      ],
-      "Jacob\u0027s Farming Contest": [
-        60,
-        300
-      ],
-      "Hoppity\u0027s Hunt Begins": [
-        60,
-        300
-      ],
-      "Spooky Festival": [
-        60,
-        300
-      ],
-      "Election Booth Opens": [
-        60,
-        300
-      ],
-      "Election Over!": [
-        60,
-        300
-      ],
-      "Bonus Mining Fiesta": [
-        60,
-        300
-      ],
-      "Cult": [
-        60,
-        300
-      ],
-      "Cult of the Fallen Star": [
-        60,
-        300
-      ],
-      "Year of the Pig Begins": [
-        60,
-        300
-      ],
-      "Election Booth Closes": [
-        60,
-        300
-      ],
-      "Bonus Fishing Festival": [
-        60,
-        300
-      ]
+    "events": {
+      "Hoppity\u0027s Hunt Begins": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Bonus Mining Fiesta": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Season of Jerry": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Spooky Festival": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Cult": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Traveling Zoo": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Jacob\u0027s Farming Contest": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Over!": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Booth Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Cult of the Fallen Star": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "New Year Celebration": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Dark Auction": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Election Booth Closes": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Bonus Fishing Festival": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Jerry\u0027s Workshop Opens": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      },
+      "Year of the Pig Begins": {
+        "enabled": true,
+        "reminderTimes": [
+          60,
+          300
+        ]
+      }
     }
   },
   "misc": {

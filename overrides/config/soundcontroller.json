@@ -140,7 +140,7 @@
     },
     {
       "soundId": "minecraft:entity.player.levelup",
-      "volume": 0.25
+      "volume": 0.5
     },
     {
       "soundId": "minecraft:entity.wither.ambient",
@@ -173,6 +173,14 @@
     {
       "soundId": "minecraft:entity.zombie_villager.cure",
       "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:item.totem.use",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:ui.toast.challenge_complete",
+      "volume": 0.25
     },
     {
       "soundId": "minecraft:weather.end_flash",

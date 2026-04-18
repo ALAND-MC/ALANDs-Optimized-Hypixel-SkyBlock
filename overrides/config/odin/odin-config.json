@@ -46,11 +46,11 @@
         "scale": 2.0,
         "enabled": false
       },
+      "Fixed Width": true,
       "Boss Entry Split": true,
       "Send Splits": true,
-      "Send Only PB": false,
-      "Numbers After Decimal": 2.0,
       "Show Tick Time": false,
+      "Split Location": "Both",
       "KuudraT5": {
         "§2Supplies": 40.219,
         "§bBuild": 22.496,
@@ -149,7 +149,8 @@
     "enabled": true,
     "settings": {
       "Block Wrong Clicks": false,
-      "Invert Sneak": false,
+      "Prevent Blocking": "key.keyboard.left.shift",
+      "Invert Key": false,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -162,7 +163,7 @@
       "Only Classes": false,
       "Color Style": false,
       "Background Color": "#262626BF",
-      "Scale": 0.7000000104308128,
+      "Render Scale": 1.0000000149011612,
       "Mode": "Corners",
       "Top Left": "key.keyboard.1",
       "Top Right": "key.keyboard.2",
@@ -247,7 +248,7 @@
       "Cast alert": true,
       "Cancel alert": true,
       "Strength gained": true,
-      "Announce gained strength": false,
+      "Announce strength": false,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -314,11 +315,11 @@
     "name": "Terminal Solver",
     "enabled": true,
     "settings": {
-      "Mode": "Custom GUI",
-      "Term Size": 1.5000000223517418,
+      "Render type": "Odin",
       "Normal Term Size": 3.0,
+      "Term Size": 1.5000000223517418,
       "Roundness": 9.0,
-      "Gap": 5.0,
+      "Slot gap": 2.0,
       "Stop Tooltips": true,
       "Middle Click GUI": true,
       "Block Incorrect Clicks": true,
@@ -326,7 +327,7 @@
       "Show Numbers": true,
       "First Click Protection": 350.0,
       "Hide Clicked": false,
-      "Solution resolve timeout": 600.0,
+      "Resolve timeout": 600.0,
       "Debug": false,
       "Background": "#1A1A1AFF",
       "Panes": "#55FF55FF",
@@ -349,6 +350,7 @@
     "name": "No Cursor Reset",
     "enabled": true,
     "settings": {
+      "Unhook Timeout": 150.0,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -720,8 +722,16 @@
     }
   },
   {
+    "name": "Secrets Counter",
+    "enabled": false,
+    "settings": {
+      "Secrets Counter": true,
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Livid Solver",
-    "enabled": true,
+    "enabled": false,
     "settings": {
       "Invulnerability Timer": {
         "x": 10,
@@ -1004,6 +1014,11 @@
           "x": 1050.0,
           "y": 10.0,
           "extended": true
+        },
+        "Boss": {
+          "x": 270.0,
+          "y": 10.0,
+          "extended": true
         }
       },
       "Keybind": "key.keyboard.unknown"
@@ -1105,6 +1120,7 @@
       "Color for one": "#55FF557F",
       "Color for multiple": "#FFAA007F",
       "Color for visited": "#FF55557F",
+      "Tracer Color": "#55FFFFFF",
       "Ice Fill Solver": false,
       "Ice Fill Color": "#FF55FFFF",
       "Use Optimized Patterns": false,
@@ -1133,7 +1149,7 @@
       "Boulder Style": "Outline",
       "Boulder Color": "#55FF557F",
       "Puzzle Timers": true,
-      "Auto Draft": true,
+      "Draft prompt": true,
       "PuzzlePBs": {
         "Boulder": 24.404,
         "Creeper Beams": 63.011,
@@ -1256,7 +1272,7 @@
     "name": "Terminal Times",
     "enabled": false,
     "settings": {
-      "Send only PB": true,
+      "Terminal Times": true,
       "Terminal Splits": true,
       "Use Real Time": true,
       "TerminalPBs": {},

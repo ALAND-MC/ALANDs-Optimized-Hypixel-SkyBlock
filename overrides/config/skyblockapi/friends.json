@@ -2230,11 +2230,6 @@
           "bestFriend": true
         },
         {
-          "name": "TransyGirly",
-          "uuid": "bff189aa-9114-407b-84d3-e6776f85dff1",
-          "bestFriend": true
-        },
-        {
           "name": "EyNvala",
           "uuid": "e4ee33ca-964c-45c5-ab13-d8f6e0a9697c",
           "bestFriend": false
@@ -2242,6 +2237,19 @@
         {
           "name": "Gayhai",
           "uuid": "b85eff59-aedb-4ff8-9621-ecc2f26fa3a5",
+          "bestFriend": false
+        },
+        {
+          "name": "Rusopkfr",
+          "bestFriend": false
+        },
+        {
+          "name": "TransyGirly",
+          "uuid": "bff189aa-9114-407b-84d3-e6776f85dff1",
+          "bestFriend": false
+        },
+        {
+          "name": "Dingus",
           "bestFriend": false
         }
       ]

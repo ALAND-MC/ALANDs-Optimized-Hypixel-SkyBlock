@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.4577811E7,
+              "exp": 4.555612207405088E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -35,7 +35,7 @@
             {
               "petInternalName": "FLYING_FISH;5",
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 3.007668327937508E8,
+              "exp": 3.0915818547791594E8,
               "uuid": "039672f1-b74a-47f4-ab53-aec5f59722ad"
             },
             {
@@ -87,7 +87,7 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.206940297061355E8,
+              "exp": 2.212210717452581E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -201,7 +201,7 @@
             {
               "petInternalName": "GRIFFIN;5",
               "heldItemInternalName": "FOUR_EYED_FISH",
-              "exp": 5.526783030656492E7,
+              "exp": 5.716121505834797E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -337,7 +337,7 @@
             {
               "petInternalName": "SHEEP;4",
               "heldItemInternalName": "PET_ITEM_TEXTBOOK",
-              "exp": 1.0119459846839176E8,
+              "exp": 1.0120174854191712E8,
               "uuid": "06206ef4-12c0-4f93-932a-9693006811ae"
             },
             {
@@ -437,13 +437,13 @@
             {
               "petInternalName": "FROG;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.5408772709208596E7,
+              "exp": 2.54092061807086E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.966477584373635E8,
+              "exp": 2.97468353E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -467,12 +467,11 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
-              "exp": 9.488819081140986E7,
+              "exp": 1.3385644037527126E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
               "petInternalName": "MAMMOTH;4",
-              "skinVariantIndex": -1,
               "exp": 0.0
             },
             {
@@ -484,7 +483,7 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 9909884.787372928,
+              "exp": 1.2266144356378283E7,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
             }
           ],
@@ -550,6 +549,16 @@
         },
         "raep": {
           "pets": [],
+          "expSharePets": []
+        },
+        "mango": {
+          "pets": [
+            {
+              "petInternalName": "BINGO;4",
+              "exp": 38629.94921894203,
+              "uuid": "b06e149b-0aae-470f-a0ea-4d768a65cf59"
+            }
+          ],
           "expSharePets": []
         }
       }

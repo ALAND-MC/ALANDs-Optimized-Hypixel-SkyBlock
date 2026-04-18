@@ -82,6 +82,107 @@
         },
         "tokens": 0,
         "tier": 7
+      },
+      "Mango": {
+        "perks": {
+          "Monster Hunter": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Center of the Forest": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Tree Whisperer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Lottery": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Madness": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Deep Waters": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Efficient Forager": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Collector": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Early Bird": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Precision Cutting": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Luck of the Forest": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Daily Wishes": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "250 Gifts": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Damage Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Strength Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Fortune": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Speed Boost": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Axe Toss": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Sweep": {
+            "level": 6,
+            "unlocked": true,
+            "disabled": false
+          }
+        },
+        "tokens": 0,
+        "tier": 1
       }
     }
   }

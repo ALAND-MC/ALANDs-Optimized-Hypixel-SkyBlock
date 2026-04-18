@@ -1,3 +1,40 @@
 {
-  "players": {}
+  "players": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "friends": {
+        "f4bee4a9-c1ca-4b92-9563-f4f8148b2968": {
+          "name": "adjective_n0un",
+          "bestFriend": true
+        },
+        "fd2541ec-a0bc-48f7-923e-bbe3443d6347": {
+          "name": "Rufflez",
+          "bestFriend": true
+        },
+        "0715d438-7718-45bd-8fa4-f663aed0af52": {
+          "name": "237Diego",
+          "bestFriend": false
+        },
+        "8b74b49d-40dd-46d2-a8ef-e1c33d4a04e6": {
+          "name": "2_B_Determined",
+          "bestFriend": false
+        },
+        "f52ef646-d827-4cfc-9242-4301a2122f61": {
+          "name": "4Clover",
+          "bestFriend": false
+        },
+        "ff507b67-0e97-4b1a-b317-21a7cfbf9055": {
+          "name": "AlexxOffi",
+          "bestFriend": false
+        },
+        "48453851-e98a-4fa2-8a00-3462b9df5dd0": {
+          "name": "arne501",
+          "bestFriend": false
+        },
+        "fe02117d-51ad-49b4-bd96-a49969c70441": {
+          "name": "AurasaurusRex",
+          "bestFriend": false
+        }
+      }
+    }
+  }
 }

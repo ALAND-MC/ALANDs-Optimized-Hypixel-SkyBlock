@@ -19,7 +19,8 @@
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"LION;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"MOSQUITO;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"PARROT;4\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"VINYL_FIREFLY\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

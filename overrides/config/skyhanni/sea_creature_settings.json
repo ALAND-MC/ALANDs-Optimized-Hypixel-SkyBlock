@@ -863,6 +863,18 @@
       "shouldHighlight": true,
       "shouldShareCocoonInChat": true,
       "shouldWarnWhenCocooned": true
+    },
+    "Nessie": {
+      "name": "Nessie",
+      "shouldRenderLootshare": true,
+      "shouldShowHealthOverlay": true,
+      "shouldShareInChat": true,
+      "shouldShowKillTime": true,
+      "shouldSelfNotifyOnCatch": true,
+      "shouldNotifyForNonOwn": true,
+      "shouldHighlight": true,
+      "shouldShareCocoonInChat": true,
+      "shouldWarnWhenCocooned": true
     }
   }
 }

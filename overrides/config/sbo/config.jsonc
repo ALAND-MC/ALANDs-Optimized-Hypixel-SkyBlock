@@ -16,20 +16,20 @@
     },
     "Diana": {
         // Guess the burrow location. Needs Driping Lava Partciles and set /particlequality to Extreme for more accuracy
-        "dianaBurrowGuess": true,
+        "dianaBurrowGuess": false,
         /*
          * Guesses the burrow location from the arrow direction after digging a burrow 
          * §bNOTE!: This replaces the old Multi guess system!
          * §cHave Dust Particles enabled!!!
          * §aDo every burrow you see for doing diana the fastest way!
          */
-        "arrowGuess": true,
+        "arrowGuess": false,
         // Shows a title to guess normally when the arrow guess is inaccurate
         "showTitleWhenInaccurate": false,
         // If enabled, the arrow guess waypoints will not be cleared when changing worlds/lobby
         "dontClearArrowGuess": false,
         // Detects Diana burrows | to reset waypoints /sboclearburrows
-        "dianaBurrowDetect": true,
+        "dianaBurrowDetect": false,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
          * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, Museum
@@ -123,11 +123,11 @@
             "&6[SBO] &6&lRARE DROP! &6Shimmering Wool! &b+{mf} ✯ Magic Find &b#{amount}"
         ],
         // Draws line for guess, Disable View Bobbing in controls if its buggy
-        "guessLine": true,
+        "guessLine": false,
         // Draws line to rare mob waypoints, Disable View Bobbing in controls if its buggy
-        "inqLine": true,
+        "inqLine": false,
         // Draws line for burrow, Disable View Bobbing in controls if its buggy
-        "burrowLine": true,
+        "burrowLine": false,
         /*
          * The width of the lines drawn for Diana waypoints
          * Range: 1 - 20
@@ -139,14 +139,14 @@
          */
         "removeGuessDistance": 0,
         // Removes the rare mob waypoint when you are within 3 blocks of it
-        "removeRareMobwaypoint": true,
+        "removeRareMobwaypoint": false,
         /*
          * Removes the rare mob waypoint beam when you are within this distance of it (0 to disable)
          * Range: 0 - 20
          */
         "removeBeam": 20,
         // Sends the coordinates of rare mobs(King, Manti, Sphinx, Inq)to your party
-        "shareRareMob": true,
+        "shareRareMob": false,
         /*
          * Select which mobs to share
          * Valid Values: INQ, MANTICORE, KING, SPHINX
@@ -157,7 +157,7 @@
             "MANTICORE"
         ],
         // Create a waypoint when someone in your party shares a rare mob(King, Manti, Sphinx, Inq)
-        "receiveRareMob": true,
+        "receiveRareMob": false,
         /*
          * Select which mobs to receive
          * §bOTHER = Rare mobs from players that dont ping with sbo (mainly skyhanni)
@@ -171,7 +171,7 @@
             "OTHER"
         ],
         // Highlights rare mobs(King, Manti, Sphinx, Inq) with a glowing effect
-        "HighlightRareMobs": true,
+        "HighlightRareMobs": false,
         /*
          * Color for the rare mob highlight effect
          * [Color Format: RGBA]
@@ -196,9 +196,9 @@
             ""
         ],
         // Sends a text on cocoon
-        "announceCocoon": false,
+        "announceCocoon": true,
         // Shows a title on cocoon
-        "cocoonTitle": false,
+        "cocoonTitle": true,
         /*
          * Sends a title alert when a Rare Mob is below the set HP value in Million (0 to disable)
          * Type: Double

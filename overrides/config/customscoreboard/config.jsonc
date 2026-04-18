@@ -133,7 +133,7 @@
         // Valid Values: ISO_YYYYMMDD, YEAR_MONTH_DAY, US_SLASH_MMDDYYYY, US_DASH_MMDDYYYY, UK_DDMMYYYY, UK_DASH_DDMMYYYY, DAY_MONTH_YEAR, DAY_MONTH_YEAR_SHORT, FULL_MONTH_DAY_YEAR, SHORT_MONTH_DAY_YEAR
         "dateFormat": "US_SLASH_MMDDYYYY",
         "time24hFormat": false,
-        "smoothTime": true,
+        "smoothTime": false,
         "colored_month": true,
         // Valid Values: LONG, SHORT
         "number_format": "LONG",
