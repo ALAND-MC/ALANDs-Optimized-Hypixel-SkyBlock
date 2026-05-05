@@ -196,9 +196,9 @@
             ""
         ],
         // Sends a text on cocoon
-        "announceCocoon": true,
+        "announceCocoon": false,
         // Shows a title on cocoon
-        "cocoonTitle": true,
+        "cocoonTitle": false,
         /*
          * Sends a title alert when a Rare Mob is below the set HP value in Million (0 to disable)
          * Type: Double

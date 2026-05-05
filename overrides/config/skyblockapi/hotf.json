@@ -40,9 +40,9 @@
             "disabled": false
           },
           "Daily Wishes": {
-            "level": 100,
+            "level": 93,
             "unlocked": true,
-            "disabled": true
+            "disabled": false
           },
           "Homing Axe": {
             "level": 1,
@@ -50,13 +50,13 @@
             "disabled": false
           },
           "Galatea's Might": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Essence Fortune": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Maniac Slicer": {
@@ -77,6 +77,76 @@
           "Half Full": {
             "level": 1,
             "unlocked": false,
+            "disabled": false
+          },
+          "Monster Hunter": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Tree Whisperer": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Lottery": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Foraging Madness": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Deep Waters": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Efficient Forager": {
+            "level": 71,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Collector": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Early Bird": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "250 Gifts": {
+            "level": 31,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Foraging Fortune": {
+            "level": 41,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Sweep": {
+            "level": 41,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Forest Strength": {
+            "level": 1,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Hunter's Luck": {
+            "level": 41,
+            "unlocked": true,
+            "disabled": false
+          },
+          "Forest Speed": {
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           }
         },

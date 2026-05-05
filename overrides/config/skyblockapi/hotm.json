@@ -21,12 +21,12 @@
           },
           "Sky Mall": {
             "level": 1,
-            "unlocked": true,
+            "unlocked": false,
             "disabled": false
           },
           "Old-School": {
-            "level": 20,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Professional": {
@@ -151,7 +151,7 @@
           },
           "Miner's Blessing": {
             "level": 1,
-            "unlocked": false,
+            "unlocked": true,
             "disabled": false
           },
           "No Stone Unturned": {
@@ -210,8 +210,8 @@
             "disabled": false
           },
           "Subterranean Fisher": {
-            "level": 1,
-            "unlocked": false,
+            "level": 40,
+            "unlocked": true,
             "disabled": false
           },
           "Keep It Cool": {

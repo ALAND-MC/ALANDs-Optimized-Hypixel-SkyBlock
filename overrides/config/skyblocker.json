@@ -24,6 +24,7 @@
     },
     "itemTooltip": {
       "enableNPCPrice": false,
+      "enableGeorgePrice": false,
       "enableMotesPrice": false,
       "enableAvgBIN": false,
       "avg": "THREE_DAY",
@@ -32,7 +33,7 @@
       "enableCraftingCost": "OFF",
       "enableObtainedDate": false,
       "enableMuseumInfo": false,
-      "enableExoticTooltip": false,
+      "enableExoticTooltip": true,
       "enableAccessoriesHelper": true,
       "dungeonQuality": true,
       "showEssenceCost": false,
@@ -98,6 +99,7 @@
     "slotText": {
       "slotTextMode": "ENABLED",
       "textEnabled": {
+        "hunting_toolkit_indicator": true,
         "rancher_boots": false,
         "enchantment_abbreviation": false,
         "enchantment_level": true,
@@ -194,19 +196,19 @@
       "historyLength": 3,
       "enableCommands": false,
       "bazaarHistory": [
-        "wasp",
-        "Hunk of Blue Ice",
-        "drain"
+        "feast",
+        "historic",
+        "wasp"
       ],
       "auctionHistory": [
+        "armadillo",
         "Giant\u0027s Sword",
-        "claymore",
-        "mixin"
+        "claymore"
       ],
       "museumHistory": [
-        "shiny rod",
-        "hydro",
-        "whi"
+        "toolkit",
+        "hunt",
+        "chisel"
       ]
     },
     "bazaarQuickQuantities": {
@@ -260,7 +262,7 @@
     "enableBitsTooltip": false,
     "enableWardrobeHelper": true,
     "enableDateCalculator": true,
-    "enableCopyUnderbidPrice": false,
+    "enableCopyUnderbidPrice": true,
     "enableAnvilHelper": true,
     "enableAccessoriesHelperWidget": true,
     "buildersWand": {
@@ -342,7 +344,7 @@
       "enableOrderTracker": true
     },
     "itemPrice": {
-      "enableItemPriceLookup": false,
+      "enableItemPriceLookup": true,
       "enableItemPriceRefresh": false
     },
     "greatSpookEvent": {
@@ -612,7 +614,10 @@
   "farming": {
     "farmingHud": {
       "enabled": false,
-      "type": "BOTH"
+      "counter": true,
+      "coins": true,
+      "type": "BOTH",
+      "experience": true
     },
     "pestHighlighter": {
       "enabled": true,
@@ -663,7 +668,8 @@
       "blobbercystGlow": false,
       "enigmaSoulWaypoints": false,
       "highlightFoundEnigmaSouls": false,
-      "mcGrubberStacks": 0
+      "autoDetectMcGrubber": true,
+      "mcGrubberStacks": 3
     },
     "end": {
       "enableEnderNodeHelper": false,
@@ -742,6 +748,7 @@
     "hideHeal": "PASS",
     "hideAOTE": "PASS",
     "hideImplosion": "PASS",
+    "hideSpiritSceptre": "PASS",
     "hideMoltenWave": "PASS",
     "hideAds": "PASS",
     "hideTeleportPad": "PASS",
@@ -759,7 +766,7 @@
     }
   },
   "quickNav": {
-    "enableQuickNav": true,
+    "enableQuickNav": false,
     "button1": {
       "render": true,
       "doubleClick": false,

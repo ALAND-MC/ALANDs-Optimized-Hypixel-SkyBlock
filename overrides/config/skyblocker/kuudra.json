@@ -12,8 +12,8 @@
       },
       "kuudraKeyPrices": {
         "KUUDRA_INFERNAL_TIER_KEY": 2328000,
-        "KUUDRA_BURNING_TIER_KEY": 582000,
         "KUUDRA_FIERY_TIER_KEY": 1164000,
+        "KUUDRA_BURNING_TIER_KEY": 582000,
         "KUUDRA_HOT_TIER_KEY": 310400,
         "KUUDRA_TIER_KEY": 155200
       }

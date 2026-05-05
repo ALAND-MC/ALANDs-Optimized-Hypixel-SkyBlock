@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.555612207405088E7,
+              "exp": 4.5583766E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -159,7 +159,7 @@
             {
               "petInternalName": "ENDER_DRAGON;4",
               "heldItemInternalName": "GOLD_CLAWS",
-              "exp": 3.2672656525642842E7,
+              "exp": 3.268157186807886E7,
               "uuid": "58414333-a3d9-4016-b623-cb3bc8fb37c6"
             },
             {
@@ -290,7 +290,7 @@
             },
             {
               "petInternalName": "PARROT;4",
-              "exp": 2.5689541410944242E7,
+              "exp": 2.569100161654438E7,
               "uuid": "830bfaa2-b171-445b-8747-d463ec212764"
             },
             {
@@ -331,7 +331,7 @@
             {
               "petInternalName": "SCATHA;4",
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.188219168673038E8,
+              "exp": 3.188375012529047E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -437,19 +437,19 @@
             {
               "petInternalName": "FROG;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.54092061807086E7,
+              "exp": 2.5412497167022593E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.97468353E8,
+              "exp": 2.985118019409644E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
               "petInternalName": "MOSQUITO;4",
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 2.623800253934759E7,
+              "exp": 2.624743379054723E7,
               "uuid": "d2bcd2b4-6ae4-4db7-885e-75f1d4135d2d"
             },
             {
@@ -467,7 +467,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
-              "exp": 1.3385644037527126E8,
+              "exp": 1.7438451130211088E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -483,12 +483,17 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 1.2266144356378283E7,
+              "exp": 1.519073947450231E7,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
+            },
+            {
+              "petInternalName": "SEAL;4",
+              "exp": 1837139.2761730703,
+              "uuid": "94345dd7-c629-4d27-bb6e-e3758e7b545c"
             }
           ],
           "expSharePets": [
-            "dd07d536-35e5-4f28-8bf0-9020623c5c55",
+            "94345dd7-c629-4d27-bb6e-e3758e7b545c",
             null,
             null
           ]

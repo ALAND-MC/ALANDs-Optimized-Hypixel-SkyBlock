@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": -1,
+        "currentSlot": 6,
         "slots": [
           {
             "id": 1,
@@ -284,8 +284,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -302,7 +302,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -354,17 +354,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -786,8 +776,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -804,7 +794,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -856,17 +846,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1313,8 +1293,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1331,7 +1311,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1383,17 +1363,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1811,8 +1781,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1829,7 +1799,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1881,17 +1851,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -10953,7 +10913,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -10969,7 +10929,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         }
                       ],
@@ -11297,7 +11257,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -11313,7 +11273,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         }
                       ],
@@ -11703,7 +11663,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -11719,7 +11679,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         }
                       ],
@@ -12125,7 +12085,7 @@
                           "color": "aqua"
                         },
                         {
-                          "text": "⎋",
+                          "text": "ꕮ",
                           "color": "aqua"
                         },
                         {
@@ -12141,7 +12101,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "ꕮ",
+                          "text": "⎋",
                           "color": "aqua"
                         }
                       ],
@@ -12495,7 +12455,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Bonus Attack Speed: ",
+                          "text": "Attack Speed: ",
                           "color": "gray"
                         },
                         {
@@ -13083,7 +13043,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Bonus Attack Speed: ",
+                          "text": "Attack Speed: ",
                           "color": "gray"
                         },
                         {
@@ -13793,7 +13753,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Bonus Attack Speed: ",
+                          "text": "Attack Speed: ",
                           "color": "gray"
                         },
                         {
@@ -14471,7 +14431,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Bonus Attack Speed: ",
+                          "text": "Attack Speed: ",
                           "color": "gray"
                         },
                         {
@@ -19144,7 +19104,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+122 ",
+                          "text": "+244 ",
                           "color": "red"
                         },
                         {
@@ -19166,7 +19126,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+62 ",
+                          "text": "+124 ",
                           "color": "green"
                         },
                         {
@@ -19188,7 +19148,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+35 ",
+                          "text": "+70 ",
                           "color": "red"
                         },
                         {
@@ -19206,7 +19166,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+15% ",
+                          "text": "+30% ",
                           "color": "blue"
                         },
                         {
@@ -19224,7 +19184,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+50% ",
+                          "text": "+100% ",
                           "color": "blue"
                         },
                         {
@@ -19242,7 +19202,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+25 ",
+                          "text": "+50 ",
                           "color": "aqua"
                         },
                         {
@@ -19841,7 +19801,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+125 ",
+                          "text": "+250 ",
                           "color": "red"
                         },
                         {
@@ -19863,7 +19823,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+75 ",
+                          "text": "+150 ",
                           "color": "green"
                         },
                         {
@@ -20356,7 +20316,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+125 ",
+                          "text": "+250 ",
                           "color": "red"
                         },
                         {
@@ -20378,7 +20338,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+70 ",
+                          "text": "+140 ",
                           "color": "green"
                         },
                         {
@@ -20872,7 +20832,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+125 ",
+                          "text": "+250 ",
                           "color": "red"
                         },
                         {
@@ -20894,7 +20854,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+60 ",
+                          "text": "+120 ",
                           "color": "green"
                         },
                         {
@@ -21784,7 +21744,7 @@
                           "color": "dark_aqua"
                         },
                         {
-                          "text": "+20⚔ Bonus Attack Speed",
+                          "text": "+20⚔ Attack Speed",
                           "color": "yellow"
                         }
                       ],
@@ -22420,7 +22380,7 @@
                           "color": "dark_aqua"
                         },
                         {
-                          "text": "+20⚔ Bonus Attack Speed",
+                          "text": "+20⚔ Attack Speed",
                           "color": "yellow"
                         }
                       ],
@@ -23028,7 +22988,7 @@
                           "color": "dark_aqua"
                         },
                         {
-                          "text": "+20⚔ Bonus Attack Speed",
+                          "text": "+20⚔ Attack Speed",
                           "color": "yellow"
                         }
                       ],
@@ -23686,7 +23646,7 @@
                           "color": "dark_aqua"
                         },
                         {
-                          "text": "+20⚔ Bonus Attack Speed",
+                          "text": "+20⚔ Attack Speed",
                           "color": "yellow"
                         }
                       ],
