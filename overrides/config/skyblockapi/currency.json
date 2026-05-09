@@ -3,17 +3,18 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "purse": 5.5896042E7,
+        "purse": 1.81800498E8,
         "purseType": "NORMAL",
         "personalBank": 0,
-        "coopBank": 7000000000,
-        "motes": 185308,
-        "bits": 1530121,
+        "coopBank": 12400000000,
+        "motes": 185758,
+        "bits": 1528621,
         "gems": 0,
-        "copper": 221404,
-        "sowdust": 101403923,
+        "copper": 224640,
+        "sowdust": 129851754,
         "northStars": 704,
-        "soulflow": 7384
+        "soulflow": 7384,
+        "kernels": 0
       },
       "Tomato": {
         "purse": 1651.2,
@@ -26,7 +27,8 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
       },
       "Cucumber": {
         "purse": 477.0,
@@ -39,7 +41,8 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
       },
       "Grapes": {
         "purse": 4907.4,
@@ -52,7 +55,8 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
       },
       "Blueberry": {
         "purse": 5.0,
@@ -65,7 +69,8 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
       },
       "Lime": {
         "purse": 0.0,
@@ -78,7 +83,8 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
       },
       "Mango": {
         "purse": 556.8,
@@ -91,7 +97,22 @@
         "copper": 0,
         "sowdust": 0,
         "northStars": 0,
-        "soulflow": 0
+        "soulflow": 0,
+        "kernels": 0
+      },
+      "Orange": {
+        "purse": 5759.0,
+        "purseType": "NORMAL",
+        "personalBank": 0,
+        "coopBank": 0,
+        "motes": 0,
+        "bits": 0,
+        "gems": 0,
+        "copper": 0,
+        "sowdust": 0,
+        "northStars": 0,
+        "soulflow": 0,
+        "kernels": 0
       }
     }
   }

@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": 6,
+        "currentSlot": 4,
         "slots": [
           {
             "id": 1,
@@ -50,7 +50,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+593 ",
+                          "text": "+553 ",
                           "color": "red"
                         },
                         {
@@ -149,7 +149,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -568,7 +571,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+784 ",
+                          "text": "+744 ",
                           "color": "red"
                         },
                         {
@@ -661,7 +664,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -1097,7 +1103,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+707 ",
+                          "text": "+667 ",
                           "color": "red"
                         },
                         {
@@ -1168,7 +1174,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -1586,7 +1595,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+518 ",
+                          "text": "+478 ",
                           "color": "red"
                         },
                         {
@@ -1671,7 +1680,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -2428,6 +2440,20 @@
                     },
                     {
                       "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "(Perk changes at 1B Coins consumed)",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
                       "italic": false
                     },
                     {
@@ -2554,16 +2580,6 @@
                         {
                           "text": "✿",
                           "color": "dark_green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "(Capped at 1B Coins)",
-                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -2761,7 +2777,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+777 ",
+                          "text": "+737 ",
                           "color": "red"
                         },
                         {
@@ -2908,7 +2924,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -3374,7 +3393,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+714 ",
+                          "text": "+674 ",
                           "color": "red"
                         },
                         {
@@ -3507,7 +3526,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -3992,7 +4014,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+525 ",
+                          "text": "+485 ",
                           "color": "red"
                         },
                         {
@@ -4139,7 +4161,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -4695,7 +4720,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -4744,7 +4769,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -5225,7 +5253,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -5260,7 +5288,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -5639,7 +5670,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -5674,7 +5705,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -6054,7 +6088,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+170 ",
+                          "text": "+160 ",
                           "color": "gold"
                         },
                         {
@@ -6089,7 +6123,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -6601,7 +6638,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -7011,7 +7051,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -7536,7 +7579,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -8064,7 +8110,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -9055,7 +9104,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -9675,7 +9727,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -10298,7 +10353,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -10838,7 +10896,7 @@
                         },
                         {
                           "text": "(+3)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -10864,7 +10922,7 @@
                         },
                         {
                           "text": "(+8)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -10896,7 +10954,7 @@
                         },
                         {
                           "text": "(+1)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -10910,11 +10968,11 @@
                         },
                         {
                           "text": "",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
-                          "text": "ꕮ",
-                          "color": "aqua"
+                          "text": "⎋",
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
@@ -10922,15 +10980,15 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
-                          "color": "aqua"
+                          "text": "ꕮ",
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -10938,7 +10996,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -11196,7 +11257,7 @@
                         },
                         {
                           "text": "(+3)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11222,7 +11283,7 @@
                         },
                         {
                           "text": "(+8)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11240,7 +11301,7 @@
                         },
                         {
                           "text": "(+1)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11254,11 +11315,11 @@
                         },
                         {
                           "text": "",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
-                          "text": "ꕮ",
-                          "color": "aqua"
+                          "text": "⎋",
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
@@ -11266,15 +11327,15 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
-                          "color": "aqua"
+                          "text": "ꕮ",
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11282,7 +11343,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -11602,7 +11666,7 @@
                         },
                         {
                           "text": "(+3)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11628,7 +11692,7 @@
                         },
                         {
                           "text": "(+8)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11646,7 +11710,7 @@
                         },
                         {
                           "text": "(+1)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11660,11 +11724,11 @@
                         },
                         {
                           "text": "",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
-                          "text": "ꕮ",
-                          "color": "aqua"
+                          "text": "⎋",
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
@@ -11672,15 +11736,15 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
-                          "color": "aqua"
+                          "text": "ꕮ",
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -11688,7 +11752,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -12010,7 +12077,7 @@
                         },
                         {
                           "text": "(+3)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -12036,7 +12103,7 @@
                         },
                         {
                           "text": "(+8)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -12068,7 +12135,7 @@
                         },
                         {
                           "text": "(+1)",
-                          "color": "aqua"
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -12082,11 +12149,11 @@
                         },
                         {
                           "text": "",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
-                          "text": "ꕮ",
-                          "color": "aqua"
+                          "text": "⎋",
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
@@ -12094,15 +12161,15 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "aqua"
+                          "color": "dark_green"
                         },
                         {
                           "text": "/",
                           "color": "dark_gray"
                         },
                         {
-                          "text": "⎋",
-                          "color": "aqua"
+                          "text": "ꕮ",
+                          "color": "dark_green"
                         }
                       ],
                       "italic": false
@@ -12110,7 +12177,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -12586,7 +12656,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -13160,7 +13233,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -13870,7 +13946,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -14534,7 +14613,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "blue"
@@ -14890,7 +14972,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+460 ",
+                          "text": "+420 ",
                           "color": "red"
                         },
                         {
@@ -15057,7 +15139,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -15280,39 +15365,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+15✯ Magic Find ",
+                          "text": "+20✯ Magic Find ",
                           "color": "aqua"
                         },
                         {
-                          "text": "on Lava Sea",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Creatures.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage taken by ",
+                          "text": "on ",
                           "color": "gray"
                         },
                         {
-                          "text": "Lava Sea",
+                          "text": "♆",
                           "color": "red"
                         }
                       ],
@@ -15322,8 +15383,44 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Creatures ",
+                          "text": "Magmatic",
                           "color": "red"
+                        },
+                        {
+                          "text": " mobs.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damage taken from ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "♆ Magmatic",
+                          "color": "red"
+                        },
+                        {
+                          "text": " mobs",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
                         },
                         {
                           "text": "is reduced by ",
@@ -15334,7 +15431,7 @@
                           "color": "green"
                         },
                         {
-                          "text": "and",
+                          "text": "and damage dealt",
                           "color": "gray"
                         }
                       ],
@@ -15344,7 +15441,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "damage dealt is increased by ",
+                          "text": "is increased by ",
                           "color": "gray"
                         },
                         {
@@ -15513,7 +15610,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+520 ",
+                          "text": "+480 ",
                           "color": "red"
                         },
                         {
@@ -15680,7 +15777,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -15893,39 +15993,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+15✯ Magic Find ",
+                          "text": "+20✯ Magic Find ",
                           "color": "aqua"
                         },
                         {
-                          "text": "on Lava Sea",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Creatures.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage taken by ",
+                          "text": "on ",
                           "color": "gray"
                         },
                         {
-                          "text": "Lava Sea",
+                          "text": "♆",
                           "color": "red"
                         }
                       ],
@@ -15935,8 +16011,44 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Creatures ",
+                          "text": "Magmatic",
                           "color": "red"
+                        },
+                        {
+                          "text": " mobs.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damage taken from ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "♆ Magmatic",
+                          "color": "red"
+                        },
+                        {
+                          "text": " mobs",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
                         },
                         {
                           "text": "is reduced by ",
@@ -15947,7 +16059,7 @@
                           "color": "green"
                         },
                         {
-                          "text": "and",
+                          "text": "and damage dealt",
                           "color": "gray"
                         }
                       ],
@@ -15957,7 +16069,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "damage dealt is increased by ",
+                          "text": "is increased by ",
                           "color": "gray"
                         },
                         {
@@ -16111,7 +16223,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+490 ",
+                          "text": "+450 ",
                           "color": "red"
                         },
                         {
@@ -16264,7 +16376,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -16477,39 +16592,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+15✯ Magic Find ",
+                          "text": "+20✯ Magic Find ",
                           "color": "aqua"
                         },
                         {
-                          "text": "on Lava Sea",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Creatures.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage taken by ",
+                          "text": "on ",
                           "color": "gray"
                         },
                         {
-                          "text": "Lava Sea",
+                          "text": "♆",
                           "color": "red"
                         }
                       ],
@@ -16519,8 +16610,44 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Creatures ",
+                          "text": "Magmatic",
                           "color": "red"
+                        },
+                        {
+                          "text": " mobs.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damage taken from ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "♆ Magmatic",
+                          "color": "red"
+                        },
+                        {
+                          "text": " mobs",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
                         },
                         {
                           "text": "is reduced by ",
@@ -16531,7 +16658,7 @@
                           "color": "green"
                         },
                         {
-                          "text": "and",
+                          "text": "and damage dealt",
                           "color": "gray"
                         }
                       ],
@@ -16541,7 +16668,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "damage dealt is increased by ",
+                          "text": "is increased by ",
                           "color": "gray"
                         },
                         {
@@ -16697,7 +16824,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+430 ",
+                          "text": "+390 ",
                           "color": "red"
                         },
                         {
@@ -16864,7 +16991,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "gold"
@@ -17087,39 +17217,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+15✯ Magic Find ",
+                          "text": "+20✯ Magic Find ",
                           "color": "aqua"
                         },
                         {
-                          "text": "on Lava Sea",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Creatures.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Damage taken by ",
+                          "text": "on ",
                           "color": "gray"
                         },
                         {
-                          "text": "Lava Sea",
+                          "text": "♆",
                           "color": "red"
                         }
                       ],
@@ -17129,8 +17235,44 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Creatures ",
+                          "text": "Magmatic",
                           "color": "red"
+                        },
+                        {
+                          "text": " mobs.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Damage taken from ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "♆ Magmatic",
+                          "color": "red"
+                        },
+                        {
+                          "text": " mobs",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
                         },
                         {
                           "text": "is reduced by ",
@@ -17141,7 +17283,7 @@
                           "color": "green"
                         },
                         {
-                          "text": "and",
+                          "text": "and damage dealt",
                           "color": "gray"
                         }
                       ],
@@ -17151,7 +17293,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "damage dealt is increased by ",
+                          "text": "is increased by ",
                           "color": "gray"
                         },
                         {
@@ -17374,7 +17516,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -17567,60 +17712,6 @@
                         },
                         {
                           "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "(0/4)",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants the ability to breathe",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "permanently ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "while ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
                           "color": "blue"
                         },
                         {
@@ -17867,7 +17958,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -17982,60 +18076,6 @@
                         },
                         {
                           "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "(0/4)",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants the ability to breathe",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "permanently ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "while ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
                           "color": "blue"
                         },
                         {
@@ -18266,7 +18306,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -18381,60 +18424,6 @@
                         },
                         {
                           "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "(0/4)",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants the ability to breathe",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "permanently ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "while ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
                           "color": "blue"
                         },
                         {
@@ -18667,7 +18656,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -18876,60 +18868,6 @@
                         },
                         {
                           "text": "+5❍ Pressure Resistance",
-                          "color": "blue"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Full Set Bonus: One with the Fish ",
-                          "color": "gold"
-                        },
-                        {
-                          "text": "(0/4)",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Grants the ability to breathe",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "permanently ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "while ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "underwater",
                           "color": "blue"
                         },
                         {
@@ -42770,6 +42708,281 @@
         ]
       },
       "Mango": {
+        "currentSlot": -1,
+        "slots": [
+          {
+            "id": 1,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 2,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 3,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 4,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 5,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 6,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 7,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 8,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 9,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 10,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 11,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 12,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 13,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 14,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 15,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 16,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 17,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 18,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 19,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 20,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 21,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 22,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 23,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 24,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 25,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 26,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 27,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          }
+        ]
+      },
+      "Orange": {
         "currentSlot": -1,
         "slots": [
           {

@@ -1070,11 +1070,6 @@
             "lastUpdated": 1771413635351
           },
           {
-            "id": "BOX_OF_SEEDS",
-            "amount": 0,
-            "lastUpdated": 1771533171165
-          },
-          {
             "id": "ENCHANTED_COOKED_FISH",
             "amount": 0,
             "lastUpdated": 1771610303493
@@ -1705,11 +1700,6 @@
             "lastUpdated": 1776767520778
           },
           {
-            "id": "ENCHANTED_HAY_BALE",
-            "amount": 441,
-            "lastUpdated": 1776767808047
-          },
-          {
             "id": "GLACIAL_FRAGMENT",
             "amount": 1,
             "lastUpdated": 1776952859302
@@ -1950,24 +1940,9 @@
             "lastUpdated": 1777461312089
           },
           {
-            "id": "CANE_KNOT",
-            "amount": 0,
-            "lastUpdated": 1777461312089
-          },
-          {
             "id": "CARROT_ZEST",
             "amount": 0,
             "lastUpdated": 1777461312089
-          },
-          {
-            "id": "CORNUCOPIA",
-            "amount": 0,
-            "lastUpdated": 1777461312090
-          },
-          {
-            "id": "DESIGNER_COFFEE_BEANS",
-            "amount": 0,
-            "lastUpdated": 1777461312090
           },
           {
             "id": "FEASTFUNGUS",
@@ -1978,16 +1953,6 @@
             "id": "MELON_JUICE",
             "amount": 0,
             "lastUpdated": 1777461312091
-          },
-          {
-            "id": "SALTED_SUNFLOWER_SEEDS",
-            "amount": 0,
-            "lastUpdated": 1777461312091
-          },
-          {
-            "id": "ENCHANTED_HUGE_MUSHROOM_2",
-            "amount": 400,
-            "lastUpdated": 1777461752372
           },
           {
             "id": "FISHY_TREAT",
@@ -2008,11 +1973,6 @@
             "id": "WILD_ROSE",
             "amount": 144,
             "lastUpdated": 1777534250107
-          },
-          {
-            "id": "CACTUS",
-            "amount": 24602,
-            "lastUpdated": 1777534250106
           },
           {
             "id": "CREAMBLOOM",
@@ -2167,11 +2127,6 @@
           {
             "id": "STICK",
             "amount": 27,
-            "lastUpdated": 1777659926820
-          },
-          {
-            "id": "GLOOMGOURD",
-            "amount": 51,
             "lastUpdated": 1777659926820
           },
           {
@@ -2505,11 +2460,6 @@
             "lastUpdated": 1777659926820
           },
           {
-            "id": "ASHWREATH",
-            "amount": 472,
-            "lastUpdated": 1777659926820
-          },
-          {
             "id": "KADA_LEAD",
             "amount": 949,
             "lastUpdated": 1777659926819
@@ -2558,31 +2508,6 @@
             "id": "ENCHANTED_BONE",
             "amount": 2483,
             "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_HUGE_MUSHROOM_1",
-            "amount": 242,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_GOLDEN_CARROT",
-            "amount": 2045,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_MELON_BLOCK",
-            "amount": 3862,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_BAKED_POTATO",
-            "amount": 2207,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "COMPACTED_WILD_ROSE",
-            "amount": 189,
-            "lastUpdated": 1777659926820
           },
           {
             "id": "JACOBS_TICKET",
@@ -2640,111 +2565,6 @@
             "lastUpdated": 1777659926819
           },
           {
-            "id": "COMPACTED_SUNFLOWER",
-            "amount": 93,
-            "lastUpdated": 1777659926820
-          },
-          {
-            "id": "MUTANT_NETHER_STALK",
-            "amount": 1598,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_MOONFLOWER",
-            "amount": 11779,
-            "lastUpdated": 1777659926820
-          },
-          {
-            "id": "COMPACTED_MOONFLOWER",
-            "amount": 24,
-            "lastUpdated": 1777659926820
-          },
-          {
-            "id": "ENCHANTED_COOKIE",
-            "amount": 1032,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_SUGAR_CANE",
-            "amount": 460,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "POLISHED_PUMPKIN",
-            "amount": 1644,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_CACTUS",
-            "amount": 2405,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_MELON",
-            "amount": 10130,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_BROWN_MUSHROOM",
-            "amount": 794,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_WHEAT",
-            "amount": 2768,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_SUGAR",
-            "amount": 1846,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_CARROT",
-            "amount": 5687,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_COCOA",
-            "amount": 2477,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_PUMPKIN",
-            "amount": 36155,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_POTATO",
-            "amount": 978,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_CACTUS_GREEN",
-            "amount": 13517,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_RED_MUSHROOM",
-            "amount": 1542,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_NETHER_STALK",
-            "amount": 60444,
-            "lastUpdated": 1777659926819
-          },
-          {
-            "id": "ENCHANTED_SUNFLOWER",
-            "amount": 34572,
-            "lastUpdated": 1777659926820
-          },
-          {
-            "id": "ENCHANTED_WILD_ROSE",
-            "amount": 2122,
-            "lastUpdated": 1777659926820
-          },
-          {
             "id": "CARNIVAL_TICKET",
             "amount": 2782,
             "lastUpdated": 1777659926819
@@ -2780,24 +2600,9 @@
             "lastUpdated": 1777735340231
           },
           {
-            "id": "AGGOURDIAN",
-            "amount": 0,
-            "lastUpdated": 1777746054975
-          },
-          {
-            "id": "DEEPFRIES",
-            "amount": 0,
-            "lastUpdated": 1777746056311
-          },
-          {
             "id": "BOTROOT",
             "amount": 0,
             "lastUpdated": 1777746062547
-          },
-          {
-            "id": "PUMPKIN",
-            "amount": 32,
-            "lastUpdated": 1777746451058
           },
           {
             "id": "BLAZE_ASHES",
@@ -2828,16 +2633,6 @@
             "id": "FLORAL_GELATIN",
             "amount": 0,
             "lastUpdated": 1777753080097
-          },
-          {
-            "id": "FERMENTO",
-            "amount": 298,
-            "lastUpdated": 1777797398574
-          },
-          {
-            "id": "ETHEREAL_VINE",
-            "amount": 1796,
-            "lastUpdated": 1777798172714
           },
           {
             "id": "WATERBORNE_LICE",
@@ -2880,71 +2675,6 @@
             "lastUpdated": 1777804489118
           },
           {
-            "id": "CROPIE",
-            "amount": 1789,
-            "lastUpdated": 1777822532412
-          },
-          {
-            "id": "BIOFUEL",
-            "amount": 83,
-            "lastUpdated": 1777822532411
-          },
-          {
-            "id": "FINE_FLOUR",
-            "amount": 36,
-            "lastUpdated": 1777822532413
-          },
-          {
-            "id": "DUNG",
-            "amount": 338,
-            "lastUpdated": 1777822532412
-          },
-          {
-            "id": "HONEY_JAR",
-            "amount": 635,
-            "lastUpdated": 1777822532413
-          },
-          {
-            "id": "CHEESE_FUEL",
-            "amount": 53,
-            "lastUpdated": 1777822532414
-          },
-          {
-            "id": "PLANT_MATTER",
-            "amount": 334,
-            "lastUpdated": 1777822532413
-          },
-          {
-            "id": "JELLY",
-            "amount": 235,
-            "lastUpdated": 1777822532413
-          },
-          {
-            "id": "HELIANTHUS",
-            "amount": 19,
-            "lastUpdated": 1777822532413
-          },
-          {
-            "id": "CRYSTALIZED_MOONLIGHT",
-            "amount": 23,
-            "lastUpdated": 1777822532412
-          },
-          {
-            "id": "MOONFLOWER",
-            "amount": 155231,
-            "lastUpdated": 1777890760188
-          },
-          {
-            "id": "SEEDS",
-            "amount": 3265,
-            "lastUpdated": 1777890760189
-          },
-          {
-            "id": "WHEAT",
-            "amount": 279,
-            "lastUpdated": 1777890760190
-          },
-          {
             "id": "MUTATED_BLAZE_ASHES",
             "amount": 378,
             "lastUpdated": 1777926535594
@@ -2965,39 +2695,9 @@
             "lastUpdated": 1777926535596
           },
           {
-            "id": "INK_SACK:3",
-            "amount": 293,
-            "lastUpdated": 1777969980761
-          },
-          {
             "id": "DOUBLE_PLANT",
             "amount": 155231,
             "lastUpdated": 1777969980764
-          },
-          {
-            "id": "SQUASH",
-            "amount": 637,
-            "lastUpdated": 1777969980763
-          },
-          {
-            "id": "CARROT_ITEM",
-            "amount": 155232,
-            "lastUpdated": 1777969980761
-          },
-          {
-            "id": "SUGAR_CANE",
-            "amount": 62377,
-            "lastUpdated": 1777969980763
-          },
-          {
-            "id": "COMPOST",
-            "amount": 473,
-            "lastUpdated": 1777969980761
-          },
-          {
-            "id": "NETHER_STALK",
-            "amount": 15225,
-            "lastUpdated": 1777969982161
           },
           {
             "id": "VOID_OOZE",
@@ -3008,6 +2708,306 @@
             "id": "PIXIE_DUST",
             "amount": 35,
             "lastUpdated": 1777976694950
+          },
+          {
+            "id": "DEEPFRIES",
+            "amount": 0,
+            "lastUpdated": 1778044121741
+          },
+          {
+            "id": "CARROT_ITEM",
+            "amount": 155231,
+            "lastUpdated": 1778097816398
+          },
+          {
+            "id": "SUGAR_CANE",
+            "amount": 139197,
+            "lastUpdated": 1778097816400
+          },
+          {
+            "id": "SEEDS",
+            "amount": 53255,
+            "lastUpdated": 1778152701906
+          },
+          {
+            "id": "WHEAT",
+            "amount": 34720,
+            "lastUpdated": 1778152701907
+          },
+          {
+            "id": "INK_SACK:3",
+            "amount": 155230,
+            "lastUpdated": 1778152701905
+          },
+          {
+            "id": "CROPIE",
+            "amount": 1796,
+            "lastUpdated": 1778152701905
+          },
+          {
+            "id": "BIOFUEL",
+            "amount": 90,
+            "lastUpdated": 1778185380899
+          },
+          {
+            "id": "FINE_FLOUR",
+            "amount": 246,
+            "lastUpdated": 1778185380901
+          },
+          {
+            "id": "SQUASH",
+            "amount": 867,
+            "lastUpdated": 1778185380902
+          },
+          {
+            "id": "SALTED_SUNFLOWER_SEEDS",
+            "amount": 0,
+            "lastUpdated": 1778185384185
+          },
+          {
+            "id": "DESIGNER_COFFEE_BEANS",
+            "amount": 0,
+            "lastUpdated": 1778185397766
+          },
+          {
+            "id": "CRYSTALIZED_MOONLIGHT",
+            "amount": 0,
+            "lastUpdated": 1778185399067
+          },
+          {
+            "id": "CANE_KNOT",
+            "amount": 0,
+            "lastUpdated": 1778185403301
+          },
+          {
+            "id": "AGGOURDIAN",
+            "amount": 0,
+            "lastUpdated": 1778185406116
+          },
+          {
+            "id": "CORNUCOPIA",
+            "amount": 0,
+            "lastUpdated": 1778185956107
+          },
+          {
+            "id": "BOX_OF_SEEDS",
+            "amount": 30,
+            "lastUpdated": 1778186201914
+          },
+          {
+            "id": "ENCHANTED_HUGE_MUSHROOM_1",
+            "amount": 245,
+            "lastUpdated": 1778186201917
+          },
+          {
+            "id": "ENCHANTED_GOLDEN_CARROT",
+            "amount": 2165,
+            "lastUpdated": 1778186201917
+          },
+          {
+            "id": "ENCHANTED_MELON_BLOCK",
+            "amount": 3907,
+            "lastUpdated": 1778186201918
+          },
+          {
+            "id": "ENCHANTED_BAKED_POTATO",
+            "amount": 2196,
+            "lastUpdated": 1778186201916
+          },
+          {
+            "id": "COMPACTED_WILD_ROSE",
+            "amount": 219,
+            "lastUpdated": 1778186201916
+          },
+          {
+            "id": "COMPACTED_SUNFLOWER",
+            "amount": 125,
+            "lastUpdated": 1778186201916
+          },
+          {
+            "id": "ENCHANTED_SUGAR_CANE",
+            "amount": 470,
+            "lastUpdated": 1778186201919
+          },
+          {
+            "id": "COMPACTED_MOONFLOWER",
+            "amount": 0,
+            "lastUpdated": 1778186227052
+          },
+          {
+            "id": "CACTUS",
+            "amount": 60839,
+            "lastUpdated": 1778238204889
+          },
+          {
+            "id": "MOONFLOWER",
+            "amount": 31,
+            "lastUpdated": 1778238204890
+          },
+          {
+            "id": "GLOOMGOURD",
+            "amount": 128,
+            "lastUpdated": 1778238226476
+          },
+          {
+            "id": "ASHWREATH",
+            "amount": 683,
+            "lastUpdated": 1778238226456
+          },
+          {
+            "id": "ENCHANTED_CACTUS",
+            "amount": 2453,
+            "lastUpdated": 1778238231755
+          },
+          {
+            "id": "ENCHANTED_MOONFLOWER",
+            "amount": 330,
+            "lastUpdated": 1778238231756
+          },
+          {
+            "id": "PUMPKIN",
+            "amount": 32,
+            "lastUpdated": 1778238399449
+          },
+          {
+            "id": "FERMENTO",
+            "amount": 332,
+            "lastUpdated": 1778240390542
+          },
+          {
+            "id": "HELIANTHUS",
+            "amount": 2,
+            "lastUpdated": 1778240390543
+          },
+          {
+            "id": "DUNG",
+            "amount": 396,
+            "lastUpdated": 1778240390541
+          },
+          {
+            "id": "JELLY",
+            "amount": 292,
+            "lastUpdated": 1778240390543
+          },
+          {
+            "id": "ETHEREAL_VINE",
+            "amount": 2161,
+            "lastUpdated": 1778240390541
+          },
+          {
+            "id": "HONEY_JAR",
+            "amount": 577,
+            "lastUpdated": 1778240390543
+          },
+          {
+            "id": "PLANT_MATTER",
+            "amount": 198,
+            "lastUpdated": 1778240542446
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "amount": 1053,
+            "lastUpdated": 1778240579514
+          },
+          {
+            "id": "COMPOST",
+            "amount": 499,
+            "lastUpdated": 1778313139780
+          },
+          {
+            "id": "NETHER_STALK",
+            "amount": 12972,
+            "lastUpdated": 1778313141013
+          },
+          {
+            "id": "ENCHANTED_HAY_BALE",
+            "amount": 447,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_COOKIE",
+            "amount": 1072,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_BROWN_MUSHROOM",
+            "amount": 3463,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_CARROT",
+            "amount": 15715,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_RED_MUSHROOM",
+            "amount": 4569,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_NETHER_STALK",
+            "amount": 46172,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_SUNFLOWER",
+            "amount": 98785,
+            "lastUpdated": 1778319467414
+          },
+          {
+            "id": "MUTANT_NETHER_STALK",
+            "amount": 983,
+            "lastUpdated": 1778319467414
+          },
+          {
+            "id": "ENCHANTED_MELON",
+            "amount": 33009,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_WHEAT",
+            "amount": 7296,
+            "lastUpdated": 1778319467414
+          },
+          {
+            "id": "ENCHANTED_SUGAR",
+            "amount": 11412,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_COCOA",
+            "amount": 132188,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_PUMPKIN",
+            "amount": 472,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_POTATO",
+            "amount": 16000,
+            "lastUpdated": 1778319467413
+          },
+          {
+            "id": "ENCHANTED_CACTUS_GREEN",
+            "amount": 28043,
+            "lastUpdated": 1778319467411
+          },
+          {
+            "id": "ENCHANTED_WILD_ROSE",
+            "amount": 13956,
+            "lastUpdated": 1778319467414
+          },
+          {
+            "id": "POLISHED_PUMPKIN",
+            "amount": 152,
+            "lastUpdated": 1778319467414
+          },
+          {
+            "id": "ENCHANTED_HUGE_MUSHROOM_2",
+            "amount": 339,
+            "lastUpdated": 1778319470662
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
     // The version of the config file. Do not change this unless you know what you are doing.
-    "rconfig:version": 6,
+    "rconfig:version": 7,
     "enabled": true,
     "hideWhenTab": false,
     "hideWhenChat": false,
@@ -24,17 +24,20 @@
             "BITS",
             "COPPER",
             "SOWDUST",
+            "KERNELS",
+            "GEMS",
             "HEAT",
             "COLD",
             "NORTH_STARS",
             "SOULFLOW",
             "SEPARATOR",
+            "PET",
             "OBJECTIVE",
             "SLAYER",
-            "PET",
             "QUIVER",
             "EVENTS",
             "POWDER",
+            "MAYOR",
             "PARTY"
         ],
         // Valid Values: ANNIVERSARY, BROODMOTHER, CARNIVAL, DAMAGE, DARK_AUCTION, DOJO, DUNGEONS, ESSENCE, FLIGHT_DURATION, GALATEA, GARDEN, JACOB_MEDALS, JACOBS_CONTEST, KUUDRA, MAGMA_BOSS, MINING, NEW_YEAR, QUEUE, REDSTONE, RIFT, SERVER_RESTART, SPOOKY, TRAPPER, VOTING, WINTER

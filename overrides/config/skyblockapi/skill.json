@@ -4,14 +4,14 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "exp": {
-          "FORAGING": 1.3174875E8,
-          "FARMING": 7.096154E8,
-          "CARPENTRY": 3.4710493E8,
-          "HUNTING": 4503949.0,
+          "FORAGING": 1.3217507E8,
+          "FARMING": 7.199933E8,
+          "CARPENTRY": 3.616081E8,
+          "HUNTING": 4513089.0,
           "SOCIAL": 275841.0,
           "COMBAT": 8.46764E8,
-          "FISHING": 2.1831731E8,
-          "ENCHANTING": 6.2783043E9,
+          "FISHING": 2.1831744E8,
+          "ENCHANTING": 6.2904453E9,
           "MINING": 4.026019E8
         }
       },
@@ -51,6 +51,14 @@
           "ENCHANTING": 1.1167265E8,
           "HUNTING": 3022479.0,
           "FISHING": 5.517257E7
+        }
+      },
+      "Orange": {
+        "exp": {
+          "FORAGING": 7.417243E7,
+          "MINING": 1.04672424E8,
+          "COMBAT": 1.1167243E8,
+          "FARMING": 1.1167256E8
         }
       }
     }

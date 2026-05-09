@@ -77,8 +77,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Co-op Soulbound ",
@@ -86,8 +86,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -97,8 +97,8 @@
                 "extra": [
                   {
                     "text": "UNCOMMON",
-                    "bold": true,
-                    "color": "green"
+                    "color": "green",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -159,8 +159,8 @@
               "custom_effects": [
                 {
                   "id": "minecraft:instant_damage",
-                  "show_icon": true,
-                  "duration": 20
+                  "duration": 20,
+                  "show_icon": true
                 }
               ]
             },
@@ -188,8 +188,8 @@
                   },
                   {
                     "text": "An enigmatic elixir steeped in",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -199,8 +199,8 @@
                 "extra": [
                   {
                     "text": "mystery. One sip reveals the unseen,",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -210,8 +210,8 @@
                 "extra": [
                   {
                     "text": "but be wary, for not all secrets wish",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -221,8 +221,8 @@
                 "extra": [
                   {
                     "text": "to be known.",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -236,8 +236,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -245,8 +245,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -256,8 +256,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -319,8 +319,8 @@
               "custom_effects": [
                 {
                   "id": "minecraft:instant_damage",
-                  "show_icon": true,
-                  "duration": 20
+                  "duration": 20,
+                  "show_icon": true
                 }
               ]
             },
@@ -348,8 +348,8 @@
                   },
                   {
                     "text": "An enigmatic elixir steeped in",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -359,8 +359,8 @@
                 "extra": [
                   {
                     "text": "mystery. One sip reveals the unseen,",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -370,8 +370,8 @@
                 "extra": [
                   {
                     "text": "but be wary, for not all secrets wish",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -381,8 +381,8 @@
                 "extra": [
                   {
                     "text": "to be known.",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -396,8 +396,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -405,8 +405,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -416,8 +416,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -528,8 +528,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -537,8 +537,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -548,8 +548,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -606,6 +606,24 @@
               "italic": false
             },
             "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Combinable in Anvil",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
               {
                 "text": "",
                 "extra": [
@@ -680,26 +698,6 @@
               },
               {
                 "text": "",
-                "extra": [
-                  {
-                    "text": "Use this on an item in an Anvil to",
-                    "color": "gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "apply it!",
-                    "color": "gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
                 "italic": false
               },
               {
@@ -707,8 +705,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -773,7 +771,7 @@
                     "color": "gray"
                   },
                   {
-                    "text": "Combinable in Reforge Anvil",
+                    "text": "Combinable in Anvil",
                     "color": "dark_gray"
                   }
                 ],
@@ -882,8 +880,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -891,8 +889,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -902,8 +900,8 @@
                 "extra": [
                   {
                     "text": "RARE REFORGE STONE",
-                    "bold": true,
-                    "color": "blue"
+                    "color": "blue",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -966,8 +964,8 @@
               "custom_effects": [
                 {
                   "id": "minecraft:poison",
-                  "show_icon": true,
-                  "duration": 20
+                  "duration": 20,
+                  "show_icon": true
                 }
               ]
             },
@@ -1015,8 +1013,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1079,8 +1077,8 @@
               "custom_effects": [
                 {
                   "id": "minecraft:poison",
-                  "show_icon": true,
-                  "duration": 20
+                  "duration": 20,
+                  "show_icon": true
                 }
               ]
             },
@@ -1128,8 +1126,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1192,8 +1190,8 @@
               "custom_effects": [
                 {
                   "id": "minecraft:poison",
-                  "show_icon": true,
-                  "duration": 20
+                  "duration": 20,
+                  "show_icon": true
                 }
               ]
             },
@@ -1241,8 +1239,8 @@
                 "extra": [
                   {
                     "text": "COMMON",
-                    "bold": true,
-                    "color": "white"
+                    "color": "white",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1320,8 +1318,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -1329,8 +1327,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1340,8 +1338,8 @@
                 "extra": [
                   {
                     "text": "SPECIAL",
-                    "bold": true,
-                    "color": "red"
+                    "color": "red",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1409,8 +1407,8 @@
                   },
                   {
                     "text": "Once used to poison a great beast.",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -1420,8 +1418,8 @@
                 "extra": [
                   {
                     "text": "Its remains show the true mark of a",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -1431,8 +1429,8 @@
                 "extra": [
                   {
                     "text": "great adventurer.",
-                    "italic": true,
-                    "color": "gray"
+                    "color": "gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -1450,8 +1448,8 @@
                   },
                   {
                     "text": "This item is in its final form!",
-                    "italic": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "italic": true
                   }
                 ],
                 "italic": false
@@ -1519,8 +1517,8 @@
                 "extra": [
                   {
                     "text": "* ",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   },
                   {
                     "text": "Soulbound ",
@@ -1528,8 +1526,8 @@
                   },
                   {
                     "text": "*",
-                    "bold": true,
-                    "color": "dark_gray"
+                    "color": "dark_gray",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1539,8 +1537,8 @@
                 "extra": [
                   {
                     "text": "SPECIAL",
-                    "bold": true,
-                    "color": "red"
+                    "color": "red",
+                    "bold": true
                   }
                 ],
                 "italic": false
@@ -1587,7 +1585,289 @@
         {},
         {},
         {},
-        {}
+        {},
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "",
+                  "color": "red"
+                },
+                {
+                  "text": "Grand Commemorative Mason Jar",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained during the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1st Grand Feast",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "for reaching the highest ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Donation",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "possible.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "color": "red",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                483007081,
+                -152226081,
+                -1474069705,
+                1345069889
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4OTcyMywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZDEwNTkyYjIxMWNkNjI1NDAzZTg5YjBhMjQ0YzY3M2U3ZDQ0MjllNWRmODc4Y2NiNzJhNTA4MGE2ZTQ2OGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                  "signature": "WzIuUZHStLLP0gOMmLM0xelJFBdqo90ty97B+AjfaJFILCm3gsE2zOi8JfMAsVw4tBaGZ152TkZT+NLZaNuHhAD0Py+INYHDXcnj4vSd1KK2+E4e6e9U+TRne8++uum03fwOAwXhRHCdR8wsboLGej/FU6Hi2D0tY6cd7LVLAgc+zKZ1av8H+IaoqMXqzjQQqynfpKfXL+RwCOC48cUgMXM1q1keEr28OjV8bIS+pzZGTZa9NpdJn9NLVBn0/CQrBviKd3UMFr9W0vhgIfSDWU4FWbqkucQVeKl885iEiXt/E6jrnP7qPhqHx/6lyqAjdeNF7dJunHnNrw9RZvTbddzDwV7iAZr9nNjBpixRrujD97qkuApLbVaM/PmidKXI89ftYkv1EuickDoev3fOHI0wyMupcsk6jz6A1Mboyvry3+dYbUa3c++S6BOppFX3+G7DwKXRQPLJdKOEB/DtB4MRdZU8flMrhzjFCZ3p2VvZBSMSfLYUvk++g0y5PTJgW5fyfWmud9/QwGsRa42UQtqIeudHgjrAP/II9sQYYPUudh0LD37DmUXSm2u4Eyzc6Lu5TrAKgknRpx048fpdx6qRTdZF4R1GBbH3bZFFGL2SB+JfxMSrfkydOv76xg5Hxqy6+9lQQMnMzeDBUfLioqlBuFtb9wIteYyUMgKhFYQ="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "ordinal": 0,
+              "id": "COMMEMORATIVE_MASON_JAR",
+              "timestamp": 1778168647250,
+              "uuid": "c8b9ebe5-2573-4b63-aed8-4e235def7b85",
+              "type": "GRAND"
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:block_entity_data",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "",
+                  "color": "red"
+                },
+                {
+                  "text": "Commemorative Mason Jar",
+                  "color": "red"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Obtained during the ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1st Harvest",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Feast ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "for reaching the highest",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Donation Tier ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "possible.",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "SPECIAL",
+                    "color": "red",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                483007081,
+                -152226081,
+                -1474069705,
+                1345069889
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4OTcyMywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZDEwNTkyYjIxMWNkNjI1NDAzZTg5YjBhMjQ0YzY3M2U3ZDQ0MjllNWRmODc4Y2NiNzJhNTA4MGE2ZTQ2OGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                  "signature": "WzIuUZHStLLP0gOMmLM0xelJFBdqo90ty97B+AjfaJFILCm3gsE2zOi8JfMAsVw4tBaGZ152TkZT+NLZaNuHhAD0Py+INYHDXcnj4vSd1KK2+E4e6e9U+TRne8++uum03fwOAwXhRHCdR8wsboLGej/FU6Hi2D0tY6cd7LVLAgc+zKZ1av8H+IaoqMXqzjQQqynfpKfXL+RwCOC48cUgMXM1q1keEr28OjV8bIS+pzZGTZa9NpdJn9NLVBn0/CQrBviKd3UMFr9W0vhgIfSDWU4FWbqkucQVeKl885iEiXt/E6jrnP7qPhqHx/6lyqAjdeNF7dJunHnNrw9RZvTbddzDwV7iAZr9nNjBpixRrujD97qkuApLbVaM/PmidKXI89ftYkv1EuickDoev3fOHI0wyMupcsk6jz6A1Mboyvry3+dYbUa3c++S6BOppFX3+G7DwKXRQPLJdKOEB/DtB4MRdZU8flMrhzjFCZ3p2VvZBSMSfLYUvk++g0y5PTJgW5fyfWmud9/QwGsRa42UQtqIeudHgjrAP/II9sQYYPUudh0LD37DmUXSm2u4Eyzc6Lu5TrAKgknRpx048fpdx6qRTdZF4R1GBbH3bZFFGL2SB+JfxMSrfkydOv76xg5Hxqy6+9lQQMnMzeDBUfLioqlBuFtb9wIteYyUMgKhFYQ="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "ordinal": 0,
+              "id": "COMMEMORATIVE_MASON_JAR",
+              "timestamp": 1777548933424,
+              "uuid": "995302ea-e886-4eab-9687-32eafbc75f58",
+              "type": "HARVEST"
+            }
+          }
+        }
       ]
     }
   }

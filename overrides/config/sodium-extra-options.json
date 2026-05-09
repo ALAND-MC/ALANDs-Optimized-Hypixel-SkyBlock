@@ -173,7 +173,7 @@
       "ATMOSPHERIC": {
         "enable": true,
         "environment_start_multiplier": 100,
-        "environment_end_multiplier": 250,
+        "environment_end_multiplier": 300,
         "render_distance_start_multiplier": 100,
         "render_distance_end_multiplier": 100,
         "sky_end_multiplier": 100,

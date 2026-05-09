@@ -26,8 +26,8 @@
     },
     "Level 100 Skill": {
       "data": {
-        "achieved": true,
-        "progress": 121
+        "achieved": false,
+        "progress": 78
       }
     },
     "400 Pet Score": {
@@ -152,8 +152,8 @@
     },
     "Magic Sigma": {
       "data": {
-        "achieved": false,
-        "progress": 1996
+        "achieved": true,
+        "progress": 2004
       }
     },
     "Recipe Unlocker": {

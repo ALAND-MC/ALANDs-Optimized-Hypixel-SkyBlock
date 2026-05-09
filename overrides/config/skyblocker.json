@@ -201,9 +201,9 @@
         "wasp"
       ],
       "auctionHistory": [
-        "armadillo",
-        "Giant\u0027s Sword",
-        "claymore"
+        "Judgement Core",
+        "kuudra",
+        "armadillo"
       ],
       "museumHistory": [
         "toolkit",
@@ -1051,6 +1051,10 @@
           60,
           300
         ]
+      },
+      "Harvest Feast Begins": {
+        "enabled": true,
+        "reminderTimes": []
       }
     }
   },
