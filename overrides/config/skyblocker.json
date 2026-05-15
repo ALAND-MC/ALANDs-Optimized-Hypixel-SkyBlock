@@ -549,7 +549,7 @@
       "enableControlHelper": true,
       "enableTenacityHelper": true
     },
-    "extendNetherFog": false
+    "extendNetherFog": true
   },
   "mining": {
     "enableDrillFuel": false,

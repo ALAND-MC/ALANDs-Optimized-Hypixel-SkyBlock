@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.5583809180602945E7,
+              "exp": 4.558393820460295E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -467,7 +467,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 1.9325135705006367E8,
+              "exp": 1.9926674728943574E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -483,12 +483,12 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 1.5351098973204793E7,
+              "exp": 1.5708384666934086E7,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
             },
             {
               "petInternalName": "SEAL;4",
-              "exp": 5388911.008883156,
+              "exp": 6869511.343243158,
               "uuid": "94345dd7-c629-4d27-bb6e-e3758e7b545c"
             }
           ],

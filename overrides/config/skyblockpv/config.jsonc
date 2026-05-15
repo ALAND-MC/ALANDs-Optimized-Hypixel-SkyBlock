@@ -16,6 +16,12 @@
     "theme": "skyblock-pv:neu",
     "socials": true,
     "rememberLastTab": true,
+    // Valid Values: PARTY, FRIENDS, LOBBY
+    "autocompleteSources": [
+        "PARTY",
+        "FRIENDS",
+        "LOBBY"
+    ],
     "Dev": {
         "devMode": false,
         "hoppityParser": false,

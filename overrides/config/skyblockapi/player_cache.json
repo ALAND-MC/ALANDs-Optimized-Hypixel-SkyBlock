@@ -1,6 +1,15 @@
 {
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
-    "players": {}
+    "players": {
+      "fe02117d-51ad-49b4-bd96-a49969c70441": {
+        "name": "AurasaurusRex",
+        "time": 1778587934353
+      },
+      "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+        "name": "ALAND_",
+        "time": 1778587925703
+      }
+    }
   }
 }

@@ -30,7 +30,7 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 499,
+              "amount": 528,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -65,7 +65,7 @@
               "status": "CORRECT"
             },
             "NETHER_STALK": {
-              "amount": 13100,
+              "amount": 66137,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -315,7 +315,7 @@
               "status": "CORRECT"
             },
             "AGATHA_COUPON": {
-              "amount": 6965,
+              "amount": 7170,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -330,7 +330,7 @@
               "status": "CORRECT"
             },
             "CARNIVAL_TICKET": {
-              "amount": 2719,
+              "amount": 2870,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -370,7 +370,7 @@
               "status": "CORRECT"
             },
             "GREEN_CANDY": {
-              "amount": 3370,
+              "amount": 3380,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -395,7 +395,7 @@
               "status": "CORRECT"
             },
             "JACOBS_TICKET": {
-              "amount": 2813,
+              "amount": 3373,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -740,17 +740,17 @@
               "status": "CORRECT"
             },
             "DUNG": {
-              "amount": 396,
+              "amount": 430,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ETHEREAL_VINE": {
-              "amount": 2161,
+              "amount": 2643,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FERMENTO": {
-              "amount": 332,
+              "amount": 370,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -760,27 +760,27 @@
               "status": "CORRECT"
             },
             "HELIANTHUS": {
-              "amount": 2,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HONEY_JAR": {
-              "amount": 577,
+              "amount": 410,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JELLY": {
-              "amount": 292,
+              "amount": 326,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PLANT_MATTER": {
-              "amount": 198,
+              "amount": 437,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CHEESE_FUEL": {
-              "amount": 888,
+              "amount": 894,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -910,7 +910,7 @@
               "status": "CORRECT"
             },
             "BIOFUEL": {
-              "amount": 90,
+              "amount": 92,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1140,7 +1140,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_BAKED_POTATO": {
-              "amount": 2196,
+              "amount": 2307,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1150,7 +1150,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_BROWN_MUSHROOM": {
-              "amount": 3463,
+              "amount": 6045,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1165,27 +1165,27 @@
               "status": "CORRECT"
             },
             "ENCHANTED_CACTUS_GREEN": {
-              "amount": 28043,
+              "amount": 29496,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_CARROT": {
-              "amount": 15715,
+              "amount": 25354,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_COCOA": {
-              "amount": 132188,
+              "amount": 138016,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_COOKIE": {
-              "amount": 1072,
+              "amount": 1081,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_GOLDEN_CARROT": {
-              "amount": 2165,
+              "amount": 2175,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1200,7 +1200,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_MELON": {
-              "amount": 33009,
+              "amount": 34704,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1210,7 +1210,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_NETHER_STALK": {
-              "amount": 46172,
+              "amount": 106284,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1220,22 +1220,22 @@
               "status": "CORRECT"
             },
             "ENCHANTED_POTATO": {
-              "amount": 16000,
+              "amount": 67,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_PUMPKIN": {
-              "amount": 472,
+              "amount": 1134,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_RED_MUSHROOM": {
-              "amount": 4569,
+              "amount": 6457,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HUGE_MUSHROOM_2": {
-              "amount": 403,
+              "amount": 406,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1245,7 +1245,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_SUGAR": {
-              "amount": 11412,
+              "amount": 12233,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1255,22 +1255,22 @@
               "status": "CORRECT"
             },
             "ENCHANTED_SUNFLOWER": {
-              "amount": 98785,
+              "amount": 99853,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WHEAT": {
-              "amount": 7296,
+              "amount": 7594,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WILD_ROSE": {
-              "amount": 13956,
+              "amount": 15205,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MUTANT_NETHER_STALK": {
-              "amount": 983,
+              "amount": 1997,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1810,7 +1810,7 @@
               "status": "CORRECT"
             },
             "DESIGNER_COFFEE_BEANS": {
-              "amount": 0,
+              "amount": 1,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1830,7 +1830,7 @@
               "status": "CORRECT"
             },
             "SALTED_SUNFLOWER_SEEDS": {
-              "amount": 0,
+              "amount": 1,
               "lastChange": 0,
               "status": "CORRECT"
             },

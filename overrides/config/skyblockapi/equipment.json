@@ -58,6 +58,20 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Vitality: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4",
+                      "color": "dark_red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Farming Fortune: ",
                       "color": "gray"
                     },
@@ -68,20 +82,6 @@
                     {
                       "text": "(+18)",
                       "color": "blue"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Runecrafting Wisdom: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+2",
-                      "color": "dark_aqua"
                     }
                   ],
                   "italic": false
@@ -283,7 +283,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,084",
+                      "text": "11,086",
                       "color": "red"
                     }
                   ],
@@ -579,7 +579,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,084",
+                      "text": "11,086",
                       "color": "red"
                     }
                   ],
@@ -874,7 +874,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,084",
+                      "text": "11,086",
                       "color": "red"
                     }
                   ],
@@ -1169,7 +1169,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,084",
+                      "text": "11,086",
                       "color": "red"
                     }
                   ],

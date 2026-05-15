@@ -62,8 +62,8 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/FurfSky Reborn.cats.zip","file/Skyblock Dark UI 1.13 for 1.21.10+.zip","file/Dark Skyblock v1.2.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
-incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.5+.zip"]
+resourcePacks:["vanilla","file/Stay True 1.21.5.zip","file/FurfSky Reborn.cats.zip","file/Skyblock Dark UI 1.14 for 1.21.10+.zip","file/Dark Skyblock v1.2.zip","file/§6§lCC Click Sound §e§l1.21.11.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.11+.zip","file/§6§lVanilla Tweaks 1.21.x.zip"]
+incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.11+.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0

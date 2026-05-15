@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "power": "MAGMA_URCHIN",
-        "magicalPower": 1996,
+        "magicalPower": 2008,
         "accessories": [
           {
             "id": "minecraft:player_head",
@@ -461,10 +461,10 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1662501300000,
-                "id": "PANDORAS_BOX",
+                "pandora-rarity": "MYTHIC",
                 "talisman_enrichment": "magic_find",
                 "uuid": "55c9e449-21d1-44af-ab0f-bfa609f518cd",
-                "pandora-rarity": "MYTHIC"
+                "id": "PANDORAS_BOX"
               }
             }
           },
@@ -686,8 +686,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1627671660000,
-                "modifier": "none",
                 "uuid": "e7af0df2-8c01-48df-9380-f89e2b0f2167",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "MASTER_SKULL_TIER_7",
                 "talisman_enrichment": "magic_find",
@@ -871,8 +871,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1615908000000,
-                "modifier": "none",
                 "uuid": "224e4ff9-2977-444f-a2a4-932da50f07d4",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "AUTO_RECOMBOBULATOR",
                 "talisman_enrichment": "magic_find",
@@ -1243,8 +1243,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1575572220000,
-                "modifier": "none",
                 "uuid": "5a63b09d-f8e6-45f0-ab42-c15d581de13a",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "WITHER_RELIC",
                 "talisman_enrichment": "magic_find",
@@ -1634,8 +1634,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1621288200000,
-                "modifier": "none",
                 "uuid": "a73f86a1-c9e3-47cc-8902-89bc210302f2",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "JERRY_TALISMAN_GOLDEN",
                 "talisman_enrichment": "magic_find",
@@ -2206,38 +2206,38 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1633717800000,
-                "modifier": "none",
+                "uuid": "3f360567-9f82-453e-b0d9-cb181a3b7f34",
                 "gems": {
-                  "TOPAZ_0": "PERFECT",
+                  "RUBY_0": "PERFECT",
                   "AMBER_0": "PERFECT",
                   "JASPER_0": "PERFECT",
+                  "CITRINE_0": {
+                    "uuid": "bb2d99cc-823e-43f0-bee0-05c989d09ff3",
+                    "quality": "PERFECT"
+                  },
                   "OPAL_0": {
                     "uuid": "a5081879-9488-45fb-bf05-a04621c440c3",
+                    "quality": "PERFECT"
+                  },
+                  "JADE_0": "PERFECT",
+                  "ONYX_0": {
+                    "uuid": "d7cc1074-ab6c-4566-a46d-4f3067a090c2",
+                    "quality": "PERFECT"
+                  },
+                  "PERIDOT_0": {
+                    "uuid": "38f9fa73-5747-4d59-8f0d-ec5e7f31d215",
                     "quality": "PERFECT"
                   },
                   "AQUAMARINE_0": {
                     "uuid": "bba4857c-d224-4500-8779-4acec3203fba",
                     "quality": "PERFECT"
                   },
-                  "JADE_0": "PERFECT",
-                  "PERIDOT_0": {
-                    "uuid": "38f9fa73-5747-4d59-8f0d-ec5e7f31d215",
-                    "quality": "PERFECT"
-                  },
-                  "ONYX_0": {
-                    "uuid": "d7cc1074-ab6c-4566-a46d-4f3067a090c2",
-                    "quality": "PERFECT"
-                  },
-                  "CITRINE_0": {
-                    "uuid": "bb2d99cc-823e-43f0-bee0-05c989d09ff3",
-                    "quality": "PERFECT"
-                  },
-                  "RUBY_0": "PERFECT",
+                  "TOPAZ_0": "PERFECT",
                   "AMETHYST_0": "PERFECT",
                   "SAPPHIRE_0": "PERFECT"
                 },
                 "rarity_upgrades": 1,
-                "uuid": "3f360567-9f82-453e-b0d9-cb181a3b7f34",
+                "modifier": "none",
                 "id": "POWER_RELIC",
                 "talisman_enrichment": "magic_find",
                 "originTag": "POWER_RING"
@@ -2388,8 +2388,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1620242760000,
-                "modifier": "none",
                 "uuid": "8f28b541-ad62-4cdf-8ac8-d6a99733a85b",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "TITANIUM_RELIC",
                 "talisman_enrichment": "magic_find",
@@ -2567,8 +2567,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1600203480000,
-                "modifier": "none",
                 "uuid": "d0029431-8822-48b6-99fe-9ce5a2a9d9b0",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "ENDER_RELIC",
                 "talisman_enrichment": "magic_find",
@@ -2756,8 +2756,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1572178440000,
-                "modifier": "none",
                 "uuid": "805ed14a-287e-4555-9847-16e5313570b6",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "CANDY_RELIC",
                 "talisman_enrichment": "magic_find",
@@ -3108,8 +3108,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1613995200000,
-                "modifier": "none",
                 "uuid": "0cd76de9-e7b1-4414-ade4-32d69109cb8e",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "winning_bid": 180600000,
                 "id": "HEGEMONY_ARTIFACT",
@@ -3284,8 +3284,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1601593320000,
-                "modifier": "none",
                 "uuid": "b3aff03a-d9e8-400a-882e-87faa890be6c",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "TREASURE_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -3465,8 +3465,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1615925340000,
-                "modifier": "none",
                 "uuid": "1558600d-d979-45b9-8b52-6df2d37cbfb0",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "BAT_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -3678,8 +3678,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1573580520000,
-                "modifier": "none",
                 "uuid": "92243e2b-808d-46b5-9f44-8e645868820b",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "WEDDING_RING_9",
                 "talisman_enrichment": "magic_find",
@@ -3906,8 +3906,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1599850020000,
-                "modifier": "none",
                 "uuid": "5bbb9453-98eb-47cd-aac5-c05731f848b6",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "BEASTMASTER_CREST_LEGENDARY",
                 "talisman_enrichment": "magic_find",
@@ -4765,8 +4765,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1601474760000,
-                "modifier": "none",
                 "uuid": "8d97682f-a7db-4ad6-8850-d701eda76fec",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "SCARF_GRIMOIRE",
                 "talisman_enrichment": "magic_find",
@@ -5203,19 +5203,19 @@
                 "modifier": "none",
                 "personal_compact_7": "ENCHANTED_POTATO",
                 "id": "PERSONAL_COMPACTOR_7000",
-                "talisman_enrichment": "magic_find",
+                "personal_compact_11": "ENCHANTED_DANDELION",
                 "personal_compact_9": "ENCHANTED_COCOA",
                 "personal_compact_3": "ENCHANTED_MOONFLOWER",
                 "personal_compact_5": "ENCHANTED_NETHER_STALK",
-                "personal_compact_11": "ENCHANTED_DANDELION",
+                "talisman_enrichment": "magic_find",
                 "personal_compact_10": "ENCHANTED_SUGAR",
-                "uuid": "fe65c43d-5ece-45a4-803d-2e0e5919ebd0",
                 "PERSONAL_DELETOR_ACTIVE": 1,
+                "uuid": "fe65c43d-5ece-45a4-803d-2e0e5919ebd0",
                 "rarity_upgrades": 1,
                 "personal_compact_8": "ENCHANTED_CARROT",
-                "originTag": "PERSONAL_COMPACTOR_7000",
+                "personal_compact_0": "ENCHANTED_MELON",
                 "personal_compact_6": "ENCHANTED_SUNFLOWER",
-                "personal_compact_0": "ENCHANTED_MELON"
+                "originTag": "PERSONAL_COMPACTOR_7000"
               }
             }
           },
@@ -5372,21 +5372,21 @@
                 }
               ],
               "minecraft:custom_data": {
-                "personal_deletor_4": "DUNGEON_LORE_PAPER",
-                "personal_deletor_2": "TRIPWIRE_HOOK",
+                "personal_deletor_3": "SAPLING",
                 "timestamp": 1619437500000,
-                "personal_deletor_1": "LEVER",
+                "personal_deletor_2": "TRIPWIRE_HOOK",
+                "personal_deletor_6": "DEFUSE_KIT",
                 "modifier": "none",
                 "personal_deletor_5": "TRAINING_WEIGHTS",
-                "personal_deletor_8": "COBBLE_WALL",
                 "personal_deletor_7": "SIGN",
-                "personal_deletor_6": "DEFUSE_KIT",
-                "personal_deletor_3": "SAPLING",
-                "personal_deletor_0": "STONE",
-                "talisman_enrichment": "magic_find",
+                "personal_deletor_8": "COBBLE_WALL",
+                "personal_deletor_1": "LEVER",
+                "personal_deletor_4": "DUNGEON_LORE_PAPER",
                 "id": "PERSONAL_DELETOR_7000",
-                "uuid": "2b10f6ec-a7d5-419a-8a76-e460dcda982f",
+                "talisman_enrichment": "magic_find",
+                "personal_deletor_0": "STONE",
                 "PERSONAL_DELETOR_ACTIVE": 1,
+                "uuid": "2b10f6ec-a7d5-419a-8a76-e460dcda982f",
                 "rarity_upgrades": 1,
                 "originTag": "CRAFTING_GRID_COLLECT"
               }
@@ -5576,8 +5576,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1600229820000,
-                "modifier": "none",
                 "uuid": "0c66ce58-ea9f-4ce4-8faa-fa43d7696bcb",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
                 "talisman_enrichment": "magic_find",
@@ -5944,11 +5944,11 @@
                 ]
               },
               "minecraft:custom_data": {
-                "boss_tier": 3,
+                "timestamp": 1673622300000,
                 "id": "INFERNAL_KUUDRA_CORE",
                 "talisman_enrichment": "magic_find",
                 "uuid": "1815d2d4-8d00-4679-909e-0bcb67a1e365",
-                "timestamp": 1673622300000,
+                "boss_tier": 3,
                 "rarity_upgrades": 1
               }
             }
@@ -6137,8 +6137,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1619631180000,
-                "modifier": "none",
                 "uuid": "8394477b-d8c4-4749-851e-0bfed6fa22e6",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "REAPER_ORB",
                 "talisman_enrichment": "magic_find",
@@ -6369,9 +6369,9 @@
               "minecraft:custom_data": {
                 "timestamp": 1651403400000,
                 "id": "PULSE_RING",
-                "talisman_enrichment": "magic_find",
-                "uuid": "b188e518-4660-4296-b330-83f089df7905",
                 "thunder_charge": 5000000,
+                "uuid": "b188e518-4660-4296-b330-83f089df7905",
+                "talisman_enrichment": "magic_find",
                 "rarity_upgrades": 1
               }
             }
@@ -6587,8 +6587,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1573579200000,
-                "modifier": "none",
                 "uuid": "d2ef3015-1238-4ef9-9011-d25c4150a904",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "CAMPFIRE_TALISMAN_29",
                 "talisman_enrichment": "magic_find",
@@ -6984,8 +6984,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1600486440000,
-                "modifier": "none",
                 "uuid": "26552401-a726-4592-815e-9f6e9e83b823",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "TARANTULA_RING",
                 "talisman_enrichment": "magic_find",
@@ -7899,8 +7899,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1597405140000,
-                "modifier": "none",
                 "uuid": "c5a0ebe2-067b-4fe3-bbd9-330383a8c964",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "RELIC_OF_COINS",
                 "talisman_enrichment": "magic_find",
@@ -8070,8 +8070,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1572182280000,
-                "modifier": "strange",
                 "uuid": "d9c22fe1-8d7b-4159-829c-9822d660d87f",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "INTIMIDATION_RELIC",
                 "talisman_enrichment": "magic_find",
@@ -8281,8 +8281,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1643623020000,
-                "modifier": "none",
                 "uuid": "b65cf2db-f46a-41fc-97db-02557cf85844",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "NETHER_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -8434,8 +8434,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1597183620000,
-                "modifier": "none",
                 "uuid": "71e8d81a-a3d6-440c-ac52-d927e248e065",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "RED_CLAW_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -8600,8 +8600,8 @@
               ],
               "minecraft:custom_data": {
                 "timestamp": 1567737480000,
-                "modifier": "none",
                 "uuid": "09803cda-0fb4-46b1-a2cf-5c7b22b14450",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "EXPERIENCE_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -8779,8 +8779,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1598127660000,
-                "modifier": "none",
                 "uuid": "b03446f9-c614-48e1-9278-28050078b454",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "SPIDER_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -9567,8 +9567,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1570553580000,
-                "modifier": "strange",
                 "uuid": "9738867d-0f13-4319-999b-44567c011d17",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "HASTE_ARTIFACT",
                 "talisman_enrichment": "magic_find",
@@ -9728,8 +9728,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1581603300000,
-                "modifier": "none",
                 "uuid": "da175e3f-ca60-4dd7-8113-107aa26a1706",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "SPIKED_ATROCITY",
                 "talisman_enrichment": "magic_find",
@@ -9911,8 +9911,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1606030920000,
-                "modifier": "none",
                 "uuid": "73dd1a91-7a65-46d0-9a3e-9353a2daee26",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "CATACOMBS_EXPERT_RING",
                 "talisman_enrichment": "magic_find",
@@ -10299,8 +10299,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1587603600000,
-                "modifier": "none",
                 "uuid": "b750a9b4-1a87-4fc5-b6f1-dd7d9beea3b8",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "SEAL_OF_THE_FAMILY",
                 "talisman_enrichment": "magic_find",
@@ -10514,8 +10514,8 @@
               ],
               "minecraft:custom_data": {
                 "timestamp": 1573662000000,
-                "modifier": "none",
                 "uuid": "f29b01df-1f8f-4f50-afe1-a389b95f727a",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "MELODY_HAIR",
                 "talisman_enrichment": "magic_find",
@@ -10788,8 +10788,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1623080820000,
-                "modifier": "strange",
                 "uuid": "6927d50f-d706-4ce6-862b-127b78a845ca",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "SOULFLOW_SUPERCELL",
                 "talisman_enrichment": "magic_find",
@@ -11368,8 +11368,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1594122660000,
-                "modifier": "none",
                 "uuid": "b79d56f4-ae0c-4bb1-bfa4-a8310e5c06d4",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "CHEETAH_TALISMAN",
                 "talisman_enrichment": "magic_find",
@@ -11521,8 +11521,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1610638440000,
-                "modifier": "strange",
                 "uuid": "09ffee38-01c4-4b2f-b8af-1e6f296d91be",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "GLOSSY_MINERAL_TALISMAN",
                 "talisman_enrichment": "magic_find",
@@ -12188,8 +12188,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1564433580000,
-                "modifier": "strange",
                 "uuid": "747a9639-6459-4107-901d-5207e07accfa",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "SUNSHINE_CRYSTAL",
                 "talisman_enrichment": "magic_find",
@@ -12379,8 +12379,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1563380580000,
-                "modifier": "strange",
                 "uuid": "0927cd47-26c0-4f08-adb6-bf9a5473ddb7",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "MOONLIGHT_CRYSTAL",
                 "talisman_enrichment": "magic_find",
@@ -12610,8 +12610,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1576763400000,
-                "modifier": "strange",
                 "uuid": "90c93bc2-977c-4a6c-947b-553ba3ff2826",
+                "modifier": "strange",
                 "rarity_upgrades": 1,
                 "id": "FRIED_FROZEN_CHICKEN",
                 "talisman_enrichment": "magic_find",
@@ -13058,8 +13058,8 @@
                 "modifier": "strange",
                 "timestamp": 1578338340000,
                 "id": "ZOMBIE_ARTIFACT",
-                "uuid": "c7d7dd63-2be3-4b4b-a1b7-bf81f33fc592",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "c7d7dd63-2be3-4b4b-a1b7-bf81f33fc592",
                 "rarity_upgrades": 1
               }
             }
@@ -13487,8 +13487,8 @@
                 "modifier": "strange",
                 "timestamp": 1609453500000,
                 "id": "SPEED_ARTIFACT",
-                "uuid": "4d39e491-3f16-448f-835b-95e767958fc1",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "4d39e491-3f16-448f-835b-95e767958fc1",
                 "rarity_upgrades": 1
               }
             }
@@ -13639,8 +13639,8 @@
                 "modifier": "strange",
                 "timestamp": 1571319420000,
                 "id": "SEA_CREATURE_ARTIFACT",
-                "uuid": "03373366-66b6-47b8-a76a-93174126eb60",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "03373366-66b6-47b8-a76a-93174126eb60",
                 "rarity_upgrades": 1
               }
             }
@@ -13851,8 +13851,8 @@
                 "modifier": "strange",
                 "timestamp": 1615930860000,
                 "id": "BAT_PERSON_ARTIFACT",
-                "uuid": "934475e8-7adc-41f7-aed9-1aaea9652960",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "934475e8-7adc-41f7-aed9-1aaea9652960",
                 "rarity_upgrades": 1
               }
             }
@@ -14022,8 +14022,8 @@
                 ]
               },
               "minecraft:custom_data": {
-                "edition": 11373,
                 "year": 2022,
+                "edition": 11373,
                 "timestamp": 1665059760000,
                 "id": "GREAT_SPOOK_ARTIFACT",
                 "uuid": "4764dc00-4501-4cb7-9ced-387b2937ec8d",
@@ -14299,8 +14299,8 @@
                 "modifier": "strange",
                 "timestamp": 1564502340000,
                 "id": "ARTIFACT_POTION_AFFINITY",
-                "uuid": "f5c14668-aa7c-4b60-8e03-1c306ab5b8e8",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "f5c14668-aa7c-4b60-8e03-1c306ab5b8e8",
                 "rarity_upgrades": 1
               }
             }
@@ -14433,8 +14433,8 @@
                 "modifier": "none",
                 "timestamp": 1597426380000,
                 "id": "SCAVENGER_ARTIFACT",
-                "uuid": "9993fe2a-7ed4-48a3-a905-3b8ffb8ec644",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "9993fe2a-7ed4-48a3-a905-3b8ffb8ec644",
                 "rarity_upgrades": 1
               }
             }
@@ -14599,8 +14599,8 @@
                 "modifier": "strange",
                 "timestamp": 1564755540000,
                 "id": "FEATHER_ARTIFACT",
-                "uuid": "56b4ed7b-d5dd-4915-ad86-916b553dfd0b",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "56b4ed7b-d5dd-4915-ad86-916b553dfd0b",
                 "rarity_upgrades": 1
               }
             }
@@ -14731,8 +14731,8 @@
                 "modifier": "none",
                 "timestamp": 1597426980000,
                 "id": "VACCINE_ARTIFACT",
-                "uuid": "ec1bc2c7-5886-4453-becd-fb8e054f7b39",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "ec1bc2c7-5886-4453-becd-fb8e054f7b39",
                 "rarity_upgrades": 1
               }
             }
@@ -14859,8 +14859,8 @@
                 "modifier": "none",
                 "timestamp": 1609872060000,
                 "id": "EMERALD_ARTIFACT",
-                "uuid": "e62f2a37-e798-4d6c-b1e4-fd1b11aed41e",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "e62f2a37-e798-4d6c-b1e4-fd1b11aed41e",
                 "rarity_upgrades": 1
               }
             }
@@ -14997,8 +14997,8 @@
                 "modifier": "strange",
                 "timestamp": 1579378260000,
                 "id": "DEVOUR_RING",
-                "uuid": "55101c7d-43f3-43e3-a361-2a9cd5b563b9",
                 "originTag": "CRAFTING_GRID_SHIFT",
+                "uuid": "55101c7d-43f3-43e3-a361-2a9cd5b563b9",
                 "rarity_upgrades": 1
               }
             }
@@ -15139,8 +15139,8 @@
                 "modifier": "strange",
                 "timestamp": 1578765360000,
                 "id": "WOLF_RING",
-                "uuid": "6a14ac68-5127-4bbe-ba38-13bb42cd15d8",
                 "originTag": "CRAFTING_GRID_SHIFT",
+                "uuid": "6a14ac68-5127-4bbe-ba38-13bb42cd15d8",
                 "rarity_upgrades": 1
               }
             }
@@ -15259,8 +15259,8 @@
                 "modifier": "strange",
                 "timestamp": 1579618440000,
                 "id": "HUNTER_RING",
-                "uuid": "00bba100-921a-40fc-a10d-61ef032437e1",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "00bba100-921a-40fc-a10d-61ef032437e1",
                 "rarity_upgrades": 1
               }
             }
@@ -15431,8 +15431,8 @@
                 "modifier": "strange",
                 "timestamp": 1604517000000,
                 "id": "SURVIVOR_CUBE",
-                "uuid": "2b6cab27-779a-43cf-919b-d19994c4de30",
                 "originTag": "UNKNOWN",
+                "uuid": "2b6cab27-779a-43cf-919b-d19994c4de30",
                 "rarity_upgrades": 1
               }
             }
@@ -15878,8 +15878,8 @@
               "minecraft:custom_data": {
                 "soulbound": 1,
                 "runic_kills": 947,
-                "giftbag_claim": 400,
                 "id": "RUNEBOOK",
+                "giftbag_claim": 400,
                 "uuid": "8f66906e-ab8d-4844-a62c-332ea8ba6592"
               }
             }
@@ -15997,8 +15997,8 @@
                 "modifier": "strange",
                 "timestamp": 1615483080000,
                 "id": "ETERNAL_HOOF",
-                "uuid": "99cb67c2-10a1-4864-bf7c-648ded784879",
                 "originTag": "ETERNAL_HOOF",
+                "uuid": "99cb67c2-10a1-4864-bf7c-648ded784879",
                 "rarity_upgrades": 1
               }
             }
@@ -16293,8 +16293,8 @@
                 "modifier": "strange",
                 "timestamp": 1597235220000,
                 "id": "PIGS_FOOT",
-                "uuid": "f1206885-f355-422c-820d-56a6eef26153",
                 "originTag": "REWARD_GUBER:PIGS_FOOT",
+                "uuid": "f1206885-f355-422c-820d-56a6eef26153",
                 "rarity_upgrades": 1
               }
             }
@@ -16585,8 +16585,8 @@
                 "modifier": "strange",
                 "timestamp": 1606476180000,
                 "id": "BITS_TALISMAN",
-                "uuid": "7b62c820-5365-43b1-8952-718e5aa2fb67",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "7b62c820-5365-43b1-8952-718e5aa2fb67",
                 "rarity_upgrades": 1
               }
             }
@@ -16705,8 +16705,8 @@
                 "modifier": "strange",
                 "timestamp": 1570105380000,
                 "id": "FISH_AFFINITY_TALISMAN",
-                "uuid": "2ac449a9-50d8-47c1-9a71-1737a0b9ea14",
                 "originTag": "UNKNOWN",
+                "uuid": "2ac449a9-50d8-47c1-9a71-1737a0b9ea14",
                 "rarity_upgrades": 1
               }
             }
@@ -19133,8 +19133,8 @@
                 "modifier": "none",
                 "timestamp": 1570468740000,
                 "id": "HEALING_RING",
-                "uuid": "a38868c2-2b75-4398-b9d3-087b3aabd66d",
                 "originTag": "CRAFTING_GRID_SHIFT",
+                "uuid": "a38868c2-2b75-4398-b9d3-087b3aabd66d",
                 "rarity_upgrades": 1
               }
             }
@@ -19313,8 +19313,8 @@
                 "modifier": "none",
                 "timestamp": 1592861100000,
                 "id": "POTATO_RING",
-                "uuid": "9fac5e49-ba89-4817-86c4-078785d63e32",
                 "originTag": "POTATO_KING",
+                "uuid": "9fac5e49-ba89-4817-86c4-078785d63e32",
                 "rarity_upgrades": 1
               }
             }
@@ -19481,8 +19481,8 @@
                 "modifier": "none",
                 "timestamp": 1583754660000,
                 "id": "GRAVITY_TALISMAN",
-                "uuid": "5aa3d050-1264-4d30-905a-b0835f49a631",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "5aa3d050-1264-4d30-905a-b0835f49a631",
                 "rarity_upgrades": 1
               }
             }
@@ -19621,8 +19621,8 @@
                 "modifier": "none",
                 "timestamp": 1563044340000,
                 "id": "LAVA_TALISMAN",
-                "uuid": "ecc95b14-3e14-4358-bb80-7cc6046c2242",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "ecc95b14-3e14-4358-bb80-7cc6046c2242",
                 "rarity_upgrades": 1
               }
             }
@@ -19755,8 +19755,8 @@
                 "modifier": "none",
                 "timestamp": 1577140560000,
                 "id": "MAGNETIC_TALISMAN",
-                "uuid": "761bdf9e-f1a7-4813-afe0-e4456d3848d4",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "761bdf9e-f1a7-4813-afe0-e4456d3848d4",
                 "rarity_upgrades": 1
               }
             }
@@ -20221,8 +20221,8 @@
                 "modifier": "none",
                 "timestamp": 1561405080000,
                 "id": "WOOD_TALISMAN",
-                "uuid": "ddee45dc-9849-4ea6-9471-454beb55a2ec",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "ddee45dc-9849-4ea6-9471-454beb55a2ec",
                 "rarity_upgrades": 1
               }
             }
@@ -20341,8 +20341,8 @@
                 "modifier": "none",
                 "timestamp": 1633607460000,
                 "id": "JUNGLE_AMULET",
-                "uuid": "5c1037c2-61b6-43f3-9e4c-9de35d29a980",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "5c1037c2-61b6-43f3-9e4c-9de35d29a980",
                 "rarity_upgrades": 1
               }
             }
@@ -20481,8 +20481,8 @@
                 "modifier": "none",
                 "timestamp": 1573575300000,
                 "id": "WOLF_PAW",
-                "uuid": "f1ad8ab6-880c-4ba8-b88e-a84faeabef49",
                 "originTag": "REWARD_GUSTAVE",
+                "uuid": "f1ad8ab6-880c-4ba8-b88e-a84faeabef49",
                 "rarity_upgrades": 1
               }
             }
@@ -20831,8 +20831,8 @@
                 "modifier": "none",
                 "timestamp": 1570470060000,
                 "id": "FARMER_ORB",
-                "uuid": "a1754fc9-5ae0-4c3e-bd42-02fea79e10bf",
                 "originTag": "CRAFTING_GRID_COLLECT",
+                "uuid": "a1754fc9-5ae0-4c3e-bd42-02fea79e10bf",
                 "rarity_upgrades": 1
               }
             }
@@ -23848,8 +23848,8 @@
                   0
                 ],
                 "timestamp": 1573664340000,
-                "modifier": "none",
                 "uuid": "838ad3d7-5686-45d1-88c6-15dd010ab420",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "id": "NEW_YEAR_CAKE_BAG",
                 "originTag": "SHOP_PURCHASE"
@@ -24000,8 +24000,8 @@
                 "modifier": "none",
                 "timestamp": 1561667520000,
                 "id": "PIGGY_BANK",
-                "uuid": "75f71c12-0a8f-4ec2-9bb7-1e0a121782c3",
                 "originTag": "PIGGY_BANK",
+                "uuid": "75f71c12-0a8f-4ec2-9bb7-1e0a121782c3",
                 "rarity_upgrades": 1
               }
             }
@@ -25022,8 +25022,8 @@
               },
               "minecraft:custom_data": {
                 "timestamp": 1620432480000,
-                "modifier": "none",
                 "uuid": "eea2b54f-fa06-45cf-ac13-6901666dd18a",
+                "modifier": "none",
                 "rarity_upgrades": 1,
                 "blood_god_kills": 12408602,
                 "id": "BLOOD_GOD_SIGIL",
@@ -25474,8 +25474,8 @@
                 "modifier": "none",
                 "timestamp": 1610891820000,
                 "id": "KING_TALISMAN",
-                "uuid": "6233651c-9062-4599-8b7c-28725a1b1e07",
                 "originTag": "UNKNOWN",
+                "uuid": "6233651c-9062-4599-8b7c-28725a1b1e07",
                 "rarity_upgrades": 1
               }
             }
@@ -25634,8 +25634,8 @@
                 "modifier": "none",
                 "timestamp": 1617532560000,
                 "id": "DANTE_TALISMAN",
-                "uuid": "7d9da066-d272-489d-9bad-3b3d93dfd88e",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "7d9da066-d272-489d-9bad-3b3d93dfd88e",
                 "rarity_upgrades": 1
               }
             }
@@ -25780,8 +25780,8 @@
                 "modifier": "none",
                 "timestamp": 1597426380000,
                 "id": "MINE_TALISMAN",
-                "uuid": "d4f2a181-44c7-4697-81a6-69656384844f",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "d4f2a181-44c7-4697-81a6-69656384844f",
                 "rarity_upgrades": 1
               }
             }
@@ -25954,8 +25954,8 @@
                 "modifier": "none",
                 "timestamp": 1597922820000,
                 "id": "FIRE_TALISMAN",
-                "uuid": "71d3b229-7ecf-49fd-b319-f7f8271ba4f8",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "71d3b229-7ecf-49fd-b319-f7f8271ba4f8",
                 "rarity_upgrades": 1
               }
             }
@@ -26080,8 +26080,8 @@
                 "modifier": "none",
                 "timestamp": 1597528380000,
                 "id": "NIGHT_VISION_CHARM",
-                "uuid": "3cc38809-a560-40fb-9b41-1365223633c7",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "3cc38809-a560-40fb-9b41-1365223633c7",
                 "rarity_upgrades": 1
               }
             }
@@ -26230,8 +26230,8 @@
                 "modifier": "none",
                 "timestamp": 1597426380000,
                 "id": "VILLAGE_TALISMAN",
-                "uuid": "065539e9-9d80-4b82-8235-4fc97a97f119",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "065539e9-9d80-4b82-8235-4fc97a97f119",
                 "rarity_upgrades": 1
               }
             }
@@ -26414,8 +26414,8 @@
                 "modifier": "none",
                 "timestamp": 1597694040000,
                 "id": "FARMING_TALISMAN",
-                "uuid": "0850a32a-23c8-4ff0-80e2-4855b8d2b8aa",
                 "originTag": "QUICK_CRAFTING",
+                "uuid": "0850a32a-23c8-4ff0-80e2-4855b8d2b8aa",
                 "rarity_upgrades": 1
               }
             }
@@ -26541,8 +26541,8 @@
                 "modifier": "none",
                 "timestamp": 1597426380000,
                 "id": "SKELETON_TALISMAN",
-                "uuid": "5821c415-0a8a-4453-bc0d-3f3949d7293a",
                 "originTag": "SHOP_PURCHASE",
+                "uuid": "5821c415-0a8a-4453-bc0d-3f3949d7293a",
                 "rarity_upgrades": 1
               }
             }
@@ -26711,8 +26711,8 @@
                 "modifier": "none",
                 "timestamp": 1639322880000,
                 "id": "HANDY_BLOOD_CHALICE",
-                "uuid": "82e8a60e-e2d2-4459-adea-f2d861de3836",
                 "originTag": "UNKNOWN",
+                "uuid": "82e8a60e-e2d2-4459-adea-f2d861de3836",
                 "rarity_upgrades": 1
               }
             }
@@ -26881,8 +26881,8 @@
                 "modifier": "none",
                 "timestamp": 1626449100000,
                 "id": "POCKET_ESPRESSO_MACHINE",
-                "uuid": "872f4cbc-7e17-4704-9975-a68f6eb9c520",
                 "originTag": "UNKNOWN",
+                "uuid": "872f4cbc-7e17-4704-9975-a68f6eb9c520",
                 "rarity_upgrades": 1
               }
             }
@@ -29253,8 +29253,8 @@
                 "soulbound": 1,
                 "timestamp": 1775041244914,
                 "id": "PERSONAL_DELETOR_4000",
-                "PERSONAL_DELETOR_ACTIVE": 0,
-                "uuid": "806ed762-6227-4ad8-b76c-551ff3e63df4"
+                "uuid": "806ed762-6227-4ad8-b76c-551ff3e63df4",
+                "PERSONAL_DELETOR_ACTIVE": 0
               }
             }
           },
