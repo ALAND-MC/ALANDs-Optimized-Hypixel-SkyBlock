@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.558393820460295E7,
+              "exp": 4.558439151900295E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -87,7 +87,7 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.212210717452581E8,
+              "exp": 2.212212065808821E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
@@ -201,7 +201,7 @@
             {
               "petInternalName": "GRIFFIN;5",
               "heldItemInternalName": "FOUR_EYED_FISH",
-              "exp": 5.716121505834797E7,
+              "exp": 6.0062569E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -302,7 +302,7 @@
             {
               "petInternalName": "PHOENIX;4",
               "heldItemInternalName": "ANTIQUE_REMEDIES",
-              "exp": 2.5747082492058624E7,
+              "exp": 2.574787370653862E7,
               "uuid": "0b6aebe5-912b-49c1-8ca6-20016946920e"
             },
             {
@@ -443,7 +443,7 @@
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.992039166724405E8,
+              "exp": 2.995485116818002E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -467,7 +467,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 1.9926674728943574E8,
+              "exp": 2.0392390629662773E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -483,18 +483,19 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 1.5708384666934086E7,
+              "exp": 1.648873836298926E7,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
             },
             {
               "petInternalName": "SEAL;4",
-              "exp": 6869511.343243158,
+              "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+              "exp": 8018251.802996698,
               "uuid": "94345dd7-c629-4d27-bb6e-e3758e7b545c"
             }
           ],
           "expSharePets": [
             "dd07d536-35e5-4f28-8bf0-9020623c5c55",
-            null,
+            "94345dd7-c629-4d27-bb6e-e3758e7b545c",
             null
           ]
         },

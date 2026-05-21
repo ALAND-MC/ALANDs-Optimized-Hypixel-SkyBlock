@@ -14,7 +14,7 @@
         "Orange": "BINGO"
       },
       "sbLevel": {
-        "Pear": 548,
+        "Pear": 549,
         "Tomato": 2,
         "Cucumber": 2,
         "Grapes": 2,
@@ -22,7 +22,7 @@
         "Orange": 2
       },
       "sbLevelProgress": {
-        "Pear": 7,
+        "Pear": 14,
         "Tomato": 10,
         "Cucumber": 65,
         "Grapes": 91,
