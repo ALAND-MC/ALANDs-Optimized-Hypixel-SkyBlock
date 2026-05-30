@@ -316,7 +316,6 @@
       "onlyShowHudInBarn": false,
       "timerLength": 340,
       "seaCreatureTimerNotification": false,
-      "seaCreatureCap": 30,
       "seaCreatureCapNotification": true,
       "minimumNotificationRarity": "UNKNOWN"
     },
@@ -344,8 +343,7 @@
       "enableOrderTracker": true
     },
     "itemPrice": {
-      "enableItemPriceLookup": true,
-      "enableItemPriceRefresh": false
+      "enableItemPriceLookup": true
     },
     "greatSpookEvent": {
       "enableMathTeacherHelper": true
@@ -617,11 +615,13 @@
       "counter": true,
       "coins": true,
       "type": "BOTH",
+      "includeSeedsPrice": true,
       "experience": true
     },
     "pestHighlighter": {
       "enabled": true,
       "vinylHighlighter": false,
+      "contestHighlighter": true,
       "enableStereoHarmonyHelperForContest": false
     },
     "mouseLock": {
@@ -636,6 +636,10 @@
       "enabled": false,
       "showInGardenOnly": false,
       "showInStacks": false
+    },
+    "greenhouse": {
+      "enabled": true,
+      "showMutationSlot": true
     }
   },
   "hunting": {
@@ -1073,6 +1077,7 @@
     "dumpFormat": "SNBT",
     "showInvisibleArmorStands": false,
     "webSocketDebug": false,
-    "corpseFinderDebug": false
+    "corpseFinderDebug": false,
+    "enableRepoDev": false
   }
 }

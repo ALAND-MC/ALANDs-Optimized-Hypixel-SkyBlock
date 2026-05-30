@@ -875,6 +875,126 @@
       "shouldHighlight": true,
       "shouldShareCocoonInChat": true,
       "shouldWarnWhenCocooned": true
+    },
+    "Inkling": {
+      "name": "Inkling",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Manta Ray": {
+      "name": "Manta Ray",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Atoll Croaker": {
+      "name": "Atoll Croaker",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Lotus Guardian": {
+      "name": "Lotus Guardian",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "gorF": {
+      "name": "gorF",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Drowned Captain": {
+      "name": "Drowned Captain",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Puddle Jumper": {
+      "name": "Puddle Jumper",
+      "shouldRenderLootshare": true,
+      "shouldShowHealthOverlay": true,
+      "shouldShareInChat": true,
+      "shouldShowKillTime": true,
+      "shouldSelfNotifyOnCatch": true,
+      "shouldNotifyForNonOwn": true,
+      "shouldHighlight": true,
+      "shouldShareCocoonInChat": true,
+      "shouldWarnWhenCocooned": true
+    },
+    "Frog Prince": {
+      "name": "Frog Prince",
+      "shouldRenderLootshare": true,
+      "shouldShowHealthOverlay": true,
+      "shouldShareInChat": true,
+      "shouldShowKillTime": true,
+      "shouldSelfNotifyOnCatch": true,
+      "shouldNotifyForNonOwn": true,
+      "shouldHighlight": true,
+      "shouldShareCocoonInChat": true,
+      "shouldWarnWhenCocooned": true
+    },
+    "Volcanic Snail": {
+      "name": "Volcanic Snail",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
+    },
+    "Magma Pillar": {
+      "name": "Magma Pillar",
+      "shouldRenderLootshare": true,
+      "shouldShowHealthOverlay": true,
+      "shouldShareInChat": true,
+      "shouldShowKillTime": true,
+      "shouldSelfNotifyOnCatch": true,
+      "shouldNotifyForNonOwn": true,
+      "shouldHighlight": true,
+      "shouldShareCocoonInChat": true,
+      "shouldWarnWhenCocooned": true
     }
   }
 }

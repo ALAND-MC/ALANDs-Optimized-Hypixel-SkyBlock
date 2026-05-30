@@ -244,22 +244,22 @@
          * Pick a color for your guess
          * [Color Format: RGBA]
          */
-        "guessColor": -16713985,
+        "guessColor": -16711681,
         /*
          * Pick a color for start burrows
          * [Color Format: RGBA]
          */
-        "StartColor": -11141291,
+        "StartColor": -16711936,
         /*
          * Pick a color for your focused guess
          * [Color Format: RGBA]
          */
-        "focusedColor": -6736948,
+        "focusedColor": -65281,
         /*
          * Pick a color for mob burrows
          * [Color Format: RGBA]
          */
-        "MobColor": -43691,
+        "MobColor": -65536,
         /*
          * Pick a color for treasure burrows
          * [Color Format: RGBA]

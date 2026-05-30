@@ -46,6 +46,12 @@
         "scale": 2.0,
         "enabled": false
       },
+      "Current Split HUD": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": false
+      },
       "Fixed Width": true,
       "Boss Entry Split": true,
       "Send Splits": true,
@@ -225,10 +231,8 @@
     "name": "Mimic",
     "enabled": true,
     "settings": {
-      "Toggle Mimic Message": true,
-      "Mimic Message": "Mimic Shot Dead!",
+      "Send Mimic Message": true,
       "Send Prince Message": true,
-      "Prince Message": "Prince Shot Dead!",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -312,6 +316,46 @@
     }
   },
   {
+    "name": "Dungeon Map",
+    "enabled": false,
+    "settings": {
+      "Background Color": "#000000B2",
+      "Background Size": 5.0,
+      "Text Scaling": 0.45000000670552254,
+      "Player Head BG Size": 1.0,
+      "Player Names Scaling": 0.7500000111758709,
+      "Player Name Color": "#464646FF",
+      "Door Thickness": 9.0,
+      "Unopened Door": "#1E1E1EFF",
+      "Blood Door": "#FF5555FF",
+      "Wither Door": "#000000FF",
+      "Normal Door": "#6B3A11FF",
+      "Puzzle Door": "#750085FF",
+      "Champion Door": "#FEDF00FF",
+      "Trap Door": "#D87F33FF",
+      "Entrance Door": "#148500FF",
+      "Fairy Door": "#F4138BFF",
+      "Rare Door": "#FFCB59FF",
+      "Darken Multiplier": 0.4000000059604645,
+      "Unopened Room": "#1E1E1EFF",
+      "Blood Room": "#FF0000FF",
+      "Normal Room": "#6B3A11FF",
+      "Puzzle Room": "#750085FF",
+      "Champion Room": "#FEDF00FF",
+      "Trap Room": "#D87F33FF",
+      "Entrance Room": "#148500FF",
+      "Fairy Room": "#F4138BFF",
+      "Rare Room": "#FFCB59FF",
+      "Dungeon Map": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": true
+      },
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Terminal Solver",
     "enabled": true,
     "settings": {
@@ -324,6 +368,7 @@
       "Middle Click GUI": true,
       "Block Incorrect Clicks": true,
       "Stop Melody Solver": false,
+      "Melody Size": 1.5000000223517418,
       "Show Numbers": true,
       "First Click Protection": 350.0,
       "Hide Clicked": false,
@@ -431,7 +476,7 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": true
       },
       "Waypoint Type": "None",
       "Color": "#55FF55FF",
@@ -753,6 +798,11 @@
       "Show Spirit Mask": true,
       "Show Bonzo Mask": true,
       "Show Phoenix Pet": true,
+      "Only In Dungeons": true,
+      "Show On Item": true,
+      "Phoenix As Top Left": false,
+      "Display As Durability": false,
+      "Cooldown Color": "#262626FF",
       "Invincibility Timer": {
         "x": 392,
         "y": 39,
@@ -778,6 +828,20 @@
     }
   },
   {
+    "name": "Puzzle HUD",
+    "enabled": false,
+    "settings": {
+      "Show Player Names": true,
+      "Puzzle HUD Position": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": false
+      },
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Highlight",
     "enabled": true,
     "settings": {
@@ -786,6 +850,19 @@
       "Render Style": "Outline",
       "Hide non-starred names": true,
       "Teammate Class Glow": true,
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
+    "name": "Terminal Titles",
+    "enabled": false,
+    "settings": {
+      "Self Only": false,
+      "Use Subtitle": true,
+      "Replace Terminal": true,
+      "Replace Lever": true,
+      "Replace Device": true,
+      "Custom Title": "\u00266{name} \u00268[\u0026c{current}\u00268/\u0026a{total}\u00268]",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -1113,13 +1190,14 @@
     "settings": {
       "Water Board Solver": false,
       "Optimized Solutions": false,
-      "Show Tracer": true,
+      "Water Tracer": true,
       "Tracer Color First": "#55FF55FF",
       "Tracer Color Second": "#FFAA00FF",
       "TP Maze Solver": false,
       "Color for one": "#55FF557F",
       "Color for multiple": "#FFAA007F",
       "Color for visited": "#FF55557F",
+      "Maze Tracer": true,
       "Tracer Color": "#55FFFFFF",
       "Ice Fill Solver": false,
       "Ice Fill Color": "#FF55FFFF",
@@ -1131,6 +1209,7 @@
       "Blaze Style": "Outline",
       "First Color": "#55FF55BF",
       "Second Color": "#FFAA00BF",
+      "Third Color": "#FF5555BF",
       "Other Color": "#FFFFFF4C",
       "Send Complete": false,
       "Creeper Beams Solver": false,

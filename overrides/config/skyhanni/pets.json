@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.558439151900295E7,
+              "exp": 4.572275242868278E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -35,7 +35,7 @@
             {
               "petInternalName": "FLYING_FISH;5",
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 3.0915818547791594E8,
+              "exp": 3.098879712560339E8,
               "uuid": "039672f1-b74a-47f4-ab53-aec5f59722ad"
             },
             {
@@ -46,7 +46,7 @@
             {
               "petInternalName": "HERMIT_CRAB;5",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.5354501889893726E7,
+              "exp": 2.5370267639893707E7,
               "uuid": "915be399-5570-4982-8a87-c51d3f61eb16"
             },
             {
@@ -87,13 +87,13 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.212212065808821E8,
+              "exp": 2.2133008500508243E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
               "petInternalName": "AMMONITE;4",
               "heldItemInternalName": "WASHED_UP_SOUVENIR",
-              "exp": 1.6438779106436753E8,
+              "exp": 1.67404660218697E8,
               "uuid": "29105f0d-7343-4896-b39d-a6541a8d656b"
             },
             {
@@ -201,7 +201,7 @@
             {
               "petInternalName": "GRIFFIN;5",
               "heldItemInternalName": "FOUR_EYED_FISH",
-              "exp": 6.0062569E7,
+              "exp": 6.250548357979889E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -302,7 +302,7 @@
             {
               "petInternalName": "PHOENIX;4",
               "heldItemInternalName": "ANTIQUE_REMEDIES",
-              "exp": 2.574787370653862E7,
+              "exp": 2.575560025737063E7,
               "uuid": "0b6aebe5-912b-49c1-8ca6-20016946920e"
             },
             {
@@ -373,7 +373,7 @@
             {
               "petInternalName": "SPINOSAURUS;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.5355822293571975E7,
+              "exp": 2.7223913111207556E7,
               "uuid": "8fc75acb-12a6-4d96-8649-d68dc8d80375"
             },
             {
@@ -437,13 +437,13 @@
             {
               "petInternalName": "FROG;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 2.5412497167022593E7,
+              "exp": 2.5412979125422593E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 2.995485116818002E8,
+              "exp": 2.998423205994409E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -465,12 +465,6 @@
               "uuid": "930271c3-85e3-474a-9635-bd943cdae1c2"
             },
             {
-              "petInternalName": "ROSE_DRAGON;4",
-              "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 2.0392390629662773E8,
-              "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
-            },
-            {
               "petInternalName": "MAMMOTH;4",
               "exp": 0.0
             },
@@ -483,19 +477,25 @@
             {
               "petInternalName": "WITCH;1",
               "heldItemInternalName": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
-              "exp": 1.648873836298926E7,
+              "exp": 1.7476207190310817E7,
               "uuid": "dd07d536-35e5-4f28-8bf0-9020623c5c55"
             },
             {
               "petInternalName": "SEAL;4",
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-              "exp": 8018251.802996698,
+              "exp": 1.4756474740254708E7,
               "uuid": "94345dd7-c629-4d27-bb6e-e3758e7b545c"
+            },
+            {
+              "petInternalName": "ROSE_DRAGON;4",
+              "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
+              "exp": 2.11416611E8,
+              "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             }
           ],
           "expSharePets": [
-            "dd07d536-35e5-4f28-8bf0-9020623c5c55",
             "94345dd7-c629-4d27-bb6e-e3758e7b545c",
+            null,
             null
           ]
         },

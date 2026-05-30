@@ -39,14 +39,6 @@
     "58": 1,
     "68": 1
   },
-  "currentEventAchievements": {
-    "39": true,
-    "34": true,
-    "23": true,
-    "13": true,
-    "73": true,
-    "40": true,
-    "68": true
-  },
-  "lastEventYear": 491
+  "currentEventAchievements": {},
+  "lastEventYear": 493
 }

@@ -7,10 +7,12 @@
       "tier": "LEGENDARY"
     },
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "name": "Griffin",
-      "type": "GRIFFIN",
-      "exp": 2.535323E7,
-      "tier": "MYTHIC"
+      "name": "[Lvl 200] Rose Dragon",
+      "type": "ROSE_DRAGON",
+      "exp": 2.1047779422545728E8,
+      "tier": "LEGENDARY",
+      "uuid": "5a977135-9b97-41cb-bbc0-07920f007a75",
+      "heldItem": "POIGNANT_LUCKY_CLOVER"
     },
     "": {
       "name": "Precursor Drone",

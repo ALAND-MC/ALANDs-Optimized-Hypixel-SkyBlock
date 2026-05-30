@@ -236,10 +236,10 @@ key_key.skyblocker.wikiLookup.official:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.independent:key.keyboard.unknown
 key_key.skyblocker.toggleA:key.keyboard.unknown
 key_key.skyblocker.defaultTgl:key.keyboard.unknown
-key_skyocean.keybind.item_search:key.keyboard.o
-key_skyocean.keybind.item_highlight:key.keyboard.unknown
-key_skyocean.keybind.item_value:key.keyboard.j
 key_skyocean.keybind.crafthelper:key.keyboard.v
+key_skyocean.keybind.item_value:key.keyboard.j
+key_skyocean.keybind.item_highlight:key.keyboard.unknown
+key_skyocean.keybind.item_search:key.keyboard.o
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:0.5022075055187638

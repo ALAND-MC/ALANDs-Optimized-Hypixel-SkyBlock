@@ -359,18 +359,18 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ZOMBIE_HAT",
-                    "timestamp": 1601490300000,
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "dadff4ae-86ab-41b1-8fb6-72b25433afbf",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1601490300000,
+                    "id": "ZOMBIE_HAT",
+                    "uuid": "dadff4ae-86ab-41b1-8fb6-72b25433afbf",
+                    "originTag": "QUICK_CRAFTING",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -755,18 +755,18 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "CREEPER_HAT",
-                    "timestamp": 1643635260000,
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "f45d046a-961b-4c61-97cf-217ccff69a56",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1643635260000,
+                    "id": "CREEPER_HAT",
+                    "uuid": "f45d046a-961b-4c61-97cf-217ccff69a56",
+                    "originTag": "QUICK_CRAFTING",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -1119,17 +1119,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "COW_HEAD",
-                    "timestamp": 1729028026453,
-                    "uuid": "41e96e7c-d438-4667-8178-d2983a4d0e72",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1729028026453,
+                    "id": "COW_HEAD",
+                    "uuid": "41e96e7c-d438-4667-8178-d2983a4d0e72",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -1512,18 +1512,18 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "SPIDER_HAT",
-                    "timestamp": 1564910280000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "1f2ef6cf-35e8-4503-8beb-2bb9afea7fc8",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1564910280000,
+                    "id": "SPIDER_HAT",
+                    "uuid": "1f2ef6cf-35e8-4503-8beb-2bb9afea7fc8",
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -1934,17 +1934,17 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "SKELETON_HAT",
-                    "timestamp": 1729028136662,
-                    "uuid": "836e0e1b-44d7-4731-a396-b56a2847db13",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1729028136662,
+                    "id": "SKELETON_HAT",
+                    "uuid": "836e0e1b-44d7-4731-a396-b56a2847db13",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -2287,17 +2287,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "CLOWNFISH_HAT",
-                    "timestamp": 1729028066439,
-                    "uuid": "0dfaa259-37df-4b0a-9193-94d25ed4631f",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1729028066439,
+                    "id": "CLOWNFISH_HAT",
+                    "uuid": "0dfaa259-37df-4b0a-9193-94d25ed4631f",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -2654,17 +2654,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "BLOBFISH_HAT",
-                    "timestamp": 1729028121728,
-                    "uuid": "817cc0b8-f6ca-461e-9a4c-631748a42e46",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1729028121728,
+                    "id": "BLOBFISH_HAT",
+                    "uuid": "817cc0b8-f6ca-461e-9a4c-631748a42e46",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -3064,17 +3064,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "MAGMA_FISH_HAT",
-                    "timestamp": 1652094780000,
-                    "uuid": "770d4721-0cfc-411c-84e2-b893d04ced47",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1652094780000,
+                    "id": "MAGMA_FISH_HAT",
+                    "uuid": "770d4721-0cfc-411c-84e2-b893d04ced47",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -7031,34 +7031,34 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "FANCY_SWORD",
-                    "timestamp": 1756668834791,
-                    "uuid": "5ea556ff-15db-4c1d-92c4-819c4928c4dd",
                     "enchantments": {
-                      "scavenger": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
-                    }
+                      "scavenger": 3
+                    },
+                    "timestamp": 1756668834791,
+                    "id": "FANCY_SWORD",
+                    "uuid": "5ea556ff-15db-4c1d-92c4-819c4928c4dd",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -7374,35 +7374,35 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1560678180000,
-                    "anvil_uses": 2,
                     "enchantments": {
-                      "scavenger": 3,
-                      "syphon": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
+                      "lethality": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
                       "giant_killer": 5,
                       "telekinesis": 1,
-                      "lethality": 5,
-                      "sharpness": 5
+                      "syphon": 3,
+                      "scavenger": 3
                     },
-                    "uuid": "b4c3e21b-d952-4043-a959-431e9a406f19",
+                    "anvil_uses": 2,
+                    "timestamp": 1560678180000,
                     "modifier": "epic",
+                    "uuid": "b4c3e21b-d952-4043-a959-431e9a406f19",
                     "donated_museum": 1,
                     "id": "UNDEAD_SWORD",
                     "originTag": "SHOP_PURCHASE"
@@ -7709,36 +7709,36 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "SPIDER_SWORD",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "36053fcf-51ed-432f-9c28-3df97b7f9f6d",
                     "enchantments": {
-                      "scavenger": 3,
-                      "syphon": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
+                      "lethality": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
                       "giant_killer": 5,
                       "telekinesis": 1,
-                      "lethality": 5,
-                      "sharpness": 5
-                    }
+                      "syphon": 3,
+                      "scavenger": 3
+                    },
+                    "timestamp": 1635950760000,
+                    "id": "SPIDER_SWORD",
+                    "uuid": "36053fcf-51ed-432f-9c28-3df97b7f9f6d",
+                    "originTag": "SHOP_PURCHASE",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -8061,34 +8061,34 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1561040100000,
                     "enchantments": {
-                      "scavenger": 3,
-                      "syphon": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
+                      "lethality": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
                       "giant_killer": 5,
                       "telekinesis": 1,
-                      "lethality": 5,
-                      "sharpness": 5
+                      "syphon": 3,
+                      "scavenger": 3
                     },
-                    "uuid": "c37efbdd-ce5b-47b7-88cf-50cba4d86137",
+                    "timestamp": 1561040100000,
                     "modifier": "fast",
+                    "uuid": "c37efbdd-ce5b-47b7-88cf-50cba4d86137",
                     "donated_museum": 1,
                     "id": "ROGUE_SWORD",
                     "originTag": "REWARD_PSYCHIC"
@@ -8382,36 +8382,36 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "END_SWORD",
-                    "timestamp": 1563272880000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "c309e394-1397-4cba-8e6f-2112e5be704f",
                     "enchantments": {
-                      "scavenger": 3,
-                      "syphon": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
+                      "lethality": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
                       "giant_killer": 5,
                       "telekinesis": 1,
-                      "lethality": 5,
-                      "sharpness": 5
-                    }
+                      "syphon": 3,
+                      "scavenger": 3
+                    },
+                    "timestamp": 1563272880000,
+                    "id": "END_SWORD",
+                    "uuid": "c309e394-1397-4cba-8e6f-2112e5be704f",
+                    "originTag": "SHOP_PURCHASE",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -8671,35 +8671,35 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "SQUIRE_SWORD",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "65a430cb-77fe-4723-8935-17709c58f453",
                     "enchantments": {
-                      "scavenger": 3,
+                      "sharpness": 5,
                       "ender_slayer": 5,
                       "cubism": 5,
-                      "cleave": 5,
-                      "experience": 3,
-                      "triple_strike": 4,
-                      "smite": 5,
                       "bane_of_arthropods": 5,
+                      "smite": 5,
+                      "triple_strike": 4,
+                      "experience": 3,
+                      "cleave": 5,
                       "fire_aspect": 2,
-                      "critical": 5,
                       "impaling": 5,
+                      "critical": 5,
                       "looting": 3,
                       "PROSECUTE": 5,
                       "venomous": 5,
                       "vampirism": 5,
-                      "thunderlord": 5,
                       "luck": 5,
-                      "lethality": 5,
-                      "giant_killer": 5,
+                      "thunderlord": 5,
                       "dragon_hunter": 5,
+                      "giant_killer": 5,
+                      "lethality": 5,
                       "syphon": 3,
-                      "sharpness": 5
-                    }
+                      "scavenger": 3
+                    },
+                    "timestamp": 1635950760000,
+                    "id": "SQUIRE_SWORD",
+                    "uuid": "65a430cb-77fe-4723-8935-17709c58f453",
+                    "originTag": "SHOP_PURCHASE",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -8777,7 +8777,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "393.7 ",
+                          "text": "396.2 ",
                           "color": "red"
                         },
                         {
@@ -8827,11 +8827,11 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "CELESTE_WAND",
                     "timestamp": 1635950820000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "ccae7e7a-37ad-4ee6-81d2-7f47acf2de0b"
+                    "id": "CELESTE_WAND",
+                    "donated_museum": 1,
+                    "uuid": "ccae7e7a-37ad-4ee6-81d2-7f47acf2de0b",
+                    "originTag": "SHOP_PURCHASE"
                   }
                 }
               }
@@ -9019,24 +9019,24 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ARTISANAL_SHORTBOW",
-                    "timestamp": 1635950760000,
-                    "originTag": "SHOP_PURCHASE",
-                    "uuid": "9961052d-0c73-4684-93aa-7a3c21a2dd2e",
                     "enchantments": {
-                      "impaling": 5,
                       "cubism": 5,
-                      "infinite_quiver": 5,
+                      "impaling": 5,
                       "aiming": 5,
+                      "infinite_quiver": 5,
                       "chance": 3,
                       "power": 5,
                       "dragon_hunter": 5,
                       "flame": 2,
-                      "telekinesis": 1,
                       "piercing": 1,
+                      "telekinesis": 1,
                       "snipe": 3
-                    }
+                    },
+                    "timestamp": 1635950760000,
+                    "id": "ARTISANAL_SHORTBOW",
+                    "uuid": "9961052d-0c73-4684-93aa-7a3c21a2dd2e",
+                    "originTag": "SHOP_PURCHASE",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -9335,24 +9335,24 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "PRISMARINE_BOW",
-                    "timestamp": 1636007340000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "827c259c-570a-408f-8949-d6ff38327254",
                     "enchantments": {
-                      "impaling": 5,
                       "cubism": 5,
-                      "infinite_quiver": 5,
+                      "impaling": 5,
                       "aiming": 5,
+                      "infinite_quiver": 5,
                       "chance": 3,
                       "power": 5,
                       "dragon_hunter": 5,
                       "flame": 2,
-                      "telekinesis": 1,
                       "piercing": 1,
+                      "telekinesis": 1,
                       "snipe": 3
-                    }
+                    },
+                    "timestamp": 1636007340000,
+                    "id": "PRISMARINE_BOW",
+                    "uuid": "827c259c-570a-408f-8949-d6ff38327254",
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -33118,18 +33118,18 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "CHICKEN_HEAD",
+                    "timestamp": 1575059580000,
+                    "originTag": "CRAFTING_GRID_SHIFT",
+                    "uuid": "1863edf3-be78-4f8b-bdf8-78df5b43132a",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    },
-                    "timestamp": 1575059580000,
-                    "id": "CHICKEN_HEAD",
-                    "uuid": "1863edf3-be78-4f8b-bdf8-78df5b43132a",
-                    "originTag": "CRAFTING_GRID_SHIFT",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -33341,15 +33341,15 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "ROOKIE_HOE",
+                    "timestamp": 1729022849128,
+                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
                     "enchantments": {
                       "harvesting": 5,
                       "telekinesis": 1,
                       "efficiency": 5
-                    },
-                    "timestamp": 1729022849128,
-                    "id": "ROOKIE_HOE",
-                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -33639,7 +33639,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -33965,20 +33968,6 @@
                     },
                     {
                       "text": "",
-                      "extra": [
-                        {
-                          "text": "Bonus Farming Fortune: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "60",
-                          "color": "green"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
                       "italic": false
                     },
                     {
@@ -34032,18 +34021,18 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "ENCHANTED_JACK_O_LANTERN",
+                    "timestamp": 1636015380000,
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "07373e72-3ada-4a0f-a754-aa8d447b26d2",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    },
-                    "timestamp": 1636015380000,
-                    "id": "ENCHANTED_JACK_O_LANTERN",
-                    "uuid": "07373e72-3ada-4a0f-a754-aa8d447b26d2",
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -34471,17 +34460,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "SUNFLOWER_HEAD",
+                    "timestamp": 1768638051590,
+                    "uuid": "e5b48381-0ae4-4d55-b441-36d8d66acea9",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    },
-                    "timestamp": 1768638051590,
-                    "id": "SUNFLOWER_HEAD",
-                    "uuid": "e5b48381-0ae4-4d55-b441-36d8d66acea9",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -34538,7 +34527,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -34795,7 +34787,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -34891,6 +34886,52 @@
                         {
                           "text": "in your inventory.",
                           "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reclaimed! Use",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "red"
+                        },
+                        {
+                          "text": "/reclaim ",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": "to take back what's",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "rightfully yours!",
+                          "color": "red"
                         }
                       ],
                       "italic": false
@@ -35220,14 +35261,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "COW_AXE",
+                    "timestamp": 1665058920000,
+                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1665058920000,
-                    "id": "COW_AXE",
-                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -35433,14 +35474,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "MUSHROOM_COW_AXE",
+                    "timestamp": 1771414046598,
+                    "uuid": "90c29b9a-e5ca-4001-8412-a468533f5a8d",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1771414046598,
-                    "id": "MUSHROOM_COW_AXE",
-                    "uuid": "90c29b9a-e5ca-4001-8412-a468533f5a8d",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -35646,14 +35687,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "CHICKEN_AXE",
+                    "timestamp": 1771414110986,
+                    "uuid": "33ca37ac-5a52-425a-8383-b9fb4ec9a557",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1771414110986,
-                    "id": "CHICKEN_AXE",
-                    "uuid": "33ca37ac-5a52-425a-8383-b9fb4ec9a557",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -35849,14 +35890,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "PIG_AXE",
+                    "timestamp": 1771414658631,
+                    "uuid": "25f7e563-7eca-47d4-8794-d95623f55782",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1771414658631,
-                    "id": "PIG_AXE",
-                    "uuid": "25f7e563-7eca-47d4-8794-d95623f55782",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -36052,14 +36093,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "SHEEP_AXE",
+                    "timestamp": 1771413708591,
+                    "uuid": "b49d81ab-e8c4-47bf-b89b-6a760890364a",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1771413708591,
-                    "id": "SHEEP_AXE",
-                    "uuid": "b49d81ab-e8c4-47bf-b89b-6a760890364a",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -36255,14 +36296,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "RABBIT_AXE",
+                    "timestamp": 1771413948043,
+                    "uuid": "18c02660-f624-4dcd-a9a4-153ea8c2ff1f",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1771413948043,
-                    "id": "RABBIT_AXE",
-                    "uuid": "18c02660-f624-4dcd-a9a4-153ea8c2ff1f",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -36385,14 +36426,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "SPORE_HARVESTER",
+                    "timestamp": 1650480720000,
+                    "uuid": "85b69989-0dbb-44b2-a127-027f6602b014",
                     "enchantments": {
                       "harvesting": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1650480720000,
-                    "id": "SPORE_HARVESTER",
-                    "uuid": "85b69989-0dbb-44b2-a127-027f6602b014",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -36502,14 +36543,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "THORNLEAF_SCYTHE",
+                    "timestamp": 1659110760000,
+                    "uuid": "dfb5cd0e-0265-41b9-9321-84a4c8fbc216",
                     "enchantments": {
                       "harvesting": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1659110760000,
-                    "id": "THORNLEAF_SCYTHE",
-                    "uuid": "dfb5cd0e-0265-41b9-9321-84a4c8fbc216",
-                    "donated_museum": 1
+                    }
                   }
                 }
               }
@@ -42764,7 +42805,7 @@
                       "fortune": 3
                     },
                     "timestamp": 1630223040000,
-                    "modifier": "auspicious",
+                    "uuid": "ce68a059-230a-40a4-82d1-30abce6ca74b",
                     "gems": {
                       "TOPAZ_0": "FINE",
                       "AMBER_0": "FINE",
@@ -42773,7 +42814,7 @@
                       "SAPPHIRE_0": "FINE"
                     },
                     "compact_blocks": 692540,
-                    "uuid": "ce68a059-230a-40a4-82d1-30abce6ca74b",
+                    "modifier": "auspicious",
                     "donated_museum": 1,
                     "id": "GEMSTONE_GAUNTLET",
                     "originTag": "QUICK_CRAFTING"
@@ -48653,7 +48694,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -50309,7 +50353,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Trophy Fish Chance: ",
+                          "text": "Trophy Chance: ",
                           "color": "gray"
                         },
                         {
@@ -50336,7 +50380,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -50669,7 +50716,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -51079,7 +51129,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -51296,23 +51349,23 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "POLISHED_TOPAZ_ROD",
-                    "timestamp": 1726943337808,
-                    "uuid": "fe1ee3e5-ca7f-4cd6-8df2-1dd133d5b557",
                     "enchantments": {
                       "luck_of_the_sea": 5,
                       "angler": 5,
-                      "piscary": 5,
                       "caster": 5,
-                      "frail": 5,
+                      "piscary": 5,
+                      "lure": 5,
                       "spiked_hook": 5,
-                      "magnet": 5,
                       "impaling": 5,
+                      "magnet": 5,
                       "looting": 3,
                       "blessing": 5,
-                      "lure": 5
-                    }
+                      "frail": 5
+                    },
+                    "timestamp": 1726943337808,
+                    "id": "POLISHED_TOPAZ_ROD",
+                    "uuid": "fe1ee3e5-ca7f-4cd6-8df2-1dd133d5b557",
+                    "donated_museum": 1
                   }
                 }
               }
@@ -51405,7 +51458,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Trophy",
+                          "text": "Trophies",
                           "color": "gold"
                         }
                       ],
@@ -51415,7 +51468,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Fish ",
+                          "text": "",
                           "color": "gold"
                         },
                         {
@@ -53290,7 +53343,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -53485,7 +53541,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Increases the chance to catch",
+                          "text": "Grants a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0% ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "chance to catch",
                           "color": "gray"
                         }
                       ],
@@ -53500,33 +53564,15 @@
                         },
                         {
                           "text": "Sharks ",
-                          "color": "blue"
+                          "color": "aqua"
                         },
                         {
                           "text": "during the ",
                           "color": "gray"
                         },
                         {
-                          "text": "Fishing Festival ",
+                          "text": "Fishing Festival",
                           "color": "aqua"
-                        },
-                        {
-                          "text": "by",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "0%",
-                          "color": "green"
                         },
                         {
                           "text": ".",
@@ -53612,25 +53658,25 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1601279580000,
-                    "anvil_uses": 2,
                     "enchantments": {
-                      "respiration": 3,
                       "rejuvenate": 5,
                       "ultimate_legion": 5,
+                      "respiration": 3,
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "growth": 5
                     },
-                    "uuid": "0091b202-5aa5-4b59-b4e1-9a122c2d666e",
+                    "anvil_uses": 2,
+                    "timestamp": 1601279580000,
+                    "hot_potato_count": 10,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
                     "gems": {
                       "AMETHYST_0": "FINE",
                       "AMETHYST_1": "FINE"
                     },
-                    "rarity_upgrades": 1,
-                    "modifier": "submerged",
-                    "hot_potato_count": 10,
+                    "uuid": "0091b202-5aa5-4b59-b4e1-9a122c2d666e",
                     "donated_museum": 1,
                     "id": "SHARK_SCALE_HELMET",
                     "originTag": "SHARK_SCALE_HELMET"
@@ -53781,7 +53827,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -53976,7 +54025,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Increases the chance to catch",
+                          "text": "Grants a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0% ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "chance to catch",
                           "color": "gray"
                         }
                       ],
@@ -53991,33 +54048,15 @@
                         },
                         {
                           "text": "Sharks ",
-                          "color": "blue"
+                          "color": "aqua"
                         },
                         {
                           "text": "during the ",
                           "color": "gray"
                         },
                         {
-                          "text": "Fishing Festival ",
+                          "text": "Fishing Festival",
                           "color": "aqua"
-                        },
-                        {
-                          "text": "by",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "0%",
-                          "color": "green"
                         },
                         {
                           "text": ".",
@@ -54088,28 +54127,28 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1601020500000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "rejuvenate": 5,
                       "ultimate_legion": 5,
-                      "thorns": 3,
                       "feather_falling": 10,
+                      "thorns": 3,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "uuid": "589a7869-e37e-4847-bf92-16fc2993cb76",
+                    "anvil_uses": 2,
+                    "timestamp": 1601020500000,
+                    "hot_potato_count": 10,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "color": "0:44:166",
                     "gems": {
                       "AMETHYST_0": "FINE",
                       "AMETHYST_1": "FINE"
                     },
-                    "color": "0:44:166",
-                    "rarity_upgrades": 1,
-                    "modifier": "submerged",
                     "donated_museum": 1,
                     "id": "SHARK_SCALE_BOOTS",
-                    "hot_potato_count": 10,
+                    "uuid": "589a7869-e37e-4847-bf92-16fc2993cb76",
                     "originTag": "SHARK_SCALE_BOOTS"
                   },
                   "minecraft:dyed_color": 11430
@@ -54257,7 +54296,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -54600,7 +54642,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Increases the chance to catch",
+                          "text": "Grants a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0% ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "chance to catch",
                           "color": "gray"
                         }
                       ],
@@ -54615,33 +54665,15 @@
                         },
                         {
                           "text": "Sharks ",
-                          "color": "blue"
+                          "color": "aqua"
                         },
                         {
                           "text": "during the ",
                           "color": "gray"
                         },
                         {
-                          "text": "Fishing Festival ",
+                          "text": "Fishing Festival",
                           "color": "aqua"
-                        },
-                        {
-                          "text": "by",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "0%",
-                          "color": "green"
                         },
                         {
                           "text": ".",
@@ -54712,7 +54744,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1607592300000,
                     "enchantments": {
                       "ultimate_legion": 5,
                       "thorns": 3,
@@ -54720,17 +54751,18 @@
                       "rejuvenate": 5,
                       "growth": 5
                     },
-                    "uuid": "eed1c41f-e648-4c42-9a1d-845f5d835f5c",
+                    "timestamp": 1607592300000,
+                    "hot_potato_count": 10,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "color": "0:44:166",
                     "gems": {
                       "AMETHYST_0": "FINE",
                       "AMETHYST_1": "FINE"
                     },
-                    "color": "0:44:166",
-                    "rarity_upgrades": 1,
-                    "modifier": "submerged",
                     "donated_museum": 1,
                     "id": "SHARK_SCALE_LEGGINGS",
-                    "hot_potato_count": 10,
+                    "uuid": "eed1c41f-e648-4c42-9a1d-845f5d835f5c",
                     "originTag": "SHARK_SCALE_LEGGINGS"
                   },
                   "minecraft:dyed_color": 11430
@@ -54892,7 +54924,10 @@
                     {
                       "text": "",
                       "extra": [
-                        " ",
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
                         {
                           "text": "[",
                           "color": "dark_gray"
@@ -55077,7 +55112,15 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Increases the chance to catch",
+                          "text": "Grants a ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+0% ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "chance to catch",
                           "color": "gray"
                         }
                       ],
@@ -55092,33 +55135,15 @@
                         },
                         {
                           "text": "Sharks ",
-                          "color": "blue"
+                          "color": "aqua"
                         },
                         {
                           "text": "during the ",
                           "color": "gray"
                         },
                         {
-                          "text": "Fishing Festival ",
+                          "text": "Fishing Festival",
                           "color": "aqua"
-                        },
-                        {
-                          "text": "by",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "0%",
-                          "color": "green"
                         },
                         {
                           "text": ".",
@@ -55189,26 +55214,26 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1610097240000,
                     "enchantments": {
-                      "ultimate_legion": 5,
-                      "thorns": 3,
                       "true_protection": 1,
+                      "thorns": 3,
+                      "ultimate_legion": 5,
                       "protection": 6,
                       "rejuvenate": 5,
                       "growth": 6
                     },
-                    "uuid": "1fd7ba47-bfe2-4a38-b09f-f9e4123e81f5",
+                    "timestamp": 1610097240000,
+                    "hot_potato_count": 10,
+                    "modifier": "submerged",
+                    "rarity_upgrades": 1,
+                    "color": "252:243:255",
                     "gems": {
                       "AMETHYST_0": "FINE",
                       "AMETHYST_1": "FINE"
                     },
-                    "color": "252:243:255",
-                    "rarity_upgrades": 1,
-                    "modifier": "submerged",
                     "donated_museum": 1,
                     "id": "SHARK_SCALE_CHESTPLATE",
-                    "hot_potato_count": 10,
+                    "uuid": "1fd7ba47-bfe2-4a38-b09f-f9e4123e81f5",
                     "originTag": "SHARK_SCALE_CHESTPLATE"
                   },
                   "minecraft:dyed_color": 16577535
@@ -55234,7 +55259,749 @@
             "item:prismarine_necklace": {},
             "item:sponge_belt": {},
             "item:clownfish_cloak": {},
-            "item:clay_bracelet": {}
+            "item:clay_bracelet": {},
+            "item:sponge_helmet": {
+              "item": {
+                "id": "minecraft:sponge",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Sponge Helmet",
+                        "color": "dark_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+100",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Sea Creature Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2%",
+                          "color": "dark_aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "☂",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "]",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Full Set Bonus: Absorb ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Doubles",
+                          "color": "blue"
+                        },
+                        {
+                          "text": " your ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": " while in",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "water.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "timestamp": 1780057255857,
+                    "id": "SPONGE_HELMET",
+                    "donated_museum": 1,
+                    "uuid": "1e50824f-c8d1-49d9-bdf4-df5028eed860"
+                  }
+                }
+              }
+            },
+            "item:sponge_chestplate": {
+              "item": {
+                "id": "minecraft:leather_chestplate",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Sponge Chestplate",
+                        "color": "dark_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+150",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Sea Creature Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2%",
+                          "color": "dark_aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "☂",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "]",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Full Set Bonus: Absorb ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Doubles",
+                          "color": "blue"
+                        },
+                        {
+                          "text": " your ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": " while in",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "water.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "timestamp": 1780057249245,
+                    "id": "SPONGE_CHESTPLATE",
+                    "donated_museum": 1,
+                    "uuid": "efd82860-4f61-4997-a53d-2b36b32c9c83"
+                  },
+                  "minecraft:dyed_color": 16768081
+                }
+              }
+            },
+            "item:sponge_leggings": {
+              "item": {
+                "id": "minecraft:leather_leggings",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Sponge Leggings",
+                        "color": "dark_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+125",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Sea Creature Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2%",
+                          "color": "dark_aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "☂",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "]",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Full Set Bonus: Absorb ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Doubles",
+                          "color": "blue"
+                        },
+                        {
+                          "text": " your ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": " while in",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "water.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "timestamp": 1780057246178,
+                    "id": "SPONGE_LEGGINGS",
+                    "donated_museum": 1,
+                    "uuid": "9d8e5b2b-298f-4ce6-a56b-2eb99b61eaa4"
+                  },
+                  "minecraft:dyed_color": 16768081
+                }
+              }
+            },
+            "item:sponge_boots": {
+              "item": {
+                "id": "minecraft:leather_boots",
+                "count": 1,
+                "components": {
+                  "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:jukebox_playable",
+                      "minecraft:painting/variant",
+                      "minecraft:map_id",
+                      "minecraft:fireworks",
+                      "minecraft:attribute_modifiers",
+                      "minecraft:unbreakable",
+                      "minecraft:written_book_content",
+                      "minecraft:banner_patterns",
+                      "minecraft:trim",
+                      "minecraft:potion_contents",
+                      "minecraft:block_entity_data",
+                      "minecraft:dyed_color"
+                    ]
+                  },
+                  "minecraft:unbreakable": {},
+                  "minecraft:custom_name": {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Sponge Boots",
+                        "color": "dark_purple"
+                      }
+                    ],
+                    "italic": false
+                  },
+                  "minecraft:lore": [
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Defense: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+75",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Sea Creature Chance: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+2%",
+                          "color": "dark_aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Gemstones: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "[",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "☂",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "]",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Full Set Bonus: Absorb ",
+                          "color": "gold"
+                        },
+                        {
+                          "text": "(0/4)",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Doubles",
+                          "color": "blue"
+                        },
+                        {
+                          "text": " your ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "❈ Defense",
+                          "color": "green"
+                        },
+                        {
+                          "text": " while in",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "water.",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "* ",
+                          "color": "dark_gray",
+                          "bold": true
+                        },
+                        {
+                          "text": "Co-op Soulbound ",
+                          "color": "dark_gray"
+                        },
+                        {
+                          "text": "*",
+                          "color": "dark_gray",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    }
+                  ],
+                  "minecraft:custom_data": {
+                    "timestamp": 1780057243631,
+                    "id": "SPONGE_BOOTS",
+                    "donated_museum": 1,
+                    "uuid": "3cc627cb-8799-4f04-97a9-0f1ed4e81cb1"
+                  },
+                  "minecraft:dyed_color": 16768081
+                }
+              }
+            }
           },
           "FORAGING": {
             "item:rookie_axe": {

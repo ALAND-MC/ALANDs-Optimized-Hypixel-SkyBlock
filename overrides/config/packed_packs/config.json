@@ -9,7 +9,10 @@
     "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "rememberLastViewedProfile": false,
-    "profileOrder": []
+    "profileOrder": [
+      "Main",
+      "Main - Backup"
+    ]
   },
   "datapacks": {
     "replaceOriginal": true,
