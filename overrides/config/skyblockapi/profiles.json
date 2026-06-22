@@ -11,23 +11,26 @@
         "Blueberry": "NORMAL",
         "Lime": "IRONMAN",
         "Mango": "BINGO",
-        "Orange": "BINGO"
+        "Orange": "BINGO",
+        "Banana": "BINGO"
       },
       "sbLevel": {
-        "Pear": 559,
+        "Pear": 565,
         "Tomato": 2,
         "Cucumber": 2,
         "Grapes": 2,
         "Mango": 4,
-        "Orange": 2
+        "Orange": 2,
+        "Banana": 2
       },
       "sbLevelProgress": {
-        "Pear": 24,
+        "Pear": 28,
         "Tomato": 10,
         "Cucumber": 65,
         "Grapes": 91,
         "Mango": 81,
-        "Orange": 46
+        "Orange": 46,
+        "Banana": 32
       },
       "coop": {},
       "profileId": {
@@ -37,8 +40,10 @@
         "Lime": "a9ddd34c-c914-4115-8284-6f6a075820e9",
         "Cucumber": "b4fc16cc-b939-4728-bdce-ac71e46c0c85",
         "Mango": "0846ec52-a489-4b22-9993-18afb803f4ae",
-        "Orange": "e8f27baf-6f47-4b4c-bf14-faef322dd8f6"
-      }
+        "Orange": "e8f27baf-6f47-4b4c-bf14-faef322dd8f6",
+        "Banana": "c1df61bf-c2e7-4728-b1f6-fb6b809bb6b6"
+      },
+      "bingoRank": "LEGENDARY"
     }
   }
 }

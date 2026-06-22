@@ -1,13 +1,13 @@
 {
   "locked": false,
-  "name": "Main - Backup",
+  "name": "Main - BACKUP",
   "overrides": {},
   "packIds": [
-    "file/§6§lVanilla Tweaks 1.21.x.zip",
-    "file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l1.21.11+.zip",
-    "file/§6§lCC Click Sound §e§l1.21.11.zip",
-    "file/Dark Skyblock v1.2.zip",
-    "file/Skyblock Dark UI 1.14 for 1.21.10+.zip",
+    "file/§6§lVanilla Tweaks 26.1.x.zip",
+    "file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip",
+    "file/§6§lCC Click Sound §e§l26.1+.zip",
+    "file/Dark Skyblock v2.0c.cats.zip",
+    "file/Skyblock Dark UI 1.15 for 1.21.11+.zip",
     "file/FurfSky Reborn.cats.zip",
     "file/Stay True 1.21.5.zip",
     "vanilla"

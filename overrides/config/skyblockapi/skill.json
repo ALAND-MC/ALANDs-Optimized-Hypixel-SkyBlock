@@ -4,15 +4,18 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "exp": {
-          "FORAGING": 1.3257531E8,
-          "FARMING": 7.306791E8,
-          "CARPENTRY": 3.9075264E8,
-          "HUNTING": 4643184.0,
-          "SOCIAL": 276187.0,
-          "COMBAT": 8.4973843E8,
-          "FISHING": 2.21152E8,
-          "ENCHANTING": 6.335735E9,
-          "MINING": 4.0260464E8
+          "FORAGING": 1.3261998E8,
+          "FARMING": 7.516654E8,
+          "CARPENTRY": 4.1592352E8,
+          "HUNTING": 4817655.0,
+          "SOCIAL": 25080.0,
+          "COMBAT": 8.500854E8,
+          "FISHING": 2.4153794E8,
+          "ENCHANTING": 6.3506396E9,
+          "MINING": 4.031847E8,
+          "ALCHEMY": 5.7474936E7,
+          "RUNECRAFTING": 8620473.0,
+          "TAMING": 1.3411154E9
         }
       },
       "Cucumber": {
@@ -59,6 +62,15 @@
           "MINING": 1.04672424E8,
           "COMBAT": 1.1167243E8,
           "FARMING": 1.1167256E8
+        }
+      },
+      "Banana": {
+        "exp": {
+          "FORAGING": 7.417243E7,
+          "MINING": 9.797247E7,
+          "FARMING": 1.1167243E8,
+          "ENCHANTING": 1.1167251E8,
+          "COMBAT": 1.11672456E8
         }
       }
     }

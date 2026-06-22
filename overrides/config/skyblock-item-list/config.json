@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "general": {
+    "enabled": true,
+    "nonPixelatedItemScale": true,
+    "maxWidth": 1.0
+  },
+  "mainList": {
+    "itemSize": 16,
+    "hideItemsWithoutSearch": true,
+    "hideVanillaItems": false,
+    "groupFamilies": false,
+    "customFilters": [
+      "ATTRIBUTE",
+      "ENCHANTMENT",
+      "ITEM",
+      "PET",
+      "POTION",
+      "RUNE",
+      "ALL",
+      "CUSTOM"
+    ],
+    "lastSearch": "",
+    "lastFilter": "ALL"
+  },
+  "favoritesList": {
+    "enableFavorites": false,
+    "favoritesItemSize": 16
+  },
+  "calculator": {
+    "requiresEquals": false,
+    "customConstants": {}
+  }
+}

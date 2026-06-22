@@ -3,7 +3,7 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "currentSlot": -1,
+        "currentSlot": 3,
         "slots": [
           {
             "id": 1,
@@ -17,15 +17,16 @@
                   },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -287,8 +288,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -305,7 +306,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -357,17 +358,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -547,15 +538,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -792,8 +784,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -810,7 +802,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -862,17 +854,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1089,15 +1071,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -1322,8 +1305,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1340,7 +1323,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1392,17 +1375,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -1591,15 +1564,16 @@
                   },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -1823,8 +1797,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Arcane Energy (4/4)",
-                          "color": "gold"
+                          "text": "Tiered Bonus: Arcane Energy (0/4)",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -1841,7 +1815,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0.5s",
+                          "text": "1s",
                           "color": "green"
                         },
                         {
@@ -1893,17 +1867,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "Lose 1 stack after 10s of not gaining a",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "stack.",
+                          "text": "Lose 1 stack after 4s of not gaining a stack.",
                           "color": "dark_gray"
                         }
                       ],
@@ -2095,23 +2059,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -2781,15 +2748,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -3397,15 +3365,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -4013,17 +3982,21 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -4649,23 +4622,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -5175,15 +5151,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -5600,15 +5577,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -6014,23 +5992,26 @@
                 "id": "minecraft:golden_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -6532,23 +6513,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -6706,6 +6690,21 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Sunset V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Aqua Affinity I",
                           "color": "blue"
                         }
@@ -6770,8 +6769,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -6794,7 +6793,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -6826,7 +6825,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -6923,11 +6922,12 @@
                   },
                   "minecraft:custom_data": {
                     "enchantments": {
+                      "respiration": 3,
                       "pesterminator": 6,
                       "thorns": 3,
                       "aqua_affinity": 1,
+                      "ultimate_sunset": 5,
                       "protection": 5,
-                      "respiration": 3,
                       "growth": 5
                     },
                     "timestamp": 1676394000000,
@@ -6960,15 +6960,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -7119,6 +7120,53 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Sunset V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "During the day, ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5☀ Overbloom",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "During the night, ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "-5% Visitor Cooldown.",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Growth V",
                           "color": "blue"
                         }
@@ -7315,8 +7363,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7339,7 +7387,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -7371,7 +7419,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -7455,6 +7503,7 @@
                     "enchantments": {
                       "pesterminator": 6,
                       "thorns": 3,
+                      "ultimate_sunset": 5,
                       "protection": 5,
                       "growth": 5
                     },
@@ -7488,15 +7537,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -7647,6 +7697,53 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Sunset V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "During the day, ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "+5☀ Overbloom",
+                          "color": "yellow"
+                        },
+                        {
+                          "text": ".",
+                          "color": "gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "During the night, ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "-5% Visitor Cooldown.",
+                          "color": "aqua"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Growth V",
                           "color": "blue"
                         }
@@ -7843,8 +7940,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -7867,7 +7964,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -7899,7 +7996,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -7983,6 +8080,7 @@
                     "enchantments": {
                       "pesterminator": 6,
                       "thorns": 3,
+                      "ultimate_sunset": 5,
                       "protection": 5,
                       "growth": 5
                     },
@@ -8015,23 +8113,26 @@
                 "id": "minecraft:iron_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -8176,6 +8277,21 @@
                       "text": "",
                       "extra": [
                         {
+                          "text": "",
+                          "color": "blue"
+                        },
+                        {
+                          "text": "Sunset V",
+                          "color": "light_purple",
+                          "bold": true
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
                           "text": "Depth Strider III",
                           "color": "blue"
                         }
@@ -8260,8 +8376,8 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Feast (0/4)",
-                          "color": "dark_gray"
+                          "text": "Tiered Bonus: Feast (4/4)",
+                          "color": "gold"
                         }
                       ],
                       "italic": false
@@ -8284,7 +8400,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0 pieces ",
+                          "text": "4 pieces ",
                           "color": "green"
                         },
                         {
@@ -8316,7 +8432,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "0☘ Farming",
+                          "text": "75☘ Farming",
                           "color": "gold"
                         }
                       ],
@@ -8427,8 +8543,9 @@
                       "feather_falling": 10,
                       "stealth": 1,
                       "thorns": 3,
-                      "protection": 5,
+                      "ultimate_sunset": 5,
                       "depth_strider": 3,
+                      "protection": 5,
                       "growth": 5
                     },
                     "timestamp": 1676394000000,
@@ -8459,23 +8576,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -8732,7 +8852,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "✦ Speed ",
+                          "text": "+25✦ Speed ",
                           "color": "white"
                         },
                         {
@@ -8768,11 +8888,7 @@
                           "color": "gray"
                         },
                         {
-                          "text": "25 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "✦ Speed",
+                          "text": "+25✦ Speed",
                           "color": "white"
                         },
                         {
@@ -8938,15 +9054,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -9575,15 +9692,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -10196,17 +10314,21 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -10847,23 +10969,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -10991,6 +11116,14 @@
                           "color": "dark_green"
                         },
                         {
+                          "text": "⎋",
+                          "color": "dark_green"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "ꕮ",
                           "color": "dark_green"
                         },
@@ -11000,14 +11133,6 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "⎋",
                           "color": "dark_green"
                         }
                       ],
@@ -11209,15 +11334,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -11338,6 +11464,14 @@
                           "color": "dark_green"
                         },
                         {
+                          "text": "⎋",
+                          "color": "dark_green"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "ꕮ",
                           "color": "dark_green"
                         },
@@ -11347,14 +11481,6 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "⎋",
                           "color": "dark_green"
                         }
                       ],
@@ -11618,15 +11744,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -11747,6 +11874,14 @@
                           "color": "dark_green"
                         },
                         {
+                          "text": "⎋",
+                          "color": "dark_green"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "ꕮ",
                           "color": "dark_green"
                         },
@@ -11756,14 +11891,6 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "⎋",
                           "color": "dark_green"
                         }
                       ],
@@ -12025,23 +12152,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -12170,6 +12300,14 @@
                           "color": "dark_green"
                         },
                         {
+                          "text": "⎋",
+                          "color": "dark_green"
+                        },
+                        {
+                          "text": "/",
+                          "color": "dark_gray"
+                        },
+                        {
                           "text": "ꕮ",
                           "color": "dark_green"
                         },
@@ -12179,14 +12317,6 @@
                         },
                         {
                           "text": "⸙",
-                          "color": "dark_green"
-                        },
-                        {
-                          "text": "/",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "⎋",
                           "color": "dark_green"
                         }
                       ],
@@ -12400,23 +12530,26 @@
                 "id": "minecraft:chainmail_helmet",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -12985,15 +13118,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -13706,15 +13840,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -14383,23 +14518,26 @@
                 "id": "minecraft:chainmail_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -14944,23 +15082,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -15303,7 +15444,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Fireproof (1/2)",
+                          "text": "Tiered Bonus: Fireproof (0/2)",
                           "color": "dark_gray"
                         }
                       ],
@@ -15345,7 +15486,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Lord's Blessing (1/5)",
+                          "text": "Tiered Bonus: Lord's Blessing (0/5)",
                           "color": "dark_gray"
                         }
                       ],
@@ -15583,15 +15724,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -15931,7 +16073,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Fireproof (1/2)",
+                          "text": "Tiered Bonus: Fireproof (0/2)",
                           "color": "dark_gray"
                         }
                       ],
@@ -15973,7 +16115,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Lord's Blessing (1/5)",
+                          "text": "Tiered Bonus: Lord's Blessing (0/5)",
                           "color": "dark_gray"
                         }
                       ],
@@ -16196,15 +16338,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -16530,7 +16673,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Fireproof (1/2)",
+                          "text": "Tiered Bonus: Fireproof (0/2)",
                           "color": "dark_gray"
                         }
                       ],
@@ -16572,7 +16715,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Lord's Blessing (1/5)",
+                          "text": "Tiered Bonus: Lord's Blessing (0/5)",
                           "color": "dark_gray"
                         }
                       ],
@@ -16793,23 +16936,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -17153,7 +17299,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Fireproof (1/2)",
+                          "text": "Tiered Bonus: Fireproof (0/2)",
                           "color": "dark_gray"
                         }
                       ],
@@ -17195,7 +17341,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Tiered Bonus: Lord's Blessing (1/5)",
+                          "text": "Tiered Bonus: Lord's Blessing (0/5)",
                           "color": "dark_gray"
                         }
                       ],
@@ -17423,23 +17569,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -17971,15 +18120,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -18469,15 +18619,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -18965,17 +19116,21 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -19485,23 +19640,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -20158,8 +20316,6 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1573065540000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
@@ -20167,10 +20323,12 @@
                       "respiration": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1573065540000,
                     "uuid": "a0bfeb5e-9edd-43cd-8ce7-d33801826a95",
-                    "modifier": "ancient",
-                    "rarity_upgrades": 1,
                     "hot_potato_count": 10,
+                    "rarity_upgrades": 1,
+                    "modifier": "ancient",
                     "donated_museum": 1,
                     "id": "BAT_PERSON_HELMET",
                     "originTag": "CRAFTING_GRID_COLLECT"
@@ -20183,15 +20341,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -20672,18 +20831,18 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1572647580000,
-                    "anvil_uses": 4,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 4,
+                    "timestamp": 1572647580000,
                     "uuid": "f95487b1-26af-41cc-b09c-bc911acac8cb",
-                    "modifier": "candied",
-                    "color": "0:0:0",
-                    "rarity_upgrades": 1,
                     "hot_potato_count": 10,
+                    "rarity_upgrades": 1,
+                    "color": "0:0:0",
+                    "modifier": "candied",
                     "donated_museum": 1,
                     "id": "BAT_PERSON_CHESTPLATE",
                     "originTag": "CRAFTING_GRID_COLLECT",
@@ -20698,15 +20857,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -21187,18 +21347,18 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1573066320000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1573066320000,
                     "uuid": "6366f672-3800-4ed0-917a-f602718c8acc",
-                    "modifier": "candied",
-                    "color": "0:0:0",
-                    "rarity_upgrades": 1,
                     "hot_potato_count": 10,
+                    "rarity_upgrades": 1,
+                    "color": "0:0:0",
+                    "modifier": "candied",
                     "donated_museum": 1,
                     "id": "BAT_PERSON_LEGGINGS",
                     "originTag": "CRAFTING_GRID_COLLECT"
@@ -21210,23 +21370,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -21795,8 +21958,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1572817980000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -21804,11 +21965,13 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1572817980000,
                     "uuid": "64a4990d-203b-454d-96c0-149a4280b238",
-                    "modifier": "candied",
-                    "color": "0:0:0",
-                    "rarity_upgrades": 1,
                     "hot_potato_count": 10,
+                    "rarity_upgrades": 1,
+                    "color": "0:0:0",
+                    "modifier": "candied",
                     "donated_museum": 1,
                     "id": "BAT_PERSON_BOOTS",
                     "originTag": "CRAFTING_GRID_COLLECT"
@@ -21826,23 +21989,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -22446,21 +22612,21 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1622735100000,
                     "enchantments": {
-                      "respiration": 3,
                       "rejuvenate": 5,
+                      "respiration": 3,
                       "ultimate_legion": 5,
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 6,
                       "growth": 6
                     },
+                    "timestamp": 1622735100000,
                     "uuid": "854fb3e6-fec5-4ab0-85d8-52508298842c",
-                    "modifier": "ancient",
+                    "hot_potato_count": 15,
                     "rarity_upgrades": 1,
                     "eman_kills": 200750,
-                    "hot_potato_count": 15,
+                    "modifier": "ancient",
                     "donated_museum": 1,
                     "id": "FINAL_DESTINATION_HELMET",
                     "originTag": "QUICK_CRAFTING"
@@ -22473,15 +22639,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -23067,23 +23234,23 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1622622780000,
                     "enchantments": {
-                      "ultimate_legion": 5,
-                      "thorns": 3,
                       "true_protection": 1,
+                      "thorns": 3,
+                      "ultimate_legion": 5,
                       "protection": 6,
                       "rejuvenate": 5,
                       "growth": 6
                     },
+                    "timestamp": 1622622780000,
                     "uuid": "4c2e48d4-a83e-4532-bab8-8553cc947be8",
-                    "modifier": "ancient",
-                    "color": "10:0:17",
+                    "hot_potato_count": 15,
                     "rarity_upgrades": 1,
+                    "color": "10:0:17",
                     "eman_kills": 279346,
                     "donated_museum": 1,
                     "id": "FINAL_DESTINATION_CHESTPLATE",
-                    "hot_potato_count": 15,
+                    "modifier": "ancient",
                     "originTag": "QUICK_CRAFTING"
                   },
                   "minecraft:dyed_color": 655377
@@ -23095,15 +23262,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -23675,7 +23843,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1622694600000,
                     "enchantments": {
                       "ultimate_legion": 5,
                       "thorns": 3,
@@ -23684,14 +23851,15 @@
                       "rejuvenate": 5,
                       "growth": 6
                     },
+                    "timestamp": 1622694600000,
                     "uuid": "5b4cabfc-0a65-4834-aa72-eb906f31e6eb",
-                    "modifier": "ancient",
-                    "color": "255:117:255",
+                    "hot_potato_count": 15,
                     "rarity_upgrades": 1,
+                    "color": "255:117:255",
                     "eman_kills": 299309,
                     "donated_museum": 1,
                     "id": "FINAL_DESTINATION_LEGGINGS",
-                    "hot_potato_count": 15,
+                    "modifier": "ancient",
                     "originTag": "CRAFTING_GRID_COLLECT"
                   },
                   "minecraft:dyed_color": 16741887
@@ -23701,23 +23869,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -24331,21 +24502,21 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1622508660000,
                     "enchantments": {
                       "rejuvenate": 5,
-                      "ultimate_legion": 5,
                       "sugar_rush": 3,
+                      "ultimate_legion": 5,
                       "thorns": 3,
                       "feather_falling": 10,
                       "protection": 7,
                       "depth_strider": 3,
                       "growth": 6
                     },
+                    "timestamp": 1622508660000,
                     "uuid": "04771ee1-0cac-482b-95de-ffe77b242bf4",
-                    "modifier": "ancient",
-                    "color": "10:0:17",
+                    "hot_potato_count": 15,
                     "rarity_upgrades": 1,
+                    "color": "10:0:17",
                     "eman_kills": 290682,
                     "donated_museum": 1,
                     "id": "FINAL_DESTINATION_BOOTS",
@@ -24353,7 +24524,7 @@
                       "ENDERSNAKE": 3
                     },
                     "originTag": "QUICK_CRAFTING",
-                    "hot_potato_count": 15
+                    "modifier": "ancient"
                   },
                   "minecraft:dyed_color": 655377
                 }
@@ -24368,23 +24539,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -24984,14 +25158,14 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1580158080000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "respiration": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 2,
+                    "timestamp": 1580158080000,
                     "uuid": "fcfce0a5-de46-4a49-ae36-adbb839cd0f7",
                     "modifier": "ancient",
                     "donated_museum": 1,
@@ -25006,15 +25180,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -25556,13 +25731,13 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1580158080000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "true_protection": 1,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 2,
+                    "timestamp": 1580158080000,
                     "uuid": "b39d0204-67c6-4167-b12e-567abeb70b3b",
                     "modifier": "ancient",
                     "donated_museum": 1,
@@ -25577,15 +25752,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -26085,12 +26261,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1580158080000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1580158080000,
                     "uuid": "aeccebcf-9ddf-42fd-9504-eeb7aa0e2ef4",
                     "modifier": "ancient",
                     "donated_museum": 1,
@@ -26103,23 +26279,26 @@
                 "id": "minecraft:diamond_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -26707,14 +26886,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1580158080000,
-                    "anvil_uses": 3,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
                       "depth_strider": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 3,
+                    "timestamp": 1580158080000,
                     "uuid": "44ee0519-0267-46fe-8262-a1d286826969",
                     "modifier": "ancient",
                     "donated_museum": 1,
@@ -26733,23 +26912,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -27354,8 +27536,6 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1573510440000,
-                    "anvil_uses": 7,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
@@ -27363,16 +27543,18 @@
                       "respiration": 3,
                       "growth": 5
                     },
-                    "hot_potato_count": 10,
+                    "anvil_uses": 7,
+                    "timestamp": 1573510440000,
                     "modifier": "ancient",
+                    "hot_potato_count": 10,
                     "spider_kills": 552123,
                     "id": "PRIMORDIAL_HELMET",
                     "hotPotatoBonus": "DEFENSE=10;HEALTH=20;",
                     "uuid": "87ac2259-0de5-4a7d-8a01-cdaf714fb571",
                     "rarity_upgrades": 1,
                     "donated_museum": 1,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "dungeon_item_level": 5
+                    "dungeon_item_level": 5,
+                    "originTag": "CRAFTING_GRID_COLLECT"
                   }
                 }
               },
@@ -27382,15 +27564,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -27938,21 +28121,21 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1587017040000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1587017040000,
                     "uuid": "064d75d8-f038-4300-8358-fa6f7915386f",
                     "modifier": "ancient",
                     "rarity_upgrades": 1,
                     "spider_kills": 504087,
                     "donated_museum": 1,
                     "id": "PRIMORDIAL_CHESTPLATE",
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "dungeon_item_level": 5
+                    "dungeon_item_level": 5,
+                    "originTag": "CRAFTING_GRID_COLLECT"
                   },
                   "minecraft:dyed_color": 923446
                 }
@@ -27963,15 +28146,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -28427,21 +28611,21 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1588523040000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1588523040000,
                     "uuid": "7f0209a4-72d3-4437-9683-45e82cbf5acd",
                     "modifier": "godly",
                     "rarity_upgrades": 1,
                     "spider_kills": 505899,
                     "donated_museum": 1,
                     "id": "PRIMORDIAL_LEGGINGS",
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "dungeon_item_level": 5
+                    "dungeon_item_level": 5,
+                    "originTag": "CRAFTING_GRID_COLLECT"
                   },
                   "minecraft:dyed_color": 923446
                 }
@@ -28450,17 +28634,21 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -29124,8 +29312,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1571672460000,
-                    "anvil_uses": 15,
                     "enchantments": {
                       "rejuvenate": 5,
                       "sugar_rush": 3,
@@ -29135,19 +29321,21 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "hot_potato_count": 10,
+                    "anvil_uses": 15,
+                    "timestamp": 1571672460000,
+                    "modifier": "ancient",
                     "runes": {
                       "RAINBOW": 3
                     },
-                    "modifier": "ancient",
+                    "hot_potato_count": 10,
                     "spider_kills": 503201,
                     "id": "PRIMORDIAL_BOOTS",
                     "hotPotatoBonus": "DEFENSE=20;HEALTH=40;",
                     "uuid": "24a13f0e-027a-42c4-9c27-ee088b6fa5a1",
                     "rarity_upgrades": 1,
                     "donated_museum": 1,
-                    "originTag": "CRAFTING_GRID_SHIFT",
-                    "dungeon_item_level": 5
+                    "dungeon_item_level": 5,
+                    "originTag": "CRAFTING_GRID_SHIFT"
                   },
                   "minecraft:dyed_color": 923446
                 }
@@ -29162,23 +29350,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -29564,7 +29755,6 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1610740320000,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
@@ -29572,6 +29762,7 @@
                       "respiration": 3,
                       "growth": 5
                     },
+                    "timestamp": 1610740320000,
                     "uuid": "4c4cd80f-4f41-4973-aecd-f7b113aa647d",
                     "modifier": "jaded",
                     "rarity_upgrades": 1,
@@ -29587,15 +29778,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -29881,12 +30073,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1610740320000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "timestamp": 1610740320000,
                     "uuid": "8775a4a3-4c6a-468c-8a58-631ea2012eff",
                     "modifier": "jaded",
                     "rarity_upgrades": 1,
@@ -29903,15 +30095,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -30197,12 +30390,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1610740320000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "timestamp": 1610740320000,
                     "uuid": "1e602d3c-008a-4397-8d47-50bc7a476990",
                     "modifier": "jaded",
                     "rarity_upgrades": 1,
@@ -30217,23 +30410,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -30607,7 +30803,6 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1610740320000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -30615,6 +30810,7 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
+                    "timestamp": 1610740320000,
                     "uuid": "5ebb57d7-6502-4e29-ab64-371407b6d83c",
                     "modifier": "jaded",
                     "rarity_upgrades": 1,
@@ -30635,23 +30831,26 @@
                 "id": "minecraft:leather_helmet",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -30991,15 +31190,15 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "PARTY_HAT",
-                    "timestamp": 1721723698087,
-                    "uuid": "aa1fcf3a-d776-4926-906b-61e17222a6dd",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "aa1fcf3a-d776-4926-906b-61e17222a6dd",
+                    "timestamp": 1721723698087
                   },
                   "minecraft:dyed_color": 65280
                 }
@@ -31010,15 +31209,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -31732,22 +31932,22 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1573780020000,
-                    "anvil_uses": 1,
                     "enchantments": {
                       "true_protection": 1,
                       "thorns": 3,
                       "protection": 5,
                       "growth": 5
                     },
+                    "anvil_uses": 1,
+                    "timestamp": 1573780020000,
                     "uuid": "0e84381f-d834-47b1-93d5-2fe59125b48f",
-                    "modifier": "ancient",
-                    "color": "27:27:27",
+                    "hot_potato_count": 10,
                     "rarity_upgrades": 1,
+                    "color": "27:27:27",
                     "zombie_kills": 510756,
                     "donated_museum": 1,
                     "id": "REAPER_CHESTPLATE",
-                    "hot_potato_count": 10,
+                    "modifier": "ancient",
                     "originTag": "REAPER_CHESTPLATE"
                   },
                   "minecraft:dyed_color": 1776411
@@ -31759,15 +31959,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -32439,21 +32640,21 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1581775560000,
-                    "anvil_uses": 2,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "anvil_uses": 2,
+                    "timestamp": 1581775560000,
                     "uuid": "deafec71-24e3-47a5-aa9a-874705a2489c",
-                    "modifier": "ancient",
-                    "color": "27:27:27",
+                    "hot_potato_count": 10,
                     "rarity_upgrades": 1,
+                    "color": "27:27:27",
                     "zombie_kills": 528578,
                     "donated_museum": 1,
                     "id": "REAPER_LEGGINGS",
-                    "hot_potato_count": 10,
+                    "modifier": "ancient",
                     "originTag": "REAPER_LEGGINGS"
                   },
                   "minecraft:dyed_color": 1776411
@@ -32463,23 +32664,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -33124,24 +33328,24 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1615530780000,
                     "enchantments": {
-                      "ultimate_last_stand": 5,
+                      "growth": 5,
                       "rejuvenate": 5,
                       "thorns": 3,
                       "feather_falling": 10,
                       "protection": 5,
                       "depth_strider": 3,
-                      "growth": 5
+                      "ultimate_last_stand": 5
                     },
+                    "timestamp": 1615530780000,
                     "uuid": "7748b240-a99e-4717-8c8c-266c647000d0",
-                    "modifier": "ancient",
-                    "color": "27:27:27",
+                    "hot_potato_count": 10,
                     "rarity_upgrades": 1,
+                    "color": "27:27:27",
                     "zombie_kills": 524264,
                     "donated_museum": 1,
                     "id": "REAPER_BOOTS",
-                    "hot_potato_count": 10,
+                    "modifier": "ancient",
                     "originTag": "REAPER_BOOTS"
                   },
                   "minecraft:dyed_color": 1776411
@@ -33157,23 +33361,26 @@
                 "id": "minecraft:diamond_helmet",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -33610,14 +33817,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DIAMOND_HUNTER_HELMET",
-                    "timestamp": 1667413740000,
-                    "uuid": "2687f249-ca44-420d-8a32-28e2cb07e005",
                     "enchantments": {
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "2687f249-ca44-420d-8a32-28e2cb07e005",
+                    "timestamp": 1667413740000
                   }
                 }
               },
@@ -33627,15 +33834,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -33986,12 +34194,12 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DIAMOND_HUNTER_CHESTPLATE",
-                    "timestamp": 1667413740000,
-                    "uuid": "54e81e4d-a5f9-4851-861e-8a22feb70fd4",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "54e81e4d-a5f9-4851-861e-8a22feb70fd4",
+                    "timestamp": 1667413740000
                   }
                 }
               },
@@ -34001,15 +34209,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -34360,12 +34569,12 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DIAMOND_HUNTER_LEGGINGS",
-                    "timestamp": 1667413740000,
-                    "uuid": "54357a93-ca45-40ae-899f-bbda8774601c",
                     "enchantments": {
                       "protection": 5,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "54357a93-ca45-40ae-899f-bbda8774601c",
+                    "timestamp": 1667413740000
                   }
                 }
               },
@@ -34373,23 +34582,26 @@
                 "id": "minecraft:diamond_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -34828,14 +35040,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "DIAMOND_HUNTER_BOOTS",
-                    "timestamp": 1667413740000,
-                    "uuid": "b567563a-1a4b-4d90-93b7-bb2cd25c0802",
                     "enchantments": {
                       "feather_falling": 5,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
-                    }
+                    },
+                    "uuid": "b567563a-1a4b-4d90-93b7-bb2cd25c0802",
+                    "timestamp": 1667413740000
                   }
                 }
               }
@@ -34849,23 +35061,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -35315,16 +35530,16 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "timestamp": 1632181860000,
                     "enchantments": {
-                      "respiration": 3,
                       "rejuvenate": 5,
+                      "respiration": 3,
                       "ultimate_legion": 5,
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 6,
                       "growth": 6
                     },
+                    "timestamp": 1632181860000,
                     "uuid": "2d0d2c16-9483-4bff-b0a8-57a05670fdb0",
                     "gems": {
                       "unlocked_slots": [
@@ -35334,12 +35549,12 @@
                       "SAPPHIRE_0": "FINE"
                     },
                     "rarity_upgrades": 1,
-                    "modifier": "giant",
                     "hot_potato_count": 15,
+                    "modifier": "giant",
                     "donated_museum": 1,
                     "id": "REAPER_MASK",
-                    "originTag": "REVIVED_HEART",
-                    "dungeon_item_level": 5
+                    "dungeon_item_level": 5,
+                    "originTag": "REVIVED_HEART"
                   }
                 }
               },
@@ -35349,15 +35564,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -35655,12 +35871,12 @@
                   ],
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
-                    "timestamp": 1663543200000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 6
                     },
+                    "timestamp": 1663543200000,
                     "uuid": "2a9666fc-cb37-4c03-be19-e1a3cdc388d8",
                     "modifier": "giant",
                     "donated_museum": 1,
@@ -35676,15 +35892,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -35982,12 +36199,12 @@
                   ],
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
-                    "timestamp": 1664194140000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
+                    "timestamp": 1664194140000,
                     "uuid": "1cc5323d-d70a-4c95-a68a-5c85d0b6ae00",
                     "modifier": "giant",
                     "donated_museum": 1,
@@ -36001,17 +36218,21 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -36323,7 +36544,6 @@
                   ],
                   "minecraft:custom_data": {
                     "upgrade_level": 5,
-                    "timestamp": 1664380920000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -36331,6 +36551,7 @@
                       "depth_strider": 3,
                       "growth": 6
                     },
+                    "timestamp": 1664380920000,
                     "uuid": "9109e9c8-740f-48b9-bb1d-beef0a2b033b",
                     "modifier": "giant",
                     "donated_museum": 1,
@@ -36350,23 +36571,26 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -36828,16 +37052,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ABYSSAL_HELMET",
-                    "timestamp": 1636015200000,
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
                     "enchantments": {
                       "aqua_affinity": 1,
                       "scuba": 5,
                       "protection": 5,
                       "respiration": 4,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
+                    "timestamp": 1636015200000
                   }
                 }
               },
@@ -36847,15 +37071,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -37231,14 +37456,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ABYSSAL_CHESTPLATE",
-                    "timestamp": 1636015200000,
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
                     "enchantments": {
                       "protection": 5,
                       "scuba": 5,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
+                    "timestamp": 1636015200000
                   },
                   "minecraft:dyed_color": 943725
                 }
@@ -37249,15 +37474,16 @@
                 "components": {
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
@@ -37633,14 +37859,14 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ABYSSAL_LEGGINGS",
-                    "timestamp": 1636015200000,
-                    "originTag": "QUICK_CRAFTING",
-                    "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
                     "enchantments": {
                       "protection": 5,
                       "scuba": 5,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "QUICK_CRAFTING",
+                    "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
+                    "timestamp": 1636015200000
                   },
                   "minecraft:dyed_color": 943725
                 }
@@ -37649,23 +37875,26 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
-                      "minecraft:jukebox_playable",
                       "minecraft:painting/variant",
-                      "minecraft:map_id",
                       "minecraft:fireworks",
                       "minecraft:attribute_modifiers",
+                      "minecraft:trim",
+                      "minecraft:charged_projectiles",
+                      "minecraft:jukebox_playable",
+                      "minecraft:map_id",
                       "minecraft:unbreakable",
                       "minecraft:written_book_content",
                       "minecraft:banner_patterns",
-                      "minecraft:trim",
                       "minecraft:potion_contents",
                       "minecraft:block_entity_data",
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -38129,16 +38358,16 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "ABYSSAL_BOOTS",
-                    "timestamp": 1636015200000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
                     "enchantments": {
                       "feather_falling": 5,
                       "scuba": 5,
                       "protection": 5,
                       "depth_strider": 3,
                       "growth": 5
-                    }
+                    },
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
+                    "timestamp": 1636015200000
                   },
                   "minecraft:dyed_color": 943725
                 }
@@ -38153,9 +38382,6 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
-                  "minecraft:enchantments": {
-                    "minecraft:aqua_affinity": 1
-                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
                       "minecraft:jukebox_playable",
@@ -38176,12 +38402,8 @@
                     "text": "",
                     "extra": [
                       {
-                        "text": "Necrotic Storm's Helmet ",
-                        "color": "light_purple"
-                      },
-                      {
-                        "text": "✪✪✪✪✪",
-                        "color": "gold"
+                        "text": "Diamond Necron Head",
+                        "color": "red"
                       }
                     ],
                     "italic": false
@@ -38195,11 +38417,11 @@
                           "color": "gray"
                         },
                         {
-                          "text": "851 ",
+                          "text": "420 ",
                           "color": "light_purple"
                         },
                         {
-                          "text": "(4852)",
+                          "text": "(2436)",
                           "color": "dark_gray"
                         }
                       ],
@@ -38213,11 +38435,11 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+273 ",
+                          "text": "+220 ",
                           "color": "red"
                         },
                         {
-                          "text": "(+1,606.5)",
+                          "text": "(+1,276)",
                           "color": "dark_gray"
                         }
                       ],
@@ -38231,11 +38453,11 @@
                           "color": "gray"
                         },
                         {
-                          "text": "+113 ",
+                          "text": "+80 ",
                           "color": "green"
                         },
                         {
-                          "text": "(+661.5)",
+                          "text": "(+464)",
                           "color": "dark_gray"
                         }
                       ],
@@ -38245,20 +38467,34 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Intelligence: ",
+                          "text": "Strength: ",
                           "color": "gray"
                         },
                         {
-                          "text": "+640 ",
-                          "color": "aqua"
+                          "text": "+40 ",
+                          "color": "red"
                         },
                         {
-                          "text": "(+200) ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "(+3,780)",
+                          "text": "(+232)",
                           "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Obtained from killing ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "Maxor, Storm,",
+                          "color": "red"
                         }
                       ],
                       "italic": false
@@ -38267,56 +38503,18 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Respiration: ",
+                          "text": "Goldor, and Necron ",
+                          "color": "red"
+                        },
+                        {
+                          "text": "in ",
                           "color": "gray"
                         },
                         {
-                          "text": "+45 ",
-                          "color": "dark_aqua"
-                        },
-                        {
-                          "text": "(+283.5)",
-                          "color": "dark_gray"
+                          "text": "The Catacombs",
+                          "color": "red"
                         }
                       ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Gemstones: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "[",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "✎",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "] ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "[",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "⚔",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "]",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
                       "italic": false
                     },
                     {
@@ -38324,66 +38522,32 @@
                       "extra": [
                         {
                           "text": "",
-                          "color": "light_purple",
-                          "bold": true
+                          "color": "red"
                         },
                         {
-                          "text": "Wisdom V, ",
-                          "color": "light_purple",
-                          "bold": true
-                        },
-                        {
-                          "text": "Aqua Affinity I, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Growth V",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Protection VI, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Respiration III, ",
-                          "color": "blue"
-                        },
-                        {
-                          "text": "Thorns III",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Reduces the damage you take from",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "withers by ",
+                          "text": "lots of times. Grants ",
                           "color": "gray"
                         },
                         {
-                          "text": "10%",
+                          "text": "2x ",
+                          "color": "green"
+                        },
+                        {
+                          "text": "stats on ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "The",
+                          "color": "red"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Catacombs Floor VII",
                           "color": "red"
                         },
                         {
@@ -38401,12 +38565,12 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Full Set Bonus: Witherborn ",
-                          "color": "gold"
+                          "text": "",
+                          "color": "gray"
                         },
                         {
-                          "text": "(0/4)",
-                          "color": "gray"
+                          "text": "Disciples of the Wither King. Inherited",
+                          "color": "dark_gray"
                         }
                       ],
                       "italic": false
@@ -38415,14 +38579,34 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Spawns a wither minion every ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "30",
-                          "color": "yellow"
+                          "text": "the Catacombs eons ago. Never",
+                          "color": "dark_gray"
                         }
                       ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "defeated, feared by anything living",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "AND dead.",
+                          "color": "dark_gray"
+                        }
+                      ],
+                      "italic": false
+                    },
+                    {
+                      "text": "",
                       "italic": false
                     },
                     {
@@ -38430,45 +38614,13 @@
                       "extra": [
                         {
                           "text": "",
-                          "color": "yellow"
-                        },
-                        {
-                          "text": "seconds up to a maximum ",
                           "color": "gray"
                         },
                         {
-                          "text": "1 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "wither.",
-                          "color": "gray"
+                          "text": "This item can be reforged!",
+                          "color": "dark_gray"
                         }
                       ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Your withers will travel to and",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "explode on nearby enemies.",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
                       "italic": false
                     },
                     {
@@ -38495,33 +38647,9 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "a",
-                          "color": "light_purple",
-                          "bold": true,
-                          "obfuscated": true
-                        },
-                        "",
-                        {
-                          "text": "",
-                          "extra": [
-                            " "
-                          ],
-                          "bold": false,
-                          "italic": false,
-                          "underlined": false,
-                          "strikethrough": false,
-                          "obfuscated": false
-                        },
-                        {
-                          "text": "MYTHIC DUNGEON HELMET ",
-                          "color": "light_purple",
+                          "text": "SPECIAL DUNGEON HELMET",
+                          "color": "red",
                           "bold": true
-                        },
-                        {
-                          "text": "a",
-                          "color": "light_purple",
-                          "bold": true,
-                          "obfuscated": true
                         }
                       ],
                       "italic": false
@@ -38529,36 +38657,24 @@
                   ],
                   "minecraft:profile": {
                     "id": [
-                      435465697,
-                      274152484,
-                      -1110354771,
-                      -213729415
+                      832539356,
+                      1822965231,
+                      -1241755233,
+                      325791554
                     ],
                     "properties": [
                       {
                         "name": "textures",
-                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzM2NjgxNiwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODMxNTljNWJiN2Q4MDQ1NGQyZDY0NmIxNTc3NGI3MTE2YWFiY2IzYWY1YjY3NzdhMjc1NzNmYzQ1Zjc4NTRmIgogICAgfQogIH0KfQ==",
-                        "signature": "xNnjj+4xazRrQ3IDo/i/kKYiEGcfFAVtgAtT5DpV+WSvQWfyecnE/9NmjuB2DFA7If13qRxb5/tlUU/NNadopCaPGkCXT5oeUfraopV4jQi7Z3mNtRiX/hAQnPk5KP5ASdnB8CwgFCjdNoQUIr54l/vVInA5eN0O/ye6l5FVeFIoKxuX20jmhygtvuHFZUVaioGChaZRsuEae1lE+388azIeyiNDxS/2/t73k8uxOeNE3lh/kVUnjAtth6LTF3kJ6b59Qb2ozW54DJOi30k0/AuJTQbK8ne6MHTYUQNBlAkFU28XdOtahcAAfUUKJj7/1jNmDrbSJgCsRIZzIOa4ElCyWkT1iYshVlC3Gm8y6ulVQbvzNIZhfkoN3Xy8c/d5KddAncbqEXZFh6zdkshWt6N3Jo/8rbphfB7kBhRzhADMnlm5j4KyT4f9oj1I0MYxmse3h83SwIM0xf8Q9iPMK4B1eFZKvGOlqbVMMcIAUt+5d1LU7jH7lG8/8GKeUA1IMJwVIIELNjC8ywkeHZqXxPafHT5ef3sWvyHUSn4hUtS2ZdA1koyfirhbUUX+cofCp+yadHmYrnX9mm1GRMfPq4PLBol1ZeU9Kloe1iTgT/8kXtdqU3XoCtK/+PMJadtKoywvp8EYe6HvdUDx86hGI3gt1ZJFIejuWQy5hiJ+hqY="
+                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzM5MDg5NDU4NiwKICAicHJvZmlsZUlkIiA6ICJjNWFhNTRhNmNmNTI0YmFmYmRiODUwNmUyMjRiNzViZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWNyb25IYW5kbGVQTFMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIxMTVjZGM0NWZkODRmMjFmYmE3YWMwZjJiYzc3YmMzYjYzMDJiZTY3MDg0MmY2ZTExZjY2ZWI1NTdmMTNlZSIKICAgIH0KICB9Cn0=",
+                        "signature": "hwaaE9h0QvFmtFvk2bNyAYlPo34NvaCjX3VWPv5zaRVM8KjfqQB5sB85vlFRVwCXK/HnQS2qMJ39ZuYplxT895lIShidIVdF5UP8T6cb1svhA9TmEVKFY4pKFyhUjIhD95HvO3OoNWPlCmb9Mho4XIo3K4AavnKPbuu3/I58gQmfKI71xDq7r+DRf9Dlxc8r3mcsUrdEwTfvC2/eFszHc/vqQXNm1smH2QJVfki+AgddNndFt7qumeicVFmsk2GmPNHxjlgH0xPL0hG8WGEmH5+Fnnj/eoYSutnpDRXVPY0H/KOMIa2Prga524stPC0gYmVU9y/wviXzDmKiiAa4uPVhwd/L/DgUSIGio6NlLMyA+Uvyy02HEr3TmzQ6bPqLphSttaDaVWW8Ltd1wvz/+Hhii5tYSSm3l5cAZQAO1O/JN/FKqA7tv0v0ZWp8AS1qw0QeLrRrLKlri2Zmzj5iYv7exfAVUiYB8f95ZZOWg1FLOufSJeFsQC5S7gsnsdJsWvnwvUNQI4RDfIc59a5Hvgzr90jgMTNoBGSXyrsXpeXJb+T9R8xfSEQY5V1XwFd+3lz8XRbBUQHubxN+b9AGj5FpQ2j5oaAz+BXY2+Iq20qVvkFMeJXdTRT0VIZM4r06ml0R3SZ1Jfui4xMH9OmhR+Hz3mmMvLN+BewhmtucN28="
                       }
                     ]
                   },
                   "minecraft:custom_data": {
-                    "upgrade_level": 5,
-                    "enchantments": {
-                      "thorns": 3,
-                      "aqua_affinity": 1,
-                      "ultimate_wisdom": 5,
-                      "protection": 6,
-                      "respiration": 3,
-                      "growth": 5
-                    },
-                    "timestamp": 1662515160000,
-                    "uuid": "0ee4c8d7-4420-4535-a59b-d5e2091d3cf8",
-                    "modifier": "necrotic",
-                    "rarity_upgrades": 1,
                     "donated_museum": 1,
-                    "id": "WISE_WITHER_HELMET",
-                    "dungeon_item": 1
+                    "id": "DIAMOND_NECRON_HEAD",
+                    "timestamp": 1729023013683,
+                    "uuid": "a260e18f-cb73-4a65-a932-4257d6000609"
                   }
                 }
               },
@@ -39023,30 +39139,30 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1611795180000,
                     "enchantments": {
-                      "growth": 6,
+                      "ultimate_last_stand": 5,
                       "rejuvenate": 5,
                       "true_protection": 1,
-                      "thorns": 3,
                       "mana_vampire": 7,
+                      "thorns": 3,
                       "protection": 6,
-                      "ultimate_last_stand": 5
+                      "growth": 6
                     },
-                    "timestamp": 1611795180000,
                     "uuid": "770132e0-e66f-429e-801e-a882b72a54a9",
                     "gems": {
                       "COMBAT_0_gem": "AMETHYST",
                       "COMBAT_0": "PERFECT",
                       "SAPPHIRE_0": "PERFECT"
                     },
-                    "rarity_upgrades": 1,
                     "color": "160:101:64",
-                    "hot_potato_count": 15,
+                    "rarity_upgrades": 1,
+                    "modifier": "loving",
                     "donated_museum": 1,
                     "id": "WISE_WITHER_CHESTPLATE",
-                    "modifier": "loving",
-                    "dungeon_item_level": 5,
-                    "originTag": "WISE_WITHER_CHESTPLATE"
+                    "hot_potato_count": 15,
+                    "originTag": "WISE_WITHER_CHESTPLATE",
+                    "dungeon_item_level": 5
                   }
                 }
               },
@@ -39453,30 +39569,30 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1607888520000,
                     "enchantments": {
                       "ultimate_wisdom": 5,
                       "rejuvenate": 5,
-                      "thorns": 3,
                       "mana_vampire": 7,
+                      "thorns": 3,
                       "smarty_pants": 5,
                       "protection": 6,
                       "growth": 6
                     },
-                    "timestamp": 1607888520000,
                     "uuid": "8565745c-2b70-4b36-900b-90232245c253",
                     "gems": {
                       "COMBAT_0_gem": "AMETHYST",
                       "COMBAT_0": "PERFECT",
                       "SAPPHIRE_0": "PERFECT"
                     },
-                    "rarity_upgrades": 1,
                     "color": "252:243:255",
-                    "hot_potato_count": 15,
+                    "rarity_upgrades": 1,
+                    "modifier": "necrotic",
                     "donated_museum": 1,
                     "id": "WISE_WITHER_LEGGINGS",
-                    "modifier": "necrotic",
-                    "dungeon_item_level": 5,
-                    "originTag": "WISE_WITHER_LEGGINGS"
+                    "hot_potato_count": 15,
+                    "originTag": "WISE_WITHER_LEGGINGS",
+                    "dungeon_item_level": 5
                   },
                   "minecraft:dyed_color": 16577535
                 }
@@ -39485,6 +39601,9 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
                       "minecraft:jukebox_playable",
@@ -39910,21 +40029,21 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1606389900000,
+                    "anvil_uses": 1,
                     "enchantments": {
                       "ultimate_wisdom": 5,
                       "rejuvenate": 5,
                       "sugar_rush": 3,
-                      "thorns": 3,
                       "mana_vampire": 7,
+                      "thorns": 3,
                       "feather_falling": 10,
                       "protection": 6,
                       "depth_strider": 3,
                       "growth": 6
                     },
-                    "anvil_uses": 1,
-                    "timestamp": 1606389900000,
-                    "modifier": "necrotic",
                     "hot_potato_count": 15,
+                    "modifier": "necrotic",
                     "id": "WISE_WITHER_BOOTS",
                     "uuid": "80f366ee-c061-439d-9327-c573a715f6d8",
                     "gems": {
@@ -39932,11 +40051,11 @@
                       "COMBAT_0": "PERFECT",
                       "SAPPHIRE_0": "PERFECT"
                     },
-                    "rarity_upgrades": 1,
                     "color": "28:212:228",
+                    "rarity_upgrades": 1,
                     "donated_museum": 1,
-                    "dungeon_item_level": 5,
-                    "originTag": "WISE_WITHER_BOOTS"
+                    "originTag": "WISE_WITHER_BOOTS",
+                    "dungeon_item_level": 5
                   },
                   "minecraft:dyed_color": 1889508
                 }
@@ -39947,306 +40066,7 @@
           {
             "id": 20,
             "armor": [
-              {
-                "id": "minecraft:player_head",
-                "count": 1,
-                "components": {
-                  "minecraft:tooltip_display": {
-                    "hidden_components": [
-                      "minecraft:jukebox_playable",
-                      "minecraft:painting/variant",
-                      "minecraft:map_id",
-                      "minecraft:fireworks",
-                      "minecraft:attribute_modifiers",
-                      "minecraft:unbreakable",
-                      "minecraft:written_book_content",
-                      "minecraft:banner_patterns",
-                      "minecraft:trim",
-                      "minecraft:potion_contents",
-                      "minecraft:block_entity_data",
-                      "minecraft:dyed_color"
-                    ]
-                  },
-                  "minecraft:custom_name": {
-                    "text": "",
-                    "extra": [
-                      {
-                        "text": "Diamond Necron Head",
-                        "color": "red"
-                      }
-                    ],
-                    "italic": false
-                  },
-                  "minecraft:lore": [
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Gear Score: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "420 ",
-                          "color": "light_purple"
-                        },
-                        {
-                          "text": "(2436)",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Health: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+220 ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "(+1,276)",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Defense: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+80 ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "(+464)",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Strength: ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "+40 ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "(+232)",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Obtained from killing ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "Maxor, Storm,",
-                          "color": "red"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Goldor, and Necron ",
-                          "color": "red"
-                        },
-                        {
-                          "text": "in ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "The Catacombs",
-                          "color": "red"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "red"
-                        },
-                        {
-                          "text": "lots of times. Grants ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "2x ",
-                          "color": "green"
-                        },
-                        {
-                          "text": "stats on ",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "The",
-                          "color": "red"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Catacombs Floor VII",
-                          "color": "red"
-                        },
-                        {
-                          "text": ".",
-                          "color": "gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "Disciples of the Wither King. Inherited",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "the Catacombs eons ago. Never",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "defeated, feared by anything living",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "AND dead.",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "",
-                          "color": "gray"
-                        },
-                        {
-                          "text": "This item can be reforged!",
-                          "color": "dark_gray"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "* ",
-                          "color": "dark_gray",
-                          "bold": true
-                        },
-                        {
-                          "text": "Co-op Soulbound ",
-                          "color": "dark_gray"
-                        },
-                        {
-                          "text": "*",
-                          "color": "dark_gray",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    },
-                    {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "SPECIAL DUNGEON HELMET",
-                          "color": "red",
-                          "bold": true
-                        }
-                      ],
-                      "italic": false
-                    }
-                  ],
-                  "minecraft:profile": {
-                    "id": [
-                      832539356,
-                      1822965231,
-                      -1241755233,
-                      325791554
-                    ],
-                    "properties": [
-                      {
-                        "name": "textures",
-                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzM5MDg5NDU4NiwKICAicHJvZmlsZUlkIiA6ICJjNWFhNTRhNmNmNTI0YmFmYmRiODUwNmUyMjRiNzViZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWNyb25IYW5kbGVQTFMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIxMTVjZGM0NWZkODRmMjFmYmE3YWMwZjJiYzc3YmMzYjYzMDJiZTY3MDg0MmY2ZTExZjY2ZWI1NTdmMTNlZSIKICAgIH0KICB9Cn0=",
-                        "signature": "hwaaE9h0QvFmtFvk2bNyAYlPo34NvaCjX3VWPv5zaRVM8KjfqQB5sB85vlFRVwCXK/HnQS2qMJ39ZuYplxT895lIShidIVdF5UP8T6cb1svhA9TmEVKFY4pKFyhUjIhD95HvO3OoNWPlCmb9Mho4XIo3K4AavnKPbuu3/I58gQmfKI71xDq7r+DRf9Dlxc8r3mcsUrdEwTfvC2/eFszHc/vqQXNm1smH2QJVfki+AgddNndFt7qumeicVFmsk2GmPNHxjlgH0xPL0hG8WGEmH5+Fnnj/eoYSutnpDRXVPY0H/KOMIa2Prga524stPC0gYmVU9y/wviXzDmKiiAa4uPVhwd/L/DgUSIGio6NlLMyA+Uvyy02HEr3TmzQ6bPqLphSttaDaVWW8Ltd1wvz/+Hhii5tYSSm3l5cAZQAO1O/JN/FKqA7tv0v0ZWp8AS1qw0QeLrRrLKlri2Zmzj5iYv7exfAVUiYB8f95ZZOWg1FLOufSJeFsQC5S7gsnsdJsWvnwvUNQI4RDfIc59a5Hvgzr90jgMTNoBGSXyrsXpeXJb+T9R8xfSEQY5V1XwFd+3lz8XRbBUQHubxN+b9AGj5FpQ2j5oaAz+BXY2+Iq20qVvkFMeJXdTRT0VIZM4r06ml0R3SZ1Jfui4xMH9OmhR+Hz3mmMvLN+BewhmtucN28="
-                      }
-                    ]
-                  },
-                  "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "DIAMOND_NECRON_HEAD",
-                    "timestamp": 1729023013683,
-                    "uuid": "a260e18f-cb73-4a65-a932-4257d6000609"
-                  }
-                }
-              },
+              {},
               {},
               {},
               {}
@@ -40320,6 +40140,9 @@
                 "id": "minecraft:player_head",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:aqua_affinity": 1
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
                       "minecraft:jukebox_playable",
@@ -40336,7 +40159,6 @@
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:custom_name": {
                     "text": "",
                     "extra": [
@@ -40744,6 +40566,7 @@
                     ]
                   },
                   "minecraft:custom_data": {
+                    "timestamp": 1672657620000,
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
@@ -40751,7 +40574,6 @@
                       "respiration": 3,
                       "growth": 5
                     },
-                    "timestamp": 1672657620000,
                     "uuid": "cc2428fd-6b39-475b-ac8a-3bf4d679ecb9",
                     "edition": 421,
                     "date": 1672700872340,
@@ -41082,12 +40904,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1662973020000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1662973020000,
                     "uuid": "ce6e4b59-177a-46a3-80f5-16459096a663",
                     "edition": 433,
                     "date": 1663016220327,
@@ -41419,12 +41241,12 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1659616440000,
                     "enchantments": {
                       "protection": 5,
                       "thorns": 3,
                       "growth": 5
                     },
-                    "timestamp": 1659616440000,
                     "uuid": "934bb970-2623-476b-8ed7-74383b6fea9c",
                     "edition": 376,
                     "date": 1659616442096,
@@ -41438,6 +41260,9 @@
                 "id": "minecraft:leather_boots",
                 "count": 1,
                 "components": {
+                  "minecraft:enchantments": {
+                    "minecraft:depth_strider": 3
+                  },
                   "minecraft:tooltip_display": {
                     "hidden_components": [
                       "minecraft:jukebox_playable",
@@ -41454,7 +41279,6 @@
                       "minecraft:dyed_color"
                     ]
                   },
-                  "minecraft:enchantment_glint_override": true,
                   "minecraft:unbreakable": {},
                   "minecraft:custom_name": {
                     "text": "",
@@ -41850,6 +41674,7 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1673954460000,
                     "enchantments": {
                       "thorns": 3,
                       "feather_falling": 5,
@@ -41857,7 +41682,6 @@
                       "depth_strider": 3,
                       "growth": 5
                     },
-                    "timestamp": 1673954460000,
                     "uuid": "a067b5bc-1eb5-4dc9-91f1-ba67b31e1df7",
                     "edition": 345,
                     "date": 1673954483952,
@@ -43433,6 +43257,281 @@
         ]
       },
       "Orange": {
+        "currentSlot": -1,
+        "slots": [
+          {
+            "id": 1,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 2,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 3,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 4,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 5,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 6,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 7,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 8,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 9,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 10,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 11,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 12,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 13,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 14,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 15,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 16,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 17,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 18,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 19,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 20,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 21,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 22,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 23,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 24,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 25,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 26,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          },
+          {
+            "id": 27,
+            "armor": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "locked": true
+          }
+        ]
+      },
+      "Banana": {
         "currentSlot": -1,
         "slots": [
           {
