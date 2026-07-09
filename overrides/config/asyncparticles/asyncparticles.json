@@ -22,19 +22,7 @@
     "particleRenderingMode": "SYNCHRONOUSLY",
     "gpuAcceleration": true,
     "appendNewParticlesToRenderer": true,
-    "failPerSecLimit": 20,
-    "syncParticleClasses": [
-      "com.lootbeams.VFXParticle",
-      "ovh.corail.tombstone.particle.ParticleCasting",
-      "ovh.corail.tombstone.particle.ParticleGhost",
-      "ovh.corail.tombstone.particle.ParticleGraveSoul",
-      "ovh.corail.tombstone.particle.ParticleMagicCircle",
-      "ovh.corail.tombstone.particle.ParticleMarker",
-      "ovh.corail.tombstone.particle.ParticleRounding",
-      "concerrox.effective.particle.SplashParticle",
-      "org.ladysnake.effective.particle.SplashParticle",
-      "net.mehvahdjukaar.dummmmmmy.client.DamageNumberParticle"
-    ]
+    "failPerSecLimit": 20
   },
   "valkyrienSkies": {
     "rainEffect": "STATIONARY",

@@ -4,58 +4,58 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "attribute:u23": {
-          "owned": 24,
-          "syphoned": 0,
+          "owned": 0,
+          "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:u10": {
-          "owned": 26,
+          "owned": 70,
           "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:c32": {
-          "owned": 110,
-          "syphoned": 0,
+          "owned": 0,
+          "syphoned": 96,
           "rarity": "COMMON"
         },
         "attribute:r32": {
-          "owned": 42,
-          "syphoned": 0,
+          "owned": 8,
+          "syphoned": 48,
           "rarity": "RARE"
         },
         "attribute:l47": {
-          "owned": 7,
+          "owned": 22,
           "syphoned": 24,
           "rarity": "LEGENDARY"
         },
         "attribute:e6": {
-          "owned": 33,
+          "owned": 42,
           "syphoned": 32,
           "rarity": "EPIC"
         },
         "attribute:r56": {
-          "owned": 21,
-          "syphoned": 0,
+          "owned": 0,
+          "syphoned": 48,
           "rarity": "RARE"
         },
         "attribute:u32": {
-          "owned": 87,
-          "syphoned": 0,
+          "owned": 2,
+          "syphoned": 64,
           "rarity": "UNCOMMON"
         },
         "attribute:e14": {
-          "owned": 20,
-          "syphoned": 0,
+          "owned": 0,
+          "syphoned": 32,
           "rarity": "EPIC"
         },
         "attribute:c39": {
-          "owned": 48,
+          "owned": 56,
           "syphoned": 96,
           "rarity": "COMMON"
         },
         "attribute:l17": {
-          "owned": 3,
-          "syphoned": 0,
+          "owned": 0,
+          "syphoned": 24,
           "rarity": "LEGENDARY"
         },
         "attribute:l28": {
@@ -64,8 +64,8 @@
           "rarity": "LEGENDARY"
         },
         "attribute:c26": {
-          "owned": 6,
-          "syphoned": 0,
+          "owned": 2,
+          "syphoned": 96,
           "rarity": "COMMON"
         },
         "attribute:r45": {
@@ -74,22 +74,22 @@
           "rarity": "RARE"
         },
         "attribute:c17": {
-          "owned": 621,
+          "owned": 556,
           "syphoned": 96,
           "rarity": "COMMON"
         },
         "attribute:c29": {
-          "owned": 427,
+          "owned": 441,
           "syphoned": 96,
           "rarity": "COMMON"
         },
         "attribute:r63": {
-          "owned": 24,
+          "owned": 28,
           "syphoned": 48,
           "rarity": "RARE"
         },
         "attribute:e39": {
-          "owned": 24,
+          "owned": 26,
           "syphoned": 32,
           "rarity": "EPIC"
         },
@@ -99,9 +99,524 @@
           "rarity": "EPIC"
         },
         "attribute:c15": {
-          "owned": 4,
+          "owned": 6,
           "syphoned": 96,
           "rarity": "COMMON"
+        },
+        "attribute:c4": {
+          "owned": 20,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c25": {
+          "owned": 13,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c7": {
+          "owned": 11,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c11": {
+          "owned": 20,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:u11": {
+          "owned": 11,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:e27": {
+          "owned": 2,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:c20": {
+          "owned": 7,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:l14": {
+          "owned": 4,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:u24": {
+          "owned": 4,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r10": {
+          "owned": 14,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r24": {
+          "owned": 4,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:c12": {
+          "owned": 7,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:u33": {
+          "owned": 11,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r50": {
+          "owned": 14,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:e26": {
+          "owned": 4,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:c1": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c2": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c3": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c5": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c9": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c10": {
+          "owned": 6,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c14": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c16": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c18": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c19": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c21": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c23": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c24": {
+          "owned": 8,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c27": {
+          "owned": 2,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c30": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c33": {
+          "owned": 5,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c34": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c35": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:c36": {
+          "owned": 0,
+          "syphoned": 96,
+          "rarity": "COMMON"
+        },
+        "attribute:u1": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u2": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u3": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u4": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u5": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u6": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u7": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u8": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u9": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u12": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u15": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u16": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u18": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u20": {
+          "owned": 2,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u21": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u22": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u25": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u27": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u28": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u29": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u30": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:l9": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l23": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l27": {
+          "owned": 2,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l30": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l33": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l48": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l51": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:r21": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r29": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r31": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r33": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r51": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r52": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:e15": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e36": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e45": {
+          "owned": 0,
+          "syphoned": 0,
+          "rarity": "EPIC"
+        },
+        "attribute:u36": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u38": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r18": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r30": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r36": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r39": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r42": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:e18": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e24": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e29": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e33": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:u41": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:u59": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:e17": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e20": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:l5": {
+          "owned": 2,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:l26": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:u40": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r16": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r43": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:e13": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e31": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:e37": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:l13": {
+          "owned": 0,
+          "syphoned": 24,
+          "rarity": "LEGENDARY"
+        },
+        "attribute:u31": {
+          "owned": 0,
+          "syphoned": 64,
+          "rarity": "UNCOMMON"
+        },
+        "attribute:r4": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r7": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r46": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r64": {
+          "owned": 0,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:e4": {
+          "owned": 0,
+          "syphoned": 32,
+          "rarity": "EPIC"
+        },
+        "attribute:r6": {
+          "owned": 4,
+          "syphoned": 48,
+          "rarity": "RARE"
+        },
+        "attribute:r49": {
+          "owned": 4,
+          "syphoned": 48,
+          "rarity": "RARE"
         }
       }
     }

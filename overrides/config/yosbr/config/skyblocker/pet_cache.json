@@ -7,16 +7,16 @@
       "tier": "LEGENDARY"
     },
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
-      "name": "Scatha",
-      "type": "SCATHA",
+      "name": "Jellyfish",
+      "type": "JELLYFISH",
       "exp": 2.535323E7,
       "tier": "LEGENDARY"
     },
     "": {
-      "name": "Precursor Drone",
-      "type": "PRECURSOR_DRONE",
-      "exp": 5624785.0,
-      "tier": "COMMON"
+      "name": "Rose Dragon",
+      "type": "ROSE_DRAGON",
+      "exp": 2.10255385E8,
+      "tier": "LEGENDARY"
     }
   }
 }

@@ -1,2 +1,16 @@
 {
+  "achievementunlockedrare": { "sounds": [ { "name": "sbo:achievementunlockedrare", "stream": true } ] },
+  "buzzer": { "sounds": [ { "name": "sbo:buzzer", "stream": true } ] },
+  "emergencymeeting": { "sounds": [ { "name": "sbo:emergencymeeting", "stream": true } ] },
+  "exporb": { "sounds": [ { "name": "sbo:exporb", "stream": true } ] },
+  "fart": { "sounds": [ { "name": "sbo:fart", "stream": true } ] },
+  "impostordiscovered": { "sounds": [ { "name": "sbo:impostordiscovered", "stream": true } ] },
+  "mfsound": { "sounds": [ { "name": "sbo:mfsound", "stream": true } ] },
+  "notification": { "sounds": [ { "name": "sbo:notification", "stream": true } ] },
+  "rizz": { "sounds": [ { "name": "sbo:rizz", "stream": true } ] },
+  "yabbadabbadoo": { "sounds": [ { "name": "sbo:yabbadabbadoo", "stream": true } ] },
+  "yahoo": { "sounds": [ { "name": "sbo:yahoo", "stream": true } ] },
+  "yamete": { "sounds": [ { "name": "sbo:yamete", "stream": true } ] },
+  "yippee": { "sounds": [ { "name": "sbo:yippee", "stream": true } ] },
+  "yippee_jazz": { "sounds": [ { "name": "sbo:yippee_jazz", "stream": true } ] }
 }

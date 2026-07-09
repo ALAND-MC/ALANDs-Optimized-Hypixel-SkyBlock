@@ -14,7 +14,9 @@
         // Creates waypoints from chat messages (format: x: 20, y: 60, z: 80)
         "patcherWaypoints": true,
         // Assumes you are muted and instead of running /pc to send mod messages always prefers to send them client-side to yourself only.
-        "assumeMuted": false
+        "assumeMuted": false,
+        // Shows the SBO Achievements button in the pause menu
+        "achievementsButton": false
     },
     "Diana": {
         // Guess the burrow location when using spade ability. Needs Dripping Lava Particles and set /particlequality to Extreme for more accuracy
@@ -34,6 +36,8 @@
         "showTitleWhenFailure": false,
         // Shows a title to guess normally when the burrow chain is complete and there's no more guesses or burrows at least 90 blocks nearby
         "showTitleWhenChainEnd": false,
+        // Shows a display on screen with active chains amount. You can get up to 7 chains running at the same time, rarely 8 although one will finish very fast, going back to 7.
+        "ongoingChainsDisplay": false,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
          * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, MUSEUM
@@ -93,6 +97,8 @@
         "afkTimeout": 60,
         // Shows stats like Mobs since Inquisitor, Inquisitors since Chimera, /sboguis to move the overlay
         "statsTracker": false,
+        // Hides the Loot Share (LS) portion of the Diana stats lines
+        "hideLsStats": false,
         // Resets the Diana session tracker when you restart Minecraft
         "resetSessionOnGameRestart": false,
         // Shows your highest magic find for sticks and chimeras (only after you dropped it once), /sboguis to move the overlay
@@ -239,7 +245,10 @@
         ],
         // Displays HP of mythological mobs near you. /sboguis to move it
         "mythosMobHp": false,
-        // Helps you solve the sphinx riddle by showing you the answer choices in chat and it automatically clicks the correct one for you when you click anywhere while the chat is open.
+        /*
+         * Helps you solve the sphinx riddle by showing you the answer choices in chat and it automatically clicks the correct one for you when you click anywhere while the chat is open.
+         * Theres also the option to us a keybind in the mc keybinds menu but §c⚠ USE AT YOUR OWN RISK ⚠
+         */
         "sphinxSolver": true
     },
     "Party Commands": {
@@ -265,17 +274,17 @@
          * Pick a color for closest guess
          * [Color Format: RGBA]
          */
-        "ClosestGuessColor": -6736948,
+        "ClosestGuessColor": -16711936,
         /*
          * Pick a color for other guesses
          * [Color Format: RGBA]
          */
-        "OtherGuessColor": -16713985,
+        "OtherGuessColor": -16711681,
         /*
          * Pick a color for start burrows
          * [Color Format: RGBA]
          */
-        "StartColor": -16711936,
+        "StartColor": -1,
         /*
          * Pick a color for mob burrows
          * [Color Format: RGBA]
@@ -322,6 +331,8 @@
         "showDistanceCutoff": 50,
         // Shows times dug on the waypoint text for known burrows.
         "showTimesDug": true,
+        // Shows the warp title as a subtitle instead of title, reducing its size on screen. This will also cause it to move down slightly.
+        "warpTitleAsSubtitle": false,
         // Set the sound that plays when an rare mob spawns. (enter filename)
         "rareMobSound": [
             "exporb"
@@ -333,7 +344,7 @@
         "rareMobVolume": 1.0,
         // Set the sound that plays when an Inquisitor Spawn. (enter filename)
         "inqSound": [
-            "exporb"
+            ""
         ],
         /*
          * Set the volume of the Inquisitor spawn sound
@@ -377,7 +388,7 @@
          */
         "cocoonVolume": 1.0,
         // Set the sound that plays when you find a burrow. (enter filename)
-        "burrowSound": [
+        "burrowFoundSound": [
             ""
         ],
         /*
@@ -467,12 +478,7 @@
          * Change the size of the text
          * Range: -2 - 2
          */
-        "scaleText": 0.0,
-        /*
-         * Change the size of the icons
-         * Range: -20 - 20
-         */
-        "scaleIcon": 0.0
+        "scaleText": 0.0
     },
     "QOL": {
         // Displays a pickup log in an overlay like sba. /sboguis to move the overlay

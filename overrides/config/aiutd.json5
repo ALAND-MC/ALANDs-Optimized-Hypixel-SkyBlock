@@ -1,7 +1,7 @@
 {
 	menuAlert: true,
 	chatAlert: true,
-	localVersion: "3.5.0",
+	localVersion: "3.6.0",
 	versionAPI: "https://api.modrinth.com/v2/project/1LW7ibPy/version?include_changelog=false",
 	changelogLink: "https://modrinth.com/modpack/alands-optimized-hypixel-skyblock/changelog",
 	multiVersion: false,
@@ -14,6 +14,5 @@
 	messageColor: "GREEN",
 	linkChangelog: true,
 	changelogColor: "RED",
-	ignoreColor: "GRAY",
-	versionCache: "3.4.3"
+	ignoreColor: "GRAY"
 }

@@ -1186,7 +1186,7 @@
     "name": "Auto Sprint",
     "enabled": true,
     "settings": {
-      "Keybind": "key.keyboard.left.control"
+      "Keybind": "key.keyboard.unknown"
     }
   },
   {

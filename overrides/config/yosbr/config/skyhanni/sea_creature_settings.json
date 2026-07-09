@@ -995,6 +995,18 @@
       "shouldHighlight": true,
       "shouldShareCocoonInChat": true,
       "shouldWarnWhenCocooned": true
+    },
+    "Jumpin\u0027 Jack": {
+      "name": "Jumpin\u0027 Jack",
+      "shouldRenderLootshare": false,
+      "shouldShowHealthOverlay": false,
+      "shouldShareInChat": false,
+      "shouldShowKillTime": false,
+      "shouldSelfNotifyOnCatch": false,
+      "shouldNotifyForNonOwn": false,
+      "shouldHighlight": false,
+      "shouldShareCocoonInChat": false,
+      "shouldWarnWhenCocooned": false
     }
   }
 }

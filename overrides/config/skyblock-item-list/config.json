@@ -3,10 +3,13 @@
   "general": {
     "enabled": true,
     "nonPixelatedItemScale": true,
-    "maxWidth": 1.0
+    "maxWidth": 1.0,
+    "leftClickAction": "OPEN_RECIPE",
+    "rightClickAction": "OPEN_INDEPENDENT_WIKI"
   },
   "mainList": {
     "itemSize": 16,
+    "centeredSearchBar": true,
     "hideItemsWithoutSearch": true,
     "hideVanillaItems": false,
     "groupFamilies": false,

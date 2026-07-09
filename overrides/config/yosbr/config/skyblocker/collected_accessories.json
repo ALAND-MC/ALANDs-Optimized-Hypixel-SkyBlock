@@ -10,12 +10,21 @@
       },
       null
     ],
+    "e8f27baf-6f47-4b4c-bf14-faef322dd8f6": [
+      {
+        "1": [
+          "PERSONAL_DELETOR_4000",
+          "PERSONAL_COMPACTOR_5000"
+        ]
+      },
+      null
+    ],
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": [
       {
         "1": [
           "VAMPIRE_DENTIST_RELIC",
-          "BOOK_OF_PROGRESSION",
           "PULSE_RING",
+          "BOOK_OF_PROGRESSION",
           "BAT_ARTIFACT",
           "KUUDRA_FOLLOWER_RELIC",
           "DRACONIC_ARTIFACT",
@@ -28,8 +37,8 @@
           "TITANIUM_RELIC",
           "CAMPFIRE_TALISMAN_29",
           "REAPER_ORB",
-          "ENDER_RELIC",
           "FRESHLY_BAKED_HEIRLOOM",
+          "ENDER_RELIC",
           "JERRY_TALISMAN_GOLDEN",
           "SOUL_CAMPFIRE_TALISMAN_29",
           "RED_CLAW_ARTIFACT",
@@ -60,14 +69,14 @@
           "SCARF_GRIMOIRE"
         ],
         "3": [
-          "BLOOD_GOD_SIGIL",
+          "CENTURY_ARTIFACT",
           "SEAL_RING",
           "GRAVITY_TALISMAN",
-          "ANITA_ARTIFACT",
-          "MOONGLADE_ARTIFACT",
           "FUTURE_CALORIES",
-          "JUNK_ARTIFACT",
+          "MOONGLADE_ARTIFACT",
           "JAKE_PLUSHIE",
+          "JUNK_ARTIFACT",
+          "ANITA_ARTIFACT",
           "PRESSURE_ARTIFACT",
           "BUCKET_OF_DYE",
           "VILLAGE_TALISMAN",
@@ -78,14 +87,13 @@
           "RUNEBLADE_ARTIFACT",
           "WITCH_ARTIFACT",
           "RESPIRATION_ARTIFACT",
-          "NIGHT_VISION_CHARM",
           "HANDY_BLOOD_CHALICE",
           "FARMING_TALISMAN",
+          "NIGHT_VISION_CHARM",
           "MAGNETIC_TALISMAN",
           "KING_TALISMAN",
           "TEST_BUCKET_PLEASE_IGNORE",
           "WOLF_PAW",
-          "CENTURY_RING",
           "DWARVEN_METAL",
           "LAVA_TALISMAN",
           "TRAPPER_CREST",
@@ -104,6 +112,7 @@
           "FARMER_ORB",
           "DANTE_TALISMAN",
           "SKELETON_TALISMAN",
+          "BLOOD_GOD_SIGIL",
           "TWO_IQ_POINT"
         ],
         "2": [
@@ -126,19 +135,19 @@
           "SPEED_RELIC",
           "ZOMBIE_ARTIFACT",
           "GREAT_SPOOK_ARTIFACT",
-          "GLACIAL_ARTIFACT",
-          "FEATHER_ARTIFACT",
-          "ARTIFACT_POTION_AFFINITY",
           "FISH_AFFINITY_TALISMAN",
+          "FEATHER_ARTIFACT",
           "WOLF_RING",
           "BLOOD_DONOR_ARTIFACT",
+          "ARTIFACT_POTION_AFFINITY",
+          "GLACIAL_ARTIFACT",
           "HASTE_ARTIFACT",
           "BAT_PERSON_ARTIFACT",
           "FRIED_FROZEN_CHICKEN",
           "GLOSSY_MINERAL_TALISMAN",
           "BITS_TALISMAN",
-          "SURVIVOR_CUBE",
           "LARGE_FISH_BOWL",
+          "SURVIVOR_CUBE",
           "VACCINE_ARTIFACT",
           "HOCUS_POCUS_CIPHER",
           "SCAVENGER_ARTIFACT",
@@ -155,10 +164,11 @@
         ],
         "4": [
           "ARCHAEOLOGIST_COMPASS",
-          "NETHERRACK_LOOKING_SUNSHADE",
           "CARNIVAL_MASK_BAG",
-          "ORGAN_DONOR_RING",
           "POCKET_ESPRESSO_MACHINE",
+          "ORGAN_DONOR_RING",
+          "NETHERRACK_LOOKING_SUNSHADE",
+          "SAFETY_BADGE",
           "BIG_BRAIN_TALISMAN"
         ]
       },
@@ -168,8 +178,8 @@
         "CATACOMBS_EXPERT_RING",
         "BUCKET_OF_DYE",
         "ETERNAL_HOOF",
-        "SPIDER_ARTIFACT",
         "BURSTSTOPPER_ARTIFACT",
+        "SPIDER_ARTIFACT",
         "INTIMIDATION_RELIC",
         "EXPERIENCE_ARTIFACT",
         "JUNGLE_AMULET",
@@ -178,9 +188,9 @@
         "FARMING_TALISMAN",
         "PARTY_HAT_CRAB_ANIMATED",
         "WITHER_RELIC",
-        "GLACIAL_ARTIFACT",
-        "RELIC_OF_COINS",
         "ARTIFACT_POTION_AFFINITY",
+        "RELIC_OF_COINS",
+        "GLACIAL_ARTIFACT",
         "HASTE_ARTIFACT",
         "BAT_PERSON_ARTIFACT",
         "FRIED_FROZEN_CHICKEN",
@@ -211,7 +221,6 @@
         "SOUL_CAMPFIRE_TALISMAN_29",
         "SPEED_RELIC",
         "ZOMBIE_ARTIFACT",
-        "CENTURY_RING",
         "POCKET_ESPRESSO_MACHINE",
         "FISH_AFFINITY_TALISMAN",
         "WOLF_PAW",
@@ -221,20 +230,20 @@
         "CARNIVAL_MASK_BAG",
         "MINIATURIZED_TUBULATOR",
         "CANDY_RELIC",
-        "SOULFLOW_SUPERCELL",
         "SKELETON_TALISMAN",
+        "BLOOD_GOD_SIGIL",
         "EMPEROR_ARTIFACT",
         "SEAL_RING",
         "MELODY_HAIR",
         "ODGERS_DIAMOND_TOOTH",
-        "BLOOD_GOD_SIGIL",
+        "SOULFLOW_SUPERCELL",
         "BAT_ARTIFACT",
         "FUTURE_CALORIES",
         "BLAZE_TALISMAN",
         "MOONLIGHT_CRYSTAL",
-        "WEDDING_RING_9",
         "GENERAL_MEDALLION",
         "KUUDRAS_HEART",
+        "WEDDING_RING_9",
         "TITANIUM_RELIC",
         "CAMPFIRE_TALISMAN_29",
         "RESPIRATION_ARTIFACT",
@@ -262,6 +271,7 @@
         "SEAL_OF_THE_FAMILY",
         "FARMER_ORB",
         "PESTHUNTER_RELIC",
+        "CENTURY_ARTIFACT",
         "PULSE_RING",
         "MAGIC_8_BALL",
         "DRACONIC_ARTIFACT",
@@ -300,6 +310,10 @@
         "SUNSHINE_CRYSTAL"
       ]
     ],
+    "4ad0ed9b-8c58-4483-8155-c6b14e6d0bd9": [
+      {},
+      null
+    ],
     "c1df61bf-c2e7-4728-b1f6-fb6b809bb6b6": [
       {
         "1": [
@@ -308,15 +322,6 @@
           "VILLAGE_TALISMAN",
           "PERSONAL_DELETOR_4000",
           "ZOMBIE_TALISMAN",
-          "PERSONAL_COMPACTOR_5000"
-        ]
-      },
-      null
-    ],
-    "e8f27baf-6f47-4b4c-bf14-faef322dd8f6": [
-      {
-        "1": [
-          "PERSONAL_DELETOR_4000",
           "PERSONAL_COMPACTOR_5000"
         ]
       },

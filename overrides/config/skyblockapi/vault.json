@@ -19,59 +19,32 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Ephemeral Gratitude",
-                  "color": "green"
-                }
-              ],
+              "text": "Ephemeral Gratitude",
+              "color": "green",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "Traded in a blink and missed the wink,",
-                    "color": "gray"
-                  }
-                ],
+                "text": "Traded in a blink and missed the wink,",
+                "color": "gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "it's for those who click first and ask",
-                    "color": "gray"
-                  }
-                ],
+                "text": "it's for those who click first and ask",
+                "color": "gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "questions never!",
-                    "color": "gray"
-                  }
-                ],
+                "text": "questions never!",
+                "color": "gray",
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -93,14 +66,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "UNCOMMON",
-                    "color": "green",
-                    "bold": true
-                  }
-                ],
+                "text": "UNCOMMON",
+                "color": "green",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -140,18 +108,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Secret I Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Secret I Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:potion_contents": {
@@ -165,72 +128,33 @@
               ]
             },
             "minecraft:lore": [
+              "",
               {
-                "text": "",
+                "text": "Secret I",
+                "color": "white",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Secret I",
-                    "color": "white"
-                  }
-                ],
-                "italic": false
+                "text": "An enigmatic elixir steeped in",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "An enigmatic elixir steeped in",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "mystery. One sip reveals the unseen,",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "mystery. One sip reveals the unseen,",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "but be wary, for not all secrets wish",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "but be wary, for not all secrets wish",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "to be known.",
+                "color": "gray",
+                "italic": true
               },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "to be known.",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -252,14 +176,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -300,18 +219,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Secret I Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Secret I Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:potion_contents": {
@@ -325,72 +239,33 @@
               ]
             },
             "minecraft:lore": [
+              "",
               {
-                "text": "",
+                "text": "Secret I",
+                "color": "white",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Secret I",
-                    "color": "white"
-                  }
-                ],
-                "italic": false
+                "text": "An enigmatic elixir steeped in",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "An enigmatic elixir steeped in",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "mystery. One sip reveals the unseen,",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "mystery. One sip reveals the unseen,",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "but be wary, for not all secrets wish",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "but be wary, for not all secrets wish",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "to be known.",
+                "color": "gray",
+                "italic": true
               },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "to be known.",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -412,14 +287,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -460,28 +330,19 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Great Spook Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Great Spook Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:lore": [
               {
                 "text": "",
                 "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
                   {
                     "text": "Consuming this potion grants ",
                     "color": "gray"
@@ -501,10 +362,6 @@
                 "text": "",
                 "extra": [
                   {
-                    "text": "",
-                    "color": "dark_purple"
-                  },
-                  {
                     "text": "for ",
                     "color": "gray"
                   },
@@ -519,10 +376,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -544,14 +398,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -591,56 +440,30 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Enchanted Book",
-                  "color": "white"
-                }
-              ],
+              "text": "Enchanted Book",
+              "color": "white",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "Combinable in Anvil",
-                    "color": "dark_gray"
-                  }
-                ],
+                "text": "Combinable in Anvil",
+                "color": "dark_gray",
                 "italic": false
               },
+              "",
               {
-                "text": "",
+                "text": "Great Spook I",
+                "color": "blue",
                 "italic": false
               },
               {
                 "text": "",
                 "extra": [
-                  {
-                    "text": "Great Spook I",
-                    "color": "blue"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
                   {
                     "text": "Grants ",
                     "color": "gray"
@@ -678,10 +501,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -696,19 +516,11 @@
                 ],
                 "italic": false
               },
+              "",
               {
-                "text": "",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -738,49 +550,27 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Boo Stone",
-                  "color": "blue"
-                }
-              ],
+              "text": "Boo Stone",
+              "color": "blue",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Reforge Stone",
-                    "color": "dark_gray"
-                  }
-                ],
+                "text": "Reforge Stone",
+                "color": "dark_gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "Combinable in Anvil",
-                    "color": "dark_gray"
-                  }
-                ],
+                "text": "Combinable in Anvil",
+                "color": "dark_gray",
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -817,10 +607,6 @@
                 "text": "",
                 "extra": [
                   {
-                    "text": "",
-                    "color": "dark_purple"
-                  },
-                  {
                     "text": "armor and equipment",
                     "color": "gray"
                   },
@@ -831,10 +617,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -871,10 +654,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -896,14 +676,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "RARE REFORGE STONE",
-                    "color": "blue",
-                    "bold": true
-                  }
-                ],
+                "text": "RARE REFORGE STONE",
+                "color": "blue",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -945,18 +720,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Poisoned Candy I Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Poisoned Candy I Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:potion_contents": {
@@ -970,53 +740,27 @@
               ]
             },
             "minecraft:lore": [
+              "",
               {
-                "text": "",
+                "text": "Poisoned Candy I",
+                "color": "dark_green",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Poisoned Candy I",
-                    "color": "dark_green"
-                  }
-                ],
+                "text": "Change me!",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "Tutti-Frutti",
+                "color": "dark_gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Change me!",
-                    "color": "gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Tutti-Frutti",
-                    "color": "dark_gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1058,18 +802,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Poisoned Candy I Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Poisoned Candy I Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:potion_contents": {
@@ -1083,53 +822,27 @@
               ]
             },
             "minecraft:lore": [
+              "",
               {
-                "text": "",
+                "text": "Poisoned Candy I",
+                "color": "dark_green",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Poisoned Candy I",
-                    "color": "dark_green"
-                  }
-                ],
+                "text": "Change me!",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "Tutti-Frutti",
+                "color": "dark_gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Change me!",
-                    "color": "gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Tutti-Frutti",
-                    "color": "dark_gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1171,18 +884,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Poisoned Candy I Potion",
-                  "color": "white"
-                }
-              ],
+              "text": "Poisoned Candy I Potion",
+              "color": "white",
               "italic": false
             },
             "minecraft:potion_contents": {
@@ -1196,53 +904,27 @@
               ]
             },
             "minecraft:lore": [
+              "",
               {
-                "text": "",
+                "text": "Poisoned Candy I",
+                "color": "dark_green",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Poisoned Candy I",
-                    "color": "dark_green"
-                  }
-                ],
+                "text": "Change me!",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "Tutti-Frutti",
+                "color": "dark_gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Change me!",
-                    "color": "gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Tutti-Frutti",
-                    "color": "dark_gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "COMMON",
-                    "color": "white",
-                    "bold": true
-                  }
-                ],
+                "text": "COMMON",
+                "color": "white",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1284,35 +966,22 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Kuudra Relic",
-                  "color": "red"
-                }
-              ],
+              "text": "Kuudra Relic",
+              "color": "red",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Quest Item",
-                    "color": "dark_gray"
-                  }
-                ],
+                "text": "Quest Item",
+                "color": "dark_gray",
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -1334,14 +1003,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "SPECIAL",
-                    "color": "red",
-                    "bold": true
-                  }
-                ],
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1383,81 +1047,38 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "Kuudra Teeth Plaque",
-                  "color": "red"
-                }
-              ],
+              "text": "Kuudra Teeth Plaque",
+              "color": "red",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "Once used to poison a great beast.",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "Once used to poison a great beast.",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Its remains show the true mark of a",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "Its remains show the true mark of a",
+                "color": "gray",
+                "italic": true
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "great adventurer.",
-                    "color": "gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
+                "text": "great adventurer.",
+                "color": "gray",
+                "italic": true
               },
+              "",
               {
-                "text": "",
-                "italic": false
+                "text": "This item is in its final form!",
+                "color": "dark_gray",
+                "italic": true
               },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "This item is in its final form!",
-                    "color": "dark_gray",
-                    "italic": true
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -1484,34 +1105,18 @@
                 ],
                 "italic": false
               },
+              "",
               {
-                "text": "",
+                "text": "Edition #345",
+                "color": "dark_gray",
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Edition #345",
-                    "color": "dark_gray"
-                  }
-                ],
+                "text": "April 19th, 2023",
+                "color": "dark_gray",
                 "italic": false
               },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "April 19th, 2023",
-                    "color": "dark_gray"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -1533,14 +1138,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "SPECIAL",
-                    "color": "red",
-                    "bold": true
-                  }
-                ],
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1570,22 +1170,6 @@
             }
           }
         },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
         {
           "id": "minecraft:player_head",
           "count": 1,
@@ -1602,22 +1186,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "",
-                  "color": "red"
-                },
-                {
-                  "text": "Grand Commemorative Mason Jar",
-                  "color": "red"
-                }
-              ],
+              "text": "Grand Commemorative Mason Jar",
+              "color": "red",
               "italic": false
             },
             "minecraft:lore": [
@@ -1638,10 +1213,6 @@
               {
                 "text": "",
                 "extra": [
-                  {
-                    "text": "",
-                    "color": "light_purple"
-                  },
                   {
                     "text": "for reaching the highest ",
                     "color": "gray"
@@ -1667,10 +1238,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -1680,7 +1248,7 @@
                     "bold": true
                   },
                   {
-                    "text": "Soulbound ",
+                    "text": "Co-op Soulbound ",
                     "color": "dark_gray"
                   },
                   {
@@ -1692,14 +1260,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "SPECIAL",
-                    "color": "red",
-                    "bold": true
-                  }
-                ],
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1743,22 +1306,13 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:custom_name": {
-              "text": "",
-              "extra": [
-                {
-                  "text": "",
-                  "color": "red"
-                },
-                {
-                  "text": "Commemorative Mason Jar",
-                  "color": "red"
-                }
-              ],
+              "text": "Commemorative Mason Jar",
+              "color": "red",
               "italic": false
             },
             "minecraft:lore": [
@@ -1794,10 +1348,6 @@
                 "text": "",
                 "extra": [
                   {
-                    "text": "",
-                    "color": "gray"
-                  },
-                  {
                     "text": "Donation Tier ",
                     "color": "aqua"
                   },
@@ -1808,10 +1358,7 @@
                 ],
                 "italic": false
               },
-              {
-                "text": "",
-                "italic": false
-              },
+              "",
               {
                 "text": "",
                 "extra": [
@@ -1821,7 +1368,7 @@
                     "bold": true
                   },
                   {
-                    "text": "Soulbound ",
+                    "text": "Co-op Soulbound ",
                     "color": "dark_gray"
                   },
                   {
@@ -1833,14 +1380,9 @@
                 "italic": false
               },
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "SPECIAL",
-                    "color": "red",
-                    "bold": true
-                  }
-                ],
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
                 "italic": false
               }
             ],
@@ -1867,7 +1409,394 @@
               "type": "HARVEST"
             }
           }
-        }
+        },
+        {
+          "id": "minecraft:cooked_salmon",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Diamond the Fish",
+              "color": "red",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Shines bright like a fish.",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "timestamp": 1754481241200,
+              "id": "DIAMOND_THE_FISH",
+              "shown_to_coral": 1,
+              "uuid": "4f5e5875-e552-4544-b6d8-971038b66bc8"
+            }
+          }
+        },
+        {
+          "id": "minecraft:cooked_cod",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Ribbit the Fish",
+              "color": "red",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "What does the fish say? Probably",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "not ribbit.",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "timestamp": 1781611529698,
+              "id": "RIBBIT_THE_FISH",
+              "shown_to_coral": 1,
+              "uuid": "3b89c9d4-a7f0-40bb-a978-9e814f657835"
+            }
+          }
+        },
+        {
+          "id": "minecraft:cod",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Eon the Fish",
+              "color": "red",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Back in my day, we swam upstream",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "for hours to get to school, and we",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "didn't complain!",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "soulbound": 1,
+              "timestamp": 1783018097157,
+              "id": "EON_THE_FISH",
+              "shown_to_coral": 1,
+              "uuid": "d1e24448-9e8f-4b5f-b432-50c3af91cf8d"
+            }
+          }
+        },
+        {
+          "id": "minecraft:cooked_salmon",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Dust the Fish",
+              "color": "red",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Pretty sure they forgot about me...",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "soulbound": 1,
+              "timestamp": 1783018095983,
+              "id": "DUST_THE_FISH",
+              "shown_to_coral": 1,
+              "uuid": "55ba515f-ed6e-4beb-b439-6092ae3809eb"
+            }
+          }
+        },
+        {
+          "id": "minecraft:salmon",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Herring the Fish",
+              "color": "red",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Sometimes patience is the key to",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "victory. Sometimes it leads to very",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "little and it seems like it's not worth",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "it. And you wonder why you waited so",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "long for something so disappointing.",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "* ",
+                    "color": "dark_gray",
+                    "bold": true
+                  },
+                  {
+                    "text": "Soulbound ",
+                    "color": "dark_gray"
+                  },
+                  {
+                    "text": "*",
+                    "color": "dark_gray",
+                    "bold": true
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "SPECIAL",
+                "color": "red",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "not_a_hint": "f(x,y)=x^3+xy^2+y^2, u=(-125)i+(230)j",
+              "timestamp": 1750368001418,
+              "id": "HERRING_THE_FISH",
+              "shown_to_coral": 1,
+              "uuid": "a527883f-c2c8-497a-af58-c00982b200c7"
+            }
+          }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
       ]
     }
   }

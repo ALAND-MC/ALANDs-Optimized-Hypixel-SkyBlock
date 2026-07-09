@@ -6,7 +6,7 @@
       {
         "keybind": {
           "keys": [
-            "key.keyboard.right"
+            "key.keyboard.left"
           ],
           "settings": {
             "order_sensitive": false,
@@ -16,14 +16,14 @@
           }
         },
         "action": {
-          "command": "Craft",
+          "command": "storage",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Craft",
-        "created_at": 1781955295691
+        "name": "Storage",
+        "created_at": 1781955283890
       },
       {
         "keybind": {
@@ -50,94 +50,6 @@
       {
         "keybind": {
           "keys": [
-            "key.keyboard.keypad.decimal"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp hub",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Hub",
-        "created_at": 1781953703687
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.5"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp mound",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Mound",
-        "created_at": 1781954447492
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.subtract"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp glacite",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Glacite",
-        "created_at": 1781955203728
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.page.down"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "sax",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Sacks",
-        "created_at": 1781955353404
-      },
-      {
-        "keybind": {
-          "keys": [
             "key.keyboard.end"
           ],
           "settings": {
@@ -160,7 +72,7 @@
       {
         "keybind": {
           "keys": [
-            "key.keyboard.keypad.2"
+            "key.keyboard.home"
           ],
           "settings": {
             "order_sensitive": false,
@@ -170,19 +82,19 @@
           }
         },
         "action": {
-          "command": "warp da",
+          "command": "chat a",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Warp DA",
-        "created_at": 1781954115357
+        "name": "All Chat",
+        "created_at": 1781955606644
       },
       {
         "keybind": {
           "keys": [
-            "key.keyboard.keypad.7"
+            "key.keyboard.keypad.1"
           ],
           "settings": {
             "order_sensitive": false,
@@ -192,36 +104,14 @@
           }
         },
         "action": {
-          "command": "warp murk",
+          "command": "warp crypt",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Warp Murk",
-        "created_at": 1781954519646
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.8"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp kuudra",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Kuudra",
-        "created_at": 1781954539839
+        "name": "Warp Crypt",
+        "created_at": 1781953936115
       },
       {
         "keybind": {
@@ -270,7 +160,7 @@
       {
         "keybind": {
           "keys": [
-            "key.keyboard.keypad.add"
+            "key.keyboard.delete"
           ],
           "settings": {
             "order_sensitive": false,
@@ -280,19 +170,19 @@
           }
         },
         "action": {
-          "command": "warp cn",
+          "command": "g toggle",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Warp Nucleus",
-        "created_at": 1781955188278
+        "name": "Toggle Guild Chat",
+        "created_at": 1781955643892
       },
       {
         "keybind": {
           "keys": [
-            "key.keyboard.apostrophe"
+            "key.keyboard.down"
           ],
           "settings": {
             "order_sensitive": false,
@@ -302,19 +192,19 @@
           }
         },
         "action": {
-          "command": "et",
+          "command": "cf",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Enchant",
-        "created_at": 1781958896587
+        "name": "Chocolate Factory",
+        "created_at": 1781955264192
       },
       {
         "keybind": {
           "keys": [
-            "key.keyboard.keypad.4"
+            "key.keyboard.keypad.decimal"
           ],
           "settings": {
             "order_sensitive": false,
@@ -324,14 +214,36 @@
           }
         },
         "action": {
-          "command": "warp bayou",
+          "command": "warp hub",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Warp Bayou",
-        "created_at": 1781954420545
+        "name": "Warp Hub",
+        "created_at": 1781953703687
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.right"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "Craft",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Craft",
+        "created_at": 1781955295691
       },
       {
         "keybind": {
@@ -358,6 +270,72 @@
       {
         "keybind": {
           "keys": [
+            "key.keyboard.keypad.5"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp mound",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Mound",
+        "created_at": 1781954447492
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.8"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp kuudra",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Kuudra",
+        "created_at": 1781954539839
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.apostrophe"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "et",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Enchant",
+        "created_at": 1781958896587
+      },
+      {
+        "keybind": {
+          "keys": [
             "key.keyboard.page.up"
           ],
           "settings": {
@@ -376,116 +354,6 @@
         },
         "name": "Hunting Box",
         "created_at": 1781955339821
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.0"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp home",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Home",
-        "created_at": 1781952862128
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.backslash"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "av",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Anvil",
-        "created_at": 1781958908186
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.delete"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "g toggle",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Toggle Guild Chat",
-        "created_at": 1781955643892
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.multiply"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp jerry",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Jerry",
-        "created_at": 1781955027368
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.minus"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "ah",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Auction House",
-        "created_at": 1781956092356
       },
       {
         "keybind": {
@@ -512,6 +380,271 @@
       {
         "keybind": {
           "keys": [
+            "key.keyboard.keypad.add"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp cn",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Nucleus",
+        "created_at": 1781955188278
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.multiply"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp jerry",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Jerry",
+        "created_at": 1781955027368
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.4"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp bayou",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Bayou",
+        "created_at": 1781954420545
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.6"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp drag",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Dragon",
+        "created_at": 1781954491941
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.0"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp home",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Home",
+        "created_at": 1781952862128
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.left.bracket"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "ld",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Loadouts",
+        "created_at": 1781956116406
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.2"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp da",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp DA",
+        "created_at": 1781954115357
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.backslash"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "av",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Anvil",
+        "created_at": 1781958908186
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.backspace"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "hotf",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "HotF",
+        "created_at": 1781955587877
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.keypad.3"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp dh",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Dungeon Hub",
+        "created_at": 1781954368966
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.minus"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "ah",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Auction House",
+        "created_at": 1781956092356
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.semicolon"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "sendcoords",
+          "allow_client_commands": true,
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Send Coords",
+        "created_at": 1781958410174
+      },
+      {
+        "keybind": {
+          "keys": [
             "key.keyboard.keypad.divide"
           ],
           "settings": {
@@ -530,28 +663,6 @@
         },
         "name": "Warp Garden",
         "created_at": 1781954946488
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.0"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "be",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Bestiary",
-        "created_at": 1781956079590
       },
       {
         "keybind": {
@@ -600,7 +711,7 @@
       {
         "keybind": {
           "keys": [
-            "key.keyboard.insert"
+            "key.keyboard.page.down"
           ],
           "settings": {
             "order_sensitive": false,
@@ -610,19 +721,19 @@
           }
         },
         "action": {
-          "command": "chat g",
+          "command": "sax",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "Guild Chat",
-        "created_at": 1781955630493
+        "name": "Sacks",
+        "created_at": 1781955353404
       },
       {
         "keybind": {
           "keys": [
-            "key.keyboard.backspace"
+            "key.keyboard.keypad.7"
           ],
           "settings": {
             "order_sensitive": false,
@@ -632,58 +743,14 @@
           }
         },
         "action": {
-          "command": "hotf",
+          "command": "warp murk",
           "type": "command"
         },
         "condition": {
           "type": "always"
         },
-        "name": "HotF",
-        "created_at": 1781955587877
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.6"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp drag",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Dragon",
-        "created_at": 1781954491941
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.down"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "cf",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Chocolate Factory",
-        "created_at": 1781955264192
+        "name": "Warp Murk",
+        "created_at": 1781954519646
       },
       {
         "keybind": {
@@ -710,6 +777,72 @@
       {
         "keybind": {
           "keys": [
+            "key.keyboard.keypad.subtract"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "warp glacite",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Warp Glacite",
+        "created_at": 1781955203728
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.0"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "be",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Bestiary",
+        "created_at": 1781956079590
+      },
+      {
+        "keybind": {
+          "keys": [
+            "key.keyboard.insert"
+          ],
+          "settings": {
+            "order_sensitive": false,
+            "allow_extra_keys": true,
+            "priority": 0,
+            "context": "IN_GAME"
+          }
+        },
+        "action": {
+          "command": "chat g",
+          "type": "command"
+        },
+        "condition": {
+          "type": "always"
+        },
+        "name": "Guild Chat",
+        "created_at": 1781955630493
+      },
+      {
+        "keybind": {
+          "keys": [
             "key.keyboard.right.bracket"
           ],
           "settings": {
@@ -728,139 +861,6 @@
         },
         "name": "Pets",
         "created_at": 1781956126229
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.3"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp dh",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Dungeon Hub",
-        "created_at": 1781954368966
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.left.bracket"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "wd",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Wardrobe",
-        "created_at": 1781956116406
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.semicolon"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "sendcoords",
-          "allow_client_commands": true,
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Send Coords",
-        "created_at": 1781958410174
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.keypad.1"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "warp crypt",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Warp Crypt",
-        "created_at": 1781953936115
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.home"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "chat a",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "All Chat",
-        "created_at": 1781955606644
-      },
-      {
-        "keybind": {
-          "keys": [
-            "key.keyboard.left"
-          ],
-          "settings": {
-            "order_sensitive": false,
-            "allow_extra_keys": true,
-            "priority": 0,
-            "context": "IN_GAME"
-          }
-        },
-        "action": {
-          "command": "storage",
-          "type": "command"
-        },
-        "condition": {
-          "type": "always"
-        },
-        "name": "Storage",
-        "created_at": 1781955283890
       }
     ]
   }

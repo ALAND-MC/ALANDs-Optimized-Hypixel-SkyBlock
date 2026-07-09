@@ -15,7 +15,8 @@
         "enableSackNotification": true,
         "sackNotificationItems": [
             "Glossy Gemstone"
-        ]
+        ],
+        "markdownChat": false
     },
     "slayer": {
         "enableBlazeHighlight": true,
@@ -72,6 +73,7 @@
             "startingSound": true,
             "rngSound": false,
             "backgroundMusic": false,
+            "useRegularSounds": false,
             "hueShiftingShader": false,
             // Valid Values: SLOWER, SLOW, NORMAL, FAST, FASTER, INSANE
             "shiftingShaderSpeed": "NORMAL",
@@ -94,7 +96,7 @@
             "showTotalValue": true
         },
         "minionHelper": true,
-        "inventoryButtons": true,
+        "inventoryButtons": false,
         "salvagingHelper": false,
         "salvagingHelperHighlight": true,
         "salvagingHelperBlockSalvage": false
@@ -120,6 +122,7 @@
         "forgeReminderDelay": 1,
         // Valid Values: WARP, CALL_FRED, BOTH
         "forgeReminderAction": "WARP",
+        "forgeReminderBusy": false,
         "hotmStackSize": false,
         "hotmTotalProgress": true,
         "hotmDisplayShiftCost": false,
@@ -153,6 +156,10 @@
         // Range: 50 - 2000
         "sequenceInputDelay": 50
     },
+    "text_replacements": {
+        "enabled": true,
+        "outsideSkyblock": true
+    },
     "gambling": {
         "dungeonsGambling": true,
         "gamblingInCroesus": true,
@@ -167,12 +174,14 @@
     },
     "misc": {
         "ministerInCalendar": false,
-        "previousServer": false,
+        "previousServer": true,
         // Type: Integer
         "previousServerTime": 360,
         "anvilHelper": false,
         "itemStarStacksize": false,
         "revertMasterStars": false,
+        "quickJoinButton": true,
+        "quickJoinIp": "mc.hypixel.net",
         "hideLightning": true,
         "fullTextShadow": false,
         "showHiddenPetCandy": true,
@@ -194,6 +203,8 @@
         "netherFogDarkening": true,
         // Range: 0 - 1
         "netherFogScale": 0.25,
+        "ratHitbox": false,
+        "stereoPantsMute": false,
         // Valid Values: WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
         "itemSearchItemHighlight": "LIME",
         // Valid Values: FILL, GLASS_PANE
@@ -208,7 +219,6 @@
         "transparentArmorSelf": 100,
         // Range: 0 - 100
         "transparentArmorOthers": 100,
-        "ratHitbox": false,
         "mob_icons": {
             "enabled": false,
             // Valid Values: NORMAL, SHORT
@@ -297,34 +307,14 @@
                 "collar_color_other": "DEFAULT",
                 "baby_own": false,
                 "baby_other": false,
-                // Valid Values: RANDOM, WHITE, CREAMY, CHESTNUT, BROWN, BLACK, GRAY, DARK_BROWN
-                "horse_variant_own": "RANDOM",
-                // Valid Values: RANDOM, WHITE, CREAMY, CHESTNUT, BROWN, BLACK, GRAY, DARK_BROWN
-                "horse_variant_other": "RANDOM",
-                // Valid Values: RANDOM, NONE, WHITE, WHITE_FIELD, WHITE_DOTS, BLACK_DOTS
-                "horse_marking_own": "RANDOM",
-                // Valid Values: RANDOM, NONE, WHITE, WHITE_FIELD, WHITE_DOTS, BLACK_DOTS
-                "horse_marking_other": "RANDOM",
-                // Valid Values: RANDOM, LUCY, WILD, GOLD, CYAN, BLUE
-                "axolotl_variant_own": "RANDOM",
-                // Valid Values: RANDOM, LUCY, WILD, GOLD, CYAN, BLUE
-                "axolotl_variant_other": "RANDOM",
-                // Valid Values: RANDOM, KOB, SUNSTREAK, SNOOPER, DASHER, BRINELY, SPOTTY, FLOPPER, STRIPEY, GLITTER, BLOCKFISH, BETTY, CLAYFISH
-                "tropical_pattern_own": "RANDOM",
-                // Valid Values: RANDOM, KOB, SUNSTREAK, SNOOPER, DASHER, BRINELY, SPOTTY, FLOPPER, STRIPEY, GLITTER, BLOCKFISH, BETTY, CLAYFISH
-                "tropical_pattern_other": "RANDOM",
                 // Valid Values: RANDOM, TEMPERATE, WARM, COLD
                 "cow_variant_own": "RANDOM",
                 // Valid Values: RANDOM, TEMPERATE, WARM, COLD
                 "cow_variant_other": "RANDOM",
-                // Valid Values: RANDOM, SMALL, MEDIUM, LARGE
-                "salmon_variant_own": "RANDOM",
-                // Valid Values: RANDOM, SMALL, MEDIUM, LARGE
-                "salmon_variant_other": "RANDOM",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "frog_variant_own": "RANDOM",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "frog_variant_other": "RANDOM",
+                // Valid Values: RANDOM, KOB, SUNSTREAK, SNOOPER, DASHER, BRINELY, SPOTTY, FLOPPER, STRIPEY, GLITTER, BLOCKFISH, BETTY, CLAYFISH
+                "tropical_pattern_own": "RANDOM",
+                // Valid Values: RANDOM, KOB, SUNSTREAK, SNOOPER, DASHER, BRINELY, SPOTTY, FLOPPER, STRIPEY, GLITTER, BLOCKFISH, BETTY, CLAYFISH
+                "tropical_pattern_other": "RANDOM",
                 // Valid Values: RANDOM, CREAMY, WHITE, BROWN, GRAY
                 "llama_variant_own": "RANDOM",
                 // Valid Values: RANDOM, CREAMY, WHITE, BROWN, GRAY
@@ -333,6 +323,14 @@
                 "llama_trader_own": "RANDOM",
                 // Valid Values: RANDOM, ALWAYS, NEVER
                 "llama_trader_other": "RANDOM",
+                // Valid Values: RANDOM, BROWN, WHITE, BLACK, WHITE_SPLOTCHED, GOLD, SALT, EVIL
+                "rabbit_variant_own": "RANDOM",
+                // Valid Values: RANDOM, BROWN, WHITE, BLACK, WHITE_SPLOTCHED, GOLD, SALT, EVIL
+                "rabbit_variant_other": "RANDOM",
+                // Valid Values: DEFAULT, TABBY, BLACK, RED, SIAMESE, BRITISH_SHORTHAIR, CALICO, PERSIAN, RAGDOLL, WHITE, JELLIE, ALL_BLACK
+                "cat_variant_own": "DEFAULT",
+                // Valid Values: DEFAULT, TABBY, BLACK, RED, SIAMESE, BRITISH_SHORTHAIR, CALICO, PERSIAN, RAGDOLL, WHITE, JELLIE, ALL_BLACK
+                "cat_variant_other": "DEFAULT",
                 // Valid Values: RANDOM, PALE, SPOTTED, SNOWY, BLACK, ASHEN, RUSTY, WOODS, CHESTNUT, STRIPED
                 "wolf_variant_own": "RANDOM",
                 // Valid Values: RANDOM, PALE, SPOTTED, SNOWY, BLACK, ASHEN, RUSTY, WOODS, CHESTNUT, STRIPED
@@ -341,6 +339,84 @@
                 "wolf_state_own": "RANDOM",
                 // Valid Values: RANDOM, TAME, WILD, ANGRY
                 "wolf_state_other": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "frog_variant_own": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "frog_variant_other": "RANDOM",
+                // Valid Values: RANDOM, DESERT, JUNGLE, PLAINS, SAVANNA, SNOW, SWAMP, TAIGA
+                "villager_type_own": "RANDOM",
+                // Valid Values: RANDOM, DESERT, JUNGLE, PLAINS, SAVANNA, SNOW, SWAMP, TAIGA
+                "villager_type_other": "RANDOM",
+                // Valid Values: RANDOM, NONE, ARMORER, BUTCHER, CARTOGRAPHER, CLERIC, FARMER, FISHERMAN, FLETCHER, LEATHERWORKER, LIBRARIAN, MASON, NITWIT, SHEPHERD, TOOLSMITH, WEAPONSMITH
+                "villager_profession_own": "RANDOM",
+                // Valid Values: RANDOM, NONE, ARMORER, BUTCHER, CARTOGRAPHER, CLERIC, FARMER, FISHERMAN, FLETCHER, LEATHERWORKER, LIBRARIAN, MASON, NITWIT, SHEPHERD, TOOLSMITH, WEAPONSMITH
+                "villager_profession_other": "RANDOM",
+                "snow_golem_block_own": "minecraft:air",
+                "snow_golem_block_other": "minecraft:air",
+                // Valid Values: RANDOM, RED, SNOW
+                "fox_variant_own": "RANDOM",
+                // Valid Values: RANDOM, RED, SNOW
+                "fox_variant_other": "RANDOM",
+                "fox_eepy_own": false,
+                "fox_eepy_other": false,
+                // Type: Double
+                "fox_sleep_delay_own": 5.0,
+                // Type: Double
+                "fox_sleep_delay_other": 5.0,
+                // Valid Values: RANDOM, NORMAL, LAZY, WORRIED, PLAYFUL, BROWN, WEAK, AGGRESSIVE
+                "panda_gene_own": "RANDOM",
+                // Valid Values: RANDOM, NORMAL, LAZY, WORRIED, PLAYFUL, BROWN, WEAK, AGGRESSIVE
+                "panda_gene_other": "RANDOM",
+                // Valid Values: DEFAULT, NONE, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+                "happy_ghast_harness_own": "DEFAULT",
+                // Valid Values: DEFAULT, NONE, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+                "happy_ghast_harness_other": "DEFAULT",
+                // Valid Values: RANDOM, WHITE, CREAMY, CHESTNUT, BROWN, BLACK, GRAY, DARK_BROWN
+                "horse_variant_own": "RANDOM",
+                // Valid Values: RANDOM, WHITE, CREAMY, CHESTNUT, BROWN, BLACK, GRAY, DARK_BROWN
+                "horse_variant_other": "RANDOM",
+                // Valid Values: RANDOM, NONE, WHITE, WHITE_FIELD, WHITE_DOTS, BLACK_DOTS
+                "horse_marking_own": "RANDOM",
+                // Valid Values: RANDOM, NONE, WHITE, WHITE_FIELD, WHITE_DOTS, BLACK_DOTS
+                "horse_marking_other": "RANDOM",
+                // Valid Values: RANDOM, UNAFFECTED, EXPOSED, WEATHERED, OXIDIZED
+                "copper_state_own": "RANDOM",
+                // Valid Values: RANDOM, UNAFFECTED, EXPOSED, WEATHERED, OXIDIZED
+                "copper_state_other": "RANDOM",
+                "copper_block_own": "minecraft:air",
+                "copper_block_other": "minecraft:air",
+                // Valid Values: RANDOM, RED, BROWN
+                "mooshroom_variant_own": "RANDOM",
+                // Valid Values: RANDOM, RED, BROWN
+                "mooshroom_variant_other": "RANDOM",
+                // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+                "shulker_color_own": "RANDOM",
+                // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
+                "shulker_color_other": "RANDOM",
+                // Valid Values: RANDOM, ALWAYS, NEVER
+                "bogged_sheared_own": "RANDOM",
+                // Valid Values: RANDOM, ALWAYS, NEVER
+                "bogged_sheared_other": "RANDOM",
+                // Valid Values: RANDOM, RED_BLUE, BLUE, GREEN, YELLOW_BLUE, GRAY
+                "parrot_variant_own": "RANDOM",
+                // Valid Values: RANDOM, RED_BLUE, BLUE, GREEN, YELLOW_BLUE, GRAY
+                "parrot_variant_other": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "pig_variant_own": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "pig_variant_other": "RANDOM",
+                // Valid Values: RANDOM, LUCY, WILD, GOLD, CYAN, BLUE
+                "axolotl_variant_own": "RANDOM",
+                // Valid Values: RANDOM, LUCY, WILD, GOLD, CYAN, BLUE
+                "axolotl_variant_other": "RANDOM",
+                // Valid Values: RANDOM, SMALL, MEDIUM, LARGE
+                "salmon_variant_own": "RANDOM",
+                // Valid Values: RANDOM, SMALL, MEDIUM, LARGE
+                "salmon_variant_other": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "chicken_variant_own": "RANDOM",
+                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
+                "chicken_variant_other": "RANDOM",
                 // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
                 "sheep_color_own": "RANDOM",
                 // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
@@ -353,72 +429,6 @@
                 "sheep_sheared_own": "RANDOM",
                 // Valid Values: RANDOM, ALWAYS, NEVER
                 "sheep_sheared_other": "RANDOM",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "pig_variant_own": "RANDOM",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "pig_variant_other": "RANDOM",
-                // Valid Values: RANDOM, RED, BROWN
-                "mooshroom_variant_own": "RANDOM",
-                // Valid Values: RANDOM, RED, BROWN
-                "mooshroom_variant_other": "RANDOM",
-                // Valid Values: RANDOM, RED, SNOW
-                "fox_variant_own": "RANDOM",
-                // Valid Values: RANDOM, RED, SNOW
-                "fox_variant_other": "RANDOM",
-                "fox_eepy_own": false,
-                "fox_eepy_other": false,
-                // Type: Double
-                "fox_sleep_delay_own": 5.0,
-                // Type: Double
-                "fox_sleep_delay_other": 5.0,
-                // Valid Values: RANDOM, RED_BLUE, BLUE, GREEN, YELLOW_BLUE, GRAY
-                "parrot_variant_own": "RANDOM",
-                // Valid Values: RANDOM, RED_BLUE, BLUE, GREEN, YELLOW_BLUE, GRAY
-                "parrot_variant_other": "RANDOM",
-                // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
-                "shulker_color_own": "RANDOM",
-                // Valid Values: RANDOM, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
-                "shulker_color_other": "RANDOM",
-                // Valid Values: RANDOM, NORMAL, LAZY, WORRIED, PLAYFUL, BROWN, WEAK, AGGRESSIVE
-                "panda_gene_own": "RANDOM",
-                // Valid Values: RANDOM, NORMAL, LAZY, WORRIED, PLAYFUL, BROWN, WEAK, AGGRESSIVE
-                "panda_gene_other": "RANDOM",
-                // Valid Values: RANDOM, ALWAYS, NEVER
-                "bogged_sheared_own": "RANDOM",
-                // Valid Values: RANDOM, ALWAYS, NEVER
-                "bogged_sheared_other": "RANDOM",
-                // Valid Values: RANDOM, UNAFFECTED, EXPOSED, WEATHERED, OXIDIZED
-                "copper_state_own": "RANDOM",
-                // Valid Values: RANDOM, UNAFFECTED, EXPOSED, WEATHERED, OXIDIZED
-                "copper_state_other": "RANDOM",
-                "copper_block_own": "minecraft:air",
-                "copper_block_other": "minecraft:air",
-                // Valid Values: DEFAULT, TABBY, BLACK, RED, SIAMESE, BRITISH_SHORTHAIR, CALICO, PERSIAN, RAGDOLL, WHITE, JELLIE, ALL_BLACK
-                "cat_variant_own": "DEFAULT",
-                // Valid Values: DEFAULT, TABBY, BLACK, RED, SIAMESE, BRITISH_SHORTHAIR, CALICO, PERSIAN, RAGDOLL, WHITE, JELLIE, ALL_BLACK
-                "cat_variant_other": "DEFAULT",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "chicken_variant_own": "RANDOM",
-                // Valid Values: RANDOM, TEMPERATE, WARM, COLD
-                "chicken_variant_other": "RANDOM",
-                // Valid Values: DEFAULT, NONE, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
-                "happy_ghast_harness_own": "DEFAULT",
-                // Valid Values: DEFAULT, NONE, WHITE, ORANGE, MAGENTA, LIGHT_BLUE, YELLOW, LIME, PINK, GRAY, LIGHT_GRAY, CYAN, PURPLE, BLUE, BROWN, GREEN, RED, BLACK
-                "happy_ghast_harness_other": "DEFAULT",
-                // Valid Values: RANDOM, BROWN, WHITE, BLACK, WHITE_SPLOTCHED, GOLD, SALT, EVIL
-                "rabbit_variant_own": "RANDOM",
-                // Valid Values: RANDOM, BROWN, WHITE, BLACK, WHITE_SPLOTCHED, GOLD, SALT, EVIL
-                "rabbit_variant_other": "RANDOM",
-                // Valid Values: RANDOM, DESERT, JUNGLE, PLAINS, SAVANNA, SNOW, SWAMP, TAIGA
-                "villager_type_own": "RANDOM",
-                // Valid Values: RANDOM, DESERT, JUNGLE, PLAINS, SAVANNA, SNOW, SWAMP, TAIGA
-                "villager_type_other": "RANDOM",
-                // Valid Values: RANDOM, NONE, ARMORER, BUTCHER, CARTOGRAPHER, CLERIC, FARMER, FISHERMAN, FLETCHER, LEATHERWORKER, LIBRARIAN, MASON, NITWIT, SHEPHERD, TOOLSMITH, WEAPONSMITH
-                "villager_profession_own": "RANDOM",
-                // Valid Values: RANDOM, NONE, ARMORER, BUTCHER, CARTOGRAPHER, CLERIC, FARMER, FISHERMAN, FLETCHER, LEATHERWORKER, LIBRARIAN, MASON, NITWIT, SHEPHERD, TOOLSMITH, WEAPONSMITH
-                "villager_profession_other": "RANDOM",
-                "snow_golem_block_own": "minecraft:air",
-                "snow_golem_block_other": "minecraft:air",
                 // Valid Values: RANDOM, NONE, LOW, MEDIUM, HIGH
                 "iron_golem_state_own": "RANDOM",
                 // Valid Values: RANDOM, NONE, LOW, MEDIUM, HIGH

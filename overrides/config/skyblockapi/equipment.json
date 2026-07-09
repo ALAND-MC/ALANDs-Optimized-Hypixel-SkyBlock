@@ -10,30 +10,24 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
+                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
+                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
-                  "minecraft:trim",
-                  "minecraft:charged_projectiles",
-                  "minecraft:jukebox_playable",
-                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
+                  "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:enchantment_glint_override": true,
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Rooted Blossom Necklace",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Rooted Blossom Necklace",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -77,7 +71,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.5 ",
+                      "text": "+59.75 ",
                       "color": "gold"
                     },
                     {
@@ -87,18 +81,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Green Thumb V",
-                      "color": "blue"
-                    }
-                  ],
+                  "text": "Green Thumb V",
+                  "color": "blue",
                   "italic": false
                 },
                 {
@@ -109,7 +95,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "0.25☘ Farming Fortune ",
+                      "text": "0.25 Farming Fortune ",
                       "color": "gold"
                     },
                     {
@@ -120,23 +106,13 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "unique visitor served.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "unique visitor served.",
+                  "color": "gray",
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Quantum V",
-                      "color": "blue"
-                    }
-                  ],
+                  "text": "Quantum V",
+                  "color": "blue",
                   "italic": false
                 },
                 {
@@ -147,7 +123,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+4♨ Vitality ",
+                      "text": "+4 Vitality ",
                       "color": "dark_red"
                     },
                     {
@@ -160,10 +136,6 @@
                 {
                   "text": "",
                   "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
                     {
                       "text": "+2☯ ",
                       "color": "dark_aqua"
@@ -184,27 +156,14 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "weekends.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "weekends.",
+                  "color": "gray",
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Piece Bonus: Florist",
-                      "color": "gold"
-                    }
-                  ],
+                  "text": "Piece Bonus: Florist",
+                  "color": "gold",
                   "italic": false
                 },
                 {
@@ -233,7 +192,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "☘ Farming Fortune",
+                      "text": " Farming Fortune",
                       "color": "gold"
                     },
                     {
@@ -243,10 +202,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -255,27 +211,19 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+22.5☘",
+                      "text": "+22.5",
                       "color": "gold"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MAXED OUT! NICE!",
-                      "color": "green",
-                      "bold": true
-                    }
-                  ],
+                  "text": "MAXED OUT! NICE!",
+                  "color": "green",
+                  "bold": true,
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -284,16 +232,13 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,118",
+                      "text": "11,131",
                       "color": "red"
                     }
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -323,18 +268,7 @@
                       "bold": true,
                       "obfuscated": true
                     },
-                    "",
-                    {
-                      "text": "",
-                      "extra": [
-                        " "
-                      ],
-                      "bold": false,
-                      "italic": false,
-                      "underlined": false,
-                      "strikethrough": false,
-                      "obfuscated": false
-                    },
+                    " ",
                     {
                       "text": "LEGENDARY NECKLACE ",
                       "color": "gold",
@@ -376,7 +310,8 @@
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_NECKLACE"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           },
           "CLOAK": {
@@ -385,30 +320,24 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
+                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
+                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
-                  "minecraft:trim",
-                  "minecraft:charged_projectiles",
-                  "minecraft:jukebox_playable",
-                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
+                  "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:enchantment_glint_override": true,
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Rooted Blossom Cloak",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Rooted Blossom Cloak",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -438,7 +367,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.5 ",
+                      "text": "+59.75 ",
                       "color": "gold"
                     },
                     {
@@ -448,18 +377,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Green Thumb V",
-                      "color": "blue"
-                    }
-                  ],
+                  "text": "Green Thumb V",
+                  "color": "blue",
                   "italic": false
                 },
                 {
@@ -470,7 +391,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "0.25☘ Farming Fortune ",
+                      "text": "0.25 Farming Fortune ",
                       "color": "gold"
                     },
                     {
@@ -481,27 +402,14 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "unique visitor served.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "unique visitor served.",
+                  "color": "gray",
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Piece Bonus: Florist",
-                      "color": "gold"
-                    }
-                  ],
+                  "text": "Piece Bonus: Florist",
+                  "color": "gold",
                   "italic": false
                 },
                 {
@@ -530,7 +438,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "☘ Farming Fortune",
+                      "text": " Farming Fortune",
                       "color": "gold"
                     },
                     {
@@ -540,10 +448,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -552,27 +457,19 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+22.5☘",
+                      "text": "+22.5",
                       "color": "gold"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MAXED OUT! NICE!",
-                      "color": "green",
-                      "bold": true
-                    }
-                  ],
+                  "text": "MAXED OUT! NICE!",
+                  "color": "green",
+                  "bold": true,
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -581,16 +478,13 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,118",
+                      "text": "11,131",
                       "color": "red"
                     }
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -620,18 +514,7 @@
                       "bold": true,
                       "obfuscated": true
                     },
-                    "",
-                    {
-                      "text": "",
-                      "extra": [
-                        " "
-                      ],
-                      "bold": false,
-                      "italic": false,
-                      "underlined": false,
-                      "strikethrough": false,
-                      "obfuscated": false
-                    },
+                    " ",
                     {
                       "text": "LEGENDARY CLOAK ",
                       "color": "gold",
@@ -672,7 +555,8 @@
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_CLOAK"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           },
           "BELT": {
@@ -681,30 +565,24 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
+                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
+                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
-                  "minecraft:trim",
-                  "minecraft:charged_projectiles",
-                  "minecraft:jukebox_playable",
-                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
+                  "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:enchantment_glint_override": true,
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Rooted Blossom Belt",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Rooted Blossom Belt",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -734,7 +612,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.5 ",
+                      "text": "+59.75 ",
                       "color": "gold"
                     },
                     {
@@ -744,18 +622,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Green Thumb V",
-                      "color": "blue"
-                    }
-                  ],
+                  "text": "Green Thumb V",
+                  "color": "blue",
                   "italic": false
                 },
                 {
@@ -766,7 +636,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "0.25☘ Farming Fortune ",
+                      "text": "0.25 Farming Fortune ",
                       "color": "gold"
                     },
                     {
@@ -777,27 +647,14 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "unique visitor served.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "unique visitor served.",
+                  "color": "gray",
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Piece Bonus: Florist",
-                      "color": "gold"
-                    }
-                  ],
+                  "text": "Piece Bonus: Florist",
+                  "color": "gold",
                   "italic": false
                 },
                 {
@@ -826,7 +683,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "☘ Farming Fortune",
+                      "text": " Farming Fortune",
                       "color": "gold"
                     },
                     {
@@ -836,10 +693,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -848,27 +702,19 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+22.5☘",
+                      "text": "+22.5",
                       "color": "gold"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MAXED OUT! NICE!",
-                      "color": "green",
-                      "bold": true
-                    }
-                  ],
+                  "text": "MAXED OUT! NICE!",
+                  "color": "green",
+                  "bold": true,
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -877,16 +723,13 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,118",
+                      "text": "11,131",
                       "color": "red"
                     }
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -916,18 +759,7 @@
                       "bold": true,
                       "obfuscated": true
                     },
-                    "",
-                    {
-                      "text": "",
-                      "extra": [
-                        " "
-                      ],
-                      "bold": false,
-                      "italic": false,
-                      "underlined": false,
-                      "strikethrough": false,
-                      "obfuscated": false
-                    },
+                    " ",
                     {
                       "text": "LEGENDARY BELT ",
                       "color": "gold",
@@ -968,7 +800,8 @@
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BELT"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           },
           "GLOVES": {
@@ -977,30 +810,24 @@
             "components": {
               "minecraft:tooltip_display": {
                 "hidden_components": [
+                  "minecraft:jukebox_playable",
                   "minecraft:painting/variant",
+                  "minecraft:map_id",
                   "minecraft:fireworks",
                   "minecraft:attribute_modifiers",
-                  "minecraft:trim",
-                  "minecraft:charged_projectiles",
-                  "minecraft:jukebox_playable",
-                  "minecraft:map_id",
                   "minecraft:unbreakable",
                   "minecraft:written_book_content",
                   "minecraft:banner_patterns",
+                  "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:enchantment_glint_override": true,
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Rooted Blossom Bracelet",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Rooted Blossom Bracelet",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -1030,7 +857,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+59.5 ",
+                      "text": "+59.75 ",
                       "color": "gold"
                     },
                     {
@@ -1040,18 +867,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Green Thumb V",
-                      "color": "blue"
-                    }
-                  ],
+                  "text": "Green Thumb V",
+                  "color": "blue",
                   "italic": false
                 },
                 {
@@ -1062,7 +881,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "0.25☘ Farming Fortune ",
+                      "text": "0.25 Farming Fortune ",
                       "color": "gold"
                     },
                     {
@@ -1073,27 +892,14 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "unique visitor served.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "unique visitor served.",
+                  "color": "gray",
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Piece Bonus: Florist",
-                      "color": "gold"
-                    }
-                  ],
+                  "text": "Piece Bonus: Florist",
+                  "color": "gold",
                   "italic": false
                 },
                 {
@@ -1122,7 +928,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "☘ Farming Fortune",
+                      "text": " Farming Fortune",
                       "color": "gold"
                     },
                     {
@@ -1132,10 +938,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1144,27 +947,19 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+22.5☘",
+                      "text": "+22.5",
                       "color": "gold"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MAXED OUT! NICE!",
-                      "color": "green",
-                      "bold": true
-                    }
-                  ],
+                  "text": "MAXED OUT! NICE!",
+                  "color": "green",
+                  "bold": true,
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1173,16 +968,13 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,118",
+                      "text": "11,131",
                       "color": "red"
                     }
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1212,18 +1004,7 @@
                       "bold": true,
                       "obfuscated": true
                     },
-                    "",
-                    {
-                      "text": "",
-                      "extra": [
-                        " "
-                      ],
-                      "bold": false,
-                      "italic": false,
-                      "underlined": false,
-                      "strikethrough": false,
-                      "obfuscated": false
-                    },
+                    " ",
                     {
                       "text": "LEGENDARY BRACELET ",
                       "color": "gold",
@@ -1264,7 +1045,8 @@
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BRACELET"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           }
         },
@@ -1285,22 +1067,13 @@
                   "minecraft:banner_patterns",
                   "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "",
-                    "color": "light_purple"
-                  },
-                  {
-                    "text": "Rift Necklace",
-                    "color": "light_purple"
-                  }
-                ],
+                "text": "Rift Necklace",
+                "color": "light_purple",
                 "italic": false
               },
               "minecraft:lore": [
@@ -1388,18 +1161,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "The most powerful necklace ever",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "The most powerful necklace ever",
+                  "color": "gray",
                   "italic": false
                 },
                 {
@@ -1410,7 +1175,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "Elise CMXI",
+                      "text": "Elise CMXXX",
                       "color": "light_purple"
                     },
                     {
@@ -1420,18 +1185,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Becomes more powerful as you fill",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "Becomes more powerful as you fill",
+                  "color": "gray",
                   "italic": false
                 },
                 {
@@ -1466,10 +1223,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1491,14 +1245,9 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "MYTHIC NECKLACE",
-                      "color": "light_purple",
-                      "bold": true
-                    }
-                  ],
+                  "text": "MYTHIC NECKLACE",
+                  "color": "light_purple",
+                  "bold": true,
                   "italic": false
                 }
               ],
@@ -1521,7 +1270,8 @@
                 "uuid": "4518fb47-1b1c-4c0f-addd-eddfe25f7132",
                 "timestamp": "6/20/23 3:35 PM",
                 "id": "RIFT_NECKLACE_INSIDE"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:mythic"
             }
           },
           "CLOAK": {
@@ -1540,18 +1290,13 @@
                   "minecraft:banner_patterns",
                   "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Enigma Cloak",
-                    "color": "dark_purple"
-                  }
-                ],
+                "text": "Enigma Cloak",
+                "color": "dark_purple",
                 "italic": false
               },
               "minecraft:lore": [
@@ -1574,19 +1319,11 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Dimension.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "Dimension.",
+                  "color": "gray",
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1599,7 +1336,7 @@
                       "color": "green"
                     },
                     {
-                      "text": "20ф Rift Time ",
+                      "text": "20 Rift Time ",
                       "color": "green"
                     },
                     {
@@ -1609,10 +1346,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1640,19 +1374,11 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "more upgrades.",
-                      "color": "gray"
-                    }
-                  ],
+                  "text": "more upgrades.",
+                  "color": "gray",
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1671,19 +1397,11 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "EPIC CLOAK",
-                      "color": "dark_purple",
-                      "bold": true
-                    }
-                  ],
+                  "text": "EPIC CLOAK",
+                  "color": "dark_purple",
+                  "bold": true,
                   "italic": false
                 }
               ],
@@ -1706,7 +1424,8 @@
                 "uuid": "649c386f-cdeb-4b60-956b-f70b1872a32a",
                 "timestamp": "6/20/23 10:52 AM",
                 "id": "ENIGMA_CLOAK"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:epic"
             }
           },
           "BELT": {
@@ -1725,18 +1444,13 @@
                   "minecraft:banner_patterns",
                   "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Golden Belt",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Golden Belt",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -1782,18 +1496,10 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Ability: Gravity Falls ",
-                      "color": "gold"
-                    }
-                  ],
+                  "text": "Ability: Gravity Falls ",
+                  "color": "gold",
                   "italic": false
                 },
                 {
@@ -1804,7 +1510,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "ф Rift Time ",
+                      "text": " Rift Time ",
                       "color": "green"
                     },
                     {
@@ -1817,10 +1523,6 @@
                 {
                   "text": "",
                   "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
                     {
                       "text": "5%",
                       "color": "green"
@@ -1840,10 +1542,7 @@
                   ],
                   "italic": false
                 },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -1866,11 +1565,7 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "ф Rift Time",
+                      "text": " Rift Time",
                       "color": "green"
                     },
                     {
@@ -1880,19 +1575,11 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "LEGENDARY BELT",
-                      "color": "gold",
-                      "bold": true
-                    }
-                  ],
+                  "text": "LEGENDARY BELT",
+                  "color": "gold",
+                  "bold": true,
                   "italic": false
                 }
               ],
@@ -1915,7 +1602,8 @@
                 "uuid": "9dfba63b-5e8c-4231-8cd3-648a24e07929",
                 "timestamp": 1733950491304,
                 "id": "GOLDEN_BELT"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           },
           "GLOVES": {
@@ -1934,18 +1622,13 @@
                   "minecraft:banner_patterns",
                   "minecraft:trim",
                   "minecraft:potion_contents",
-                  "minecraft:block_entity_data",
-                  "minecraft:dyed_color"
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
                 ]
               },
               "minecraft:custom_name": {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Shen's Ringalia",
-                    "color": "gold"
-                  }
-                ],
+                "text": "Shen's Ringalia",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -1963,40 +1646,18 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
-                  "text": "",
-                  "italic": false
+                  "text": "No matter the place or when, anyone",
+                  "color": "gray",
+                  "italic": true
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "No matter the place or when, anyone",
-                      "color": "gray",
-                      "italic": true
-                    }
-                  ],
-                  "italic": false
+                  "text": "marked by Shen will gain control.",
+                  "color": "gray",
+                  "italic": true
                 },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "marked by Shen will gain control.",
-                      "color": "gray",
-                      "italic": true
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "italic": false
-                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -2018,14 +1679,9 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "LEGENDARY BRACELET",
-                      "color": "gold",
-                      "bold": true
-                    }
-                  ],
+                  "text": "LEGENDARY BRACELET",
+                  "color": "gold",
+                  "bold": true,
                   "italic": false
                 }
               ],
@@ -2048,7 +1704,8 @@
                 "uuid": "9de15843-3033-43e6-821e-04e1c90ff896",
                 "timestamp": 1733948168907,
                 "id": "SHENS_RINGALIA"
-              }
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           }
         }

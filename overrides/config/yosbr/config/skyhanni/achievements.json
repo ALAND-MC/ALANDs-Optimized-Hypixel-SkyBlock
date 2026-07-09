@@ -26,8 +26,8 @@
     },
     "Level 100 Skill": {
       "data": {
-        "achieved": true,
-        "progress": 121
+        "achieved": false,
+        "progress": 75
       }
     },
     "400 Pet Score": {
@@ -98,7 +98,7 @@
     },
     "Contrib Achievement": {
       "data": {
-        "achieved": false,
+        "achieved": true,
         "progress": 0
       }
     },
@@ -153,7 +153,7 @@
     "Magic Sigma": {
       "data": {
         "achieved": true,
-        "progress": 2035
+        "progress": 2047
       }
     },
     "Recipe Unlocker": {
@@ -243,7 +243,7 @@
     "100 grand arrows": {
       "data": {
         "achieved": false,
-        "progress": 5589
+        "progress": 6295
       }
     },
     "Mote Collector": {
@@ -254,8 +254,8 @@
     },
     "Social Butterfly": {
       "data": {
-        "achieved": false,
-        "progress": 7
+        "achieved": true,
+        "progress": 12
       }
     },
     "Romeros Hotbar": {
@@ -301,6 +301,30 @@
       }
     },
     "Better Than Dev Achievement": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Contrib Friend": {
+      "data": {
+        "achieved": true,
+        "progress": 0
+      }
+    },
+    "Contrib Stranger": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Contrib Rejected": {
+      "data": {
+        "achieved": false,
+        "progress": 0
+      }
+    },
+    "Copy Error": {
       "data": {
         "achieved": false,
         "progress": 0
