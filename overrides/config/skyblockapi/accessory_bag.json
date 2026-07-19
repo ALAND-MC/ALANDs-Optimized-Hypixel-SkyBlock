@@ -992,7 +992,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+10",
+                      "text": "+5",
                       "color": "red"
                     }
                   ],
@@ -1040,7 +1040,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "(1s cooldown)",
+                      "text": "(20s cooldown)",
                       "color": "dark_gray"
                     }
                   ],
@@ -4974,15 +4974,15 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Heal ",
+                      "text": "Gain ",
                       "color": "gray"
                     },
                     {
-                      "text": "60❤ ",
+                      "text": "+30 Health Regen ",
                       "color": "red"
                     },
                     {
-                      "text": "per second while burning.",
+                      "text": "while burning.",
                       "color": "gray"
                     }
                   ],
@@ -5150,7 +5150,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+60 Defense ",
+                      "text": "+30 Defense ",
                       "color": "green"
                     },
                     {
@@ -8322,7 +8322,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "7,371⸎ Soulflow",
+                      "text": "7,370⸎ Soulflow",
                       "color": "dark_aqua"
                     }
                   ],
@@ -8558,8 +8558,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✦ It is certain.",
-                  "color": "green",
+                  "text": "✧ It is certain.",
+                  "color": "gray",
                   "italic": false
                 },
                 {
@@ -8690,8 +8690,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✧ My sources say no.",
-                  "color": "gray",
+                  "text": "✦ My sources say no.",
+                  "color": "green",
                   "italic": false
                 },
                 {
@@ -8884,7 +8884,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "1,184",
+                      "text": "1,191",
                       "color": "red"
                     }
                   ],
@@ -8954,7 +8954,7 @@
               },
               "minecraft:custom_data": {
                 "soulbound": 1,
-                "runic_kills": 1184,
+                "runic_kills": 1191,
                 "giftbag_claim": 400,
                 "id": "RUNEBOOK",
                 "uuid": "8f66906e-ab8d-4844-a62c-332ea8ba6592"
@@ -12305,11 +12305,19 @@
                       "color": "gray"
                     },
                     {
-                      "text": "5❤ ",
+                      "text": "10❤ ",
                       "color": "red"
                     },
                     {
-                      "text": "when killing a monster.",
+                      "text": "when killing ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": " Undead ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "mobs.",
                       "color": "gray"
                     }
                   ],
@@ -12525,34 +12533,10 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+5",
+                      "text": "+3",
                       "color": "dark_red"
                     }
                   ],
-                  "italic": false
-                },
-                "",
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Grants ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+5 Vitality",
-                      "color": "dark_red"
-                    },
-                    {
-                      "text": ", which increases",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "incoming healing.",
-                  "color": "gray",
                   "italic": false
                 },
                 "",
@@ -12726,7 +12710,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "60,263",
+                      "text": "60,267",
                       "color": "green"
                     }
                   ],
@@ -14926,7 +14910,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "757 pelts",
+                      "text": "767 pelts",
                       "color": "dark_purple"
                     }
                   ],
@@ -14979,7 +14963,7 @@
                 ]
               },
               "minecraft:custom_data": {
-                "pelts_earned": 757,
+                "pelts_earned": 767,
                 "timestamp": 1668418860000,
                 "id": "TRAPPER_CREST",
                 "uuid": "0337dfd9-d3db-4d59-b302-fb44e23e01d2",
@@ -15564,34 +15548,10 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+10",
+                      "text": "+4",
                       "color": "dark_red"
                     }
                   ],
-                  "italic": false
-                },
-                "",
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Grants ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+10 Vitality",
-                      "color": "dark_red"
-                    },
-                    {
-                      "text": ", which",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "increases incoming healing.",
-                  "color": "gray",
                   "italic": false
                 },
                 "",
@@ -20799,7 +20759,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "12,455,649",
+                      "text": "12,457,936",
                       "color": "red"
                     }
                   ],
@@ -20870,7 +20830,7 @@
                 "modifier": "none",
                 "uuid": "eea2b54f-fa06-45cf-ac13-6901666dd18a",
                 "rarity_upgrades": 1,
-                "blood_god_kills": 12455649,
+                "blood_god_kills": 12457936,
                 "id": "BLOOD_GOD_SIGIL",
                 "originTag": "SHOP_PURCHASE"
               },
@@ -23076,9 +23036,136 @@
           "slot": 5
         },
         {
-          "item": {},
+          "item": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Safety Badge",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Defense: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Intelligence: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                "",
+                {
+                  "text": "The holder of this badge is a",
+                  "color": "dark_gray",
+                  "italic": true
+                },
+                {
+                  "text": "certified Safety Advocate!",
+                  "color": "dark_gray",
+                  "italic": true
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "color": "dark_gray",
+                      "bold": true
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "color": "dark_gray",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1800742023,
+                  1011695214,
+                  -1813427652,
+                  -430359352
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzA3NzQ0OTA3NywKICAicHJvZmlsZUlkIiA6ICIyYThjZTE5ZWY3Mjg0NTBjYjY2YmEyNzNhNzVmNjI1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRDROVDNfNjY2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwMTdhZDg4YTc1NDdiMDRmMGQyYzdjODJmMzg0MTkzMjE2OTRmNDZlODMzNWFhYmFiMzY1ZGMxMzA5MmUyMzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                    "signature": "Kx3zNhIK00cXkMoa4MhG8T625kUtDWsP4PXnd5xv2EHzSU2OLg+BbNhHF7i+4ole5RB7E27tZoXy7mqh630qREm7yZoeu6jl6X8e2mSJKUQWoCNHI60iOTZsnZEQBHArc2k5k4Thx5L93uq7bqHyFL9vbmvq92UFGKEJBU+WBy8Ahs7jp7H29Tl7vqvtezZmZxieDsaqI0+pzyPPV6iOFRZXXua72JNQNXewxJVV48jnmnzIe1MTLBhVUYyfE9k1gbVdFgIwPUnXQkcWP6Hwv1JfW+uLgAOZEBKYJVbH29D9A4uRkOAQ9fBSWKRZ/sfF5k03c55eMs3JLh61PAVPInTWMHC0Pqftg6XSfGDiC1gCAtiE5GoC7zYiiW8EPJ/tCMczJqZvZcEpDU+Lara0H0Zr+8rK6pi2gCZ7ZU47mHeQXlP3UX/hD7wX0uXVoytZkPxsed9fDEOuCFK/ggvMrTfY7GlOP5odbU+5eaSewKaaR2LYD2mDG/CCRNV1zqi83zXmzY0tI7eSTIe+Cm6ngG0bUHzXUCQk7HjMvrxe5Ww8xLApjaTb2Nn1/a4HoLiYRNBNtT7/uIYg3y67rLbqTUgKmeQUNhZVYalaPeHcxLjOSLxtqgTBLXUbDXrv/1+3Q7r3MbIEmf4kDFQtmT+7ThCsrNHDYra9TsdSF6kKiJw="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "soulbound": 1,
+                "timestamp": 1783595736392,
+                "id": "SAFETY_BADGE",
+                "uuid": "23780ccb-53c7-4b0f-98c7-f66284f0328f"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
           "page": 4,
           "slot": 6
+        },
+        {
+          "item": {},
+          "page": 4,
+          "slot": 7
         }
       ],
       "Grapes": [

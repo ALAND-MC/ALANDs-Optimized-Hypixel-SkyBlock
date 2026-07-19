@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.73093173E7,
+              "exp": 4.7590000395720184E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -87,13 +87,13 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.237594948359513E8,
+              "exp": 2.2407818130962974E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
               "petInternalName": "AMMONITE;4",
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 1.7886926706034425E8,
+              "exp": 1.7893739384763223E8,
               "uuid": "29105f0d-7343-4896-b39d-a6541a8d656b"
             },
             {
@@ -101,12 +101,6 @@
               "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
               "exp": 2.54937066351915E7,
               "uuid": "bf4a82fb-27e4-4104-b671-a331d711b77a"
-            },
-            {
-              "petInternalName": "BABY_YETI;4",
-              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.6993806845487278E7,
-              "uuid": "2de4d7c8-2b52-4840-b1f0-09ecb0a6702e"
             },
             {
               "petInternalName": "BAL;4",
@@ -213,7 +207,7 @@
             {
               "petInternalName": "JELLYFISH;4",
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.752627138954704E7,
+              "exp": 2.7615444132378303E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -319,7 +313,7 @@
             {
               "petInternalName": "SCATHA;4",
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.286204436065882E8,
+              "exp": 3.292501317513317E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -431,7 +425,7 @@
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 3.023309006571017E8,
+              "exp": 3.050941250360909E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -471,7 +465,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 2.7128621650444555E8,
+              "exp": 2.828167507110684E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -494,8 +488,14 @@
             },
             {
               "petInternalName": "GOLDEN_DRAGON;4",
-              "exp": 5621754.724773832,
+              "exp": 1.727670959041167E7,
               "uuid": "f725eeaa-c149-4f88-9ead-0106b31c0679"
+            },
+            {
+              "petInternalName": "BABY_YETI;5",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 2.6993806845487278E7,
+              "uuid": "2de4d7c8-2b52-4840-b1f0-09ecb0a6702e"
             }
           ],
           "expSharePets": [

@@ -5,7 +5,8 @@
     "nonPixelatedItemScale": true,
     "maxWidth": 1.0,
     "leftClickAction": "OPEN_RECIPE",
-    "rightClickAction": "OPEN_INDEPENDENT_WIKI"
+    "rightClickAction": "OPEN_INDEPENDENT_WIKI",
+    "showOutsideSkyBlock": false
   },
   "mainList": {
     "itemSize": 16,
@@ -32,6 +33,7 @@
   },
   "calculator": {
     "requiresEquals": false,
+    "replaceWithEnter": true,
     "customConstants": {}
   }
 }

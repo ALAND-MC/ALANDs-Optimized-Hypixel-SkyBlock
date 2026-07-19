@@ -12,11 +12,13 @@
         "whiteNonMessage": false,
         "piggyRepairHelper": false,
         "replyBoop": true,
+        "hideBlazetekkMessages": false,
         "enableSackNotification": true,
         "sackNotificationItems": [
             "Glossy Gemstone"
         ],
-        "markdownChat": false
+        "markdownChat": false,
+        "allowUnderscoreItalic": false
     },
     "slayer": {
         "enableBlazeHighlight": true,
@@ -181,6 +183,7 @@
         "itemStarStacksize": false,
         "revertMasterStars": false,
         "quickJoinButton": true,
+        "quickJoinText": "Join Hypixel",
         "quickJoinIp": "mc.hypixel.net",
         "hideLightning": true,
         "fullTextShadow": false,
@@ -276,7 +279,7 @@
             "hideCompleted": true,
             "parentAmount": true,
             "noRootItems": false,
-            // Valid Values: BUNDLE, CHEST, STORAGE, WARDROBE, SACKS, ACCESSORY_BAG, FORGE, INVENTORY, VAULT, MUSEUM, RIFT, DRILL_UPGRADE, ROD_UPGRADE, HUNT_AXE, TOOLKIT, SACK_OF_SACKS, HUNTING_BOX, FARMING_TOOLKIT
+            // Valid Values: BUNDLE, CHEST, STORAGE, WARDROBE, SACKS, ACCESSORY_BAG, FORGE, INVENTORY, VAULT, MUSEUM, RIFT, DRILL_UPGRADE, ROD_UPGRADE, HUNT_AXE, TOOLKIT, SACK_OF_SACKS, HUNTING_BOX, FARMING_TOOLKIT, EQUIPMENT_WARDROBE
             "disallowedSources": [],
             // Valid Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, LEFT_OF_INVENTORY, RIGHT_OF_INVENTORY
             "position": "LEFT_OF_INVENTORY",

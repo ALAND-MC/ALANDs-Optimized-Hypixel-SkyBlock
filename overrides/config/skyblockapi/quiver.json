@@ -5,13 +5,8 @@
       "Pear": {
         "current": "ARROW",
         "arrows": {
-          "ARMORSHRED_ARROW": 50,
-          "EXPLOSIVE_ARROW": 64,
           "ARROW": 2622
         }
-      },
-      "Cucumber": {
-        "arrows": {}
       }
     }
   }

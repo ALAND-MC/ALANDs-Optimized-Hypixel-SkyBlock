@@ -153,7 +153,7 @@
     "Magic Sigma": {
       "data": {
         "achieved": true,
-        "progress": 2047
+        "progress": 2050
       }
     },
     "Recipe Unlocker": {
@@ -170,7 +170,7 @@
     },
     "Double Trouble": {
       "data": {
-        "achieved": false,
+        "achieved": true,
         "progress": 0
       }
     },
@@ -325,6 +325,12 @@
       }
     },
     "Copy Error": {
+      "data": {
+        "achieved": true,
+        "progress": 0
+      }
+    },
+    "Contrib Famous": {
       "data": {
         "achieved": false,
         "progress": 0

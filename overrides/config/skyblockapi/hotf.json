@@ -148,6 +148,41 @@
             "level": 41,
             "unlocked": true,
             "disabled": false
+          },
+          "Beekeeper": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Iron Lungs": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Forest Fisher": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Timber": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Starlyn Supreme": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Two-for-one": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
+          },
+          "Free Trial": {
+            "level": 1,
+            "unlocked": false,
+            "disabled": false
           }
         },
         "tokens": 0,

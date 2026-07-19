@@ -1,0 +1,30 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 1,
+    "enabled": true,
+    "onlyInSkyblock": true,
+    "hideVanillaTooltipData": true,
+    // Valid Values: NORMAL, NO_ICON, NOTHING
+    "nonSkyBlockItemMode": "NO_ICON",
+    "spinny": false,
+    "vanillaBackground": false,
+    "tags": {
+        "rarity": true,
+        "category": true,
+        "breakingPower": true,
+        "furniture": true,
+        "pet": true,
+        "shardId": true,
+        "stars": true
+    },
+    "misc": {
+        "skyBlockColor": true,
+        "itemAbility": false,
+        "petAbilities": true,
+        "petLevel": true,
+        "petFavourite": true,
+        "skillLevelBar": true,
+        "drillFuel": true,
+        "drillComponents": true
+    }
+}

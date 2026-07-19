@@ -210,9 +210,9 @@
         "sunset"
       ],
       "auctionHistory": [
-        "Discrite",
-        "shiny wither l",
-        "shiny wither legg"
+        "Cluck the Fish",
+        "Century Cake of the Seven Seas",
+        "Long-Expired Century Cake"
       ],
       "museumHistory": [
         "Gemstone Gauntlet",
@@ -269,7 +269,7 @@
   "helpers": {
     "enableNewYearCakesHelper": false,
     "enableBitsTooltip": false,
-    "enableWardrobeHelper": true,
+    "enableWardrobeHelper": false,
     "enableDateCalculator": true,
     "enableCopyUnderbidPrice": true,
     "enableAnvilHelper": true,
@@ -1102,6 +1102,9 @@
     "showInvisibleArmorStands": false,
     "webSocketDebug": false,
     "corpseFinderDebug": false,
-    "enableRepoDev": false
+    "enableRepoDev": false,
+    "skyblockResourcePack": {
+      "downloadResourcePack": false
+    }
   }
 }

@@ -148,8 +148,7 @@
         "distance_chunks": 0,
         "start_percent": 100,
         "shape_mode": "VANILLA",
-        "affect_sky_fog": true,
-        "affect_cloud_fog": true
+        "cloud_fog_percent": 100
       },
       "dimension_overrides": {},
       "protected_gameplay": {
@@ -191,6 +190,8 @@
     "tutorial_toast": true,
     "instant_sneak": false,
     "prevent_shaders": false,
+    "panini_projection": false,
+    "panini_projection_strength": 25,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
   }

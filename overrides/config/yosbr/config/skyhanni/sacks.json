@@ -30,12 +30,12 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 1243,
+              "amount": 1436,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CROPIE": {
-              "amount": 1784,
+              "amount": 1772,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -65,7 +65,7 @@
               "status": "CORRECT"
             },
             "NETHER_STALK": {
-              "amount": 62561,
+              "amount": 26054,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -740,47 +740,47 @@
               "status": "CORRECT"
             },
             "DUNG": {
-              "amount": 1207,
+              "amount": 1222,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ETHEREAL_VINE": {
-              "amount": 8600,
+              "amount": 10024,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FERMENTO": {
-              "amount": 671,
+              "amount": 742,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FINE_FLOUR": {
-              "amount": 295,
+              "amount": 294,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HELIANTHUS": {
-              "amount": 77,
+              "amount": 106,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HONEY_JAR": {
-              "amount": 166,
+              "amount": 153,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JELLY": {
-              "amount": 520,
+              "amount": 732,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PLANT_MATTER": {
-              "amount": 1224,
+              "amount": 1443,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CHEESE_FUEL": {
-              "amount": 1806,
+              "amount": 2046,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -910,7 +910,7 @@
               "status": "CORRECT"
             },
             "BIOFUEL": {
-              "amount": 19,
+              "amount": 24,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1120,7 +1120,7 @@
               "status": "CORRECT"
             },
             "BOX_OF_SEEDS": {
-              "amount": 30,
+              "amount": 32,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1130,7 +1130,7 @@
               "status": "CORRECT"
             },
             "COMPACTED_SUNFLOWER": {
-              "amount": 1005,
+              "amount": 1023,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1140,7 +1140,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_BAKED_POTATO": {
-              "amount": 0,
+              "amount": 60,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1150,12 +1150,12 @@
               "status": "CORRECT"
             },
             "ENCHANTED_BROWN_MUSHROOM": {
-              "amount": 22608,
+              "amount": 26065,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HUGE_MUSHROOM_1": {
-              "amount": 260,
+              "amount": 266,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1165,17 +1165,17 @@
               "status": "CORRECT"
             },
             "ENCHANTED_CACTUS_GREEN": {
-              "amount": 19991,
+              "amount": 21970,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_CARROT": {
-              "amount": 86482,
+              "amount": 106353,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_COCOA": {
-              "amount": 92230,
+              "amount": 107510,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1185,12 +1185,12 @@
               "status": "CORRECT"
             },
             "ENCHANTED_GOLDEN_CARROT": {
-              "amount": 110,
+              "amount": 120,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HAY_BALE": {
-              "amount": 453,
+              "amount": 456,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1200,7 +1200,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_MELON": {
-              "amount": 29219,
+              "amount": 36134,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1210,7 +1210,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_NETHER_STALK": {
-              "amount": 49518,
+              "amount": 3068,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1220,22 +1220,22 @@
               "status": "CORRECT"
             },
             "ENCHANTED_POTATO": {
-              "amount": 10320,
+              "amount": 3496,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_PUMPKIN": {
-              "amount": 38166,
+              "amount": 38977,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_RED_MUSHROOM": {
-              "amount": 24360,
+              "amount": 27869,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HUGE_MUSHROOM_2": {
-              "amount": 331,
+              "amount": 334,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1245,7 +1245,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_SUGAR": {
-              "amount": 9204,
+              "amount": 11662,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1255,22 +1255,22 @@
               "status": "CORRECT"
             },
             "ENCHANTED_SUNFLOWER": {
-              "amount": 43160,
+              "amount": 45126,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WHEAT": {
-              "amount": 15533,
+              "amount": 17389,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WILD_ROSE": {
-              "amount": 131747,
+              "amount": 133567,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MUTANT_NETHER_STALK": {
-              "amount": 1398,
+              "amount": 82,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1720,12 +1720,12 @@
               "status": "CORRECT"
             },
             "GLACITE_JEWEL": {
-              "amount": 561,
+              "amount": 572,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOBLIN_EGG": {
-              "amount": 60,
+              "amount": 29,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1735,7 +1735,7 @@
               "status": "CORRECT"
             },
             "SUSPICIOUS_SCRAP": {
-              "amount": 5,
+              "amount": 12,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1755,27 +1755,27 @@
               "status": "CORRECT"
             },
             "GOBLIN_EGG_GREEN": {
-              "amount": 21,
+              "amount": 22,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOBLIN_EGG_RED": {
-              "amount": 15,
+              "amount": 19,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOBLIN_EGG_YELLOW": {
-              "amount": 4,
+              "amount": 6,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "AGGOURDIAN": {
-              "amount": 2019,
+              "amount": 2020,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "BOTROOT": {
-              "amount": 4,
+              "amount": 16,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1790,37 +1790,37 @@
               "status": "CORRECT"
             },
             "CARROT_ZEST": {
-              "amount": 22,
+              "amount": 31,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CORNUCOPIA": {
-              "amount": 1,
+              "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CRYSTALIZED_MOONLIGHT": {
-              "amount": 1,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "DEEPFRIES": {
-              "amount": 5,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "DESIGNER_COFFEE_BEANS": {
               "amount": 7,
               "lastChange": 0,
               "status": "CORRECT"
             },
+            "DESIGNER_COFFEE_BEANS": {
+              "amount": 10,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
             "FEASTFUNGUS": {
-              "amount": 381,
+              "amount": 389,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FLORAL_GELATIN": {
-              "amount": 3,
+              "amount": 12,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1830,7 +1830,7 @@
               "status": "CORRECT"
             },
             "SALTED_SUNFLOWER_SEEDS": {
-              "amount": 0,
+              "amount": 12,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2340,22 +2340,22 @@
               "status": "CORRECT"
             },
             "CONTROL_SWITCH": {
-              "amount": 2,
+              "amount": 5,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CORLEONITE": {
-              "amount": 2,
+              "amount": 5,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ELECTRON_TRANSMITTER": {
-              "amount": 4,
+              "amount": 11,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FTX_3070": {
-              "amount": 4,
+              "amount": 9,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2370,32 +2370,32 @@
               "status": "CORRECT"
             },
             "ROBOTRON_REFLECTOR": {
-              "amount": 3,
+              "amount": 8,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SLUDGE_JUICE": {
-              "amount": 1042,
+              "amount": 1385,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SUPERLITE_MOTOR": {
-              "amount": 1,
+              "amount": 10,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SYNTHETIC_HEART": {
-              "amount": 2,
+              "amount": 10,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "WISHING_COMPASS": {
-              "amount": 59,
+              "amount": 83,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "YOGGIE": {
-              "amount": 70,
+              "amount": 76,
               "lastChange": 0,
               "status": "CORRECT"
             },
