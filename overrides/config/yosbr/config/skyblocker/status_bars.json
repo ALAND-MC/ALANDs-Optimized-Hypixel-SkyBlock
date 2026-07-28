@@ -13,6 +13,23 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
+    "enabled": true
+  },
+  "vitality": {
+    "colors": [
+      "c83228"
+    ],
+    "text_color": "dc3c3c",
+    "anchor": "HOTBAR_RIGHT",
+    "x": 0,
+    "y": 0,
+    "size": 2,
+    "icon_position": "LEFT",
+    "text_position": "BAR_CENTER",
+    "show_max": false,
+    "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   },
   "intelligence": {
@@ -29,6 +46,7 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   },
   "defense": {
@@ -44,6 +62,7 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   },
   "experience": {
@@ -59,6 +78,7 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   },
   "speed": {
@@ -74,6 +94,7 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   },
   "air": {
@@ -89,6 +110,7 @@
     "text_position": "BAR_CENTER",
     "show_max": false,
     "show_overflow": false,
+    "direction": "LEFT_TO_RIGHT",
     "enabled": true
   }
 }

@@ -4,7 +4,7 @@
   "sounds": [
     {
       "soundId": "minecraft:block.note_block.pling",
-      "volume": 0.75
+      "volume": 0.5
     },
     {
       "soundId": "minecraft:block.piston.contract",
@@ -63,8 +63,28 @@
       "volume": 0.25
     },
     {
+      "soundId": "minecraft:entity.ender_dragon.ambient",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:entity.ender_dragon.death",
       "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.flap",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.growl",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.hurt",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.ender_dragon.shoot",
+      "volume": 0.5
     },
     {
       "soundId": "minecraft:entity.enderman.death",
@@ -84,7 +104,7 @@
     },
     {
       "soundId": "minecraft:entity.experience_orb.pickup",
-      "volume": 0.75
+      "volume": 0.5
     },
     {
       "soundId": "minecraft:entity.firework_rocket.blast",
@@ -147,6 +167,10 @@
       "volume": 0.75
     },
     {
+      "soundId": "minecraft:entity.warden.emerge",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:entity.wither.ambient",
       "volume": 0.1
     },
@@ -167,6 +191,10 @@
       "volume": 0.25
     },
     {
+      "soundId": "minecraft:entity.wither.spawn",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:entity.wolf.growl",
       "volume": 0.25
     },
@@ -180,7 +208,7 @@
     },
     {
       "soundId": "minecraft:item.totem.use",
-      "volume": 0.25
+      "volume": 0.2
     },
     {
       "soundId": "minecraft:ui.toast.challenge_complete",

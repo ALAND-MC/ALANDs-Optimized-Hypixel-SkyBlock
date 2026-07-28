@@ -1,6 +1,26 @@
 {
   "rules": [
     {
+      "name": "Hide No Network Booster",
+      "enabled": true,
+      "partialMatch": false,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "No one has a network booster active right now! Try again later.",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Tip All",
+      "enabled": true,
+      "partialMatch": false,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "You already tipped everyone that has boosters active, so there isn\u0027t anybody to be tipped right now!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
       "name": "Hide Pest Error",
       "enabled": true,
       "partialMatch": true,
@@ -57,26 +77,6 @@
       "regex": false,
       "ignoreCase": true,
       "filter": "[Skyblocker] Failed to refresh your Skyblocker API token, some features may not work temporarily!",
-      "locations": [],
-      "hideOriginalMessage": true
-    },
-    {
-      "name": "Hide Bobby Messages",
-      "enabled": true,
-      "partialMatch": true,
-      "regex": false,
-      "ignoreCase": true,
-      "filter": "[Bobby] This world contains data from an old version of Minecraft. Run `/bobby upgrade` to upgrade it.",
-      "locations": [],
-      "hideOriginalMessage": true
-    },
-    {
-      "name": "Hide Ham Radio Spam",
-      "enabled": true,
-      "partialMatch": true,
-      "regex": false,
-      "ignoreCase": false,
-      "filter": "Your radio",
       "locations": [],
       "hideOriginalMessage": true
     },

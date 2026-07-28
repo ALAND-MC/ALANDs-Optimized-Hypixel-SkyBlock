@@ -45,6 +45,7 @@
       "itemBackgroundStyle": "SQUARE",
       "itemBackgroundOpacity": 0.5,
       "itemRarityBackgrounds": true,
+      "itemRarityBackgroundsLegacyColors": false,
       "jacobMedalBackgrounds": true,
       "legacyAttributeBackgrounds": false
     },
@@ -115,6 +116,12 @@
       },
       "slotTextToggled": false
     },
+    "storageOverlay": {
+      "enabled": true,
+      "storagesPerRow": 3,
+      "backpackWidth": 9,
+      "rememberSearch": false
+    },
     "radialMenu": {
       "enabled": false,
       "tooltipsWithoutShift": false,
@@ -158,6 +165,8 @@
       "enableVanillaStyleManaBarBlinking": true,
       "useHungerBarSprites": false,
       "intelligenceDisplay": "ORIGINAL",
+      "showEstimatedTilde": true,
+      "hasSeenVitalityAtLeastOnce": true,
       "barPositions": {
         "healthBarPosition": "LAYER1",
         "manaBarPosition": "LAYER1",
@@ -204,6 +213,7 @@
       "maxSuggestions": 3,
       "historyLength": 3,
       "enableCommands": false,
+      "commandAutocomplete": true,
       "bazaarHistory": [
         "Small Brain IV",
         "experience",
@@ -777,6 +787,7 @@
     "hideShowOff": "PASS",
     "hideToggleSkyMall": "PASS",
     "hideToggleLottery": "PASS",
+    "hideToggleBeekeeper": "PASS",
     "hideMimicKill": "PASS",
     "hideDeath": "PASS",
     "hideMana": true,

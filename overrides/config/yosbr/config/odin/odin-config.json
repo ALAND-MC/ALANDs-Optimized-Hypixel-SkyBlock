@@ -1,5 +1,13 @@
 [
   {
+    "name": "Room Clear",
+    "enabled": false,
+    "settings": {
+      "Mode": "Both",
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Kuudra Info",
     "enabled": true,
     "settings": {
@@ -151,6 +159,26 @@
     }
   },
   {
+    "name": "Loadout Keybinds",
+    "enabled": false,
+    "settings": {
+      "Next Page": "key.keyboard.right",
+      "Previous Page": "key.keyboard.left",
+      "Loadout 1": "key.keyboard.1",
+      "Loadout 2": "key.keyboard.2",
+      "Loadout 3": "key.keyboard.3",
+      "Loadout 4": "key.keyboard.4",
+      "Loadout 5": "key.keyboard.5",
+      "Loadout 6": "key.keyboard.6",
+      "Loadout 7": "key.keyboard.7",
+      "Loadout 8": "key.keyboard.8",
+      "Loadout 9": "key.keyboard.9",
+      "Loadout 10": "key.keyboard.0",
+      "Loadout 11": "key.keyboard.minus",
+      "Loadout 12": "key.keyboard.equal"
+    }
+  },
+  {
     "name": "Arrow Align",
     "enabled": true,
     "settings": {
@@ -221,8 +249,10 @@
     "settings": {
       "Pets": "key.keyboard.unknown",
       "Storage": "key.keyboard.unknown",
-      "Wardrobe": "key.keyboard.unknown",
-      "Equipment": "key.keyboard.unknown",
+      "Armor Wardrobe": "key.keyboard.unknown",
+      "Equip Wardrobe": "key.keyboard.unknown",
+      "Loadouts": "key.keyboard.unknown",
+      "Stats": "key.keyboard.unknown",
       "Dungeon Hub": "key.keyboard.unknown",
       "Potion Bag": "key.keyboard.unknown"
     }
@@ -233,6 +263,7 @@
     "settings": {
       "Send Mimic Message": true,
       "Send Prince Message": true,
+      "Send Bat Message": true,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -286,6 +317,18 @@
     }
   },
   {
+    "name": "Door Highlight",
+    "enabled": false,
+    "settings": {
+      "Announce Key Spawn": true,
+      "Door Highlight Color": "#FF5555CC",
+      "Openable Door Color": "#55FF55CC",
+      "Wither Color": "#000000CC",
+      "Blood Color": "#FF5555CC",
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Gyro Wand",
     "enabled": true,
     "settings": {
@@ -298,10 +341,10 @@
   },
   {
     "name": "Wardrobe Keybinds",
-    "enabled": true,
+    "enabled": false,
     "settings": {
-      "Next Page": "key.keyboard.d",
-      "Previous Page": "key.keyboard.a",
+      "Next Page": "key.keyboard.unknown",
+      "Previous Page": "key.keyboard.unknown",
       "Unequip": "key.keyboard.unknown",
       "Disable Unequip": false,
       "Wardrobe 1": "key.keyboard.1",
@@ -320,35 +363,25 @@
     "enabled": false,
     "settings": {
       "Disable in Boss": true,
-      "Disable Predictions": false,
-      "Background Color": "#000000B2",
       "Background Outline": "#1A1A1AFF",
-      "Background Size": 5.0,
+      "Background Color": "#000000B2",
       "Text Scaling": 0.45000000670552254,
-      "Player Head BG Size": 1.0,
       "Player Names Scaling": 0.7500000111758709,
       "Player Name Color": "#464646FF",
-      "Door Thickness": 9.0,
-      "Unopened Door": "#1E1E1EFF",
-      "Blood Door": "#FF5555FF",
-      "Wither Door": "#000000FF",
-      "Normal Door": "#6B3A11FF",
-      "Puzzle Door": "#750085FF",
-      "Champion Door": "#FEDF00FF",
-      "Trap Door": "#D87F33FF",
-      "Entrance Door": "#148500FF",
-      "Fairy Door": "#F4138BFF",
-      "Rare Door": "#FFCB59FF",
-      "Darken Multiplier": 0.4000000059604645,
-      "Unopened Room": "#1E1E1EFF",
-      "Blood Room": "#FF0000FF",
       "Normal Room": "#6B3A11FF",
       "Puzzle Room": "#750085FF",
-      "Champion Room": "#FEDF00FF",
       "Trap Room": "#D87F33FF",
+      "Blood Room": "#FF0000FF",
       "Entrance Room": "#148500FF",
       "Fairy Room": "#F4138BFF",
-      "Rare Room": "#FFCB59FF",
+      "Champion Room": "#FEDF00FF",
+      "Unknown Room": "#282828FF",
+      "Normal Door": "#6B3A11FF",
+      "Wither Door": "#000000FF",
+      "Blood Door": "#FF5555FF",
+      "Fairy Door": "#F4138BFF",
+      "Unknown Door": "#1C1C1CFF",
+      "Disable Prediction": false,
       "Dungeon Map": {
         "x": 10,
         "y": 10,
@@ -421,16 +454,6 @@
     }
   },
   {
-    "name": "Key Highlight",
-    "enabled": true,
-    "settings": {
-      "Announce Key Spawn": true,
-      "Wither Color": "#00000000",
-      "Blood Color": "#FF555500",
-      "Keybind": "key.keyboard.unknown"
-    }
-  },
-  {
     "name": "Arrows Device",
     "enabled": true,
     "settings": {
@@ -460,7 +483,9 @@
     "enabled": true,
     "settings": {
       "Bind set key": "key.keyboard.b",
-      "Line Color": "#FFAA00FF",
+      "Bind Color": "#55FF55FF",
+      "Line Width": 0.5,
+      "Line Display": "Hover",
       "Profile": "Profile 1",
       "ProfileData": {
         "Profile 1": {}
@@ -788,6 +813,7 @@
         "scale": 2.0,
         "enabled": false
       },
+      "Highlight Color": "#FF5555FF",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -819,7 +845,7 @@
   },
   {
     "name": "Waypoints",
-    "enabled": true,
+    "enabled": false,
     "settings": {
       "From Party Chat": true,
       "From All Chat": true,
@@ -837,6 +863,7 @@
     "enabled": false,
     "settings": {
       "Show Player Names": true,
+      "Show Only Pre-Run": false,
       "Puzzle HUD Position": {
         "x": 10,
         "y": 10,
@@ -873,7 +900,7 @@
   },
   {
     "name": "Render Optimizer",
-    "enabled": true,
+    "enabled": false,
     "settings": {
       "Hide Falling Blocks": false,
       "Hide Lightning": false,
@@ -881,7 +908,7 @@
       "Hide Death Animation": false,
       "Hide Armor Stands": false,
       "Hide Explosion Particles": false,
-      "Hide Archer Passive": true,
+      "Hide Archer Passive": false,
       "Hide Healer Fairy": false,
       "Hide Soul Weaver": false,
       "Hide Tentacle Head": false,
@@ -1069,7 +1096,7 @@
       "Color": "#3296DCFF",
       "Rounded Panel Bottoms": true,
       "API URL": "https://api.odtheking.com/hypixel/",
-      "WebSocket URL": "wss://api.odtheking.com/ws/",
+      "Socket URL": "wss://ws.odtheking.com/",
       "Developer Message": false,
       "Panel Settings": {
         "Dungeon": {
@@ -1184,7 +1211,7 @@
   },
   {
     "name": "Auto Sprint",
-    "enabled": true,
+    "enabled": false,
     "settings": {
       "Keybind": "key.keyboard.unknown"
     }
@@ -1314,9 +1341,9 @@
     "name": "Pet Keybinds",
     "enabled": true,
     "settings": {
-      "Unequip": "key.keyboard.x",
-      "Next Page": "key.keyboard.d",
-      "Previous Page": "key.keyboard.a",
+      "Unequip": "key.keyboard.z",
+      "Next Page": "key.keyboard.unknown",
+      "Previous Page": "key.keyboard.unknown",
       "Disable Unequip": false,
       "Close If Already Equipped": false,
       "Pet 1": "key.keyboard.unknown",
@@ -1328,7 +1355,6 @@
       "Pet 7": "key.keyboard.unknown",
       "Pet 8": "key.keyboard.unknown",
       "Pet 9": "key.keyboard.unknown",
-      "PetKeys List": [],
       "Keybind": "key.keyboard.unknown"
     }
   },

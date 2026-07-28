@@ -1,0 +1,39 @@
+{
+  "uncap_menu_frame_rate": true,
+  "ignore_initial_click": "constant",
+  "idle": {
+    "timeout": 180,
+    "condition": "none"
+  },
+  "battery_tracker": {
+    "enabled": true,
+    "critical_level": 20,
+    "switch_states": true,
+    "display": {
+      "placement": "top_right"
+    }
+  },
+  "states": {
+    "hovered": {
+      "frame_rate_target": -1,
+      "enable_vsync": true
+    },
+    "unfocused": {
+      "frame_rate_target": 0,
+      "volume_multipliers": {
+        "master": 1.0
+      },
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "volume_multipliers": {
+        "master": 1.0
+      },
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "frame_rate_target": 60,
+      "run_garbage_collector": true
+    }
+  }
+}

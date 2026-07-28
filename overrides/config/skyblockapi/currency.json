@@ -3,15 +3,15 @@
   "@skyblockapi:data": {
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
-        "purse": 7.1162191E7,
+        "purse": 5.3359198E7,
         "purseType": "NORMAL",
         "personalBank": 0,
-        "coopBank": 19600000000,
-        "motes": 964308,
+        "coopBank": 23300000000,
+        "motes": 1518808,
         "bits": 1574939,
         "gems": 0,
-        "copper": 231144,
-        "sowdust": 251924039,
+        "copper": 231345,
+        "sowdust": 264713569,
         "northStars": 709,
         "soulflow": 7370,
         "kernels": 400

@@ -11,6 +11,7 @@
   "tick": {
     "animationTickMode": true,
     "particleAsyncMode": "SEQUENTIAL",
+    "gpuOnlyAsyncParticleTick": false,
     "tickWeatherAsync": true,
     "deferredTextureTick": true,
     "failPerSecLimit": 5,
@@ -21,8 +22,7 @@
   "rendering": {
     "particleRenderingMode": "SYNCHRONOUSLY",
     "gpuAcceleration": true,
-    "appendNewParticlesToRenderer": true,
-    "failPerSecLimit": 20
+    "appendNewParticlesToRenderer": true
   },
   "valkyrienSkies": {
     "rainEffect": "STATIONARY",
@@ -31,5 +31,8 @@
   "create": {
     "rainEffect": "ALWAYS",
     "tickRainBlockingRange": 16
+  },
+  "mobile": {
+    "multiDrawWorkaround": true
   }
 }

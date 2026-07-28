@@ -26,8 +26,8 @@
     },
     "Level 100 Skill": {
       "data": {
-        "achieved": false,
-        "progress": 75
+        "achieved": true,
+        "progress": 121
       }
     },
     "400 Pet Score": {

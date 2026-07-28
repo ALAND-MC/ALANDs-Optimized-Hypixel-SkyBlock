@@ -326,16 +326,6 @@
           "bestFriend": false
         },
         {
-          "name": "NotKurdish",
-          "uuid": "2dc24bb3-cdd0-41c9-94af-bd3b49eb44e6",
-          "bestFriend": false
-        },
-        {
-          "name": "Oh_No_MaMi_Hyw",
-          "uuid": "ee394d0e-ff74-44b8-8bce-c379e1b92640",
-          "bestFriend": false
-        },
-        {
           "name": "oHemn",
           "uuid": "b8a44f3d-da31-4c89-8ddf-ba295024ee52",
           "bestFriend": false
@@ -1037,11 +1027,6 @@
           "bestFriend": false
         },
         {
-          "name": "Pika2213NerfGun",
-          "uuid": "3c8ea521-ef71-4eaf-b5c7-32eaa2245a91",
-          "bestFriend": false
-        },
-        {
           "name": "PlaySkyblock",
           "uuid": "b8e7ae63-e7f0-4bc1-86e6-b8819b646141",
           "bestFriend": false
@@ -1430,10 +1415,6 @@
         },
         {
           "name": "Galaxy_Sasson",
-          "bestFriend": false
-        },
-        {
-          "name": "kalfuaing",
           "bestFriend": false
         },
         {
@@ -2144,16 +2125,8 @@
           "bestFriend": false
         },
         {
-          "name": "Rusopkfr",
-          "bestFriend": false
-        },
-        {
           "name": "TransyGirly",
           "uuid": "bff189aa-9114-407b-84d3-e6776f85dff1",
-          "bestFriend": false
-        },
-        {
-          "name": "fear5s",
           "bestFriend": false
         },
         {
@@ -2243,11 +2216,6 @@
         {
           "name": "fan_19",
           "uuid": "bf862de8-2956-45a0-95ef-9a988e4155ac",
-          "bestFriend": false
-        },
-        {
-          "name": "Fatacombs",
-          "uuid": "eb8a5770-0858-4e74-997c-0b91bfa96f24",
           "bestFriend": false
         },
         {
@@ -2455,6 +2423,51 @@
         },
         {
           "name": "Cursefall",
+          "bestFriend": false
+        },
+        {
+          "name": "CatGirlMageVII",
+          "uuid": "ee394d0e-ff74-44b8-8bce-c379e1b92640",
+          "bestFriend": false
+        },
+        {
+          "name": "ChudMaxPika",
+          "uuid": "3c8ea521-ef71-4eaf-b5c7-32eaa2245a91",
+          "bestFriend": false
+        },
+        {
+          "name": "Doperide",
+          "uuid": "eb8a5770-0858-4e74-997c-0b91bfa96f24",
+          "bestFriend": false
+        },
+        {
+          "name": "FemboyKurdish",
+          "uuid": "2dc24bb3-cdd0-41c9-94af-bd3b49eb44e6",
+          "bestFriend": false
+        },
+        {
+          "name": "kalfuaing",
+          "uuid": "2179ea73-cf6c-43b3-a5ce-00fd379820b6",
+          "bestFriend": false
+        },
+        {
+          "name": "Rusopkfr",
+          "uuid": "4644964c-a491-4fd0-9ead-f3aab105117d",
+          "bestFriend": false
+        },
+        {
+          "name": "Xqf",
+          "uuid": "2e997121-7d89-4aa9-beff-00434843fe07",
+          "bestFriend": false
+        },
+        {
+          "name": "eepymrai",
+          "uuid": "33b7e0cf-e9b6-4381-97c5-35aea11349b2",
+          "bestFriend": false
+        },
+        {
+          "name": "fear5s",
+          "uuid": "4ff3aabd-1eea-417a-ba05-371435f54cbc",
           "bestFriend": false
         }
       ]

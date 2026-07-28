@@ -5,8 +5,8 @@
       "Pear": {
         "data": {
           "BLOBFISH": {
-            "SILVER": 7971,
-            "BRONZE": 20976,
+            "SILVER": 7973,
+            "BRONZE": 20980,
             "DIAMOND": 89,
             "GOLD": 691
           },
@@ -18,9 +18,9 @@
           },
           "OBFUSCATED_ONE": {
             "DIAMOND": 11,
-            "GOLD": 108,
-            "SILVER": 1163,
-            "BRONZE": 3357
+            "GOLD": 109,
+            "SILVER": 1172,
+            "BRONZE": 3388
           },
           "STEAMING_HOT_FLOUNDER": {
             "DIAMOND": 1,
@@ -31,8 +31,8 @@
           "GUSHER": {
             "DIAMOND": 58,
             "GOLD": 569,
-            "SILVER": 6711,
-            "BRONZE": 17932
+            "SILVER": 6715,
+            "BRONZE": 17935
           },
           "OBFUSCATED_TWO": {
             "DIAMOND": 2,
@@ -66,9 +66,9 @@
           },
           "LAVA_HORSE": {
             "DIAMOND": 25,
-            "GOLD": 214,
+            "GOLD": 215,
             "SILVER": 2322,
-            "BRONZE": 6184
+            "BRONZE": 6186
           },
           "MANA_RAY": {
             "DIAMOND": 5,
@@ -80,7 +80,7 @@
             "DIAMOND": 1,
             "GOLD": 6,
             "SILVER": 122,
-            "BRONZE": 380
+            "BRONZE": 381
           },
           "SKELETON_FISH": {
             "DIAMOND": 1,

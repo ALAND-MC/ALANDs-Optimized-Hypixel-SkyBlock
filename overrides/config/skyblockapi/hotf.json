@@ -40,8 +40,8 @@
             "disabled": false
           },
           "Daily Wishes": {
-            "level": 93,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Homing Axe": {
@@ -50,13 +50,13 @@
             "disabled": false
           },
           "Galatea's Might": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Essence Fortune": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Maniac Slicer": {
@@ -101,12 +101,12 @@
           },
           "Deep Waters": {
             "level": 1,
-            "unlocked": true,
+            "unlocked": false,
             "disabled": false
           },
           "Efficient Forager": {
-            "level": 71,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Collector": {
@@ -120,33 +120,33 @@
             "disabled": false
           },
           "250 Gifts": {
-            "level": 31,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Foraging Fortune": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Sweep": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Forest Strength": {
             "level": 1,
-            "unlocked": true,
+            "unlocked": false,
             "disabled": false
           },
           "Hunter's Luck": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Forest Speed": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Beekeeper": {

@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.7590000395720184E7,
+              "exp": 4.75902828E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -87,13 +87,13 @@
             {
               "petInternalName": "GOLDEN_DRAGON;4",
               "heldItemInternalName": "MINOS_RELIC",
-              "exp": 2.2407818130962974E8,
+              "exp": 2.241208467E8,
               "uuid": "247b2800-ad4f-4e15-bc56-00f70744e29e"
             },
             {
               "petInternalName": "AMMONITE;4",
               "heldItemInternalName": "BURNT_TEXTS",
-              "exp": 1.7893739384763223E8,
+              "exp": 1.789445868E8,
               "uuid": "29105f0d-7343-4896-b39d-a6541a8d656b"
             },
             {
@@ -207,7 +207,7 @@
             {
               "petInternalName": "JELLYFISH;4",
               "heldItemInternalName": "DWARF_TURTLE_SHELMET",
-              "exp": 2.7615444132378303E7,
+              "exp": 2.76233781E7,
               "uuid": "7b70f630-1b48-4b1d-b59f-55e3c7875ecd"
             },
             {
@@ -313,7 +313,7 @@
             {
               "petInternalName": "SCATHA;4",
               "heldItemInternalName": "PET_ITEM_QUICK_CLAW",
-              "exp": 3.292501317513317E8,
+              "exp": 3.296563893E8,
               "uuid": "4223e26a-a341-43c6-a69e-41350d38ffc2"
             },
             {
@@ -419,19 +419,19 @@
             {
               "petInternalName": "FROG;5",
               "heldItemInternalName": "LOTUS_CROWN",
-              "exp": 2.676449492434098E7,
+              "exp": 2.67644949E7,
               "uuid": "34eaceff-6df4-4f96-958e-74783cb2350c"
             },
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-              "exp": 3.050941250360909E8,
+              "exp": 3.058514811E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
               "petInternalName": "MOSQUITO;4",
               "heldItemInternalName": "GREEN_BANDANA",
-              "exp": 2.624743379054723E7,
+              "exp": 2.62789438E7,
               "uuid": "d2bcd2b4-6ae4-4db7-885e-75f1d4135d2d"
             },
             {
@@ -465,7 +465,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 2.828167507110684E8,
+              "exp": 2.897310873E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -488,7 +488,7 @@
             },
             {
               "petInternalName": "GOLDEN_DRAGON;4",
-              "exp": 1.727670959041167E7,
+              "exp": 6.357460530697045E7,
               "uuid": "f725eeaa-c149-4f88-9ead-0106b31c0679"
             },
             {

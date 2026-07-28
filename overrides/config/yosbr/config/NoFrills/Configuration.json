@@ -1,0 +1,630 @@
+{
+  "fpsElement": {
+    "scale": 1.0
+  },
+  "tpsElement": {
+    "scale": 1.0
+  },
+  "clockElement": {
+    "scale": 1.0
+  },
+  "pingElement": {
+    "scale": 1.0
+  },
+  "dayElement": {
+    "scale": 1.0
+  },
+  "armorElement": {
+    "scale": 1.0
+  },
+  "inventoryElement": {
+    "scale": 1.0
+  },
+  "quiverElement": {
+    "scale": 1.0
+  },
+  "lagMeterElement": {
+    "min": 500,
+    "scale": 1.0
+  },
+  "pickaxeAbilityTimerElement": {
+    "scale": 1.0
+  },
+  "queueCooldownTimerElement": {
+    "scale": 1.0
+  },
+  "slayerHealthElement": {
+    "scale": 1.0
+  },
+  "slayerTimerElement": {
+    "scale": 1.0
+  },
+  "bossHealthElement": {
+    "scale": 1.0
+  },
+  "dungeonMapElement": {
+    "selfMarkerScale": 7.0,
+    "playerMarkerScale": 1.5,
+    "playerNameScale": 0.8,
+    "scale": 1.0
+  },
+  "dungeonScoreElement": {
+    "scale": 1.0
+  },
+  "spiritMaskTimerElement": {
+    "scale": 1.0
+  },
+  "phoenixPetTimerElement": {
+    "scale": 1.0
+  },
+  "bonzoMaskTimerElement": {
+    "scale": 1.0
+  },
+  "spiritBearTimerElement": {
+    "scale": 1.0
+  },
+  "terracottaGyroTimerElement": {
+    "scale": 1.0
+  },
+  "padTimerElement": {
+    "scale": 1.0
+  },
+  "terminalStartTimerElement": {
+    "scale": 1.0
+  },
+  "goldorTickTimerElement": {
+    "scale": 1.0
+  },
+  "powerElement": {
+    "scale": 1.0
+  },
+  "freshToolsTimerElement": {
+    "scale": 1.0
+  },
+  "seaCreaturesElement": {
+    "scale": 1.0
+  },
+  "bobberElement": {
+    "scale": 1.0
+  },
+  "fishingBagElement": {
+    "scale": 1.0
+  },
+  "beaconPowerElement": {
+    "scale": 1.0
+  },
+  "shardTrackerElement": {
+    "scale": 1.0
+  },
+  "skillTrackerElement": {
+    "scale": 1.0
+  },
+  "autoSprint": {
+    "enabled": true,
+    "waterCheck": true
+  },
+  "slotBinding": {
+    "lineWidth": 2.0,
+    "enabled": false
+  },
+  "priceTooltips": {
+    "burgers": 0,
+    "enabled": true,
+    "auction": true,
+    "bazaar": true,
+    "npc": false,
+    "mote": true
+  },
+  "wardrobeKeybinds": {
+    "enabled": false
+  },
+  "chatWaypoints": {
+    "partyDuration": 120,
+    "allDuration": 60,
+    "enabled": true,
+    "partyEnabled": true,
+    "partyClearOnArrive": true,
+    "allEnabled": true,
+    "allClearOnArrive": true
+  },
+  "etherwarpOverlay": {
+    "sound": "minecraft:block.note_block.pling",
+    "volume": 1.0,
+    "pitch": 1.0,
+    "enabled": false
+  },
+  "fullbright": {
+    "enabled": true,
+    "mode": "Gamma"
+  },
+  "noRender": {
+    "enabled": true,
+    "fog": false,
+    "powderCoating": true,
+    "bonePlating": true
+  },
+  "partyCommands": {
+    "prefixes": "! ?",
+    "gracePeriod": 10,
+    "enabled": false
+  },
+  "viewmodel": {
+    "speed": 7,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "offsetZ": 0.0,
+    "scaleX": 0.65,
+    "scaleY": 0.65,
+    "scaleZ": 0.65,
+    "rotX": 0.0,
+    "rotY": 0.0,
+    "rotZ": 0.0,
+    "swingX": 1.0,
+    "swingY": 1.0,
+    "swingZ": 1.0,
+    "enabled": true,
+    "noHaste": true,
+    "noEquipAnim": true,
+    "noBowSwing": true,
+    "applyToHand": false
+  },
+  "customKeybinds": {
+    "enabled": false
+  },
+  "chatRules": {
+    "enabled": true,
+    "data": {
+      "rules": [
+        {
+          "name": "Hide Bobby Message",
+          "match": "[Bobby] This world contains data from an old version of Minecraft. Run `/bobby upgrade` to upgrade it.",
+          "enabled": true,
+          "caseSensitive": false,
+          "matchType": "Equals",
+          "cancel": true,
+          "classFilter": "",
+          "islandFilter": "",
+          "title": "",
+          "titleFadeIn": 0,
+          "titleStay": 30,
+          "titleFadeOut": 10,
+          "customTitle": "",
+          "customTitleStay": 40,
+          "sound": "",
+          "soundVolume": 1.0,
+          "soundPitch": 1.0
+        }
+      ]
+    }
+  },
+  "chatTweaks": {
+    "copyMsgLength": 50,
+    "lines": 1000,
+    "enabled": false
+  },
+  "itemProtection": {
+    "protectValueMin": 5000000.0,
+    "enabled": true,
+    "uuidKey": 76,
+    "protectUUID": true,
+    "data": {
+      "uuids": []
+    },
+    "hideTooltip": false,
+    "protectRarityUpgraded": true,
+    "protectStarred": true,
+    "protectValue": true
+  },
+  "infoTooltips": {
+    "enabled": false,
+    "skyblockId": false
+  },
+  "skillTracker": {
+    "enabled": false
+  },
+  "commandShortcuts": {
+    "enabled": false
+  },
+  "loadoutKeybinds": {
+    "enabled": false
+  },
+  "noLoadingScreen": {
+    "enabled": true
+  },
+  "middleClickOverride": {
+    "enabled": true
+  },
+  "noFrontPerspective": {
+    "enabled": false
+  },
+  "itemCountFix": {
+    "enabled": false
+  },
+  "middleClickFix": {
+    "enabled": true
+  },
+  "noPearlCooldown": {
+    "enabled": false
+  },
+  "ridingCameraFix": {
+    "enabled": true
+  },
+  "animationFix": {
+    "enabled": true
+  },
+  "doubleUseFix": {
+    "enabled": true
+  },
+  "disconnectFix": {
+    "enabled": true
+  },
+  "noConfirmScreen": {
+    "enabled": true
+  },
+  "noCursorReset": {
+    "clearTicks": 200,
+    "enabled": false
+  },
+  "instantSneak": {
+    "enabled": false
+  },
+  "eyeHeightFix": {
+    "enabled": false
+  },
+  "noGhostPlace": {
+    "enabled": true
+  },
+  "legacyTextures": {
+    "enabled": false
+  },
+  "tooltipScale": {
+    "scale": 1.0,
+    "enabled": false
+  },
+  "recipeLookup": {
+    "enabled": false
+  },
+  "updateChecker": {
+    "enabled": false
+  },
+  "hotbarSwap": {
+    "override": 8,
+    "enabled": false
+  },
+  "autoRequeue": {
+    "delay": 100,
+    "enabled": false
+  },
+  "partyFinder": {
+    "enabled": false
+  },
+  "commandTooltip": {
+    "enabled": false
+  },
+  "autoSave": {
+    "enabled": false
+  },
+  "unfocusedTweaks": {
+    "fpsLimit": 0,
+    "enabled": false
+  },
+  "guiKeybinds": {
+    "enabled": true,
+    "next": 68,
+    "previous": 65,
+    "up": 87,
+    "down": 83,
+    "back": 88
+  },
+  "forceNametag": {
+    "enabled": false
+  },
+  "hotbarScrollLock": {
+    "enabled": false
+  },
+  "autoTip": {
+    "enabled": true
+  },
+  "itemScale": {
+    "scale": 1.5,
+    "enabled": true
+  },
+  "noDamageSplash": {
+    "enabled": false
+  },
+  "blockList": {
+    "enabled": false
+  },
+  "streamerMode": {
+    "baseName": "nostrils-{}{}{}{}",
+    "enabled": false
+  },
+  "experimentSolver": {
+    "enabled": false
+  },
+  "calendarDate": {
+    "enabled": false
+  },
+  "spookyChests": {
+    "enabled": true,
+    "color": -18176,
+    "tracer": true
+  },
+  "dianaSolver": {
+    "enabled": false
+  },
+  "hoppitySolver": {
+    "enabled": false
+  },
+  "beaconTuningSolver": {
+    "enabled": false
+  },
+  "anvilHelper": {
+    "enabled": false
+  },
+  "activePetHighlight": {
+    "enabled": false
+  },
+  "muteDrake": {
+    "enabled": false
+  },
+  "rareGlow": {
+    "enabled": false
+  },
+  "rareAnnounce": {
+    "msg": "/pc {spawnmsg}",
+    "enabled": false
+  },
+  "radarSolver": {
+    "enabled": false
+  },
+  "invisibugHighlight": {
+    "enabled": false
+  },
+  "cinderbatHighlight": {
+    "enabled": false
+  },
+  "fusionKeybinds": {
+    "enabled": false
+  },
+  "lassoAlert": {
+    "enabled": true
+  },
+  "instantFog": {
+    "enabled": false
+  },
+  "shardTracker": {
+    "enabled": false
+  },
+  "huntaxeLock": {
+    "enabled": false
+  },
+  "deviceSolvers": {
+    "enabled": false
+  },
+  "starredMobHighlight": {
+    "enabled": false,
+    "style": "Outline",
+    "color": -16711681
+  },
+  "minibossHighlight": {
+    "enabled": false
+  },
+  "witherKeyHighlight": {
+    "enabled": false
+  },
+  "spiritBowHighlight": {
+    "enabled": false
+  },
+  "leapOverlay": {
+    "message": "/pc Leaped to {name}!",
+    "scale": 3.0,
+    "enabled": false
+  },
+  "terminalSolvers": {
+    "enabled": false
+  },
+  "terracottaTimer": {
+    "scale": 0.4,
+    "enabled": false
+  },
+  "witherDragons": {
+    "power": 0.0,
+    "powerEasy": 0.0,
+    "enabled": false
+  },
+  "secretBatHighlight": {
+    "enabled": false
+  },
+  "lividSolver": {
+    "enabled": false
+  },
+  "princeMessage": {
+    "msg": "/pc Prince Killed!",
+    "enabled": false
+  },
+  "mimicMessage": {
+    "msg": "/pc Mimic Killed!",
+    "enabled": false
+  },
+  "secretChime": {
+    "itemsSound": "minecraft:entity.blaze.hurt",
+    "itemsVolume": 2.0,
+    "itemsPitch": 2.0,
+    "chestSound": "minecraft:entity.blaze.hurt",
+    "chestVolume": 2.0,
+    "chestPitch": 2.0,
+    "essenceSound": "minecraft:entity.blaze.hurt",
+    "essenceVolume": 2.0,
+    "essencePitch": 2.0,
+    "batSound": "minecraft:entity.blaze.hurt",
+    "batVolume": 2.0,
+    "batPitch": 2.0,
+    "leverSound": "minecraft:entity.blaze.hurt",
+    "leverVolume": 2.0,
+    "leverPitch": 2.0,
+    "enabled": false
+  },
+  "melodyMessage": {
+    "msg": "/pc Melody Terminal start!",
+    "progressMsg": "/pc Melody {percent}",
+    "enabled": false
+  },
+  "quickClose": {
+    "enabled": true
+  },
+  "dungeonChestValue": {
+    "enabled": false
+  },
+  "relicHighlight": {
+    "enabled": false
+  },
+  "classNametags": {
+    "scale": 0.5,
+    "enabled": false
+  },
+  "scoreCalculator": {
+    "msg270": "/pc 270 Score",
+    "title270": "\u0026c\u0026l270",
+    "msg300": "/pc 300 Score",
+    "title300": "\u0026c\u0026l300",
+    "enabled": false
+  },
+  "platformHighlight": {
+    "enabled": false
+  },
+  "croesusSolver": {
+    "enabled": false
+  },
+  "dupeClassAlert": {
+    "enabled": false
+  },
+  "drainMessage": {
+    "message": "/pc Used {mana} mana on {players} players!",
+    "enabled": false
+  },
+  "freshTimer": {
+    "message": "/pc FRESH!",
+    "enabled": false
+  },
+  "kuudraHitbox": {
+    "enabled": false
+  },
+  "buildPileHighlight": {
+    "enabled": false
+  },
+  "supplyHighlight": {
+    "enabled": false
+  },
+  "dropOffHighlight": {
+    "enabled": false
+  },
+  "preMessage": {
+    "enabled": false
+  },
+  "shopCleaner": {
+    "enabled": false
+  },
+  "kuudraChestValue": {
+    "petBonus": 0,
+    "enabled": false
+  },
+  "cratePriority": {
+    "enabled": false
+  },
+  "bossHighlight": {
+    "enabled": false
+  },
+  "pillarAlert": {
+    "enabled": false
+  },
+  "noAttunementSpam": {
+    "enabled": false
+  },
+  "killTimer": {
+    "enabled": false
+  },
+  "chaliceHighlight": {
+    "enabled": false
+  },
+  "muteVampire": {
+    "enabled": false
+  },
+  "eggHitsDisplay": {
+    "scale": 0.1,
+    "enabled": false
+  },
+  "beaconTracer": {
+    "enabled": false
+  },
+  "muteEnderman": {
+    "enabled": false
+  },
+  "cocoonAlert": {
+    "enabled": false
+  },
+  "spawnAlert": {
+    "enabled": false
+  },
+  "slayerMinibossHighlight": {
+    "enabled": false
+  },
+  "slayerMinibossAlert": {
+    "enabled": false
+  },
+  "abilityAlert": {
+    "override": 0,
+    "enabled": true
+  },
+  "corpseHighlight": {
+    "enabled": false
+  },
+  "ghostVision": {
+    "enabled": false
+  },
+  "scathaMining": {
+    "enabled": false,
+    "alert": false,
+    "cooldown": false
+  },
+  "endNodeHighlight": {
+    "enabled": false
+  },
+  "gemstoneDesyncFix": {
+    "enabled": true
+  },
+  "breakResetFix": {
+    "enabled": true
+  },
+  "shaftAnnounce": {
+    "msg": "/pc !ptme Entered Mineshaft: {id}. Corpses: {corpses}.",
+    "enabled": false
+  },
+  "commissionHighlight": {
+    "enabled": false
+  },
+  "mouseLock": {
+    "enabled": false
+  },
+  "shroomHighlight": {
+    "enabled": false
+  },
+  "plotBorders": {
+    "enabled": false
+  },
+  "vacuumSolver": {
+    "enabled": false
+  },
+  "wateringHelper": {
+    "enabled": false
+  },
+  "equipmentHighlight": {
+    "enabled": false
+  },
+  "phantomleafSolver": {
+    "enabled": false
+  },
+  "muteComposter": {
+    "enabled": false
+  }
+}
