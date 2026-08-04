@@ -3115,11 +3115,6 @@
             "lastUpdated": 1784795230694
           },
           {
-            "id": "CANE_KNOT",
-            "amount": 0,
-            "lastUpdated": 1784831555293
-          },
-          {
             "id": "ICE_HUNK",
             "amount": 996,
             "lastUpdated": 1784918526829
@@ -3135,109 +3130,114 @@
             "lastUpdated": 1784918526831
           },
           {
-            "id": "BIOFUEL",
-            "amount": 27,
-            "lastUpdated": 1784979636722
-          },
-          {
-            "id": "MELON_JUICE",
-            "amount": 1,
-            "lastUpdated": 1785098350548
-          },
-          {
-            "id": "DESIGNER_COFFEE_BEANS",
-            "amount": 2,
-            "lastUpdated": 1785098350547
-          },
-          {
-            "id": "CARROT_ZEST",
-            "amount": 1,
-            "lastUpdated": 1785098350546
-          },
-          {
-            "id": "AGGOURDIAN",
-            "amount": 7,
-            "lastUpdated": 1785098350546
-          },
-          {
-            "id": "CORNUCOPIA",
-            "amount": 1212,
-            "lastUpdated": 1785098350547
-          },
-          {
-            "id": "FEASTFUNGUS",
-            "amount": 7281,
-            "lastUpdated": 1785098350547
-          },
-          {
             "id": "SUGAR_CANE",
             "amount": 83993,
             "lastUpdated": 1785149676174
           },
           {
-            "id": "CRYSTALIZED_MOONLIGHT",
+            "id": "DESIGNER_COFFEE_BEANS",
             "amount": 3,
-            "lastUpdated": 1785149973468
-          },
-          {
-            "id": "SALTED_SUNFLOWER_SEEDS",
-            "amount": 1,
-            "lastUpdated": 1785149973470
-          },
-          {
-            "id": "DUNG",
-            "amount": 1345,
-            "lastUpdated": 1785149973468
-          },
-          {
-            "id": "PLANT_MATTER",
-            "amount": 1518,
-            "lastUpdated": 1785149973470
-          },
-          {
-            "id": "CHEESE_FUEL",
-            "amount": 2058,
-            "lastUpdated": 1785149973470
-          },
-          {
-            "id": "FERMENTO",
-            "amount": 800,
-            "lastUpdated": 1785149973469
-          },
-          {
-            "id": "ETHEREAL_VINE",
-            "amount": 11127,
-            "lastUpdated": 1785149973468
-          },
-          {
-            "id": "HELIANTHUS",
-            "amount": 3,
-            "lastUpdated": 1785149973469
-          },
-          {
-            "id": "JELLY",
-            "amount": 6,
-            "lastUpdated": 1785149973469
-          },
-          {
-            "id": "HONEY_JAR",
-            "amount": 820,
-            "lastUpdated": 1785149975219
+            "lastUpdated": 1785578799913
           },
           {
             "id": "MOONFLOWER",
-            "amount": 155232,
-            "lastUpdated": 1785225527444
+            "amount": 66390,
+            "lastUpdated": 1785578832859
+          },
+          {
+            "id": "BIOFUEL",
+            "amount": 29,
+            "lastUpdated": 1785746189720
+          },
+          {
+            "id": "HONEY_JAR",
+            "amount": 708,
+            "lastUpdated": 1785746189723
+          },
+          {
+            "id": "DUNG",
+            "amount": 1420,
+            "lastUpdated": 1785746189722
+          },
+          {
+            "id": "PLANT_MATTER",
+            "amount": 187,
+            "lastUpdated": 1785746189723
+          },
+          {
+            "id": "JELLY",
+            "amount": 200,
+            "lastUpdated": 1785746189723
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "amount": 2127,
+            "lastUpdated": 1785746189723
+          },
+          {
+            "id": "FERMENTO",
+            "amount": 844,
+            "lastUpdated": 1785746189723
+          },
+          {
+            "id": "ETHEREAL_VINE",
+            "amount": 11956,
+            "lastUpdated": 1785746189722
+          },
+          {
+            "id": "FEASTFUNGUS",
+            "amount": 2865,
+            "lastUpdated": 1785746193022
+          },
+          {
+            "id": "CORNUCOPIA",
+            "amount": 0,
+            "lastUpdated": 1785746203671
+          },
+          {
+            "id": "AGGOURDIAN",
+            "amount": 0,
+            "lastUpdated": 1785746203119
+          },
+          {
+            "id": "MELON_JUICE",
+            "amount": 0,
+            "lastUpdated": 1785746204774
+          },
+          {
+            "id": "SALTED_SUNFLOWER_SEEDS",
+            "amount": 0,
+            "lastUpdated": 1785746206089
+          },
+          {
+            "id": "HELIANTHUS",
+            "amount": 0,
+            "lastUpdated": 1785746210488
+          },
+          {
+            "id": "CRYSTALIZED_MOONLIGHT",
+            "amount": 0,
+            "lastUpdated": 1785746218488
+          },
+          {
+            "id": "CANE_KNOT",
+            "amount": 0,
+            "lastUpdated": 1785746221568
+          },
+          {
+            "id": "CARROT_ZEST",
+            "amount": 0,
+            "lastUpdated": 1785746222686
           },
           {
             "id": "COMPOST",
-            "amount": 1489,
-            "lastUpdated": 1785225527442
+            "amount": 1543,
+            "lastUpdated": 1785838538163
           },
           {
             "id": "NETHER_STALK",
-            "amount": 70548,
-            "lastUpdated": 1785225528986
+            "amount": 42017,
+            "lastUpdated": 1785838539413
           }
         ]
       }

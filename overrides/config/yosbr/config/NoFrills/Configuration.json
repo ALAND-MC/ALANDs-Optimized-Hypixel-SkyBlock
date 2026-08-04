@@ -109,7 +109,7 @@
   },
   "priceTooltips": {
     "burgers": 0,
-    "enabled": true,
+    "enabled": false,
     "auction": true,
     "bazaar": true,
     "npc": false,

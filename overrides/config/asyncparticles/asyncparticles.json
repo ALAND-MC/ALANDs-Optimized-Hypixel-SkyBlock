@@ -22,7 +22,8 @@
   "rendering": {
     "particleRenderingMode": "SYNCHRONOUSLY",
     "gpuAcceleration": true,
-    "appendNewParticlesToRenderer": true
+    "appendNewParticlesToRenderer": true,
+    "computeExecutionStage": "LEVEL_RENDERING"
   },
   "valkyrienSkies": {
     "rainEffect": "STATIONARY",

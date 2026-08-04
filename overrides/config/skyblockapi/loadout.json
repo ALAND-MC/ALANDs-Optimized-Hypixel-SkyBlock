@@ -398,33 +398,33 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "boss_tier": 3,
+                      "timestamp": 1730055137398,
                       "enchantments": {
-                        "rejuvenate": 5,
                         "respiration": 4,
-                        "thorns": 3,
+                        "rejuvenate": 5,
+                        "mana_vampire": 10,
                         "aqua_affinity": 1,
                         "transylvanian": 5,
-                        "mana_vampire": 10,
+                        "thorns": 3,
                         "protection": 6,
                         "ultimate_refrigerate": 5,
                         "growth": 6
                       },
-                      "timestamp": 1730055137398,
+                      "boss_tier": 3,
                       "uuid": "d12b09c7-0b49-4683-bf4a-487bed861aac",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
-                        "COMBAT_0_gem": "SAPPHIRE",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_1": "PERFECT",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_0_gem": "SAPPHIRE",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "necrotic",
+                      "hot_potato_count": 15,
                       "id": "INFERNAL_AURORA_HELMET",
                       "artOfPeaceApplied": 1
                     },
@@ -831,7 +831,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1664365080000,
                       "enchantments": {
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
@@ -841,21 +841,21 @@
                         "reflection": 5,
                         "growth": 6
                       },
-                      "timestamp": 1664365080000,
+                      "boss_tier": 0,
                       "uuid": "ba7a51ad-b3ae-442a-9b6d-c76c5cefb5ee",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "loving",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -1223,32 +1223,32 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1659911220000,
                       "enchantments": {
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
-                        "thorns": 3,
-                        "tidal": 3,
                         "mana_vampire": 10,
+                        "tidal": 3,
+                        "thorns": 3,
                         "smarty_pants": 5,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1659911220000,
+                      "boss_tier": 0,
                       "uuid": "a3eea616-95d9-4dec-807e-6e60b50c9170",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "unlocked_slots": [
                           "COMBAT_1",
                           "COMBAT_0"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "necrotic",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -1652,34 +1652,34 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1664371500000,
                       "enchantments": {
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
                         "sugar_rush": 3,
-                        "thorns": 3,
                         "mana_vampire": 10,
+                        "thorns": 3,
                         "stealth": 1,
                         "protection": 6,
                         "depth_strider": 3,
                         "feather_falling": 10,
                         "growth": 6
                       },
-                      "timestamp": 1664371500000,
+                      "boss_tier": 0,
                       "uuid": "fbb6a475-f910-4b49-95a6-abe72c40c4d5",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
-                        "COMBAT_0_gem": "SAPPHIRE",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_1": "PERFECT",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_0_gem": "SAPPHIRE",
                         "unlocked_slots": [
                           "COMBAT_1",
                           "COMBAT_0"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "necrotic",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_BOOTS",
                       "artOfPeaceApplied": 1
@@ -2212,23 +2212,23 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1602429960000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "strong_mana": 6,
-                        "rejuvenate": 5,
                         "respiration": 3,
+                        "rejuvenate": 5,
                         "ultimate_legion": 5,
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 6,
                         "growth": 6
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1602429960000,
                       "uuid": "800f753f-03f0-4898-993a-4b4fdc28ff53",
-                      "hot_potato_count": 15,
+                      "modifier": "ancient",
                       "rarity_upgrades": 1,
                       "collected_coins": 635839840,
-                      "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "CROWN_OF_AVARICE",
                       "originTag": "UNKNOWN"
@@ -2718,7 +2718,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1659031380000,
                       "enchantments": {
                         "true_protection": 1,
                         "strong_mana": 6,
@@ -2727,21 +2727,21 @@
                         "rejuvenate": 5,
                         "growth": 6
                       },
-                      "timestamp": 1659031380000,
+                      "boss_tier": 0,
                       "uuid": "6ed9ab72-bdd4-4f7d-9b4e-bc2a05855907",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_0_gem": "JASPER",
-                        "COMBAT_0": "FINE",
                         "COMBAT_1": "FINE",
+                        "COMBAT_0": "FINE",
+                        "COMBAT_0_gem": "JASPER",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -3224,7 +3224,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1658852820000,
                       "enchantments": {
                         "strong_mana": 6,
                         "rejuvenate": 5,
@@ -3234,21 +3234,21 @@
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1658852820000,
+                      "boss_tier": 0,
                       "uuid": "14223791-4ffd-462e-9592-20fc473d8254",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_0_gem": "JASPER",
-                        "COMBAT_0": "FINE",
                         "COMBAT_1": "FINE",
+                        "COMBAT_0": "FINE",
+                        "COMBAT_0_gem": "JASPER",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -3772,12 +3772,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1659029400000,
                       "enchantments": {
                         "strong_mana": 6,
                         "rejuvenate": 5,
-                        "sugar_rush": 3,
                         "ultimate_legion": 5,
+                        "sugar_rush": 3,
                         "thorns": 3,
                         "stealth": 1,
                         "feather_falling": 10,
@@ -3785,21 +3785,21 @@
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "timestamp": 1659029400000,
+                      "boss_tier": 0,
                       "uuid": "f587a55a-2a43-47d1-8a32-6c54801685b3",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_0_gem": "JASPER",
-                        "COMBAT_0": "FINE",
                         "COMBAT_1": "FINE",
+                        "COMBAT_0": "FINE",
+                        "COMBAT_0_gem": "JASPER",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_BOOTS",
                       "artOfPeaceApplied": 1
@@ -4232,6 +4232,7 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1633430340000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -4239,12 +4240,11 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "timestamp": 1633430340000,
                       "uuid": "aa4e7feb-a271-4df2-9a81-28bb108075d3",
                       "gems": {
                         "AMBER_1": "PERFECT",
-                        "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
+                        "JADE_1": "PERFECT",
                         "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
@@ -4613,17 +4613,17 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1633876500000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1633876500000,
                       "uuid": "6225221c-558c-4424-a047-a79c6862d794",
                       "gems": {
                         "AMBER_1": "PERFECT",
-                        "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
+                        "JADE_1": "PERFECT",
                         "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
@@ -4635,8 +4635,8 @@
                         "JADE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
                       "modifier": "jaded",
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "DIVAN_CHESTPLATE",
                       "divan_powder_coating": 1,
@@ -4985,17 +4985,17 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1632862920000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1632862920000,
                       "uuid": "56be3cdd-2ed7-4082-a6cc-8237fd89e21b",
                       "gems": {
                         "AMBER_1": "PERFECT",
-                        "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
+                        "JADE_1": "PERFECT",
                         "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
@@ -5432,6 +5432,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1633242600000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 10,
@@ -5439,12 +5440,11 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1633242600000,
                       "uuid": "89b1ae68-af65-47ac-83bf-bb2e42a03c29",
                       "gems": {
                         "AMBER_1": "PERFECT",
-                        "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
+                        "JADE_1": "PERFECT",
                         "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "AMBER_0",
@@ -5803,16 +5803,16 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676394000000,
                       "enchantments": {
                         "respiration": 3,
                         "pesterminator": 6,
                         "thorns": 3,
                         "aqua_affinity": 1,
-                        "ultimate_sunset": 5,
                         "protection": 5,
+                        "ultimate_sunset": 5,
                         "growth": 5
                       },
-                      "timestamp": 1676394000000,
                       "uuid": "098656b0-a31d-4fe4-b927-a5051383ae33",
                       "gems": {
                         "unlocked_slots": [
@@ -5829,8 +5829,8 @@
                         }
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
                       "modifier": "mossy",
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "HELIANTHUS_HELMET"
                     },
@@ -6295,14 +6295,14 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1676394000000,
                       "enchantments": {
                         "pesterminator": 6,
                         "thorns": 3,
-                        "ultimate_sunset": 5,
                         "protection": 5,
+                        "ultimate_sunset": 5,
                         "growth": 5
                       },
-                      "timestamp": 1676394000000,
                       "uuid": "e6940895-6929-49cd-b9a2-f9277282ee4f",
                       "gems": {
                         "unlocked_slots": [
@@ -6319,8 +6319,8 @@
                         }
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
                       "modifier": "mossy",
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "HELIANTHUS_CHESTPLATE"
                     },
@@ -6785,14 +6785,14 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1676394000000,
                       "enchantments": {
                         "pesterminator": 6,
                         "thorns": 3,
-                        "ultimate_sunset": 5,
                         "protection": 5,
+                        "ultimate_sunset": 5,
                         "growth": 5
                       },
-                      "timestamp": 1676394000000,
                       "uuid": "5fcd1577-1b7c-438e-909f-d89bb664f0ac",
                       "gems": {
                         "unlocked_slots": [
@@ -6809,8 +6809,8 @@
                         }
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
                       "modifier": "mossy",
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "HELIANTHUS_LEGGINGS"
                     },
@@ -7143,18 +7143,18 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1676394000000,
                       "enchantments": {
                         "sugar_rush": 3,
                         "pesterminator": 6,
                         "thorns": 3,
                         "stealth": 1,
                         "feather_falling": 10,
-                        "ultimate_sunset": 5,
-                        "depth_strider": 3,
                         "protection": 5,
+                        "depth_strider": 3,
+                        "ultimate_sunset": 5,
                         "growth": 5
                       },
-                      "timestamp": 1676394000000,
                       "uuid": "36a65fb1-87cc-4c38-8c2a-50bd1e85a2e1",
                       "gems": {
                         "unlocked_slots": [
@@ -7165,8 +7165,8 @@
                         "PERIDOT_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
                       "modifier": "mossy",
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "HELIANTHUS_BOOTS"
                     },
@@ -7654,6 +7654,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1610756400000,
                       "enchantments": {
                         "rejuvenate": 5,
                         "ultimate_legion": 5,
@@ -7662,7 +7663,6 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "timestamp": 1610756400000,
                       "uuid": "a50579f7-3a4f-47e4-b70e-4df97eb44ebf",
                       "gems": {
                         "AMBER_0": "FINE",
@@ -8287,14 +8287,14 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1635856560000,
                       "enchantments": {
-                        "true_protection": 1,
                         "ultimate_legion": 5,
+                        "true_protection": 1,
                         "protection": 6,
                         "rejuvenate": 5,
                         "growth": 6
                       },
-                      "timestamp": 1635856560000,
                       "uuid": "751a9394-9550-41d9-8f5a-f4750428f940",
                       "gems": {
                         "AMBER_0": "FINE",
@@ -8307,8 +8307,8 @@
                         "UNIVERSAL_0": "FINE"
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "renowned",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "SORROW_CHESTPLATE",
                       "originTag": "QUICK_CRAFTING"
@@ -8893,13 +8893,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1627833060000,
                       "enchantments": {
                         "ultimate_legion": 5,
                         "protection": 5,
                         "rejuvenate": 5,
                         "growth": 5
                       },
-                      "timestamp": 1627833060000,
                       "uuid": "87e0f0a3-a557-411b-baf2-4a6c3004a6a3",
                       "gems": {
                         "AMBER_0": "FINE",
@@ -9363,15 +9363,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1625936100000,
                       "enchantments": {
-                        "sugar_rush": 3,
-                        "feather_falling": 5,
                         "ultimate_legion": 5,
+                        "feather_falling": 5,
+                        "sugar_rush": 3,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1625936100000,
                       "uuid": "0e67329e-264c-40bf-bdf6-008164314057",
                       "gems": {
                         "AMBER_0": "FINE",
@@ -9916,22 +9916,22 @@
                     },
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
+                      "timestamp": 1651344840000,
                       "enchantments": {
-                        "rejuvenate": 5,
                         "respiration": 4,
+                        "rejuvenate": 5,
                         "mana_vampire": 10,
-                        "ultimate_bobbin_time": 5,
-                        "transylvanian": 5,
                         "aqua_affinity": 1,
+                        "transylvanian": 5,
+                        "ultimate_bobbin_time": 5,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1651344840000,
                       "uuid": "146ebcb2-7a30-42fa-aedf-912e9c2052f8",
                       "gems": {
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "AQUAMARINE_0": "PERFECT",
                         "COMBAT_1_gem": "SAPPHIRE",
                         "AQUAMARINE_1": "PERFECT",
@@ -9941,8 +9941,8 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_HELMET",
                       "artOfPeaceApplied": 1
@@ -10451,6 +10451,7 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
+                      "timestamp": 1660267680000,
                       "enchantments": {
                         "rejuvenate": 5,
                         "true_protection": 1,
@@ -10460,12 +10461,11 @@
                         "reflection": 5,
                         "growth": 6
                       },
-                      "timestamp": 1660267680000,
                       "uuid": "12f51ed4-4d7e-4e7c-be24-b582f1242444",
                       "gems": {
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "AQUAMARINE_0": "PERFECT",
                         "COMBAT_1_gem": "SAPPHIRE",
                         "AQUAMARINE_1": "PERFECT",
@@ -10475,8 +10475,8 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -10972,21 +10972,21 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
+                      "timestamp": 1652096760000,
                       "enchantments": {
                         "rejuvenate": 5,
                         "mana_vampire": 10,
-                        "ultimate_bobbin_time": 5,
                         "tidal": 3,
+                        "ultimate_bobbin_time": 5,
                         "smarty_pants": 5,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1652096760000,
                       "uuid": "ef9d6961-4f96-4348-bdef-07b38e671c45",
                       "gems": {
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "AQUAMARINE_0": "PERFECT",
                         "COMBAT_1_gem": "SAPPHIRE",
                         "AQUAMARINE_1": "PERFECT",
@@ -10996,8 +10996,8 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -11514,6 +11514,7 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
+                      "timestamp": 1651343820000,
                       "enchantments": {
                         "rejuvenate": 5,
                         "sugar_rush": 3,
@@ -11524,12 +11525,11 @@
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "timestamp": 1651343820000,
                       "uuid": "eec5d673-3d20-43a5-b954-ee827b17941c",
                       "gems": {
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "SAPPHIRE",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "AQUAMARINE_0": "PERFECT",
                         "COMBAT_1_gem": "SAPPHIRE",
                         "AQUAMARINE_1": "PERFECT",
@@ -11539,8 +11539,8 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_BOOTS",
                       "artOfPeaceApplied": 1
@@ -11833,15 +11833,15 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1750926062217,
                       "enchantments": {
                         "thorns": 3,
-                        "forest_pledge": 5,
                         "aqua_affinity": 1,
+                        "forest_pledge": 5,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
                       },
-                      "timestamp": 1750926062217,
                       "uuid": "e637958c-e248-46ac-a544-3378481088eb",
                       "gems": {
                         "unlocked_slots": [
@@ -12189,13 +12189,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1750926063635,
                       "enchantments": {
                         "thorns": 3,
                         "forest_pledge": 5,
                         "protection": 5,
                         "growth": 5
                       },
-                      "timestamp": 1750926063635,
                       "uuid": "75b2237b-596c-4fb2-92c2-6ae29d94243d",
                       "gems": {
                         "unlocked_slots": [
@@ -12544,13 +12544,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1750926064907,
                       "enchantments": {
                         "thorns": 3,
                         "forest_pledge": 5,
                         "protection": 5,
                         "growth": 5
                       },
-                      "timestamp": 1750926064907,
                       "uuid": "80e8d6da-f679-4f49-9cb9-a0f6d82e3b27",
                       "gems": {
                         "unlocked_slots": [
@@ -12846,6 +12846,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1750926066454,
                       "enchantments": {
                         "sugar_rush": 3,
                         "thorns": 3,
@@ -12856,7 +12857,6 @@
                         "feather_falling": 5,
                         "growth": 5
                       },
-                      "timestamp": 1750926066454,
                       "uuid": "316f46d9-5062-4576-ac64-4d5cc5cfd84c",
                       "gems": {
                         "unlocked_slots": [
@@ -13232,16 +13232,16 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "ABYSSAL_HELMET",
+                      "timestamp": 1636015200000,
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
                       "enchantments": {
                         "aqua_affinity": 1,
                         "scuba": 5,
                         "protection": 5,
                         "respiration": 4,
                         "growth": 5
-                      },
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
-                      "timestamp": 1636015200000
+                      }
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -13530,14 +13530,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "ABYSSAL_CHESTPLATE",
+                      "timestamp": 1636015200000,
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
                       "enchantments": {
                         "protection": 5,
                         "scuba": 5,
                         "growth": 5
-                      },
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
-                      "timestamp": 1636015200000
+                      }
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -13827,14 +13827,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "ABYSSAL_LEGGINGS",
+                      "timestamp": 1636015200000,
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
                       "enchantments": {
                         "protection": 5,
                         "scuba": 5,
                         "growth": 5
-                      },
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
-                      "timestamp": 1636015200000
+                      }
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -14200,16 +14200,16 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "ABYSSAL_BOOTS",
+                      "timestamp": 1636015200000,
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
                       "enchantments": {
                         "feather_falling": 5,
                         "scuba": 5,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
-                      },
-                      "originTag": "CRAFTING_GRID_COLLECT",
-                      "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
-                      "timestamp": 1636015200000
+                      }
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -14700,6 +14700,7 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1636370520000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -14707,7 +14708,6 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "timestamp": 1636370520000,
                       "uuid": "bd61819d-5499-49a1-adab-8fea1a81d86f",
                       "gems": {
                         "unlocked_slots": [
@@ -14716,12 +14716,12 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_HELMET",
-                      "dungeon_item_level": 5,
-                      "originTag": "QUICK_CRAFTING"
+                      "originTag": "QUICK_CRAFTING",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -15156,12 +15156,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1633621860000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1633621860000,
                       "uuid": "0878a40a-d376-48a0-acdb-9883bd7308c1",
                       "gems": {
                         "unlocked_slots": [
@@ -15170,12 +15170,12 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_CHESTPLATE",
-                      "dungeon_item_level": 5,
-                      "originTag": "QUICK_CRAFTING"
+                      "originTag": "QUICK_CRAFTING",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 10541807,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -15611,12 +15611,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1636370520000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1636370520000,
                       "uuid": "340c6dd1-7940-424e-9914-d4afe47ffde4",
                       "gems": {
                         "unlocked_slots": [
@@ -15625,12 +15625,12 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_LEGGINGS",
-                      "dungeon_item_level": 5,
-                      "originTag": "QUICK_CRAFTING"
+                      "originTag": "QUICK_CRAFTING",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 10541807,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -16083,6 +16083,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1636288740000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -16090,7 +16091,6 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1636288740000,
                       "uuid": "54271ba8-066e-4076-a908-259d3df6480f",
                       "gems": {
                         "unlocked_slots": [
@@ -16099,12 +16099,12 @@
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "submerged",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_BOOTS",
-                      "dungeon_item_level": 5,
-                      "originTag": "CRAFTING_GRID_COLLECT"
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 10541807,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -16470,14 +16470,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "DIAMOND_HUNTER_HELMET",
+                      "timestamp": 1667413740000,
+                      "uuid": "2687f249-ca44-420d-8a32-28e2cb07e005",
                       "enchantments": {
                         "aqua_affinity": 1,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
-                      },
-                      "uuid": "2687f249-ca44-420d-8a32-28e2cb07e005",
-                      "timestamp": 1667413740000
+                      }
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -16772,12 +16772,12 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "DIAMOND_HUNTER_CHESTPLATE",
+                      "timestamp": 1667413740000,
+                      "uuid": "54e81e4d-a5f9-4851-861e-8a22feb70fd4",
                       "enchantments": {
                         "protection": 5,
                         "growth": 5
-                      },
-                      "uuid": "54e81e4d-a5f9-4851-861e-8a22feb70fd4",
-                      "timestamp": 1667413740000
+                      }
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -17072,12 +17072,12 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "DIAMOND_HUNTER_LEGGINGS",
+                      "timestamp": 1667413740000,
+                      "uuid": "54357a93-ca45-40ae-899f-bbda8774601c",
                       "enchantments": {
                         "protection": 5,
                         "growth": 5
-                      },
-                      "uuid": "54357a93-ca45-40ae-899f-bbda8774601c",
-                      "timestamp": 1667413740000
+                      }
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -17448,14 +17448,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "DIAMOND_HUNTER_BOOTS",
+                      "timestamp": 1667413740000,
+                      "uuid": "b567563a-1a4b-4d90-93b7-bb2cd25c0802",
                       "enchantments": {
                         "feather_falling": 5,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
-                      },
-                      "uuid": "b567563a-1a4b-4d90-93b7-bb2cd25c0802",
-                      "timestamp": 1667413740000
+                      }
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -18019,6 +18019,8 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1573510440000,
+                      "anvil_uses": 7,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -18026,18 +18028,16 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 7,
-                      "timestamp": 1573510440000,
-                      "modifier": "ancient",
                       "hot_potato_count": 10,
+                      "modifier": "ancient",
                       "spider_kills": 552123,
                       "id": "PRIMORDIAL_HELMET",
                       "hotPotatoBonus": "DEFENSE=10;HEALTH=20;",
                       "uuid": "87ac2259-0de5-4a7d-8a01-cdaf714fb571",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
-                      "dungeon_item_level": 5,
-                      "originTag": "CRAFTING_GRID_COLLECT"
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -18535,21 +18535,21 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1587017040000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1587017040000,
                       "uuid": "064d75d8-f038-4300-8358-fa6f7915386f",
                       "modifier": "ancient",
                       "rarity_upgrades": 1,
                       "spider_kills": 504087,
                       "donated_museum": 1,
                       "id": "PRIMORDIAL_CHESTPLATE",
-                      "dungeon_item_level": 5,
-                      "originTag": "CRAFTING_GRID_COLLECT"
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 923446,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -18941,21 +18941,21 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1588523040000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1588523040000,
                       "uuid": "7f0209a4-72d3-4437-9683-45e82cbf5acd",
                       "modifier": "godly",
                       "rarity_upgrades": 1,
                       "spider_kills": 505899,
                       "donated_museum": 1,
                       "id": "PRIMORDIAL_LEGGINGS",
-                      "dungeon_item_level": 5,
-                      "originTag": "CRAFTING_GRID_COLLECT"
+                      "originTag": "CRAFTING_GRID_COLLECT",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 923446,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -19545,6 +19545,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1571672460000,
+                      "anvil_uses": 15,
                       "enchantments": {
                         "rejuvenate": 5,
                         "sugar_rush": 3,
@@ -19554,21 +19556,19 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 15,
-                      "timestamp": 1571672460000,
-                      "modifier": "ancient",
+                      "hot_potato_count": 10,
                       "runes": {
                         "RAINBOW": 3
                       },
-                      "hot_potato_count": 10,
+                      "modifier": "ancient",
                       "spider_kills": 503201,
                       "id": "PRIMORDIAL_BOOTS",
                       "hotPotatoBonus": "DEFENSE=20;HEALTH=40;",
                       "uuid": "24a13f0e-027a-42c4-9c27-ee088b6fa5a1",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
-                      "dungeon_item_level": 5,
-                      "originTag": "CRAFTING_GRID_SHIFT"
+                      "originTag": "CRAFTING_GRID_SHIFT",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:dyed_color": 923446,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -19946,20 +19946,20 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1619016240000,
                       "enchantments": {
-                        "rejuvenate": 5,
                         "respiration": 3,
+                        "rejuvenate": 5,
                         "ultimate_legion": 5,
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1619016240000,
                       "uuid": "743b27e9-ab77-4502-b853-2d95a91bea70",
-                      "hot_potato_count": 15,
-                      "rarity_upgrades": 1,
                       "modifier": "ancient",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "WARDEN_HELMET",
                       "originTag": "CRAFTING_GRID_COLLECT"
@@ -20465,31 +20465,31 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 1,
+                      "timestamp": 1659149280000,
                       "enchantments": {
                         "strong_mana": 10,
                         "rejuvenate": 5,
-                        "true_protection": 1,
                         "ultimate_legion": 5,
+                        "true_protection": 1,
                         "protection": 6,
                         "reflection": 5,
                         "growth": 6
                       },
-                      "timestamp": 1659149280000,
+                      "boss_tier": 1,
                       "uuid": "a8439581-8c59-496f-9a70-e9fd098a26de",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "JASPER",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_TERROR_CHESTPLATE"
                     },
@@ -20981,7 +20981,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 1,
+                      "timestamp": 1659217140000,
                       "enchantments": {
                         "strong_mana": 10,
                         "rejuvenate": 5,
@@ -20991,21 +20991,21 @@
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1659217140000,
+                      "boss_tier": 1,
                       "uuid": "fdd6d7ca-1ab2-4fcd-9105-7dd7a1c29de8",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "JASPER",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "unlocked_slots": [
                           "COMBAT_1",
                           "COMBAT_0"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_TERROR_LEGGINGS"
                     },
@@ -21510,33 +21510,33 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "boss_tier": 0,
+                      "timestamp": 1659225900000,
                       "enchantments": {
                         "strong_mana": 10,
                         "rejuvenate": 5,
-                        "sugar_rush": 3,
                         "ultimate_legion": 5,
+                        "sugar_rush": 3,
                         "thorns": 3,
                         "feather_falling": 10,
                         "protection": 6,
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "timestamp": 1659225900000,
+                      "boss_tier": 0,
                       "uuid": "b815c6ec-b6fa-4aa2-a49f-547cd5b92726",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
-                        "COMBAT_1": "PERFECT",
-                        "COMBAT_0": "PERFECT",
                         "COMBAT_0_gem": "JASPER",
+                        "COMBAT_0": "PERFECT",
+                        "COMBAT_1": "PERFECT",
                         "unlocked_slots": [
                           "COMBAT_0",
                           "COMBAT_1"
                         ]
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "INFERNAL_TERROR_BOOTS"
                     },
@@ -22070,21 +22070,21 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1622735100000,
                       "enchantments": {
-                        "rejuvenate": 5,
                         "respiration": 3,
+                        "rejuvenate": 5,
                         "ultimate_legion": 5,
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1622735100000,
                       "uuid": "854fb3e6-fec5-4ab0-85d8-52508298842c",
-                      "hot_potato_count": 15,
+                      "modifier": "ancient",
                       "rarity_upgrades": 1,
                       "eman_kills": 200750,
-                      "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "FINAL_DESTINATION_HELMET",
                       "originTag": "QUICK_CRAFTING"
@@ -22591,23 +22591,23 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1622622780000,
                       "enchantments": {
-                        "true_protection": 1,
-                        "thorns": 3,
                         "ultimate_legion": 5,
+                        "thorns": 3,
+                        "true_protection": 1,
                         "protection": 6,
                         "rejuvenate": 5,
                         "growth": 6
                       },
-                      "timestamp": 1622622780000,
                       "uuid": "4c2e48d4-a83e-4532-bab8-8553cc947be8",
-                      "hot_potato_count": 15,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "10:0:17",
+                      "rarity_upgrades": 1,
                       "eman_kills": 279346,
                       "donated_museum": 1,
                       "id": "FINAL_DESTINATION_CHESTPLATE",
-                      "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "originTag": "QUICK_CRAFTING"
                     },
                     "minecraft:dyed_color": 655377,
@@ -23099,6 +23099,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1622694600000,
                       "enchantments": {
                         "ultimate_legion": 5,
                         "thorns": 3,
@@ -23107,15 +23108,14 @@
                         "rejuvenate": 5,
                         "growth": 6
                       },
-                      "timestamp": 1622694600000,
                       "uuid": "5b4cabfc-0a65-4834-aa72-eb906f31e6eb",
-                      "hot_potato_count": 15,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "255:117:255",
+                      "rarity_upgrades": 1,
                       "eman_kills": 299309,
                       "donated_museum": 1,
                       "id": "FINAL_DESTINATION_LEGGINGS",
-                      "modifier": "ancient",
+                      "hot_potato_count": 15,
                       "originTag": "CRAFTING_GRID_COLLECT"
                     },
                     "minecraft:dyed_color": 16741887,
@@ -23639,21 +23639,21 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1622508660000,
                       "enchantments": {
                         "rejuvenate": 5,
-                        "sugar_rush": 3,
                         "ultimate_legion": 5,
+                        "sugar_rush": 3,
                         "thorns": 3,
                         "feather_falling": 10,
                         "protection": 7,
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "timestamp": 1622508660000,
                       "uuid": "04771ee1-0cac-482b-95de-ffe77b242bf4",
-                      "hot_potato_count": 15,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "10:0:17",
+                      "rarity_upgrades": 1,
                       "eman_kills": 290682,
                       "donated_museum": 1,
                       "id": "FINAL_DESTINATION_BOOTS",
@@ -23661,7 +23661,7 @@
                         "ENDERSNAKE": 3
                       },
                       "originTag": "QUICK_CRAFTING",
-                      "modifier": "ancient"
+                      "hot_potato_count": 15
                     },
                     "minecraft:dyed_color": 655377,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -24005,6 +24005,7 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1610740320000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -24012,7 +24013,6 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "timestamp": 1610740320000,
                       "uuid": "4c4cd80f-4f41-4973-aecd-f7b113aa647d",
                       "modifier": "jaded",
                       "rarity_upgrades": 1,
@@ -24277,12 +24277,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1610740320000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1610740320000,
                       "uuid": "8775a4a3-4c6a-468c-8a58-631ea2012eff",
                       "modifier": "jaded",
                       "rarity_upgrades": 1,
@@ -24548,12 +24548,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1610740320000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1610740320000,
                       "uuid": "1e602d3c-008a-4397-8d47-50bc7a476990",
                       "modifier": "jaded",
                       "rarity_upgrades": 1,
@@ -24895,6 +24895,7 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1610740320000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -24902,7 +24903,6 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1610740320000,
                       "uuid": "5ebb57d7-6502-4e29-ab64-371407b6d83c",
                       "modifier": "jaded",
                       "rarity_upgrades": 1,
@@ -25458,6 +25458,8 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1573065540000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -25465,12 +25467,10 @@
                         "respiration": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1573065540000,
                       "uuid": "a0bfeb5e-9edd-43cd-8ce7-d33801826a95",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
                       "modifier": "ancient",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "BAT_PERSON_HELMET",
                       "originTag": "CRAFTING_GRID_COLLECT"
@@ -25861,18 +25861,18 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1572647580000,
+                      "anvil_uses": 4,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 4,
-                      "timestamp": 1572647580000,
                       "uuid": "f95487b1-26af-41cc-b09c-bc911acac8cb",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
-                      "color": "0:0:0",
                       "modifier": "candied",
+                      "color": "0:0:0",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "BAT_PERSON_CHESTPLATE",
                       "originTag": "CRAFTING_GRID_COLLECT",
@@ -26265,18 +26265,18 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1573066320000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1573066320000,
                       "uuid": "6366f672-3800-4ed0-917a-f602718c8acc",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
-                      "color": "0:0:0",
                       "modifier": "candied",
+                      "color": "0:0:0",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "BAT_PERSON_LEGGINGS",
                       "originTag": "CRAFTING_GRID_COLLECT"
@@ -26744,6 +26744,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1572817980000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -26751,13 +26753,11 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1572817980000,
                       "uuid": "64a4990d-203b-454d-96c0-149a4280b238",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
-                      "color": "0:0:0",
                       "modifier": "candied",
+                      "color": "0:0:0",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
                       "donated_museum": 1,
                       "id": "BAT_PERSON_BOOTS",
                       "originTag": "CRAFTING_GRID_COLLECT"
@@ -27188,16 +27188,16 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1632181860000,
                       "enchantments": {
-                        "rejuvenate": 5,
                         "respiration": 3,
+                        "rejuvenate": 5,
                         "ultimate_legion": 5,
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 6,
                         "growth": 6
                       },
-                      "timestamp": 1632181860000,
                       "uuid": "2d0d2c16-9483-4bff-b0a8-57a05670fdb0",
                       "gems": {
                         "unlocked_slots": [
@@ -27207,12 +27207,12 @@
                         "SAPPHIRE_0": "FINE"
                       },
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 15,
                       "modifier": "giant",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "REAPER_MASK",
-                      "dungeon_item_level": 5,
-                      "originTag": "REVIVED_HEART"
+                      "originTag": "REVIVED_HEART",
+                      "dungeon_item_level": 5
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -27834,22 +27834,22 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1573780020000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "true_protection": 1,
                         "thorns": 3,
                         "protection": 5,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1573780020000,
                       "uuid": "0e84381f-d834-47b1-93d5-2fe59125b48f",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "27:27:27",
+                      "rarity_upgrades": 1,
                       "zombie_kills": 510756,
                       "donated_museum": 1,
                       "id": "REAPER_CHESTPLATE",
-                      "modifier": "ancient",
+                      "hot_potato_count": 10,
                       "originTag": "REAPER_CHESTPLATE"
                     },
                     "minecraft:dyed_color": 1776411,
@@ -28436,21 +28436,21 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1581775560000,
+                      "anvil_uses": 2,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 2,
-                      "timestamp": 1581775560000,
                       "uuid": "deafec71-24e3-47a5-aa9a-874705a2489c",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "27:27:27",
+                      "rarity_upgrades": 1,
                       "zombie_kills": 528578,
                       "donated_museum": 1,
                       "id": "REAPER_LEGGINGS",
-                      "modifier": "ancient",
+                      "hot_potato_count": 10,
                       "originTag": "REAPER_LEGGINGS"
                     },
                     "minecraft:dyed_color": 1776411,
@@ -29003,24 +29003,24 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1615530780000,
                       "enchantments": {
-                        "growth": 5,
+                        "ultimate_last_stand": 5,
                         "rejuvenate": 5,
                         "thorns": 3,
                         "feather_falling": 10,
                         "protection": 5,
                         "depth_strider": 3,
-                        "ultimate_last_stand": 5
+                        "growth": 5
                       },
-                      "timestamp": 1615530780000,
                       "uuid": "7748b240-a99e-4717-8c8c-266c647000d0",
-                      "hot_potato_count": 10,
-                      "rarity_upgrades": 1,
+                      "modifier": "ancient",
                       "color": "27:27:27",
+                      "rarity_upgrades": 1,
                       "zombie_kills": 524264,
                       "donated_museum": 1,
                       "id": "REAPER_BOOTS",
-                      "modifier": "ancient",
+                      "hot_potato_count": 10,
                       "originTag": "REAPER_BOOTS"
                     },
                     "minecraft:dyed_color": 1776411,
@@ -29308,15 +29308,15 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "PARTY_HAT",
+                      "timestamp": 1721723698087,
+                      "uuid": "aa1fcf3a-d776-4926-906b-61e17222a6dd",
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
-                      },
-                      "uuid": "aa1fcf3a-d776-4926-906b-61e17222a6dd",
-                      "timestamp": 1721723698087
+                      }
                     },
                     "minecraft:dyed_color": 65280,
                     "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -29598,12 +29598,12 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
+                      "timestamp": 1663543200000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 6
                       },
-                      "timestamp": 1663543200000,
                       "uuid": "2a9666fc-cb37-4c03-be19-e1a3cdc388d8",
                       "modifier": "giant",
                       "donated_museum": 1,
@@ -29890,12 +29890,12 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
+                      "timestamp": 1664194140000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "timestamp": 1664194140000,
                       "uuid": "1cc5323d-d70a-4c95-a68a-5c85d0b6ae00",
                       "modifier": "giant",
                       "donated_museum": 1,
@@ -30199,6 +30199,7 @@
                     ],
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
+                      "timestamp": 1664380920000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -30206,7 +30207,6 @@
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "timestamp": 1664380920000,
                       "uuid": "9109e9c8-740f-48b9-bb1d-beef0a2b033b",
                       "modifier": "giant",
                       "donated_museum": 1,
@@ -30821,14 +30821,14 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1580158080000,
+                      "anvil_uses": 2,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "respiration": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 2,
-                      "timestamp": 1580158080000,
                       "uuid": "fcfce0a5-de46-4a49-ae36-adbb839cd0f7",
                       "modifier": "ancient",
                       "donated_museum": 1,
@@ -31395,13 +31395,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1580158080000,
+                      "anvil_uses": 2,
                       "enchantments": {
                         "true_protection": 1,
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 2,
-                      "timestamp": 1580158080000,
                       "uuid": "b39d0204-67c6-4167-b12e-567abeb70b3b",
                       "modifier": "ancient",
                       "donated_museum": 1,
@@ -31931,12 +31931,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1580158080000,
+                      "anvil_uses": 1,
                       "enchantments": {
                         "thorns": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 1,
-                      "timestamp": 1580158080000,
                       "uuid": "aeccebcf-9ddf-42fd-9504-eeb7aa0e2ef4",
                       "modifier": "ancient",
                       "donated_museum": 1,
@@ -32542,14 +32542,14 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "timestamp": 1580158080000,
+                      "anvil_uses": 3,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "anvil_uses": 3,
-                      "timestamp": 1580158080000,
                       "uuid": "44ee0519-0267-46fe-8262-a1d286826969",
                       "modifier": "ancient",
                       "donated_museum": 1,
@@ -33211,30 +33211,30 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1611795180000,
                       "enchantments": {
-                        "ultimate_last_stand": 5,
+                        "growth": 6,
                         "rejuvenate": 5,
                         "true_protection": 1,
-                        "mana_vampire": 7,
                         "thorns": 3,
+                        "mana_vampire": 7,
                         "protection": 6,
-                        "growth": 6
+                        "ultimate_last_stand": 5
                       },
+                      "timestamp": 1611795180000,
                       "uuid": "770132e0-e66f-429e-801e-a882b72a54a9",
                       "gems": {
                         "COMBAT_0_gem": "AMETHYST",
                         "COMBAT_0": "PERFECT",
                         "SAPPHIRE_0": "PERFECT"
                       },
-                      "color": "160:101:64",
                       "rarity_upgrades": 1,
-                      "modifier": "loving",
+                      "color": "160:101:64",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "WISE_WITHER_CHESTPLATE",
-                      "hot_potato_count": 15,
-                      "originTag": "WISE_WITHER_CHESTPLATE",
-                      "dungeon_item_level": 5
+                      "modifier": "loving",
+                      "dungeon_item_level": 5,
+                      "originTag": "WISE_WITHER_CHESTPLATE"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -33590,30 +33590,30 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1607888520000,
                       "enchantments": {
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
-                        "mana_vampire": 7,
                         "thorns": 3,
+                        "mana_vampire": 7,
                         "smarty_pants": 5,
                         "protection": 6,
                         "growth": 6
                       },
+                      "timestamp": 1607888520000,
                       "uuid": "8565745c-2b70-4b36-900b-90232245c253",
                       "gems": {
                         "COMBAT_0_gem": "AMETHYST",
                         "COMBAT_0": "PERFECT",
                         "SAPPHIRE_0": "PERFECT"
                       },
-                      "color": "252:243:255",
                       "rarity_upgrades": 1,
-                      "modifier": "necrotic",
+                      "color": "252:243:255",
+                      "hot_potato_count": 15,
                       "donated_museum": 1,
                       "id": "WISE_WITHER_LEGGINGS",
-                      "hot_potato_count": 15,
-                      "originTag": "WISE_WITHER_LEGGINGS",
-                      "dungeon_item_level": 5
+                      "modifier": "necrotic",
+                      "dungeon_item_level": 5,
+                      "originTag": "WISE_WITHER_LEGGINGS"
                     },
                     "minecraft:dyed_color": 16577535,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -34004,21 +34004,21 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1606389900000,
-                      "anvil_uses": 1,
                       "enchantments": {
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
                         "sugar_rush": 3,
-                        "mana_vampire": 7,
                         "thorns": 3,
+                        "mana_vampire": 7,
                         "feather_falling": 10,
                         "protection": 6,
                         "depth_strider": 3,
                         "growth": 6
                       },
-                      "hot_potato_count": 15,
+                      "anvil_uses": 1,
+                      "timestamp": 1606389900000,
                       "modifier": "necrotic",
+                      "hot_potato_count": 15,
                       "id": "WISE_WITHER_BOOTS",
                       "uuid": "80f366ee-c061-439d-9327-c573a715f6d8",
                       "gems": {
@@ -34026,11 +34026,11 @@
                         "COMBAT_0": "PERFECT",
                         "SAPPHIRE_0": "PERFECT"
                       },
-                      "color": "28:212:228",
                       "rarity_upgrades": 1,
+                      "color": "28:212:228",
                       "donated_museum": 1,
-                      "originTag": "WISE_WITHER_BOOTS",
-                      "dungeon_item_level": 5
+                      "dungeon_item_level": 5,
+                      "originTag": "WISE_WITHER_BOOTS"
                     },
                     "minecraft:dyed_color": 1889508,
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -34579,8 +34579,6 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1577467740000,
-                      "anvil_uses": 1,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -34588,6 +34586,8 @@
                         "respiration": 3,
                         "growth": 5
                       },
+                      "anvil_uses": 1,
+                      "timestamp": 1577467740000,
                       "uuid": "7c8230dc-7765-4d1e-8ec7-f4f632b6f04a",
                       "modifier": "wise",
                       "donated_museum": 1,
@@ -35056,13 +35056,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1579017000000,
-                      "anvil_uses": 1,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "anvil_uses": 1,
+                      "timestamp": 1579017000000,
                       "uuid": "d3b87cd1-af48-43e9-894c-efcd3361d404",
                       "modifier": "wise",
                       "donated_museum": 1,
@@ -35532,13 +35532,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1579018320000,
-                      "anvil_uses": 1,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "anvil_uses": 1,
+                      "timestamp": 1579018320000,
                       "uuid": "7a338594-ad70-4954-a951-eb56d214aa75",
                       "modifier": "wise",
                       "donated_museum": 1,
@@ -36084,8 +36084,6 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1579189080000,
-                      "anvil_uses": 1,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -36093,6 +36091,8 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
+                      "anvil_uses": 1,
+                      "timestamp": 1579189080000,
                       "uuid": "5421b24f-c5e6-429e-8047-b455de7d9313",
                       "modifier": "wise",
                       "donated_museum": 1,
@@ -36548,15 +36548,15 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "SUPERIOR_DRAGON_HELMET",
-                      "timestamp": 1664346300000,
-                      "uuid": "31c1e04e-8966-44f8-889c-f74bb370841c",
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
-                      }
+                      },
+                      "uuid": "31c1e04e-8966-44f8-889c-f74bb370841c",
+                      "timestamp": 1664346300000
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -36922,13 +36922,13 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "SUPERIOR_DRAGON_CHESTPLATE",
-                      "timestamp": 1664345280000,
-                      "uuid": "0c7c86b8-9f2d-4a85-ba5a-924944a3e399",
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
-                      }
+                      },
+                      "uuid": "0c7c86b8-9f2d-4a85-ba5a-924944a3e399",
+                      "timestamp": 1664345280000
                     },
                     "minecraft:dyed_color": 15916817,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -37295,13 +37295,13 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "SUPERIOR_DRAGON_LEGGINGS",
-                      "timestamp": 1664346180000,
-                      "uuid": "46274108-0b5d-422f-9f25-e1c4b4477ff6",
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
-                      }
+                      },
+                      "uuid": "46274108-0b5d-422f-9f25-e1c4b4477ff6",
+                      "timestamp": 1664346180000
                     },
                     "minecraft:dyed_color": 15916817,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -37743,7 +37743,6 @@
                     ],
                     "minecraft:custom_data": {
                       "bossId": "34c25307-6dc0-42b0-9507-d5de6df9b5c3",
-                      "timestamp": 1655103780000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -37751,6 +37750,7 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
+                      "timestamp": 1655103780000,
                       "uuid": "793a487a-6b66-4284-a4e8-b5cd82c22607",
                       "donated_museum": 1,
                       "id": "SUPERIOR_DRAGON_BOOTS",
@@ -38203,7 +38203,6 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1644325380000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -38211,6 +38210,7 @@
                         "respiration": 3,
                         "growth": 5
                       },
+                      "timestamp": 1644325380000,
                       "uuid": "7832a41c-9482-4e32-9eb4-4e6298e4fcf8",
                       "modifier": "fierce",
                       "donated_museum": 1,
@@ -38606,13 +38606,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1620394620000,
                       "enchantments": {
                         "thorns": 3,
                         "protection": 5,
                         "rejuvenate": 2,
                         "growth": 5
                       },
+                      "timestamp": 1620394620000,
                       "uuid": "2b2a0765-788d-4f6c-a148-a0505977b22a",
                       "modifier": "fierce",
                       "color": "29:17:5",
@@ -38973,12 +38973,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1644325380000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "timestamp": 1644325380000,
                       "uuid": "5c927e9a-d718-45f0-969f-913bda879d8e",
                       "modifier": "fierce",
                       "color": "29:17:5",
@@ -39415,7 +39415,6 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1626577620000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -39423,6 +39422,7 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
+                      "timestamp": 1626577620000,
                       "uuid": "5a742209-8d2b-4670-bd9f-48e14285968b",
                       "modifier": "fierce",
                       "color": "29:17:5",
@@ -39758,16 +39758,16 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "THERMODYNAMIC_HELMET",
-                      "timestamp": 1636819500000,
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "a4f4089a-2611-4342-85cb-b67cd87650a6",
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
-                      }
+                      },
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "a4f4089a-2611-4342-85cb-b67cd87650a6",
+                      "timestamp": 1636819500000
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -40012,14 +40012,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "THERMODYNAMIC_CHESTPLATE",
-                      "timestamp": 1636819500000,
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "2d4d3a2d-1c59-4ca3-b047-5bca1b4af7cf",
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
-                      }
+                      },
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "2d4d3a2d-1c59-4ca3-b047-5bca1b4af7cf",
+                      "timestamp": 1636819500000
                     },
                     "minecraft:dyed_color": 16740362,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -40265,14 +40265,14 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "THERMODYNAMIC_LEGGINGS",
-                      "timestamp": 1636819500000,
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "58c962ea-c101-4118-a693-f36d898e9e50",
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
-                      }
+                      },
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "58c962ea-c101-4118-a693-f36d898e9e50",
+                      "timestamp": 1636819500000
                     },
                     "minecraft:dyed_color": 16740362,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -40594,16 +40594,16 @@
                     "minecraft:custom_data": {
                       "donated_museum": 1,
                       "id": "THERMODYNAMIC_BOOTS",
-                      "timestamp": 1636819500000,
-                      "originTag": "QUICK_CRAFTING",
-                      "uuid": "e0b1d6cc-5139-4c35-8f89-2b0bed2dea5b",
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
-                      }
+                      },
+                      "originTag": "QUICK_CRAFTING",
+                      "uuid": "e0b1d6cc-5139-4c35-8f89-2b0bed2dea5b",
+                      "timestamp": 1636819500000
                     },
                     "minecraft:dyed_color": 16740362,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -40940,7 +40940,6 @@
                     },
                     "minecraft:custom_data": {
                       "bossId": "44a56fb7-84c1-4e9d-bc14-5cc896c1a49c",
-                      "timestamp": 1660398000000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -40948,6 +40947,7 @@
                         "respiration": 3,
                         "growth": 5
                       },
+                      "timestamp": 1660398000000,
                       "uuid": "5933607c-6166-4cff-bad3-1a8f18929634",
                       "donated_museum": 1,
                       "id": "WISE_DRAGON_HELMET",
@@ -41203,12 +41203,12 @@
                     ],
                     "minecraft:custom_data": {
                       "bossId": "bb9c0d19-93c1-465b-87d4-ae174d26bb96",
-                      "timestamp": 1660803420000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "timestamp": 1660803420000,
                       "uuid": "0cf76eff-89a4-4c6a-b395-ad0a6fc35fb0",
                       "donated_museum": 1,
                       "id": "WISE_DRAGON_CHESTPLATE",
@@ -41468,24 +41468,24 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1625470860000,
                       "enchantments": {
                         "thorns": 3,
                         "protection": 5,
                         "rejuvenate": 3,
                         "growth": 5
                       },
+                      "timestamp": 1625470860000,
                       "uuid": "d3b91517-5562-43fc-9d22-06ec466a9e4c",
                       "gems": {
                         "SAPPHIRE_0": "FLAWED"
                       },
                       "color": "41:240:233",
-                      "modifier": "necrotic",
                       "hot_potato_count": 10,
+                      "modifier": "necrotic",
                       "donated_museum": 1,
                       "id": "WISE_DRAGON_LEGGINGS",
-                      "originTag": "QUICK_CRAFTING",
-                      "dungeon_item_level": 4
+                      "dungeon_item_level": 4,
+                      "originTag": "QUICK_CRAFTING"
                     },
                     "minecraft:dyed_color": 2748649,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -41814,7 +41814,6 @@
                     ],
                     "minecraft:custom_data": {
                       "bossId": "14c8bf8a-dd58-408a-b881-843db55c87e9",
-                      "timestamp": 1660469820000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -41822,6 +41821,7 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
+                      "timestamp": 1660469820000,
                       "uuid": "3428376d-0223-4796-aebe-a4bf14ddf5ae",
                       "donated_museum": 1,
                       "id": "WISE_DRAGON_BOOTS",
@@ -42093,7 +42093,6 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1635792420000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -42102,6 +42101,7 @@
                         "respiration": 3,
                         "growth": 5
                       },
+                      "timestamp": 1635792420000,
                       "uuid": "81e125d4-de38-4ad6-b090-45c8c893cd42",
                       "modifier": "greater_spook",
                       "color": "144:0:163",
@@ -42454,13 +42454,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1635618780000,
                       "enchantments": {
                         "thorns": 3,
                         "great_spook": 1,
                         "protection": 5,
                         "growth": 5
                       },
+                      "timestamp": 1635618780000,
                       "uuid": "1568222c-4661-4afa-87b4-9b7aafb70223",
                       "modifier": "greater_spook",
                       "color": "137:0:155",
@@ -42813,13 +42813,13 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1635529680000,
                       "enchantments": {
                         "thorns": 3,
                         "great_spook": 1,
                         "protection": 5,
                         "growth": 5
                       },
+                      "timestamp": 1635529680000,
                       "uuid": "8fa1e4d3-3bdb-4cc7-917c-f0cee2a7fe1e",
                       "modifier": "greater_spook",
                       "color": "131:0:147",
@@ -43073,7 +43073,6 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1635504360000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -43082,6 +43081,7 @@
                         "protection": 5,
                         "growth": 5
                       },
+                      "timestamp": 1635504360000,
                       "uuid": "1767aa59-240b-4299-a364-68892c84031c",
                       "modifier": "greater_spook",
                       "color": "124:0:139",
@@ -43418,7 +43418,6 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1672657620000,
                       "enchantments": {
                         "thorns": 3,
                         "aqua_affinity": 1,
@@ -43426,6 +43425,7 @@
                         "respiration": 3,
                         "growth": 5
                       },
+                      "timestamp": 1672657620000,
                       "uuid": "cc2428fd-6b39-475b-ac8a-3bf4d679ecb9",
                       "edition": 421,
                       "date": 1672700872340,
@@ -43676,12 +43676,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1662973020000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "timestamp": 1662973020000,
                       "uuid": "ce6e4b59-177a-46a3-80f5-16459096a663",
                       "edition": 433,
                       "date": 1663016220327,
@@ -43933,12 +43933,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1659616440000,
                       "enchantments": {
                         "protection": 5,
                         "thorns": 3,
                         "growth": 5
                       },
+                      "timestamp": 1659616440000,
                       "uuid": "934bb970-2623-476b-8ed7-74383b6fea9c",
                       "edition": 376,
                       "date": 1659616442096,
@@ -44266,7 +44266,6 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1673954460000,
                       "enchantments": {
                         "thorns": 3,
                         "feather_falling": 5,
@@ -44274,6 +44273,7 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
+                      "timestamp": 1673954460000,
                       "uuid": "a067b5bc-1eb5-4dc9-91f1-ba67b31e1df7",
                       "edition": 345,
                       "date": 1673954483952,
@@ -44455,7 +44455,7 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Carpentry Wisdom: ",
+                            "text": "Runecrafting Wisdom: ",
                             "color": "gray"
                           },
                           {
@@ -46281,7 +46281,7 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Carpentry Wisdom: ",
+                            "text": "Runecrafting Wisdom: ",
                             "color": "gray"
                           },
                           {
@@ -47609,7 +47609,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,150",
                             "color": "red"
                           }
                         ],
@@ -47861,7 +47861,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,150",
                             "color": "red"
                           }
                         ],
@@ -48112,7 +48112,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,150",
                             "color": "red"
                           }
                         ],
@@ -48363,7 +48363,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,148",
+                            "text": "11,150",
                             "color": "red"
                           }
                         ],
@@ -48575,7 +48575,7 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Carpentry Wisdom: ",
+                            "text": "Runecrafting Wisdom: ",
                             "color": "gray"
                           },
                           {
@@ -49491,7 +49491,7 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Carpentry Wisdom: ",
+                            "text": "Runecrafting Wisdom: ",
                             "color": "gray"
                           },
                           {
@@ -49509,7 +49509,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "⸙",
+                            "text": "ꕮ",
                             "color": "dark_green"
                           },
                           {
@@ -49525,7 +49525,7 @@
                             "color": "dark_gray"
                           },
                           {
-                            "text": "ꕮ",
+                            "text": "⸙",
                             "color": "dark_green"
                           }
                         ],
@@ -49847,7 +49847,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "⸙",
+                            "text": "ꕮ",
                             "color": "dark_green"
                           },
                           {
@@ -49863,7 +49863,7 @@
                             "color": "dark_gray"
                           },
                           {
-                            "text": "ꕮ",
+                            "text": "⸙",
                             "color": "dark_green"
                           }
                         ],
@@ -50052,7 +50052,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "⸙",
+                            "text": "ꕮ",
                             "color": "dark_green"
                           },
                           {
@@ -50068,7 +50068,7 @@
                             "color": "dark_gray"
                           },
                           {
-                            "text": "ꕮ",
+                            "text": "⸙",
                             "color": "dark_green"
                           }
                         ],
@@ -50230,7 +50230,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "⸙",
+                            "text": "ꕮ",
                             "color": "dark_green"
                           },
                           {
@@ -50246,7 +50246,7 @@
                             "color": "dark_gray"
                           },
                           {
-                            "text": "ꕮ",
+                            "text": "⸙",
                             "color": "dark_green"
                           }
                         ],

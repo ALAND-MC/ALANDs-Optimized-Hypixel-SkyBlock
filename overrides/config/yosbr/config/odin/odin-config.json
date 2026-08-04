@@ -368,6 +368,7 @@
       "Text Scaling": 0.45000000670552254,
       "Player Names Scaling": 0.7500000111758709,
       "Player Name Color": "#464646FF",
+      "Own Player Head": false,
       "Normal Room": "#6B3A11FF",
       "Puzzle Room": "#750085FF",
       "Trap Room": "#D87F33FF",
@@ -407,6 +408,8 @@
       "Melody Size": 1.5000000223517418,
       "Show Numbers": true,
       "First Click Protection": 350.0,
+      "Account For Server Lag": false,
+      "Lag Protection Ticks": 8.0,
       "Hide Clicked": false,
       "Resolve timeout": 600.0,
       "Debug": false,
@@ -731,6 +734,7 @@
     "enabled": false,
     "settings": {
       "Ping": 0.0,
+      "First Click Protection": false,
       "TermsimPBs": {},
       "Keybind": "key.keyboard.unknown"
     }
@@ -944,8 +948,6 @@
       "Size X": 1.0,
       "Size Y": 1.0,
       "Size Z": 1.0,
-      "Wings": false,
-      "Wings Color": "#FFFFFFFF",
       "Passcode": "odin",
       "Keybind": "key.keyboard.unknown"
     }
@@ -1098,6 +1100,7 @@
       "API URL": "https://api.odtheking.com/hypixel/",
       "Socket URL": "wss://ws.odtheking.com/",
       "Developer Message": false,
+      "First join": false,
       "Panel Settings": {
         "Dungeon": {
           "x": 10.0,
@@ -1432,6 +1435,13 @@
         "enabled": false
       },
       "Defense Color": "#55FF55FF",
+      "Vitality HUD": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": false
+      },
+      "Vitality Color": "#AA0000FF",
       "EHP HUD": {
         "x": 10,
         "y": 10,

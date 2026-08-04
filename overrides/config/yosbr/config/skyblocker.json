@@ -25,11 +25,11 @@
     "itemTooltip": {
       "enableNPCPrice": false,
       "enableGeorgePrice": false,
-      "enableMotesPrice": false,
+      "enableMotesPrice": true,
       "enableAvgBIN": false,
       "avg": "THREE_DAY",
-      "enableLowestBIN": false,
-      "enableBazaarPrice": false,
+      "enableLowestBIN": true,
+      "enableBazaarPrice": true,
       "enableCraftingCost": "OFF",
       "enableObtainedDate": false,
       "enableMuseumInfo": false,
@@ -120,7 +120,8 @@
       "enabled": true,
       "storagesPerRow": 3,
       "backpackWidth": 9,
-      "rememberSearch": false
+      "rememberSearch": true,
+      "rememberOpened": true
     },
     "radialMenu": {
       "enabled": false,
@@ -842,9 +843,9 @@
         "count": 1,
         "components": "[minecraft:dyed_color\u003d8991416]"
       },
-      "uiTitle": "Wardrobe \\([12]/2\\)",
-      "tooltip": "Wardrobe",
-      "clickEvent": "/wardrobe"
+      "uiTitle": "Loadouts \\([12]/2\\)",
+      "tooltip": "Loadouts",
+      "clickEvent": "/loadouts"
     },
     "button5": {
       "render": true,
@@ -1092,6 +1093,22 @@
         "reminderTimes": []
       },
       "Mayor Jerry": {
+        "enabled": true,
+        "reminderTimes": []
+      },
+      "Jerry\u0027s Workshop": {
+        "enabled": true,
+        "reminderTimes": []
+      },
+      "Mayor Election": {
+        "enabled": true,
+        "reminderTimes": []
+      },
+      "Harvest Feast": {
+        "enabled": true,
+        "reminderTimes": []
+      },
+      "Hoppity\u0027s Hunt": {
         "enabled": true,
         "reminderTimes": []
       }

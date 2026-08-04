@@ -30,7 +30,7 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 1489,
+              "amount": 1543,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -60,12 +60,12 @@
               "status": "CORRECT"
             },
             "MOONFLOWER": {
-              "amount": 155232,
+              "amount": 66390,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "NETHER_STALK": {
-              "amount": 70676,
+              "amount": 42145,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -740,17 +740,17 @@
               "status": "CORRECT"
             },
             "DUNG": {
-              "amount": 1345,
+              "amount": 1420,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ETHEREAL_VINE": {
-              "amount": 11127,
+              "amount": 11956,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FERMENTO": {
-              "amount": 800,
+              "amount": 844,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -760,27 +760,27 @@
               "status": "CORRECT"
             },
             "HELIANTHUS": {
-              "amount": 3,
+              "amount": 23,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HONEY_JAR": {
-              "amount": 1012,
+              "amount": 708,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JELLY": {
-              "amount": 6,
+              "amount": 200,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PLANT_MATTER": {
-              "amount": 1518,
+              "amount": 187,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CHEESE_FUEL": {
-              "amount": 2058,
+              "amount": 2127,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -910,7 +910,7 @@
               "status": "CORRECT"
             },
             "BIOFUEL": {
-              "amount": 27,
+              "amount": 29,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1770,7 +1770,7 @@
               "status": "CORRECT"
             },
             "AGGOURDIAN": {
-              "amount": 7,
+              "amount": 6,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1785,7 +1785,7 @@
               "status": "CORRECT"
             },
             "CANE_KNOT": {
-              "amount": 0,
+              "amount": 8,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1795,12 +1795,12 @@
               "status": "CORRECT"
             },
             "CORNUCOPIA": {
-              "amount": 1212,
+              "amount": 332,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CRYSTALIZED_MOONLIGHT": {
-              "amount": 3,
+              "amount": 13,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1810,12 +1810,12 @@
               "status": "CORRECT"
             },
             "DESIGNER_COFFEE_BEANS": {
-              "amount": 2,
+              "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FEASTFUNGUS": {
-              "amount": 7281,
+              "amount": 2865,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1830,7 +1830,7 @@
               "status": "CORRECT"
             },
             "SALTED_SUNFLOWER_SEEDS": {
-              "amount": 1,
+              "amount": 7,
               "lastChange": 0,
               "status": "CORRECT"
             },

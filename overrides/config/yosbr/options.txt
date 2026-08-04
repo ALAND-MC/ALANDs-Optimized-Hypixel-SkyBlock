@@ -10,7 +10,7 @@ forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.5
 fovEffectScale:0.0
-darknessEffectScale:1.0
+darknessEffectScale:0.0
 glintSpeed:0.5
 glintStrength:0.75
 graphicsPreset:"custom"
@@ -64,7 +64,7 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Skyblock Dark UI 1.16 for 1.21.11+.zip","file/Dark Skyblock v2.0c.cats.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","file/§6§lVanilla Tweaks 26.1.x.zip"]
+resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Skyblock Dark UI 1.17 for 1.21.11+.zip","file/Dark Skyblock v2.0c.cats.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","file/§6§lVanilla Tweaks 26.1.x.zip"]
 incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip"]
 lastServer:
 lang:en_us
@@ -175,6 +175,7 @@ key_key.stfu.toggle_music:key.keyboard.unknown
 key_customscoreboard.keybinds.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
+key_iconographic.keybind.toggle:key.keyboard.unknown
 key_key.tooltipscroll.moveUp:key.keyboard.unknown
 key_key.tooltipscroll.moveDown:key.keyboard.unknown
 key_key.tooltipscroll.reset:key.keyboard.unknown
@@ -202,10 +203,10 @@ key_key.skyblocker.loadout.09:key.keyboard.9
 key_key.skyblocker.loadout.10:key.keyboard.0
 key_key.skyblocker.loadout.11:key.keyboard.minus
 key_key.skyblocker.loadout.12:key.keyboard.equal
+key_key.skyblocker.itemProtection:key.keyboard.unknown
 key_key.skyblocker.valueBreadownPopup:key.keyboard.unknown
 key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
 key_key.skyblocker.itemPriceLookup:key.keyboard.g
-key_key.skyblocker.itemProtection:key.keyboard.unknown
 key_key.skyblocker.slottext:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.independent:key.keyboard.unknown
 key_key.skyblocker.toggleA:key.keyboard.unknown
