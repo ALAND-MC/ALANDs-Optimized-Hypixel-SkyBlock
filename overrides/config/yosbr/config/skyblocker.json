@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "general": {
     "enableTips": false,
     "acceptReparty": true,
@@ -221,9 +221,9 @@
         "sunset"
       ],
       "auctionHistory": [
+        "Rosewater Flask",
         "Cluck the Fish",
-        "Century Cake of the Seven Seas",
-        "Long-Expired Century Cake"
+        "Century Cake of the Seven Seas"
       ],
       "museumHistory": [
         "Gemstone Gauntlet",
@@ -306,31 +306,6 @@
       "enableFishingTimer": false,
       "hideOtherPlayersRods": true,
       "enableFishingHud": false,
-      "fishingHudEnabledLocations": [
-        "PRIVATE_ISLAND",
-        "GARDEN",
-        "HUB",
-        "THE_FARMING_ISLAND",
-        "THE_PARK",
-        "SPIDERS_DEN",
-        "BLAZING_FORTRESS",
-        "THE_END",
-        "CRIMSON_ISLE",
-        "GOLD_MINE",
-        "DEEP_CAVERNS",
-        "DWARVEN_MINES",
-        "BACKWATER_BAYOU",
-        "DUNGEON_HUB",
-        "WINTER_ISLAND",
-        "THE_RIFT",
-        "DARK_AUCTION",
-        "CRYSTAL_HOLLOWS",
-        "DUNGEON",
-        "KUUDRAS_HOLLOW",
-        null,
-        "GALATEA",
-        "UNKNOWN"
-      ],
       "enableSeaCreatureCounter": false,
       "fishingHookDisplay": "HUD",
       "onlyShowHudInBarn": false,
@@ -499,6 +474,9 @@
     "princeMessage": {
       "sendPrinceMessage": false
     },
+    "batMessage": {
+      "sendBatMessage": true
+    },
     "doorHighlight": {
       "enableDoorHighlight": true,
       "doorHighlightType": "OUTLINE"
@@ -533,8 +511,8 @@
     }
   },
   "foraging": {
-    "galatea": {
-      "enableForestNodeHelper": false,
+    "enableTreeFelledNotification": true,
+    "moongladeMarsh": {
       "solveForestTemplePuzzle": true,
       "enableLushlilacHighlighter": false,
       "enableSeaLumiesHighlighter": false,
@@ -542,6 +520,11 @@
       "enableTreeBreakProgress": false,
       "enableTunerSolver": false,
       "enableSweepDetailsWidget": false
+    },
+    "torrhusCanyon": {
+      "solveDesertTemplePuzzles": true,
+      "enableRubyVeilshroomHighlighter": false,
+      "enableHoneyhiveHighlighter": false
     },
     "sweepOverlay": {
       "enableSweepOverlay": false,
@@ -673,14 +656,47 @@
     "huntingBox": {
       "enabled": false
     },
-    "huntingMobs": {
-      "silencePhantoms": false,
-      "highlightHideonleaf": false,
+    "moongladeMobs": {
+      "silencePhantoms": true,
+      "highlightHideonleaf": true,
       "hideonleafGlowColor": -256,
       "highlightShellwise": false,
       "shellwiseGlowColor": -38881,
       "highlightCoralot": false,
       "coralotGlowColor": -16776961
+    },
+    "torrhusMobs": {
+      "highlightHideonsun": true,
+      "hideonsunHighlightColor": -16711681,
+      "highlightBlueJay": true,
+      "blueJayHighlightColor": -16711936
+    },
+    "safari": {
+      "silencePhantoms": true,
+      "highlightSparklingCritters": true,
+      "sparklingCritterHighlightColor": -28672
+    },
+    "cavernBiome": {
+      "highlightRockmiteMounds": true,
+      "rockmiteMoundHighlightColor": -6635315
+    },
+    "forestBiome": {
+      "highlightHideonfloor": true,
+      "hideonfloorHighlightColor": -65281
+    },
+    "hauntedBiome": {
+      "highlightDuplico": true,
+      "duplicoHighlightColor": -65536,
+      "highlightBloodbat": true,
+      "bloodbatHighlightColor": -4194560,
+      "ignoreSlotLockingForShiningCoins": false
+    },
+    "icyBiome": {
+      "hideColdOverlay": true
+    },
+    "floorDrops": {
+      "highlightFloorDrops": true,
+      "floorDropHighlightColor": -425955
     },
     "lassoHud": {
       "enabled": false

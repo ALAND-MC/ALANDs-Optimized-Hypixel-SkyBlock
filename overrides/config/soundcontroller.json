@@ -3,6 +3,22 @@
   "subtitlesEnabled": false,
   "sounds": [
     {
+      "soundId": "minecraft:block.anvil.destroy",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:block.anvil.land",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:block.anvil.place",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:block.anvil.use",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:block.note_block.pling",
       "volume": 0.5
     },
@@ -23,6 +39,14 @@
       "volume": 0.1
     },
     {
+      "soundId": "minecraft:entity.allay.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.allay.hurt",
+      "volume": 0.25
+    },
+    {
       "soundId": "minecraft:entity.arrow.hit",
       "volume": 0.1
     },
@@ -33,6 +57,22 @@
     {
       "soundId": "minecraft:entity.arrow.shoot",
       "volume": 0.1
+    },
+    {
+      "soundId": "minecraft:entity.bee.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.bee.hurt",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.bee.loop",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.bee.loop_aggressive",
+      "volume": 0.25
     },
     {
       "soundId": "minecraft:entity.blaze.shoot",
@@ -159,6 +199,22 @@
       "volume": 0.01
     },
     {
+      "soundId": "minecraft:entity.nautilus.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.nautilus.death_land",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.nautilus.hurt",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.nautilus.hurt_land",
+      "volume": 0.25
+    },
+    {
       "soundId": "minecraft:entity.phantom.ambient",
       "volume": 0.25
     },
@@ -167,8 +223,48 @@
       "volume": 0.75
     },
     {
+      "soundId": "minecraft:entity.stray.ambient",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.stray.death",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.stray.hurt",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.stray.step",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.vex.charge",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.vex.death",
+      "volume": 0.25
+    },
+    {
+      "soundId": "minecraft:entity.warden.dig",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:entity.warden.emerge",
       "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.warden.roar",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:entity.warden.sonic_boom",
+      "volume": 0.75
+    },
+    {
+      "soundId": "minecraft:entity.warden.sonic_charge",
+      "volume": 0.75
     },
     {
       "soundId": "minecraft:entity.wither.ambient",
@@ -209,6 +305,10 @@
     {
       "soundId": "minecraft:item.totem.use",
       "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:item.trident.thunder",
+      "volume": 0.25
     },
     {
       "soundId": "minecraft:ui.toast.challenge_complete",

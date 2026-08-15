@@ -232,7 +232,7 @@
     "enabled": true
   },
   "middleClickOverride": {
-    "enabled": true
+    "enabled": false
   },
   "noFrontPerspective": {
     "enabled": false
@@ -241,7 +241,7 @@
     "enabled": false
   },
   "middleClickFix": {
-    "enabled": true
+    "enabled": false
   },
   "noPearlCooldown": {
     "enabled": false

@@ -1,1 +1,382 @@
-{}
+{
+  "phanpyre": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "cod": {
+    "skill": "Fishing",
+    "rarity": "COMMON"
+  },
+  "verdant": {
+    "skill": "Fishing",
+    "rarity": "COMMON"
+  },
+  "chill": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "voracious spider": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "birries": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "tank zombie": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "zealot": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "coralot": {
+    "skill": "Fishing",
+    "rarity": "COMMON"
+  },
+  "harpy": {
+    "skill": "Hunting",
+    "rarity": "COMMON"
+  },
+  "mudworm": {
+    "skill": "Farming",
+    "rarity": "COMMON"
+  },
+  "lotusfish": {
+    "skill": "Fishing",
+    "rarity": "COMMON"
+  },
+  "golden ghoul": {
+    "skill": "Global",
+    "rarity": "COMMON"
+  },
+  "azure": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "yog": {
+    "skill": "Global",
+    "rarity": "COMMON"
+  },
+  "cretan bull": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "groundhog": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "timil": {
+    "skill": "Fishing",
+    "rarity": "COMMON"
+  },
+  "magma slug": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "solar": {
+    "skill": "Foraging",
+    "rarity": "UNCOMMON"
+  },
+  "ember": {
+    "skill": "Foraging",
+    "rarity": "UNCOMMON"
+  },
+  "glacite walker": {
+    "skill": "Global",
+    "rarity": "RARE"
+  },
+  "minotaur": {
+    "skill": "Combat",
+    "rarity": "RARE"
+  },
+  "sphinx": {
+    "skill": "Combat",
+    "rarity": "EPIC"
+  },
+  "king minos": {
+    "skill": "Combat",
+    "rarity": "EPIC"
+  },
+  "chameleon": {
+    "skill": "Hunting",
+    "rarity": "LEGENDARY"
+  },
+  "spike": {
+    "skill": "Combat",
+    "rarity": "LEGENDARY"
+  },
+  "cinderbat": {
+    "skill": "Global",
+    "rarity": "LEGENDARY"
+  },
+  "firefox": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "bunbun": {
+    "skill": "Global",
+    "rarity": "COMMON"
+  },
+  "honeybuzz": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "sepialot": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "dung beetle": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "hideonsun": {
+    "skill": "Mining",
+    "rarity": "COMMON"
+  },
+  "blue jay": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "praying mantis": {
+    "skill": "Combat",
+    "rarity": "UNCOMMON"
+  },
+  "sprawl": {
+    "skill": "Combat",
+    "rarity": "UNCOMMON"
+  },
+  "stingray": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "puck": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "torrid": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "giant isopod": {
+    "skill": "Fishing",
+    "rarity": "EPIC"
+  },
+  "queen bee": {
+    "skill": "Foraging",
+    "rarity": "EPIC"
+  },
+  "beeheemoth": {
+    "skill": "Foraging",
+    "rarity": "EPIC"
+  },
+  "mountain goat": {
+    "skill": "Global",
+    "rarity": "EPIC"
+  },
+  "haggard": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "brineling": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "water snake": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "silkbreeze": {
+    "skill": "Combat",
+    "rarity": "EPIC"
+  },
+  "pollendart": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "field mouse": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "parched": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "drybark": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "grizzly bear": {
+    "skill": "Foraging",
+    "rarity": "LEGENDARY"
+  },
+  "honeyhog": {
+    "skill": "Foraging",
+    "rarity": "COMMON"
+  },
+  "hummingbird": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "woodlouse": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "hewver": {
+    "skill": "Combat",
+    "rarity": "RARE"
+  },
+  "stag beetle": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "dustybit": {
+    "skill": "Hunting",
+    "rarity": "UNCOMMON"
+  },
+  "hivethief": {
+    "skill": "Combat",
+    "rarity": "RARE"
+  },
+  "murkbat": {
+    "skill": "Global",
+    "rarity": "RARE"
+  },
+  "dumpster diver": {
+    "skill": "Combat",
+    "rarity": "COMMON"
+  },
+  "honeymite": {
+    "skill": "Mining",
+    "rarity": "UNCOMMON"
+  },
+  "dreadwing": {
+    "skill": "Global",
+    "rarity": "RARE"
+  },
+  "osedax": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "red panda": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "badger": {
+    "skill": "Hunting",
+    "rarity": "RARE"
+  },
+  "black widow": {
+    "skill": "Combat",
+    "rarity": "RARE"
+  },
+  "wolverine": {
+    "skill": "Combat",
+    "rarity": "EPIC"
+  },
+  "shrieky tiki": {
+    "skill": "Combat",
+    "rarity": "UNCOMMON"
+  },
+  "dragonfly": {
+    "skill": "Farming",
+    "rarity": "EPIC"
+  },
+  "honey badger": {
+    "skill": "Hunting",
+    "rarity": "UNCOMMON"
+  },
+  "cheeky tiki": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "mossybit": {
+    "skill": "Hunting",
+    "rarity": "UNCOMMON"
+  },
+  "silentdepth": {
+    "skill": "Mining",
+    "rarity": "RARE"
+  },
+  "thyst": {
+    "skill": "Mining",
+    "rarity": "RARE"
+  },
+  "pangolin": {
+    "skill": "Foraging",
+    "rarity": "RARE"
+  },
+  "joydive": {
+    "skill": "Global",
+    "rarity": "RARE"
+  },
+  "giant water bug": {
+    "skill": "Combat",
+    "rarity": "RARE"
+  },
+  "woodchucker": {
+    "skill": "Global",
+    "rarity": "UNCOMMON"
+  },
+  "woodpecker": {
+    "skill": "Foraging",
+    "rarity": "UNCOMMON"
+  },
+  "cricket": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "sneaky tiki": {
+    "skill": "Fishing",
+    "rarity": "UNCOMMON"
+  },
+  "rabbit mafioso": {
+    "skill": "Global",
+    "rarity": "COMMON"
+  },
+  "zombuddy": {
+    "skill": "Farming",
+    "rarity": "RARE"
+  },
+  "locust": {
+    "skill": "Farming",
+    "rarity": "COMMON"
+  },
+  "firefly": {
+    "skill": "Farming",
+    "rarity": "EPIC"
+  },
+  "moth": {
+    "skill": "Farming",
+    "rarity": "UNCOMMON"
+  },
+  "hawk": {
+    "skill": "Foraging",
+    "rarity": "UNCOMMON"
+  },
+  "nozzlenose": {
+    "skill": "Hunting",
+    "rarity": "RARE"
+  },
+  "seashine": {
+    "skill": "Fishing",
+    "rarity": "RARE"
+  },
+  "goldolot": {
+    "skill": "Fishing",
+    "rarity": "RARE"
+  },
+  "rabbit neighbor": {
+    "skill": "Global",
+    "rarity": "RARE"
+  },
+  "murderwing": {
+    "skill": "Global",
+    "rarity": "EPIC"
+  },
+  "ant": {
+    "skill": "Hunting",
+    "rarity": "COMMON"
+  }
+}

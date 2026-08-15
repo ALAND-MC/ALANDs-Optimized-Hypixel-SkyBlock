@@ -55,8 +55,8 @@
             "disabled": false
           },
           "Essence Fortune": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Maniac Slicer": {
@@ -71,7 +71,7 @@
           },
           "Ricochet": {
             "level": 1,
-            "unlocked": false,
+            "unlocked": true,
             "disabled": false
           },
           "Half Full": {
@@ -121,27 +121,27 @@
           },
           "250 Gifts": {
             "level": 1,
-            "unlocked": false,
+            "unlocked": true,
             "disabled": false
           },
           "Foraging Fortune": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Sweep": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Forest Strength": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Hunter's Luck": {
-            "level": 1,
-            "unlocked": false,
+            "level": 31,
+            "unlocked": true,
             "disabled": false
           },
           "Forest Speed": {
@@ -156,7 +156,7 @@
           },
           "Iron Lungs": {
             "level": 1,
-            "unlocked": false,
+            "unlocked": true,
             "disabled": false
           },
           "Forest Fisher": {
@@ -166,17 +166,17 @@
           },
           "Timber": {
             "level": 1,
-            "unlocked": false,
+            "unlocked": true,
             "disabled": false
           },
           "Starlyn Supreme": {
-            "level": 1,
-            "unlocked": false,
+            "level": 91,
+            "unlocked": true,
             "disabled": false
           },
           "Two-for-one": {
-            "level": 1,
-            "unlocked": false,
+            "level": 91,
+            "unlocked": true,
             "disabled": false
           },
           "Free Trial": {
@@ -186,7 +186,7 @@
           }
         },
         "tokens": 0,
-        "tier": 7
+        "tier": 8
       },
       "Mango": {
         "perks": {

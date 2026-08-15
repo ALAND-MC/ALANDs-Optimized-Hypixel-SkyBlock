@@ -46,6 +46,7 @@
   "dhub": false,
   "taylor": false,
   "tower": false,
+  "torrhus": false,
   "wiz": false,
   "glacite": false,
   "dh": false,
@@ -86,6 +87,7 @@
   "top": true,
   "howl": true,
   "bayou": false,
+  "safari": false,
   "the_rift": false,
   "wasteland": true
 }

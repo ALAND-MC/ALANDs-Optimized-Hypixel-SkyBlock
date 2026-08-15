@@ -20,7 +20,7 @@
               "status": "CORRECT"
             },
             "CARROT_ITEM": {
-              "amount": 85,
+              "amount": 15370,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -30,7 +30,7 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 1543,
+              "amount": 86,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -65,7 +65,7 @@
               "status": "CORRECT"
             },
             "NETHER_STALK": {
-              "amount": 42145,
+              "amount": 89419,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -85,7 +85,7 @@
               "status": "CORRECT"
             },
             "RED_MUSHROOM": {
-              "amount": 15131,
+              "amount": 15139,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -315,7 +315,7 @@
               "status": "CORRECT"
             },
             "AGATHA_COUPON": {
-              "amount": 7840,
+              "amount": 600,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -740,17 +740,17 @@
               "status": "CORRECT"
             },
             "DUNG": {
-              "amount": 1420,
+              "amount": 1632,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ETHEREAL_VINE": {
-              "amount": 11956,
+              "amount": 13746,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FERMENTO": {
-              "amount": 844,
+              "amount": 927,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -760,27 +760,27 @@
               "status": "CORRECT"
             },
             "HELIANTHUS": {
-              "amount": 23,
+              "amount": 45,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HONEY_JAR": {
-              "amount": 708,
+              "amount": 573,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JELLY": {
-              "amount": 200,
+              "amount": 253,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PLANT_MATTER": {
-              "amount": 187,
+              "amount": 409,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CHEESE_FUEL": {
-              "amount": 2127,
+              "amount": 2278,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -910,7 +910,7 @@
               "status": "CORRECT"
             },
             "BIOFUEL": {
-              "amount": 29,
+              "amount": 35,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1125,22 +1125,22 @@
               "status": "CORRECT"
             },
             "COMPACTED_MOONFLOWER": {
-              "amount": 0,
+              "amount": 6,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "COMPACTED_SUNFLOWER": {
-              "amount": 1023,
+              "amount": 1047,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "COMPACTED_WILD_ROSE": {
-              "amount": 253,
+              "amount": 259,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_BAKED_POTATO": {
-              "amount": 60,
+              "amount": 70,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1150,67 +1150,67 @@
               "status": "CORRECT"
             },
             "ENCHANTED_BROWN_MUSHROOM": {
-              "amount": 26065,
+              "amount": 33597,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HUGE_MUSHROOM_1": {
-              "amount": 266,
+              "amount": 272,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_CACTUS": {
-              "amount": 12,
+              "amount": 30,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_CACTUS_GREEN": {
-              "amount": 21970,
+              "amount": 29935,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_CARROT": {
-              "amount": 106353,
+              "amount": 131113,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_COCOA": {
-              "amount": 107510,
+              "amount": 136758,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_COOKIE": {
-              "amount": 63,
+              "amount": 75,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_GOLDEN_CARROT": {
-              "amount": 120,
+              "amount": 140,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HAY_BALE": {
-              "amount": 456,
+              "amount": 336,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_MELON_BLOCK": {
-              "amount": 120,
+              "amount": 128,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_MELON": {
-              "amount": 36134,
+              "amount": 50291,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_MOONFLOWER": {
-              "amount": 12204,
+              "amount": 16114,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_NETHER_STALK": {
-              "amount": 3068,
+              "amount": 80303,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1220,22 +1220,22 @@
               "status": "CORRECT"
             },
             "ENCHANTED_POTATO": {
-              "amount": 3496,
+              "amount": 12859,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_PUMPKIN": {
-              "amount": 38977,
+              "amount": 43614,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_RED_MUSHROOM": {
-              "amount": 27869,
+              "amount": 35499,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HUGE_MUSHROOM_2": {
-              "amount": 334,
+              "amount": 346,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1245,37 +1245,37 @@
               "status": "CORRECT"
             },
             "ENCHANTED_SUGAR": {
-              "amount": 11662,
+              "amount": 20918,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_SUGAR_CANE": {
-              "amount": 12,
+              "amount": 16,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_SUNFLOWER": {
-              "amount": 45126,
+              "amount": 47360,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WHEAT": {
-              "amount": 17389,
+              "amount": 20035,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_WILD_ROSE": {
-              "amount": 133567,
+              "amount": 142893,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MUTANT_NETHER_STALK": {
-              "amount": 82,
+              "amount": 1207,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "POLISHED_PUMPKIN": {
-              "amount": 136,
+              "amount": 145,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1620,12 +1620,12 @@
               "status": "CORRECT"
             },
             "DEEP_ROOT": {
-              "amount": 245,
+              "amount": 252,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FIG_LOG": {
-              "amount": 33473,
+              "amount": 122173,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1635,7 +1635,7 @@
               "status": "CORRECT"
             },
             "GILL_MEMBRANE": {
-              "amount": 258,
+              "amount": 259,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1650,17 +1650,17 @@
               "status": "CORRECT"
             },
             "LUSHLILAC": {
-              "amount": 18555,
+              "amount": 18787,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MANGROVE_LOG": {
-              "amount": 14910,
+              "amount": 54239,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "LOG": {
-              "amount": 497,
+              "amount": 567,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1670,7 +1670,7 @@
               "status": "CORRECT"
             },
             "SEA_LUMIES": {
-              "amount": 41765,
+              "amount": 106,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1685,7 +1685,7 @@
               "status": "CORRECT"
             },
             "STARLYN_PRIZE": {
-              "amount": 7,
+              "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1695,7 +1695,7 @@
               "status": "CORRECT"
             },
             "STRETCHING_STICKS": {
-              "amount": 256,
+              "amount": 329,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1705,12 +1705,12 @@
               "status": "CORRECT"
             },
             "TENDER_WOOD": {
-              "amount": 5477,
+              "amount": 6075,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "VINESAP": {
-              "amount": 11125,
+              "amount": 11285,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1770,67 +1770,67 @@
               "status": "CORRECT"
             },
             "AGGOURDIAN": {
-              "amount": 6,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "BOTROOT": {
-              "amount": 530,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "CACTUS_FLOWER": {
-              "amount": 0,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "CANE_KNOT": {
               "amount": 8,
               "lastChange": 0,
               "status": "CORRECT"
             },
-            "CARROT_ZEST": {
-              "amount": 1,
+            "BOTROOT": {
+              "amount": 533,
               "lastChange": 0,
               "status": "CORRECT"
             },
-            "CORNUCOPIA": {
-              "amount": 332,
+            "CACTUS_FLOWER": {
+              "amount": 9,
               "lastChange": 0,
               "status": "CORRECT"
             },
-            "CRYSTALIZED_MOONLIGHT": {
-              "amount": 13,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "DEEPFRIES": {
-              "amount": 0,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "DESIGNER_COFFEE_BEANS": {
+            "CANE_KNOT": {
               "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
-            "FEASTFUNGUS": {
-              "amount": 2865,
-              "lastChange": 0,
-              "status": "CORRECT"
-            },
-            "FLORAL_GELATIN": {
+            "CARROT_ZEST": {
               "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
-            "MELON_JUICE": {
+            "CORNUCOPIA": {
               "amount": 1,
               "lastChange": 0,
               "status": "CORRECT"
             },
+            "CRYSTALIZED_MOONLIGHT": {
+              "amount": 4,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DEEPFRIES": {
+              "amount": 1,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DESIGNER_COFFEE_BEANS": {
+              "amount": 6,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FEASTFUNGUS": {
+              "amount": 4,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLORAL_GELATIN": {
+              "amount": 9,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MELON_JUICE": {
+              "amount": 5,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
             "SALTED_SUNFLOWER_SEEDS": {
-              "amount": 7,
+              "amount": 8,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2570,47 +2570,47 @@
               "status": "CORRECT"
             },
             "ENCHANTED_ACACIA_LOG": {
-              "amount": 49924,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_BIRCH_LOG": {
-              "amount": 49920,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_DARK_OAK_LOG": {
-              "amount": 50000,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_FIG_LOG": {
-              "amount": 12758,
+              "amount": 758,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_JUNGLE_LOG": {
-              "amount": 52560,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_MANGROVE_LOG": {
-              "amount": 26619,
+              "amount": 786,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_OAK_LOG": {
-              "amount": 49816,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_SEA_LUMIES": {
-              "amount": 642,
+              "amount": 4,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_SPRUCE_LOG": {
-              "amount": 49920,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2625,12 +2625,67 @@
               "status": "CORRECT"
             },
             "FIGSTONE": {
-              "amount": 0,
+              "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MANGCORE": {
-              "amount": 33,
+              "amount": 56,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_HELIX_LOG": {
+              "amount": 170,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_HONEYCOMB": {
+              "amount": 231,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_HONEYCOMB_BLOCK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENCHANTED_RUBY_VEILSHROOM": {
+              "amount": 29,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HELIXIS": {
+              "amount": 36,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "VEILSHROOM_BUNCH": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HELIX_LOG": {
+              "amount": 86718,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HONEYCOMB": {
+              "amount": 3788,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MIRIA_PRIZE": {
+              "amount": 2,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "RUBY_VEILSHROOM": {
+              "amount": 276,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MIRIA_COUPON": {
+              "amount": 359,
               "lastChange": 0,
               "status": "CORRECT"
             }

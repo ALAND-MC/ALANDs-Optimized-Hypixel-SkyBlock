@@ -1534,11 +1534,6 @@
           "bestFriend": false
         },
         {
-          "name": "OwletSin",
-          "uuid": "53b37d9e-92ab-4035-8506-0bc4a2f4f915",
-          "bestFriend": false
-        },
-        {
           "name": "SamMineO",
           "uuid": "47747957-fdf7-46ca-b98e-7b98f6482f68",
           "bestFriend": false
@@ -2468,6 +2463,15 @@
         {
           "name": "fear5s",
           "uuid": "4ff3aabd-1eea-417a-ba05-371435f54cbc",
+          "bestFriend": false
+        },
+        {
+          "name": "AltfragenKaiser",
+          "uuid": "53b37d9e-92ab-4035-8506-0bc4a2f4f915",
+          "bestFriend": false
+        },
+        {
+          "name": "IronmeowTransFem",
           "bestFriend": false
         }
       ]

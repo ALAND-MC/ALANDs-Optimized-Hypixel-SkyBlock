@@ -50,6 +50,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Ability: Party Time! ",
@@ -203,6 +217,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -390,6 +418,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -562,6 +604,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -695,6 +751,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -849,6 +919,20 @@
                     {
                       "text": "(+0.5)",
                       "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -1026,6 +1110,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Apply a natural regen tick when you",
@@ -1183,6 +1281,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -1518,6 +1630,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -1865,6 +1991,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -1969,6 +2109,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -2114,6 +2268,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -2264,6 +2432,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -2390,6 +2572,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+44",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -2399,12 +2595,8 @@
                       "color": "gray"
                     },
                     {
-                      "text": "Magical Power ",
+                      "text": "Accessory",
                       "color": "gold"
-                    },
-                    {
-                      "text": "in",
-                      "color": "gray"
                     }
                   ],
                   "italic": false
@@ -2413,7 +2605,11 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "your ",
+                      "text": "Power ",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "in your ",
                       "color": "gray"
                     },
                     {
@@ -2536,6 +2732,20 @@
                     {
                       "text": "(+0.5)",
                       "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -2714,6 +2924,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -2818,6 +3042,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -2963,6 +3201,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -3145,6 +3397,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -3323,6 +3589,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -3445,6 +3725,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -3594,6 +3888,20 @@
                     {
                       "text": "(+0.5)",
                       "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -3763,6 +4071,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -3942,6 +4264,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Automatically turns certain materials",
@@ -4076,6 +4412,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Automatically delete specific items on",
@@ -4206,6 +4556,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -4355,6 +4719,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -4497,6 +4875,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -4506,7 +4898,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+3 Hunter Fortune",
+                      "text": "+3 Hunting Fortune",
                       "color": "light_purple"
                     },
                     {
@@ -4625,6 +5017,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -4771,6 +5177,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -4969,6 +5389,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -5141,6 +5575,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -5293,6 +5741,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -5456,6 +5918,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Why are we still here? Just to",
@@ -5583,6 +6059,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -5737,6 +6227,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -5880,6 +6384,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+22",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -6014,6 +6532,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "B.I.N.G.O.",
@@ -6122,6 +6654,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -6264,6 +6810,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -6392,6 +6952,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -6579,6 +7153,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -6683,6 +7271,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -6805,6 +7407,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -6964,6 +7580,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -7146,6 +7776,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -7276,6 +7920,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -7446,6 +8104,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -7573,6 +8245,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -7696,6 +8382,20 @@
                     {
                       "text": "(+0.5)",
                       "color": "dark_gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -7873,6 +8573,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "A perfectly fine tooth, besides its",
@@ -8006,6 +8720,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -8155,6 +8883,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -8313,6 +9055,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -8322,7 +9078,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "7,370⸎ Soulflow",
+                      "text": "7,365⸎ Soulflow",
                       "color": "dark_aqua"
                     }
                   ],
@@ -8510,6 +9266,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -8558,8 +9328,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✧ It is certain.",
-                  "color": "gray",
+                  "text": "✦ It is certain.",
+                  "color": "green",
                   "italic": false
                 },
                 {
@@ -8690,8 +9460,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✦ My sources say no.",
-                  "color": "green",
+                  "text": "✧ My sources say no.",
+                  "color": "gray",
                   "italic": false
                 },
                 {
@@ -8812,6 +9582,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Tracks a counter for each ",
                       "color": "gray"
                     },
@@ -8884,7 +9669,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "1,191",
+                      "text": "1,265",
                       "color": "red"
                     }
                   ],
@@ -8954,7 +9739,7 @@
               },
               "minecraft:custom_data": {
                 "soulbound": 1,
-                "runic_kills": 1191,
+                "runic_kills": 1265,
                 "giftbag_claim": 400,
                 "id": "RUNEBOOK",
                 "uuid": "8f66906e-ab8d-4844-a62c-332ea8ba6592"
@@ -9022,6 +9807,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -9168,6 +9967,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -9256,6 +10069,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "While in the rift:",
                   "color": "gray",
@@ -9451,6 +10279,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -9557,6 +10399,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -9659,6 +10515,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -9812,6 +10682,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -10011,6 +10895,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Fried Frozen?! There is no such",
@@ -10174,6 +11072,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -10411,6 +11323,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -10528,6 +11454,20 @@
                     {
                       "text": "+0.5",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -10664,6 +11604,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -10829,6 +11784,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -10914,6 +11883,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -11113,6 +12097,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -11238,6 +12236,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -11359,6 +12371,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Grants ",
                       "color": "gray"
                     },
@@ -11473,6 +12500,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Increases the duration of any",
                   "color": "gray",
                   "italic": false
@@ -11586,6 +12628,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Grants ",
                       "color": "gray"
                     },
@@ -11692,6 +12749,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Increases how high you can fall",
                   "color": "gray",
@@ -11829,6 +12901,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Reduces the effect of ",
                       "color": "gray"
                     },
@@ -11938,6 +13025,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -12053,6 +13155,20 @@
                     {
                       "text": "+3",
                       "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -12178,6 +13294,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Reduces the damage taken from ",
                       "color": "gray"
                     },
@@ -12297,6 +13428,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -12438,6 +13584,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -12535,6 +13695,20 @@
                     {
                       "text": "+3",
                       "color": "dark_red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -12647,6 +13821,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Increases the base stats of your",
                   "color": "gray",
                   "italic": false
@@ -12710,7 +13899,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "60,267",
+                      "text": "60,275",
                       "color": "green"
                     }
                   ],
@@ -12830,6 +14019,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Gain ",
                       "color": "gray"
                     },
@@ -12921,6 +14125,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -13035,6 +14254,20 @@
                     {
                       "text": "+1",
                       "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -13171,6 +14404,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -13297,6 +14544,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Whenever you gain bits, grants a ",
                       "color": "gray"
                     },
@@ -13413,6 +14675,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -13500,6 +14776,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Increases your chance of dropping",
                   "color": "gray",
@@ -13643,6 +14934,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -13728,6 +15033,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -13867,6 +15187,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -13960,8 +15294,22 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+30",
+                      "text": "+15",
                       "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -14129,6 +15477,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -14214,6 +15576,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -14363,6 +15740,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Grants ",
                       "color": "gray"
                     },
@@ -14505,6 +15897,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Stinks up your entire accessory bag",
@@ -14606,6 +16012,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -14718,6 +16139,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -14840,6 +16276,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -15006,6 +16457,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Grants a random ",
                       "color": "gray"
                     },
@@ -15137,6 +16603,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "While on your ",
                       "color": "gray"
                     },
@@ -15165,8 +16646,8 @@
                   "text": " ",
                   "extra": [
                     {
-                      "text": "✧ ",
-                      "color": "dark_gray"
+                      "text": "✦ ",
+                      "color": "green"
                     },
                     {
                       "text": "Spring",
@@ -15197,8 +16678,8 @@
                   "text": " ",
                   "extra": [
                     {
-                      "text": "✦ ",
-                      "color": "green"
+                      "text": "✧ ",
+                      "color": "dark_gray"
                     },
                     {
                       "text": "Summer",
@@ -15395,6 +16876,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Increases your chances of finding",
                   "color": "gray",
                   "italic": false
@@ -15554,6 +17050,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -15651,6 +17161,20 @@
                     {
                       "text": "+2",
                       "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -15778,6 +17302,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Provides immunity against damage",
                   "color": "gray",
                   "italic": false
@@ -15893,6 +17432,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Increase the item pick up range by",
                   "color": "gray",
@@ -16027,6 +17581,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Listen, it's for real chums of Moby,",
@@ -16137,6 +17705,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -16222,6 +17804,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -16370,6 +17967,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Increases your ",
                       "color": "gray"
                     },
@@ -16434,12 +18046,30 @@
                       "color": "green"
                     },
                     {
+                      "text": ", ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Moonglade",
+                      "color": "dark_green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Marsh",
+                      "color": "dark_green"
+                    },
+                    {
                       "text": ", and ",
                       "color": "gray"
                     },
                     {
-                      "text": "Galatea",
-                      "color": "dark_green"
+                      "text": "Torrhus Canyon",
+                      "color": "gold"
                     },
                     {
                       "text": ".",
@@ -16549,6 +18179,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Works while in Accessory Bag!",
@@ -16646,6 +18290,20 @@
                     {
                       "text": "+1",
                       "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -16767,6 +18425,20 @@
                     {
                       "text": "+2",
                       "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -16911,10 +18583,25 @@
               },
               "minecraft:custom_name": {
                 "text": "Farmer Orb",
-                "color": "blue",
+                "color": "green",
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Increases the regrowth rate of",
                   "color": "gray",
@@ -16955,19 +18642,19 @@
                   "extra": [
                     {
                       "text": "a",
-                      "color": "blue",
+                      "color": "green",
                       "bold": true,
                       "obfuscated": true
                     },
                     " ",
                     {
-                      "text": "RARE ACCESSORY ",
-                      "color": "blue",
+                      "text": "UNCOMMON ACCESSORY ",
+                      "color": "green",
                       "bold": true
                     },
                     {
                       "text": "a",
-                      "color": "blue",
+                      "color": "green",
                       "bold": true,
                       "obfuscated": true
                     }
@@ -16998,7 +18685,7 @@
                 "originTag": "CRAFTING_GRID_COLLECT",
                 "rarity_upgrades": 1
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:rare"
+              "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
             }
           },
           "page": 3,
@@ -17031,6 +18718,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -20005,6 +21707,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Saves your coins from death.",
                   "color": "gray",
                   "italic": false
@@ -20112,6 +21829,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -20284,6 +22016,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -20420,6 +22166,20 @@
                     {
                       "text": "+1",
                       "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -20575,6 +22335,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "Was it all a test?",
@@ -20708,6 +22482,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Tracks a counter for each mob",
                   "color": "gray",
                   "italic": false
@@ -20759,7 +22548,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "12,457,936",
+                      "text": "12,471,893",
                       "color": "red"
                     }
                   ],
@@ -20830,7 +22619,7 @@
                 "modifier": "none",
                 "uuid": "eea2b54f-fa06-45cf-ac13-6901666dd18a",
                 "rarity_upgrades": 1,
-                "blood_god_kills": 12457936,
+                "blood_god_kills": 12471893,
                 "id": "BLOOD_GOD_SIGIL",
                 "originTag": "SHOP_PURCHASE"
               },
@@ -20862,7 +22651,7 @@
                 ]
               },
               "minecraft:custom_name": {
-                "text": "Blue™ but Yellow Abicase",
+                "text": "Blue™ but Green Abicase",
                 "color": "blue",
                 "italic": false
               },
@@ -20871,12 +22660,26 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Farming Wisdom: ",
+                      "text": "Foraging Wisdom: ",
                       "color": "gray"
                     },
                     {
                       "text": "+1.5",
                       "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+50",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -20890,7 +22693,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+1 Magical Power ",
+                      "text": "+1 Accessory Power ",
                       "color": "gold"
                     },
                     {
@@ -20935,24 +22738,24 @@
               ],
               "minecraft:profile": {
                 "id": [
-                  -483301034,
-                  -1666895678,
-                  -1464793184,
-                  1020973965
+                  1766392910,
+                  -952813567,
+                  -1642014627,
+                  1263427620
                 ],
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjAxOTAwOTgyMiwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVlYzNkOGQ0YzJhYjVjYWYzYzVmNTA4ODU2ZGMxMDM4NDMzMDBmYWE0YmEwYTBhMzE0MjUxMzRhM2RhOGQ2MiIKICAgIH0KICB9Cn0=",
-                    "signature": "IU0oQC9CKRkpXb1YDrTeyaPTrlqb6eTIM133NLS52fSbxXFq9CBoOkXqhHGNoCsF3rjYC/BVizs+l+wOUrpE0Sq40tU24N+iJAR/88p/ucueTil2fRw/Qwp4Pl2IAfnCNI5kwSbGvcA1XT9Gu6trW6drStPmA99dc70U59sJbJ/nvIDfCPrkV5TEk1s75zSBVg6uGYW4VHUf5lKCcgSzyzc9kqAOVg/6q+Q18HaAS/aI3V0DWnZ9t2kkkM9Y/kjSXsLw4mFCBh8dx99FgTpXDu8pj2Y0bT6jkTQzHEnHwzxHg0YpWewgDBsEjy9jm3mVm6umpv2rb/I5WFSWcTxcIR/e0E+oEPjMrSics33GkaqRbM3Pw/II9oBZ+O4ckS+FKl8qZZpvb/ZpdEpUTi4A7gsE3rhW4O9zcRZCBc7T9FRpKTxPSZ/yGCDaUefw32u6F3RJPIpyePhkgzfmxiYnnif4D5cvR4GmmLiD1TpDnbfXhawiEf9qyHPqRFc3MbAzLgsYp1xQArGW1GhXJVqx0xy076XbzMbJvhP8bJvajLTjVkhbRDZfMmdnAJ+wLtyITaZEPHnAYGM1OXqPNR7diu9jGrIKPP8j06U+rtKYd4EWuP3w/Ojnscp8ZqfkDU6n0ffl6WwEmB1z1/Ho1s3ECykwXv+W311QQMFihv7SyrQ="
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjAxOTAzNDEzMiwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNDQ0ZmQzYTM5YWExMTc0ZGZlYjhhN2MxMWUzOTQ0ZmU4YmRmM2M3NWI1YjdjNDk5NTgyOGRjOTdmZDc0OTcyIgogICAgfQogIH0KfQ==",
+                    "signature": "usHiKqdlVHRZZWSN4Q07h0EUZuF4KNRxpSufjNnPzKDR9wdfzRwN3VSjcOqmOVMRLE+RXd91Q4lMl8k1jiVOGngxxMlzizH1VjtBoA21Fan7aD2gF+bD7mN2uDZ7fhMon7qelLEDoWFWZd79T1j59qRdqBUQnmMuWcDOT29QGu0RmOmCvhKJFjATH6Y0auPsk3w+yOl1nUPccsD20Zh/Uw7wTPeF1S0AYtE7CeNQ/OlRVowu7cIWZ0uTjDxxb0XTO25os6D/83S3IX+oi2uEGse3brtLvl+V7QPn9nQfh2fN5FRHBCL8h6L1B0xE3tfdAD8+mnX56S5JNgQev6xsfTmSnpTMAevGsWbfAdam4DXqGEov+m32sJLGM5V91iqJvfLxkgbjzjNoLmVJ182oaERgpmC0QaO/jzUNho6eQKWhoNFmOeINi3/punzEOuEtWBnj71P2zYk3+nyginK/ZkkkhO96Y8xyRg+VsyBvh8M/jUSXW7pqCKeaAm8H0GHglEBvYumViFgNPe4+ty1dYQtTXnOu6lmurnLGGkPk/Xozm9RfxUyfdoV+k6YkYhutfMrYwmzJac54jVIc8DNv5iAZVKF6ShgyZTsUQiNuUVT5LuFgyzmoHEt5LHoXeexL1AqBBcuADKcF9vautXX+JdVVz37DWzZF+hYIrGto84A="
                   }
                 ]
               },
               "minecraft:custom_data": {
                 "timestamp": 1666201020000,
                 "id": "ABICASE",
-                "model": "BLUE_YELLOW",
-                "uuid": "471f9f4f-01d4-4c18-b37c-6c3f830382f4"
+                "model": "BLUE_GREEN",
+                "uuid": "889106f2-a541-40b3-a65c-d6f41880f1c3"
               },
               "minecraft:tooltip_style": "hypixel_skyblock:rare"
             }
@@ -20997,6 +22800,20 @@
                     {
                       "text": "+0.5",
                       "color": "light_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -21107,6 +22924,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -21236,6 +23068,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Grants ",
                       "color": "gray"
                     },
@@ -21355,6 +23202,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Provides immunity against damage",
                   "color": "gray",
@@ -21494,6 +23356,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Grants Night Vision while this item is",
                   "color": "gray",
                   "italic": false
@@ -21590,6 +23467,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -21717,7 +23609,7 @@
               },
               "minecraft:custom_name": {
                 "text": "Farming Talisman",
-                "color": "green",
+                "color": "blue",
                 "italic": false
               },
               "minecraft:lore": [
@@ -21725,24 +23617,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Increases your ",
+                      "text": "Farming Fortune: ",
                       "color": "gray"
                     },
                     {
-                      "text": " Speed ",
-                      "color": "white"
-                    },
-                    {
-                      "text": "by ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+10",
-                      "color": "green"
-                    },
-                    {
-                      "text": "",
-                      "color": "gray"
+                      "text": "+3",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -21751,46 +23631,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "while held in the ",
+                      "text": "Accessory Power: ",
                       "color": "gray"
                     },
                     {
-                      "text": "Farm",
-                      "color": "yellow"
-                    },
-                    {
-                      "text": ", ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "The Barn",
-                      "color": "yellow"
-                    },
-                    {
-                      "text": ",",
-                      "color": "gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Mushroom Desert",
-                      "color": "yellow"
-                    },
-                    {
-                      "text": ", and ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "Garden",
-                      "color": "aqua"
-                    },
-                    {
-                      "text": ".",
-                      "color": "gray"
+                      "text": "+8",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -21806,19 +23652,19 @@
                   "extra": [
                     {
                       "text": "a",
-                      "color": "green",
+                      "color": "blue",
                       "bold": true,
                       "obfuscated": true
                     },
                     " ",
                     {
-                      "text": "UNCOMMON ACCESSORY ",
-                      "color": "green",
+                      "text": "RARE ACCESSORY ",
+                      "color": "blue",
                       "bold": true
                     },
                     {
                       "text": "a",
-                      "color": "green",
+                      "color": "blue",
                       "bold": true,
                       "obfuscated": true
                     }
@@ -21849,7 +23695,7 @@
                 "originTag": "QUICK_CRAFTING",
                 "rarity_upgrades": 1
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+              "minecraft:tooltip_style": "hypixel_skyblock:rare"
             }
           },
           "page": 3,
@@ -21882,6 +23728,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -21990,6 +23851,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Official medal proving your eternal",
                   "color": "gray",
@@ -22103,6 +23979,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -22250,6 +24141,21 @@
                   "text": "",
                   "extra": [
                     {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
                       "text": "Costs ",
                       "color": "gray"
                     },
@@ -22390,6 +24296,21 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
                   "text": "Makes you invisible to Dive Ghasts.",
                   "color": "gray",
                   "italic": false
@@ -22479,6 +24400,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "Right-click to point towards the",
                   "color": "gray",
@@ -22617,6 +24553,20 @@
                     {
                       "text": "+1",
                       "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -22761,6 +24711,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 {
                   "text": "",
@@ -22898,6 +24862,21 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [
@@ -23090,6 +25069,20 @@
                   ],
                   "italic": false
                 },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
                 "",
                 "",
                 {
@@ -23163,9 +25156,347 @@
           "slot": 6
         },
         {
-          "item": {},
+          "item": {
+            "id": "minecraft:paper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact",
+              "minecraft:custom_name": {
+                "text": "Honeycomb Artifact",
+                "color": "dark_purple",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Trees ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "smeared with ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Honeycomb",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "attract mobs ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "15% ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "faster.",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "EPIC ACCESSORY ",
+                      "color": "dark_purple",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "timestamp": 1785874660510,
+                "id": "HONEYCOMB_ARTIFACT",
+                "uuid": "8bbb8968-7388-4d89-a707-b9baa2316a3e",
+                "rarity_upgrades": 1
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:epic"
+            }
+          },
           "page": 4,
           "slot": 7
+        },
+        {
+          "item": {
+            "id": "minecraft:paper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_artifact",
+              "minecraft:custom_name": {
+                "text": "Torrhus Artifact",
+                "color": "dark_purple",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Helix Fortune: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+15",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "EPIC ACCESSORY ",
+                      "color": "dark_purple",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "timestamp": 1785926137908,
+                "id": "TORRHUS_ARTIFACT",
+                "uuid": "d8e135bd-ea31-4328-9295-40fab6500bde",
+                "rarity_upgrades": 1
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:epic"
+            }
+          },
+          "page": 4,
+          "slot": 8
+        },
+        {
+          "item": {
+            "id": "minecraft:paper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_artifact",
+              "minecraft:custom_name": {
+                "text": "Lumberjack Artifact",
+                "color": "dark_purple",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Reduces the cooldown for throwing",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "your ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Foraging Axe ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "15%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "EPIC ACCESSORY ",
+                      "color": "dark_purple",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "timestamp": 1785874651622,
+                "id": "LUMBERJACK_ARTIFACT",
+                "uuid": "3fad64d6-a159-47c7-b6a5-6dd2cbde3d54",
+                "rarity_upgrades": 1
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:epic"
+            }
+          },
+          "page": 4,
+          "slot": 10
+        },
+        {
+          "item": {},
+          "page": 4,
+          "slot": 9
         }
       ],
       "Grapes": [
@@ -23776,6 +26107,678 @@
           "item": {},
           "page": 1,
           "slot": 5
+        }
+      ],
+      "Strawberry": [
+        {
+          "item": {
+            "id": "minecraft:dropper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "Personal Compactor 5000",
+                "color": "blue",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+8",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Automatically turns certain materials",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "in your inventory into their",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "enchanted form.",
+                  "color": "gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to configure!",
+                  "color": "yellow",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Does not grant Carpentry XP!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "color": "dark_gray",
+                      "bold": true
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "color": "dark_gray",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "RARE ACCESSORY",
+                  "color": "blue",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "soulbound": 1,
+                "timestamp": 1786005132925,
+                "id": "PERSONAL_COMPACTOR_5000",
+                "uuid": "6ccf6d8d-c3b5-429f-b793-e391f200acfb"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:rare"
+            }
+          },
+          "page": 1,
+          "slot": 0
+        },
+        {
+          "item": {
+            "id": "minecraft:dispenser",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:custom_name": {
+                "text": "Personal Deletor 4000",
+                "color": "green",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Automatically delete specific items on",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "pickup.",
+                  "color": "gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to configure!",
+                  "color": "yellow",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "* ",
+                      "color": "dark_gray",
+                      "bold": true
+                    },
+                    {
+                      "text": "Soulbound ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "*",
+                      "color": "dark_gray",
+                      "bold": true
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "UNCOMMON ACCESSORY",
+                  "color": "green",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "soulbound": 1,
+                "timestamp": 1786005132929,
+                "id": "PERSONAL_DELETOR_4000",
+                "uuid": "d7ee7664-6b45-4055-b019-eb8394103a7d"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+            }
+          },
+          "page": 1,
+          "slot": 1
+        },
+        {
+          "item": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Mine Affinity Talisman",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Grants ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+25 Speed ",
+                      "color": "white"
+                    },
+                    {
+                      "text": "while on ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Mining",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Islands",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -211121015,
+                  -907723626,
+                  -1381145310,
+                  -578874605
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM2MDg1MzczMiwKICAicHJvZmlsZUlkIiA6ICJiYWE1Yjg0YzA2NGM0NTBlYjU2NTU4ZDQxOWVmYTkzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYW1lbGxpYWFkYW1zIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmMDUzM2FiMjIyNzZlMjc3OGJlNDExOTZlYzEwYmQ5MTBhMzRiMzBjNjYyYzJjZDdkNzZlNDk2NGU4MmExNTkiCiAgICB9CiAgfQp9",
+                    "signature": "QAs8eo8AZ0FWi6RkhLwjCQMeESOr8opa/TR5/YqUooRh+UFfphNWpYnPCSh7S3oW5Y2e0Jc/YR20tGa4EhwunjPuwVrazR2q9UxZwjDYZ9sHlWWGs7waxpKga/VgJSbUQT/j0BViK0V5KMqrZW0m+LVRXPYR5lg6LzddNn5auBliiVYB+9IGHMvHjt2XVg1KaASm822xEl7nRDQssVyfD+RCPT98sdU534pnW59fZurYD1hZFwPocAO4Y6oKIGNVqvs4ovbVL8VzTaNWI9p4qg6GLD/ABWrwgUOFM2MY4lvGLI5Nx0wcVfBN0763x7YIFszonHCKTGF1cO7g5xhXqmiRqsIYByWJMXRcEV36hRsEQlUicRRBCBe6KxVFP7H9wtftSVw1zo4a3E+uM3PmVyWH8ehFKqRkjnPoUT+De7za12xw6KJft1H5Ed7w8K3y8XyF9BUTYA9aTfiEOMO0xMUqEOXK9ngVJyswPITVsEBLywNToHFDUkN1MHBMQRnpblMujCUCRyhhSq9OrjtHSitl1f+FL5+mymq1i8HmrIauoyks8QFMjVNvbeevc4iJplCddAYlrFiADE45UAD8J7rpHv9vS/c3UHiWhiBr1PKSsP9NgNnnqOaVlD/wsFsT2B7THU6TP8N6mIXFSkbty9TgcIemk4ObWsVFtBc0dMA="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "eee30080-f02e-4786-908e-ce5ac6f38e77",
+                "timestamp": 1786005341042,
+                "id": "MINE_TALISMAN"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
+          "page": 1,
+          "slot": 2
+        },
+        {
+          "item": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Village Affinity Talisman",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Increases your ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": " Speed ",
+                      "color": "white"
+                    },
+                    {
+                      "text": "by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+10",
+                      "color": "green"
+                    },
+                    {
+                      "text": "",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "while held in the ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Village",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -1433613616,
+                  1455634107,
+                  -1332070401,
+                  -1070145544
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNjkyMTIxOSwKICAicHJvZmlsZUlkIiA6ICI2ZDRmODcwODhiYjY0NTA4OTZkZWYzN2I3Njk3MmY2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0aXN0aGlzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4MTQ5ZDc1ODdkOGRlNzM3NjEyNjFiZDJkNGNkM2Y5ZTk3OTc5ZTU5OTg4OGU2ZmFhNGJjNmY5Y2RmMTAxNDIiCiAgICB9CiAgfQp9",
+                    "signature": "d5oWVopduNIsX5cTJN7KbJzAAW9ewMIxivcIJYc6Lxmb/T+2ADr4hqgN2gfslkwss9glB0787txZ0qBatrh42oduM9NHRWqsLS1lr2+U6cPIH02RRiB7bq9J0d3LTtjDCTNUTCA0+Rj1huD21aXc5AM37iCHkPUEz/JzLpHFKFX1yxyahWRAcP0obbsiB7I42UxKWTaVW0Ylmk0tjK2eb/cAaxmJAT2PyIv2xCNYHpTEUgKirYXZr/o55GmaTcot9bz2S0dgL03d09MJD53ITkDr3d4fBilJnp0FmTlRHL+/zdxuKcu6eG8BwnCnrUgHON1+TYkpb9mwvCod2VXNugSpu4YLWveLw1aqZlWojss+NhSKVObjme846YsSp+FcfCH22sNeeyiE5y3zqv1enWODzRbWrQTx0XEFMNUYTsZVAkRpXN1k0761gWCm77drzGT0+qG+bK43W/gL5KugjoO4OtUuC/ad5Asg5Uxi519QS6mAgbEtit3RNwC1TqEZjlLJojhRFqvRlMOehNliR6VTOG6OAmmmGNDlnyfzjitdwVEIVc8DT8iUx/48wS3a7kGfRqQfnf6Gdpn6QiaMyg1LXZP1QMB3F0NXKqS7QF9oeXYWaVmqNE3U366SSzp6KTLb0Q+ZtQdQBHuBIqTL2IdPXJSQsY4Pxs2XnI9XTqE="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "uuid": "d0ca08f2-f0ad-4d98-831a-4b52ed31d59e",
+                "timestamp": 1786005339849,
+                "id": "VILLAGE_TALISMAN"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
+          "page": 1,
+          "slot": 3
+        },
+        {
+          "item": {
+            "id": "minecraft:skeleton_skull",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Skeleton Talisman",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Skeletal ",
+                      "color": "white"
+                    },
+                    {
+                      "text": "mobs by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "5%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "uuid": "af7783d9-6ec1-46f3-a692-20ee53d354d3",
+                "timestamp": 1786005338641,
+                "id": "SKELETON_TALISMAN"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
+          "page": 1,
+          "slot": 4
+        },
+        {
+          "item": {
+            "id": "minecraft:zombie_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Zombie Talisman",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Reduces the damage taken from ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "",
+                      "color": "dark_green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Undead ",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": "mobs by ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "5%",
+                      "color": "green"
+                    },
+                    {
+                      "text": ".",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "uuid": "340876d9-05bf-40e5-bd71-ce3632cfc40c",
+                "timestamp": 1786005338074,
+                "id": "ZOMBIE_TALISMAN"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
+          "page": 1,
+          "slot": 5
+        },
+        {
+          "item": {},
+          "page": 1,
+          "slot": 6
         }
       ]
     }
