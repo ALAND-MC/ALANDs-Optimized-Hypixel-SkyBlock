@@ -472,7 +472,7 @@
       "sendMimicMessage": false
     },
     "princeMessage": {
-      "sendPrinceMessage": false
+      "sendPrinceMessage": true
     },
     "batMessage": {
       "sendBatMessage": true

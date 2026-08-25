@@ -100,8 +100,8 @@
             "disabled": false
           },
           "Deep Waters": {
-            "level": 1,
-            "unlocked": false,
+            "level": 41,
+            "unlocked": true,
             "disabled": false
           },
           "Efficient Forager": {
@@ -125,7 +125,7 @@
             "disabled": false
           },
           "Foraging Fortune": {
-            "level": 41,
+            "level": 21,
             "unlocked": true,
             "disabled": false
           },
@@ -135,12 +135,12 @@
             "disabled": false
           },
           "Forest Strength": {
-            "level": 41,
+            "level": 31,
             "unlocked": true,
             "disabled": false
           },
           "Hunter's Luck": {
-            "level": 31,
+            "level": 1,
             "unlocked": true,
             "disabled": false
           },
@@ -155,7 +155,7 @@
             "disabled": false
           },
           "Iron Lungs": {
-            "level": 1,
+            "level": 41,
             "unlocked": true,
             "disabled": false
           },
@@ -182,6 +182,11 @@
           "Free Trial": {
             "level": 1,
             "unlocked": false,
+            "disabled": false
+          },
+          "Helix Log": {
+            "level": 1,
+            "unlocked": true,
             "disabled": false
           }
         },

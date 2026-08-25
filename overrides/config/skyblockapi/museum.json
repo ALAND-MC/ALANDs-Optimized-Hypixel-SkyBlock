@@ -57825,17 +57825,17 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "GOLEM_HAT",
-                    "timestamp": 1771959558073,
-                    "uuid": "5f9abeb3-399d-4270-b2d6-d3cad4fe1380",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1771959558073,
+                    "id": "GOLEM_HAT",
+                    "uuid": "5f9abeb3-399d-4270-b2d6-d3cad4fe1380",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -57982,10 +57982,10 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "timestamp": 1560547920000,
                     "enchantments": {
                       "efficiency": 5
                     },
+                    "timestamp": 1560547920000,
                     "uuid": "9412f69b-cd44-4145-82cf-220e1031b27e",
                     "donated_museum": 1,
                     "id": "PROMISING_SPADE",
@@ -58239,7 +58239,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "50s",
+                          "text": "45s",
                           "color": "green"
                         }
                       ],
@@ -58273,17 +58273,17 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ZOMBIE_PICKAXE",
-                    "timestamp": 1560639720000,
-                    "originTag": "CRAFTING_GRID_COLLECT",
-                    "uuid": "0b88d34e-f6bb-4726-bcc7-c3d61499fd18",
                     "enchantments": {
                       "smelting_touch": 1,
-                      "fortune": 3,
                       "experience": 3,
+                      "fortune": 3,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1560639720000,
+                    "id": "ZOMBIE_PICKAXE",
+                    "uuid": "0b88d34e-f6bb-4726-bcc7-c3d61499fd18",
+                    "originTag": "CRAFTING_GRID_COLLECT",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -58526,7 +58526,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "50s",
+                          "text": "45s",
                           "color": "green"
                         }
                       ],
@@ -58560,16 +58560,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ROOKIE_PICKAXE",
-                    "timestamp": 1729027819166,
-                    "uuid": "59c4e52a-bcd9-4d05-92b1-e090f3fb0f84",
                     "enchantments": {
                       "smelting_touch": 1,
-                      "fortune": 3,
                       "experience": 3,
+                      "fortune": 3,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1729027819166,
+                    "id": "ROOKIE_PICKAXE",
+                    "uuid": "59c4e52a-bcd9-4d05-92b1-e090f3fb0f84",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -58824,7 +58824,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "50s",
+                          "text": "45s",
                           "color": "green"
                         }
                       ],
@@ -58858,16 +58858,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "LAPIS_PICKAXE",
-                    "timestamp": 1712571835938,
-                    "uuid": "acbfb63b-027a-4d74-a758-49c40665d0cf",
                     "enchantments": {
                       "smelting_touch": 1,
-                      "fortune": 3,
                       "experience": 3,
+                      "fortune": 3,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1712571835938,
+                    "id": "LAPIS_PICKAXE",
+                    "uuid": "acbfb63b-027a-4d74-a758-49c40665d0cf",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -59165,7 +59165,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "50s",
+                          "text": "45s",
                           "color": "green"
                         }
                       ],
@@ -59199,16 +59199,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "PROMISING_PICKAXE",
-                    "timestamp": 1729027821629,
-                    "uuid": "53fed1dd-d09e-492a-bdc7-7d128954ada7",
                     "enchantments": {
                       "smelting_touch": 1,
-                      "fortune": 3,
                       "experience": 3,
+                      "fortune": 3,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1729027821629,
+                    "id": "PROMISING_PICKAXE",
+                    "uuid": "53fed1dd-d09e-492a-bdc7-7d128954ada7",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -59599,7 +59599,7 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "50s",
+                          "text": "45s",
                           "color": "green"
                         }
                       ],
@@ -59633,16 +59633,16 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "REFINED_MITHRIL_PICKAXE",
-                    "timestamp": 1729027716610,
-                    "uuid": "994cc3b2-c3eb-49b1-a0d6-ccb74bf95592",
                     "enchantments": {
                       "smelting_touch": 1,
-                      "fortune": 3,
                       "experience": 3,
+                      "fortune": 3,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1729027716610,
+                    "id": "REFINED_MITHRIL_PICKAXE",
+                    "uuid": "994cc3b2-c3eb-49b1-a0d6-ccb74bf95592",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:rare"
                 }
@@ -67671,6 +67671,20 @@
                       ],
                       "italic": false
                     },
+                    {
+                      "text": "",
+                      "extra": [
+                        {
+                          "text": "Bonus Farming Fortune: ",
+                          "color": "gray"
+                        },
+                        {
+                          "text": "60",
+                          "color": "green"
+                        }
+                      ],
+                      "italic": false
+                    },
                     "",
                     {
                       "text": "This item can be reforged!",
@@ -67807,6 +67821,12 @@
                           "color": "gray"
                         }
                       ],
+                      "italic": false
+                    },
+                    "",
+                    {
+                      "text": "Right-click to equip!",
+                      "color": "yellow",
                       "italic": false
                     },
                     "",
@@ -68012,15 +68032,15 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "ROOKIE_HOE",
-                    "timestamp": 1729022849128,
-                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
                     "enchantments": {
                       "harvesting": 5,
                       "telekinesis": 1,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1729022849128,
+                    "id": "ROOKIE_HOE",
+                    "uuid": "a3dc251d-f72b-4cab-a8f0-af04f298dbb2",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -68318,18 +68338,18 @@
                     ]
                   },
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "CHICKEN_HEAD",
-                    "timestamp": 1575059580000,
-                    "originTag": "CRAFTING_GRID_SHIFT",
-                    "uuid": "1863edf3-be78-4f8b-bdf8-78df5b43132a",
                     "enchantments": {
                       "thorns": 3,
                       "aqua_affinity": 1,
                       "protection": 5,
                       "respiration": 3,
                       "growth": 5
-                    }
+                    },
+                    "timestamp": 1575059580000,
+                    "id": "CHICKEN_HEAD",
+                    "uuid": "1863edf3-be78-4f8b-bdf8-78df5b43132a",
+                    "originTag": "CRAFTING_GRID_SHIFT",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -68555,14 +68575,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "MUSHROOM_COW_AXE",
-                    "timestamp": 1771414046598,
-                    "uuid": "90c29b9a-e5ca-4001-8412-a468533f5a8d",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1771414046598,
+                    "id": "MUSHROOM_COW_AXE",
+                    "uuid": "90c29b9a-e5ca-4001-8412-a468533f5a8d",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -68705,14 +68725,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "CHICKEN_AXE",
-                    "timestamp": 1771414110986,
-                    "uuid": "33ca37ac-5a52-425a-8383-b9fb4ec9a557",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1771414110986,
+                    "id": "CHICKEN_AXE",
+                    "uuid": "33ca37ac-5a52-425a-8383-b9fb4ec9a557",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -68843,14 +68863,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "COW_AXE",
-                    "timestamp": 1665058920000,
-                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1665058920000,
+                    "id": "COW_AXE",
+                    "uuid": "a2f02dce-7880-4c8a-8111-78e9d104c870",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -68981,14 +69001,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
-                    "donated_museum": 1,
-                    "id": "PIG_AXE",
-                    "timestamp": 1771414658631,
-                    "uuid": "25f7e563-7eca-47d4-8794-d95623f55782",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    }
+                    },
+                    "timestamp": 1771414658631,
+                    "id": "PIG_AXE",
+                    "uuid": "25f7e563-7eca-47d4-8794-d95623f55782",
+                    "donated_museum": 1
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -70463,13 +70483,13 @@
                   "minecraft:custom_data": {
                     "donated_museum": 1,
                     "id": "MOBYS_SHEARS",
+                    "timestamp": 1662500460000,
+                    "uuid": "981763c8-f99f-49a4-8606-ed373a2d10d6",
                     "enchantments": {
                       "rainbow": 1,
                       "silk_touch": 1,
                       "efficiency": 5
-                    },
-                    "uuid": "981763c8-f99f-49a4-8606-ed373a2d10d6",
-                    "timestamp": 1662500460000
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:rare"
                 }
@@ -70932,17 +70952,17 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "timestamp": 1563820260000,
+                    "anvil_uses": 1,
                     "enchantments": {
                       "telekinesis": 1,
                       "arcane": 5,
                       "efficiency": 5
                     },
-                    "anvil_uses": 1,
-                    "timestamp": 1563820260000,
-                    "modifier": "toil",
+                    "uuid": "10ca9df3-a6e2-4caa-a0cb-494e3bf3d08f",
                     "gems": {},
                     "rarity_upgrades": 1,
-                    "uuid": "10ca9df3-a6e2-4caa-a0cb-494e3bf3d08f",
+                    "modifier": "toil",
                     "donated_museum": 1,
                     "id": "TREECAPITATOR_AXE",
                     "originTag": "TREECAPITATOR_AXE",
@@ -72545,14 +72565,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "ROOKIE_AXE",
+                    "timestamp": 1729028155363,
+                    "uuid": "a666be18-a857-49ff-a8f5-e713988d1183",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1729028155363,
-                    "id": "ROOKIE_AXE",
-                    "uuid": "a666be18-a857-49ff-a8f5-e713988d1183",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -72724,15 +72744,15 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "EFFICIENT_AXE",
+                    "timestamp": 1560458580000,
+                    "originTag": "UNKNOWN",
+                    "uuid": "09fb539e-596b-4c24-96f3-19a44b0b37a3",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1560458580000,
-                    "id": "EFFICIENT_AXE",
-                    "uuid": "09fb539e-596b-4c24-96f3-19a44b0b37a3",
-                    "originTag": "UNKNOWN",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -72948,15 +72968,15 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "PROMISING_AXE",
+                    "timestamp": 1574104680000,
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "8ad11af0-9e4a-4d87-a20f-8a62864c9b42",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1574104680000,
-                    "id": "PROMISING_AXE",
-                    "uuid": "8ad11af0-9e4a-4d87-a20f-8a62864c9b42",
-                    "originTag": "SHOP_PURCHASE",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -73117,14 +73137,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "SCULPTORS_AXE",
+                    "timestamp": 1729028310599,
+                    "uuid": "c5fb19b9-2d55-4d89-a0da-6cf2349c2d04",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1729028310599,
-                    "id": "SCULPTORS_AXE",
-                    "uuid": "c5fb19b9-2d55-4d89-a0da-6cf2349c2d04",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:common"
                 }
@@ -73309,15 +73329,15 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "SWEET_AXE",
+                    "timestamp": 1574105640000,
+                    "originTag": "SHOP_PURCHASE",
+                    "uuid": "6de504fa-49c7-4433-b3c1-fffad1aebbab",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1574105640000,
-                    "id": "SWEET_AXE",
-                    "uuid": "6de504fa-49c7-4433-b3c1-fffad1aebbab",
-                    "originTag": "SHOP_PURCHASE",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
                 }
@@ -73589,14 +73609,14 @@
                     }
                   ],
                   "minecraft:custom_data": {
+                    "donated_museum": 1,
+                    "id": "DECENT_AXE",
+                    "timestamp": 1750707518586,
+                    "uuid": "2e3ac731-ae6f-4794-89d8-4cfc7398136b",
                     "enchantments": {
                       "arcane": 5,
                       "efficiency": 5
-                    },
-                    "timestamp": 1750707518586,
-                    "id": "DECENT_AXE",
-                    "uuid": "2e3ac731-ae6f-4794-89d8-4cfc7398136b",
-                    "donated_museum": 1
+                    }
                   },
                   "minecraft:tooltip_style": "hypixel_skyblock:rare"
                 }
@@ -73993,8 +74013,8 @@
                           "color": "dark_gray"
                         },
                         {
-                          "text": "90",
-                          "color": "dark_aqua"
+                          "text": "90",
+                          "color": "aqua"
                         }
                       ],
                       "italic": false
@@ -74136,6 +74156,12 @@
                           "color": "gray"
                         }
                       ],
+                      "italic": false
+                    },
+                    "",
+                    {
+                      "text": "Right-click to equip!",
+                      "color": "yellow",
                       "italic": false
                     },
                     "",

@@ -38,7 +38,7 @@
     },
     "Level 300 Pet": {
       "data": {
-        "achieved": false,
+        "achieved": true,
         "progress": 0
       }
     },
@@ -123,7 +123,7 @@
     "bestiary": {
       "data": {
         "achieved": true,
-        "progress": 476
+        "progress": 480
       }
     },
     "Strawberry Collector": {

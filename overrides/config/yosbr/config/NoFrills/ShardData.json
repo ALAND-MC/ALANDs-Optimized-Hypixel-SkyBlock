@@ -1,382 +1,1928 @@
 {
   "phanpyre": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "cod": {
-    "skill": "Fishing",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "verdant": {
-    "skill": "Fishing",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "chill": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "voracious spider": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "birries": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "tank zombie": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "zealot": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "coralot": {
-    "skill": "Fishing",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "harpy": {
-    "skill": "Hunting",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "mudworm": {
-    "skill": "Farming",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "lotusfish": {
-    "skill": "Fishing",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "golden ghoul": {
-    "skill": "Global",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
   },
   "azure": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "yog": {
-    "skill": "Global",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
   },
   "cretan bull": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "groundhog": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "timil": {
-    "skill": "Fishing",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "magma slug": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "solar": {
-    "skill": "Foraging",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "ember": {
-    "skill": "Foraging",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "glacite walker": {
-    "skill": "Global",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
   },
   "minotaur": {
-    "skill": "Combat",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   },
   "sphinx": {
-    "skill": "Combat",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
   },
   "king minos": {
-    "skill": "Combat",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
   },
   "chameleon": {
-    "skill": "Hunting",
-    "rarity": "LEGENDARY"
+    "level": 0,
+    "rarity": "LEGENDARY",
+    "enabled": false,
+    "skill": "Hunting"
   },
   "spike": {
-    "skill": "Combat",
-    "rarity": "LEGENDARY"
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
   },
   "cinderbat": {
-    "skill": "Global",
-    "rarity": "LEGENDARY"
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
   },
   "firefox": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "bunbun": {
-    "skill": "Global",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
   },
   "honeybuzz": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "sepialot": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "dung beetle": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "hideonsun": {
-    "skill": "Mining",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Mining"
   },
   "blue jay": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "praying mantis": {
-    "skill": "Combat",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "sprawl": {
-    "skill": "Combat",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "stingray": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "puck": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "torrid": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "giant isopod": {
-    "skill": "Fishing",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "queen bee": {
-    "skill": "Foraging",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "beeheemoth": {
-    "skill": "Foraging",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "mountain goat": {
-    "skill": "Global",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
   },
   "haggard": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "brineling": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "water snake": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "silkbreeze": {
-    "skill": "Combat",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
   },
   "pollendart": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "field mouse": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "parched": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "drybark": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "grizzly bear": {
-    "skill": "Foraging",
-    "rarity": "LEGENDARY"
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "honeyhog": {
-    "skill": "Foraging",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "hummingbird": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "woodlouse": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "hewver": {
-    "skill": "Combat",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   },
   "stag beetle": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "dustybit": {
-    "skill": "Hunting",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "hivethief": {
-    "skill": "Combat",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   },
   "murkbat": {
-    "skill": "Global",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
   },
   "dumpster diver": {
-    "skill": "Combat",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "honeymite": {
-    "skill": "Mining",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Mining"
   },
   "dreadwing": {
-    "skill": "Global",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
   },
   "osedax": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "red panda": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "badger": {
-    "skill": "Hunting",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "black widow": {
-    "skill": "Combat",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   },
   "wolverine": {
-    "skill": "Combat",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
   },
   "shrieky tiki": {
-    "skill": "Combat",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
   },
   "dragonfly": {
-    "skill": "Farming",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Farming"
   },
   "honey badger": {
-    "skill": "Hunting",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "cheeky tiki": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "mossybit": {
-    "skill": "Hunting",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "silentdepth": {
-    "skill": "Mining",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
   },
   "thyst": {
-    "skill": "Mining",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
   },
   "pangolin": {
-    "skill": "Foraging",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "joydive": {
-    "skill": "Global",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
   },
   "giant water bug": {
-    "skill": "Combat",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   },
   "woodchucker": {
-    "skill": "Global",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
   },
   "woodpecker": {
-    "skill": "Foraging",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "cricket": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "sneaky tiki": {
-    "skill": "Fishing",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "rabbit mafioso": {
-    "skill": "Global",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
   },
   "zombuddy": {
-    "skill": "Farming",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Farming"
   },
   "locust": {
-    "skill": "Farming",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "firefly": {
-    "skill": "Farming",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Farming"
   },
   "moth": {
-    "skill": "Farming",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
   },
   "hawk": {
-    "skill": "Foraging",
-    "rarity": "UNCOMMON"
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
   },
   "nozzlenose": {
-    "skill": "Hunting",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
   },
   "seashine": {
-    "skill": "Fishing",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "goldolot": {
-    "skill": "Fishing",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Fishing"
   },
   "rabbit neighbor": {
-    "skill": "Global",
-    "rarity": "RARE"
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
   },
   "murderwing": {
-    "skill": "Global",
-    "rarity": "EPIC"
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
   },
   "ant": {
-    "skill": "Hunting",
-    "rarity": "COMMON"
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "hideonleaf": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "tepid": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "strongarm": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "foxtrot": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "earthworm": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "grove": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "mist": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "flash": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "howling spirit": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "phanflare": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "lapis zombie": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Enchanting"
+  },
+  "fly": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "bogged": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "hideongift": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "crow": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "tadgang": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "bezal": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "inkling": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "boreal owl": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "newt": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "miner zombie": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "flitter": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "cavernfish": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "shyworm": {
+    "level": 10,
+    "rarity": "COMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "bramble": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "tide": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "quake": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "sparrow": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "goldfin": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "troglobyte": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "hideoncave": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "salamander": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "cuboa": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "rain slime": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "wetwing": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "seer": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "heron": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "sea witch": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Alchemy"
+  },
+  "obsidian defender": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "salmon": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "viper": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "lotum": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "zombie soldier": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "bambuleaf": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "treasure hoarder": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "sycophant": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "seagull": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "ent": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "soul of the alpha": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "mochibear": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "flaming spider": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "kiwi": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "zealot bruiser": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "stridersurfer": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "rana": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "flipflopper": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "polaris": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "treefrog": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "bayou sludge": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "areita": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "bluebird": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "duplico": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "litterbug": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "gazer": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "honeybug": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "shuddersquid": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "solsnatcher": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "driftling": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "tewtil": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "minos hunter": {
+    "level": 0,
+    "rarity": "UNCOMMON",
+    "enabled": false,
+    "skill": "Combat"
+  },
+  "bloodbat": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "queen ant": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "june bug": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "rat": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "keeled slug": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "mite": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "mosquito": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "rabbit cat": {
+    "level": 10,
+    "rarity": "UNCOMMON",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "sylvan": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "cascade": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "bolt": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "bambloom": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "toad": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "beaconmite": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "lizard king": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "python": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "invisibug": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "piranha": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "hideongeon": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "lapis skeleton": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Enchanting"
+  },
+  "beetle": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "drowned": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "vulture": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "star sentry": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "hideondra": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "abyssal lanternfish": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "arachne": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "bitbug": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "lava leech": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "revenant": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "skeletor": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "quartzfang": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "hideonring": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "snowfin": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "kada knight": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "carrot king": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "wither spectre": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "matcho": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "ladybug": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "lumisquid": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "crocodile": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "wild hog": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "bullfrog": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "stalagmight": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "fungloom": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "eel": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "king cobra": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "lava flame": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "draconic": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "falcon": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "inferno koi": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "wither": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "gecko": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "wiki tiki": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "maggot": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "snoozle": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "parakeet": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "thunder": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "rockmite": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "anteater": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "scrappy": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "hideyho": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "mantis shrimp": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "chuckwalla": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "hideonfloor": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "gimmiegold": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "billygoat": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "hideonwall": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "stoneworm": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "fluffling": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "troodon": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "terra": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "cryo": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "aero": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "pandarai": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Foraging"
+  },
+  "leviathan": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "alligator": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "fenlord": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "abyssal miner": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "basilisk": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "iguana": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "moray eel": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "special zealot": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "lunar moth": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "fire eel": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "bal": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "hideonsack": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "water hydra": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "flare": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "loch emperor": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "prince": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "komodo dragon": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "blue crab": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "mimic": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "shellwise": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "barbarian duke x": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "toucan": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "caiman": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "sea serpent": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "ghost": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "xyz": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "leatherback": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "cavernshade": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "dive ghast": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "gemzie": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "rabbit godmother": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "inferno demonlord": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "bonzo": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "scarf": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "thorn": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "scatha": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "nilbog": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "littlefoot": {
+    "level": 10,
+    "rarity": "EPIC",
+    "enabled": true,
+    "skill": "Mining"
+  },
+  "tenebris": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "blizzard": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "tempest": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "nessie": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "tiamat": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "wyvern": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "tortoise": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "end stone protector": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "rabbit godfather": {
+    "level": 1,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "naga": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "lapis creeper": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Enchanting"
+  },
+  "wartybug": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "kraken": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "taurus": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "daemon": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "moltenfish": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "doomspiral": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "macaw": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "shinyfish": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "ananke": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "hideonbox": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "lord jawbus": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "hellwisp": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "megalith": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "power dragon": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "condor": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Taming"
+  },
+  "sun fish": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "apex dragon": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "dodo": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "queen snake": {
+    "level": 4,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "jormung": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "ghost crab": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "etherdrake": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "galaxy fish": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "molthorn": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "starborn": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "primordial": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "cocoaleech": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Hunting"
+  },
+  "titanoboa": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Fishing"
+  },
+  "rainbug": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
+  },
+  "paragon": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Combat"
+  },
+  "timestalk clone": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Farming"
+  },
+  "wumpa": {
+    "level": 10,
+    "rarity": "LEGENDARY",
+    "enabled": true,
+    "skill": "Global"
   }
 }

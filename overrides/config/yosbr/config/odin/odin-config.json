@@ -753,11 +753,9 @@
         "enabled": false
       },
       "Dragon Boxes": true,
-      "Dragon Title": true,
-      "Dragon Tracer": false,
+      "Target Tracer": true,
       "Send Dragon Confirmation": true,
       "Send Dragon Time Alive": true,
-      "Send Dragon Spawning": true,
       "Send Dragon Spawned": true,
       "Send Ice Sprayed": true,
       "Dragon Health": true,
@@ -868,11 +866,11 @@
     "settings": {
       "Show Player Names": true,
       "Show Only Pre-Run": false,
-      "Puzzle HUD Position": {
+      "Puzzle HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1258,6 +1256,12 @@
       "Quiz Solver": false,
       "Quiz Color": "#55FF55BF",
       "Quiz Depth": false,
+      "Quiz Timer Hud": {
+        "x": 10,
+        "y": 10,
+        "scale": 2.0,
+        "enabled": false
+      },
       "Boulder Solver": false,
       "Show All Boulder Clicks": false,
       "Boulder Style": "Outline",
@@ -1404,6 +1408,7 @@
       "Hide Mana": true,
       "Hide Overflow Mana": true,
       "Hide Defense": true,
+      "Hide Vitality": true,
       "Separate Overflow Mana": true,
       "Hide 0 Overflow": true,
       "Show Icons": true,

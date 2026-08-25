@@ -40,7 +40,7 @@
             "POWDER",
             "PARTY"
         ],
-        // Valid Values: RIFT, WINTER, TRAPPER, ANNIVERSARY, JACOB_MEDALS, QUEUE, JACOBS_CONTEST, DOJO, SPOOKY, DAMAGE, SERVER_RESTART, NEW_YEAR, ESSENCE, FORAGING, CARNIVAL, DARK_AUCTION, FLIGHT_DURATION, STARTING_SOON_TABLIST, MAGMA_BOSS, GARDEN, MINING, ACTIVE_TABLIST, BROODMOTHER, KUUDRA, REDSTONE, DUNGEONS, VOTING
+        // Valid Values: DOJO, ANNIVERSARY, WINTER, GARDEN, CARNIVAL, QUEUE, FORAGING, DARK_AUCTION, BROODMOTHER, MINING, FLIGHT_DURATION, SERVER_RESTART, ACTIVE_TABLIST, NEW_YEAR, KUUDRA, DAMAGE, RIFT, REDSTONE, ESSENCE, VOTING, JACOBS_CONTEST, MAGMA_BOSS, DUNGEONS, STARTING_SOON_TABLIST, JACOB_MEDALS, SPOOKY, TRAPPER
         "events": [
             "SPOOKY",
             "DUNGEONS",
@@ -106,10 +106,20 @@
         "scale": 1.0,
         // Range: 0 - 10
         "lineSpacing": 0,
-        // Valid Values: TOP, CENTER, BOTTOM
+        // Valid Values: TOP, CENTER, BOTTOM, FREE_MOVE
         "vertical_alignment": "CENTER",
-        // Valid Values: LEFT, CENTER, RIGHT
+        // Valid Values: LEFT, CENTER, RIGHT, FREE_MOVE
         "horizontal_alignment": "RIGHT",
+        "position": {
+            // Type: Integer
+            "x": 0,
+            // Type: Integer
+            "y": 0,
+            // Type: Float
+            "scale": 1.0,
+            // Valid Values: START, CENTER, END
+            "alignment": "START"
+        },
         // Valid Values: START, CENTER, END
         "defaultTextAlignment": "START"
     },
@@ -145,12 +155,14 @@
         "dateFormat": "US_SLASH_MMDDYYYY",
         "dateInLobbyCode": true,
         "time24hFormat": false,
+        "includeMinutes": true,
         "smoothTime": false,
         "colored_month": true,
         // Valid Values: LONG, SHORT
         "number_format": "LONG",
         // Valid Values: TEXT_COLOR_NUMBER, COLOR_TEXT_NUMBER, COLOR_NUMBER_TEXT, COLOR_NUMBER_RESET_TEXT
         "number_display_format": "TEXT_COLOR_NUMBER",
+        "forcedLocale": false,
         "showCurrencyGain": true,
         "bits_available": false,
         "bankAlwaysCompact": true,
@@ -182,6 +194,7 @@
         "ministerDisplay": "OFF",
         "showJerryInMinister": false,
         "all_events": true,
+        "showEventPrefix": true,
         "showActiveOnly": false,
         "hideSlayerOutsideSlayerAreas": false,
         "consecutive_separator": true,

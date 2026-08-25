@@ -1,6 +1,16 @@
 {
   "rules": [
     {
+      "name": "Hide Stealth",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "your presence thanks to your Stealth enchantment!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
       "name": "Hide No Network Booster",
       "enabled": true,
       "partialMatch": false,

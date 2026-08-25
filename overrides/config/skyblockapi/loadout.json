@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "armor": {
-          "currentSlot": 7,
+          "currentSlot": 3,
           "slots": [
             {
               "id": 1,
@@ -225,8 +225,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Arcane Energy (4/4)",
-                        "color": "gold",
+                        "text": "Tiered Bonus: Arcane Energy (0/4)",
+                        "color": "dark_gray",
                         "italic": false
                       },
                       {
@@ -237,7 +237,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0.5s",
+                            "text": "1s",
                             "color": "green"
                           },
                           {
@@ -282,12 +282,7 @@
                         "italic": false
                       },
                       {
-                        "text": "Lose 1 stack after 10s of not gaining a",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "stack.",
+                        "text": "Lose 1 stack after 4s of not gaining a stack.",
                         "color": "dark_gray",
                         "italic": false
                       },
@@ -408,17 +403,15 @@
                         "rejuvenate": 5,
                         "respiration": 4,
                         "thorns": 3,
-                        "ultimate_refrigerate": 5,
-                        "transylvanian": 5,
-                        "protection": 6,
                         "aqua_affinity": 1,
+                        "transylvanian": 5,
                         "mana_vampire": 10,
+                        "protection": 6,
+                        "ultimate_refrigerate": 5,
                         "growth": 6
                       },
                       "timestamp": 1730055137398,
-                      "hot_potato_count": 15,
-                      "modifier": "necrotic",
-                      "rarity_upgrades": 1,
+                      "uuid": "d12b09c7-0b49-4683-bf4a-487bed861aac",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
                         "COMBAT_0_gem": "SAPPHIRE",
@@ -429,7 +422,9 @@
                           "COMBAT_1"
                         ]
                       },
-                      "uuid": "d12b09c7-0b49-4683-bf4a-487bed861aac",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "necrotic",
                       "id": "INFERNAL_AURORA_HELMET",
                       "artOfPeaceApplied": 1
                     },
@@ -634,8 +629,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Arcane Energy (4/4)",
-                        "color": "gold",
+                        "text": "Tiered Bonus: Arcane Energy (0/4)",
+                        "color": "dark_gray",
                         "italic": false
                       },
                       {
@@ -646,7 +641,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0.5s",
+                            "text": "1s",
                             "color": "green"
                           },
                           {
@@ -691,12 +686,7 @@
                         "italic": false
                       },
                       {
-                        "text": "Lose 1 stack after 10s of not gaining a",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "stack.",
+                        "text": "Lose 1 stack after 4s of not gaining a stack.",
                         "color": "dark_gray",
                         "italic": false
                       },
@@ -852,9 +842,7 @@
                         "growth": 6
                       },
                       "timestamp": 1664365080000,
-                      "hot_potato_count": 15,
-                      "modifier": "loving",
-                      "rarity_upgrades": 1,
+                      "uuid": "ba7a51ad-b3ae-442a-9b6d-c76c5cefb5ee",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
                         "COMBAT_1": "PERFECT",
@@ -865,7 +853,9 @@
                           "COMBAT_1"
                         ]
                       },
-                      "uuid": "ba7a51ad-b3ae-442a-9b6d-c76c5cefb5ee",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "loving",
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -1055,8 +1045,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Arcane Energy (4/4)",
-                        "color": "gold",
+                        "text": "Tiered Bonus: Arcane Energy (0/4)",
+                        "color": "dark_gray",
                         "italic": false
                       },
                       {
@@ -1067,7 +1057,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0.5s",
+                            "text": "1s",
                             "color": "green"
                           },
                           {
@@ -1112,12 +1102,7 @@
                         "italic": false
                       },
                       {
-                        "text": "Lose 1 stack after 10s of not gaining a",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "stack.",
+                        "text": "Lose 1 stack after 4s of not gaining a stack.",
                         "color": "dark_gray",
                         "italic": false
                       },
@@ -1245,14 +1230,12 @@
                         "thorns": 3,
                         "tidal": 3,
                         "mana_vampire": 10,
-                        "protection": 6,
                         "smarty_pants": 5,
+                        "protection": 6,
                         "growth": 6
                       },
                       "timestamp": 1659911220000,
-                      "hot_potato_count": 15,
-                      "modifier": "necrotic",
-                      "rarity_upgrades": 1,
+                      "uuid": "a3eea616-95d9-4dec-807e-6e60b50c9170",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
                         "COMBAT_1": "PERFECT",
@@ -1263,7 +1246,9 @@
                           "COMBAT_0"
                         ]
                       },
-                      "uuid": "a3eea616-95d9-4dec-807e-6e60b50c9170",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "necrotic",
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -1489,8 +1474,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Arcane Energy (4/4)",
-                        "color": "gold",
+                        "text": "Tiered Bonus: Arcane Energy (0/4)",
+                        "color": "dark_gray",
                         "italic": false
                       },
                       {
@@ -1501,7 +1486,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0.5s",
+                            "text": "1s",
                             "color": "green"
                           },
                           {
@@ -1546,12 +1531,7 @@
                         "italic": false
                       },
                       {
-                        "text": "Lose 1 stack after 10s of not gaining a",
-                        "color": "dark_gray",
-                        "italic": false
-                      },
-                      {
-                        "text": "stack.",
+                        "text": "Lose 1 stack after 4s of not gaining a stack.",
                         "color": "dark_gray",
                         "italic": false
                       },
@@ -1677,18 +1657,16 @@
                         "ultimate_wisdom": 5,
                         "rejuvenate": 5,
                         "sugar_rush": 3,
-                        "feather_falling": 10,
-                        "stealth": 1,
                         "thorns": 3,
+                        "mana_vampire": 10,
+                        "stealth": 1,
                         "protection": 6,
                         "depth_strider": 3,
-                        "mana_vampire": 10,
+                        "feather_falling": 10,
                         "growth": 6
                       },
                       "timestamp": 1664371500000,
-                      "hot_potato_count": 15,
-                      "modifier": "necrotic",
-                      "rarity_upgrades": 1,
+                      "uuid": "fbb6a475-f910-4b49-95a6-abe72c40c4d5",
                       "gems": {
                         "COMBAT_1_gem": "SAPPHIRE",
                         "COMBAT_0_gem": "SAPPHIRE",
@@ -1699,7 +1677,9 @@
                           "COMBAT_0"
                         ]
                       },
-                      "uuid": "fbb6a475-f910-4b49-95a6-abe72c40c4d5",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "necrotic",
                       "donated_museum": 1,
                       "id": "INFERNAL_AURORA_BOOTS",
                       "artOfPeaceApplied": 1
@@ -2235,8 +2215,8 @@
                       "enchantments": {
                         "strong_mana": 6,
                         "rejuvenate": 5,
-                        "ultimate_legion": 5,
                         "respiration": 3,
+                        "ultimate_legion": 5,
                         "thorns": 3,
                         "aqua_affinity": 1,
                         "protection": 6,
@@ -2244,11 +2224,11 @@
                       },
                       "anvil_uses": 1,
                       "timestamp": 1602429960000,
-                      "hot_potato_count": 15,
-                      "collected_coins": 635839840,
-                      "rarity_upgrades": 1,
-                      "modifier": "ancient",
                       "uuid": "800f753f-03f0-4898-993a-4b4fdc28ff53",
+                      "hot_potato_count": 15,
+                      "rarity_upgrades": 1,
+                      "collected_coins": 635839840,
+                      "modifier": "ancient",
                       "donated_museum": 1,
                       "id": "CROWN_OF_AVARICE",
                       "originTag": "UNKNOWN"
@@ -2740,17 +2720,15 @@
                     "minecraft:custom_data": {
                       "boss_tier": 0,
                       "enchantments": {
-                        "strong_mana": 6,
                         "true_protection": 1,
+                        "strong_mana": 6,
                         "protection": 6,
                         "reflection": 5,
                         "rejuvenate": 5,
                         "growth": 6
                       },
                       "timestamp": 1659031380000,
-                      "hot_potato_count": 15,
-                      "modifier": "ancient",
-                      "rarity_upgrades": 1,
+                      "uuid": "6ed9ab72-bdd4-4f7d-9b4e-bc2a05855907",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
                         "COMBAT_0_gem": "JASPER",
@@ -2761,7 +2739,9 @@
                           "COMBAT_1"
                         ]
                       },
-                      "uuid": "6ed9ab72-bdd4-4f7d-9b4e-bc2a05855907",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "ancient",
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -3250,14 +3230,12 @@
                         "rejuvenate": 5,
                         "ultimate_legion": 5,
                         "thorns": 3,
-                        "protection": 6,
                         "smarty_pants": 5,
+                        "protection": 6,
                         "growth": 6
                       },
                       "timestamp": 1658852820000,
-                      "hot_potato_count": 15,
-                      "modifier": "ancient",
-                      "rarity_upgrades": 1,
+                      "uuid": "14223791-4ffd-462e-9592-20fc473d8254",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
                         "COMBAT_0_gem": "JASPER",
@@ -3268,7 +3246,9 @@
                           "COMBAT_1"
                         ]
                       },
-                      "uuid": "14223791-4ffd-462e-9592-20fc473d8254",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "ancient",
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -3798,17 +3778,15 @@
                         "rejuvenate": 5,
                         "sugar_rush": 3,
                         "ultimate_legion": 5,
-                        "feather_falling": 10,
-                        "stealth": 1,
                         "thorns": 3,
+                        "stealth": 1,
+                        "feather_falling": 10,
                         "protection": 6,
                         "depth_strider": 3,
                         "growth": 6
                       },
                       "timestamp": 1659029400000,
-                      "hot_potato_count": 15,
-                      "modifier": "ancient",
-                      "rarity_upgrades": 1,
+                      "uuid": "f587a55a-2a43-47d1-8a32-6c54801685b3",
                       "gems": {
                         "COMBAT_1_gem": "JASPER",
                         "COMBAT_0_gem": "JASPER",
@@ -3819,7 +3797,9 @@
                           "COMBAT_1"
                         ]
                       },
-                      "uuid": "f587a55a-2a43-47d1-8a32-6c54801685b3",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "ancient",
                       "donated_museum": 1,
                       "id": "INFERNAL_CRIMSON_BOOTS",
                       "artOfPeaceApplied": 1
@@ -4260,12 +4240,12 @@
                         "growth": 5
                       },
                       "timestamp": 1633430340000,
-                      "modifier": "jaded",
+                      "uuid": "aa4e7feb-a271-4df2-9a81-28bb108075d3",
                       "gems": {
-                        "TOPAZ_0": "PERFECT",
+                        "AMBER_1": "PERFECT",
                         "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
-                        "AMBER_1": "PERFECT",
+                        "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
                           "JADE_1",
@@ -4276,7 +4256,7 @@
                         "JADE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "aa4e7feb-a271-4df2-9a81-28bb108075d3",
+                      "modifier": "jaded",
                       "donated_museum": 1,
                       "id": "DIVAN_HELMET",
                       "divan_powder_coating": 1,
@@ -4639,14 +4619,12 @@
                         "growth": 5
                       },
                       "timestamp": 1633876500000,
-                      "hot_potato_count": 10,
-                      "modifier": "jaded",
-                      "rarity_upgrades": 1,
+                      "uuid": "6225221c-558c-4424-a047-a79c6862d794",
                       "gems": {
-                        "TOPAZ_0": "PERFECT",
+                        "AMBER_1": "PERFECT",
                         "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
-                        "AMBER_1": "PERFECT",
+                        "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
                           "JADE_1",
@@ -4656,7 +4634,9 @@
                         ],
                         "JADE_0": "PERFECT"
                       },
-                      "uuid": "6225221c-558c-4424-a047-a79c6862d794",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
+                      "modifier": "jaded",
                       "donated_museum": 1,
                       "id": "DIVAN_CHESTPLATE",
                       "divan_powder_coating": 1,
@@ -5011,12 +4991,12 @@
                         "growth": 5
                       },
                       "timestamp": 1632862920000,
-                      "modifier": "jaded",
+                      "uuid": "56be3cdd-2ed7-4082-a6cc-8237fd89e21b",
                       "gems": {
-                        "TOPAZ_0": "PERFECT",
+                        "AMBER_1": "PERFECT",
                         "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
-                        "AMBER_1": "PERFECT",
+                        "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "TOPAZ_0",
                           "JADE_1",
@@ -5027,7 +5007,7 @@
                         "JADE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "56be3cdd-2ed7-4082-a6cc-8237fd89e21b",
+                      "modifier": "jaded",
                       "donated_museum": 1,
                       "id": "DIVAN_LEGGINGS",
                       "divan_powder_coating": 1,
@@ -5453,19 +5433,19 @@
                     ],
                     "minecraft:custom_data": {
                       "enchantments": {
-                        "feather_falling": 10,
                         "thorns": 3,
+                        "feather_falling": 10,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
                       },
                       "timestamp": 1633242600000,
-                      "modifier": "jaded",
+                      "uuid": "89b1ae68-af65-47ac-83bf-bb2e42a03c29",
                       "gems": {
-                        "TOPAZ_0": "PERFECT",
+                        "AMBER_1": "PERFECT",
                         "JADE_1": "PERFECT",
                         "AMBER_0": "PERFECT",
-                        "AMBER_1": "PERFECT",
+                        "TOPAZ_0": "PERFECT",
                         "unlocked_slots": [
                           "AMBER_0",
                           "JADE_0",
@@ -5476,7 +5456,7 @@
                         "JADE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "89b1ae68-af65-47ac-83bf-bb2e42a03c29",
+                      "modifier": "jaded",
                       "donated_museum": 1,
                       "id": "DIVAN_BOOTS",
                       "divan_powder_coating": 1,
@@ -5697,8 +5677,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Feast (0/4)",
-                        "color": "dark_gray",
+                        "text": "Tiered Bonus: Feast (4/4)",
+                        "color": "gold",
                         "italic": false
                       },
                       {
@@ -5714,7 +5694,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 pieces ",
+                            "text": "4 pieces ",
                             "color": "green"
                           },
                           {
@@ -5741,7 +5721,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 Farming",
+                            "text": "75 Farming",
                             "color": "gold"
                           }
                         ],
@@ -5833,24 +5813,24 @@
                         "growth": 5
                       },
                       "timestamp": 1676394000000,
-                      "hot_potato_count": 10,
-                      "modifier": "mossy",
-                      "rarity_upgrades": 1,
+                      "uuid": "098656b0-a31d-4fe4-b927-a5051383ae33",
                       "gems": {
-                        "PERIDOT_1": {
-                          "uuid": "8a680032-d68a-45c5-9c9e-7421cdd6ce8b",
-                          "quality": "PERFECT"
-                        },
                         "unlocked_slots": [
                           "PERIDOT_0",
                           "PERIDOT_1"
                         ],
+                        "PERIDOT_1": {
+                          "uuid": "8a680032-d68a-45c5-9c9e-7421cdd6ce8b",
+                          "quality": "PERFECT"
+                        },
                         "PERIDOT_0": {
                           "uuid": "65c6eeca-c10f-4b29-9022-5db0c7285399",
                           "quality": "PERFECT"
                         }
                       },
-                      "uuid": "098656b0-a31d-4fe4-b927-a5051383ae33",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
+                      "modifier": "mossy",
                       "donated_museum": 1,
                       "id": "HELIANTHUS_HELMET"
                     },
@@ -6204,8 +6184,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Feast (0/4)",
-                        "color": "dark_gray",
+                        "text": "Tiered Bonus: Feast (4/4)",
+                        "color": "gold",
                         "italic": false
                       },
                       {
@@ -6221,7 +6201,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 pieces ",
+                            "text": "4 pieces ",
                             "color": "green"
                           },
                           {
@@ -6248,7 +6228,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 Farming",
+                            "text": "75 Farming",
                             "color": "gold"
                           }
                         ],
@@ -6323,24 +6303,24 @@
                         "growth": 5
                       },
                       "timestamp": 1676394000000,
-                      "hot_potato_count": 10,
-                      "modifier": "mossy",
-                      "rarity_upgrades": 1,
+                      "uuid": "e6940895-6929-49cd-b9a2-f9277282ee4f",
                       "gems": {
-                        "PERIDOT_1": {
-                          "uuid": "285528c1-45cb-491b-ae45-e44e08f35a5d",
-                          "quality": "PERFECT"
-                        },
                         "unlocked_slots": [
                           "PERIDOT_1",
                           "PERIDOT_0"
                         ],
+                        "PERIDOT_1": {
+                          "uuid": "285528c1-45cb-491b-ae45-e44e08f35a5d",
+                          "quality": "PERFECT"
+                        },
                         "PERIDOT_0": {
                           "uuid": "fec2fb7e-53d8-428a-bb64-08b07cd5dd3e",
                           "quality": "PERFECT"
                         }
                       },
-                      "uuid": "e6940895-6929-49cd-b9a2-f9277282ee4f",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
+                      "modifier": "mossy",
                       "donated_museum": 1,
                       "id": "HELIANTHUS_CHESTPLATE"
                     },
@@ -6694,8 +6674,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Feast (0/4)",
-                        "color": "dark_gray",
+                        "text": "Tiered Bonus: Feast (4/4)",
+                        "color": "gold",
                         "italic": false
                       },
                       {
@@ -6711,7 +6691,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 pieces ",
+                            "text": "4 pieces ",
                             "color": "green"
                           },
                           {
@@ -6738,7 +6718,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 Farming",
+                            "text": "75 Farming",
                             "color": "gold"
                           }
                         ],
@@ -6813,24 +6793,24 @@
                         "growth": 5
                       },
                       "timestamp": 1676394000000,
-                      "hot_potato_count": 10,
-                      "modifier": "mossy",
-                      "rarity_upgrades": 1,
+                      "uuid": "5fcd1577-1b7c-438e-909f-d89bb664f0ac",
                       "gems": {
-                        "PERIDOT_1": {
-                          "uuid": "540591b6-e1b3-4b97-a1b0-32b941a4c206",
-                          "quality": "PERFECT"
-                        },
                         "unlocked_slots": [
                           "PERIDOT_1",
                           "PERIDOT_0"
                         ],
+                        "PERIDOT_1": {
+                          "uuid": "540591b6-e1b3-4b97-a1b0-32b941a4c206",
+                          "quality": "PERFECT"
+                        },
                         "PERIDOT_0": {
                           "uuid": "752b9955-0ec9-4629-8b35-d5edc6f3fcbe",
                           "quality": "PERFECT"
                         }
                       },
-                      "uuid": "5fcd1577-1b7c-438e-909f-d89bb664f0ac",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
+                      "modifier": "mossy",
                       "donated_museum": 1,
                       "id": "HELIANTHUS_LEGGINGS"
                     },
@@ -7041,8 +7021,8 @@
                       },
                       "",
                       {
-                        "text": "Tiered Bonus: Feast (0/4)",
-                        "color": "dark_gray",
+                        "text": "Tiered Bonus: Feast (4/4)",
+                        "color": "gold",
                         "italic": false
                       },
                       {
@@ -7058,7 +7038,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 pieces ",
+                            "text": "4 pieces ",
                             "color": "green"
                           },
                           {
@@ -7085,7 +7065,7 @@
                             "color": "gray"
                           },
                           {
-                            "text": "0 Farming",
+                            "text": "75 Farming",
                             "color": "gold"
                           }
                         ],
@@ -7166,27 +7146,27 @@
                       "enchantments": {
                         "sugar_rush": 3,
                         "pesterminator": 6,
-                        "feather_falling": 10,
-                        "stealth": 1,
                         "thorns": 3,
+                        "stealth": 1,
+                        "feather_falling": 10,
                         "ultimate_sunset": 5,
                         "depth_strider": 3,
                         "protection": 5,
                         "growth": 5
                       },
                       "timestamp": 1676394000000,
-                      "hot_potato_count": 10,
-                      "modifier": "mossy",
-                      "rarity_upgrades": 1,
+                      "uuid": "36a65fb1-87cc-4c38-8c2a-50bd1e85a2e1",
                       "gems": {
-                        "PERIDOT_1": "PERFECT",
                         "unlocked_slots": [
                           "PERIDOT_1",
                           "PERIDOT_0"
                         ],
+                        "PERIDOT_1": "PERFECT",
                         "PERIDOT_0": "PERFECT"
                       },
-                      "uuid": "36a65fb1-87cc-4c38-8c2a-50bd1e85a2e1",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 10,
+                      "modifier": "mossy",
                       "donated_museum": 1,
                       "id": "HELIANTHUS_BOOTS"
                     },
@@ -7675,15 +7655,15 @@
                     ],
                     "minecraft:custom_data": {
                       "enchantments": {
-                        "ultimate_legion": 5,
                         "rejuvenate": 5,
+                        "ultimate_legion": 5,
                         "aqua_affinity": 1,
                         "protection": 5,
                         "respiration": 3,
                         "growth": 5
                       },
                       "timestamp": 1610756400000,
-                      "modifier": "renowned",
+                      "uuid": "a50579f7-3a4f-47e4-b70e-4df97eb44ebf",
                       "gems": {
                         "AMBER_0": "FINE",
                         "UNIVERSAL_0_gem": "OPAL",
@@ -7691,7 +7671,7 @@
                         "UNIVERSAL_0": "FINE"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "a50579f7-3a4f-47e4-b70e-4df97eb44ebf",
+                      "modifier": "renowned",
                       "donated_museum": 1,
                       "id": "SORROW_HELMET",
                       "originTag": "QUICK_CRAFTING"
@@ -8315,9 +8295,7 @@
                         "growth": 6
                       },
                       "timestamp": 1635856560000,
-                      "hot_potato_count": 15,
-                      "modifier": "renowned",
-                      "rarity_upgrades": 1,
+                      "uuid": "751a9394-9550-41d9-8f5a-f4750428f940",
                       "gems": {
                         "AMBER_0": "FINE",
                         "UNIVERSAL_0_gem": "OPAL",
@@ -8328,7 +8306,9 @@
                         "JADE_0": "FINE",
                         "UNIVERSAL_0": "FINE"
                       },
-                      "uuid": "751a9394-9550-41d9-8f5a-f4750428f940",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "renowned",
                       "donated_museum": 1,
                       "id": "SORROW_CHESTPLATE",
                       "originTag": "QUICK_CRAFTING"
@@ -8920,7 +8900,7 @@
                         "growth": 5
                       },
                       "timestamp": 1627833060000,
-                      "modifier": "renowned",
+                      "uuid": "87e0f0a3-a557-411b-baf2-4a6c3004a6a3",
                       "gems": {
                         "AMBER_0": "FINE",
                         "UNIVERSAL_0_gem": "OPAL",
@@ -8928,7 +8908,7 @@
                         "UNIVERSAL_0": "FINE"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "87e0f0a3-a557-411b-baf2-4a6c3004a6a3",
+                      "modifier": "renowned",
                       "donated_museum": 1,
                       "id": "SORROW_LEGGINGS",
                       "originTag": "QUICK_CRAFTING"
@@ -9392,7 +9372,7 @@
                         "growth": 5
                       },
                       "timestamp": 1625936100000,
-                      "modifier": "renowned",
+                      "uuid": "0e67329e-264c-40bf-bdf6-008164314057",
                       "gems": {
                         "AMBER_0": "FINE",
                         "UNIVERSAL_0_gem": "OPAL",
@@ -9400,7 +9380,7 @@
                         "UNIVERSAL_0": "FINE"
                       },
                       "rarity_upgrades": 1,
-                      "uuid": "0e67329e-264c-40bf-bdf6-008164314057",
+                      "modifier": "renowned",
                       "donated_museum": 1,
                       "id": "SORROW_BOOTS",
                       "originTag": "CRAFTING_GRID_SHIFT"
@@ -9942,14 +9922,12 @@
                         "mana_vampire": 10,
                         "ultimate_bobbin_time": 5,
                         "transylvanian": 5,
-                        "protection": 6,
                         "aqua_affinity": 1,
+                        "protection": 6,
                         "growth": 6
                       },
                       "timestamp": 1651344840000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "146ebcb2-7a30-42fa-aedf-912e9c2052f8",
                       "gems": {
                         "COMBAT_1": "PERFECT",
                         "COMBAT_0": "PERFECT",
@@ -9962,7 +9940,9 @@
                           "AQUAMARINE_0"
                         ]
                       },
-                      "uuid": "146ebcb2-7a30-42fa-aedf-912e9c2052f8",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_HELMET",
                       "artOfPeaceApplied": 1
@@ -10481,9 +10461,7 @@
                         "growth": 6
                       },
                       "timestamp": 1660267680000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "12f51ed4-4d7e-4e7c-be24-b582f1242444",
                       "gems": {
                         "COMBAT_1": "PERFECT",
                         "COMBAT_0": "PERFECT",
@@ -10496,7 +10474,9 @@
                           "AQUAMARINE_1"
                         ]
                       },
-                      "uuid": "12f51ed4-4d7e-4e7c-be24-b582f1242444",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_CHESTPLATE",
                       "artOfPeaceApplied": 1
@@ -10997,14 +10977,12 @@
                         "mana_vampire": 10,
                         "ultimate_bobbin_time": 5,
                         "tidal": 3,
-                        "protection": 6,
                         "smarty_pants": 5,
+                        "protection": 6,
                         "growth": 6
                       },
                       "timestamp": 1652096760000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "ef9d6961-4f96-4348-bdef-07b38e671c45",
                       "gems": {
                         "COMBAT_1": "PERFECT",
                         "COMBAT_0": "PERFECT",
@@ -11017,7 +10995,9 @@
                           "AQUAMARINE_1"
                         ]
                       },
-                      "uuid": "ef9d6961-4f96-4348-bdef-07b38e671c45",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_LEGGINGS",
                       "artOfPeaceApplied": 1
@@ -11537,17 +11517,15 @@
                       "enchantments": {
                         "rejuvenate": 5,
                         "sugar_rush": 3,
-                        "feather_falling": 10,
-                        "ultimate_bobbin_time": 5,
                         "mana_vampire": 10,
+                        "ultimate_bobbin_time": 5,
+                        "feather_falling": 10,
                         "protection": 6,
                         "depth_strider": 3,
                         "growth": 6
                       },
                       "timestamp": 1651343820000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "eec5d673-3d20-43a5-b954-ee827b17941c",
                       "gems": {
                         "COMBAT_1": "PERFECT",
                         "COMBAT_0": "PERFECT",
@@ -11560,7 +11538,9 @@
                           "AQUAMARINE_1"
                         ]
                       },
-                      "uuid": "eec5d673-3d20-43a5-b954-ee827b17941c",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_BOOTS",
                       "artOfPeaceApplied": 1
@@ -11908,24 +11888,24 @@
                         "growth": 5
                       },
                       "timestamp": 1750926062217,
-                      "modifier": "groovy",
+                      "uuid": "e637958c-e248-46ac-a544-3378481088eb",
                       "gems": {
-                        "CITRINE_1": "PERFECT",
                         "unlocked_slots": [
                           "CITRINE_0",
                           "CITRINE_1"
                         ],
+                        "CITRINE_1": "PERFECT",
                         "CITRINE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "uuid": "e637958c-e248-46ac-a544-3378481088eb",
+                      "modifier": "groovy",
                       "donated_museum": 1,
                       "id": "HELIX_ARMOR_HELMET"
                     },
@@ -12312,24 +12292,24 @@
                         "growth": 5
                       },
                       "timestamp": 1750926063635,
-                      "modifier": "groovy",
+                      "uuid": "75b2237b-596c-4fb2-92c2-6ae29d94243d",
                       "gems": {
-                        "CITRINE_1": "PERFECT",
                         "unlocked_slots": [
                           "CITRINE_0",
                           "CITRINE_1"
                         ],
+                        "CITRINE_1": "PERFECT",
                         "CITRINE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "uuid": "75b2237b-596c-4fb2-92c2-6ae29d94243d",
+                      "modifier": "groovy",
                       "donated_museum": 1,
                       "id": "HELIX_ARMOR_CHESTPLATE"
                     },
@@ -12717,24 +12697,24 @@
                         "growth": 5
                       },
                       "timestamp": 1750926064907,
-                      "modifier": "groovy",
+                      "uuid": "80e8d6da-f679-4f49-9cb9-a0f6d82e3b27",
                       "gems": {
-                        "CITRINE_1": "PERFECT",
                         "unlocked_slots": [
                           "CITRINE_0",
                           "CITRINE_1"
                         ],
+                        "CITRINE_1": "PERFECT",
                         "CITRINE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "uuid": "80e8d6da-f679-4f49-9cb9-a0f6d82e3b27",
+                      "modifier": "groovy",
                       "donated_museum": 1,
                       "id": "HELIX_ARMOR_LEGGINGS"
                     },
@@ -13064,33 +13044,33 @@
                     "minecraft:custom_data": {
                       "enchantments": {
                         "sugar_rush": 3,
-                        "feather_falling": 5,
-                        "stealth": 1,
+                        "thorns": 3,
                         "forest_pledge": 6,
+                        "stealth": 1,
                         "protection": 5,
                         "depth_strider": 3,
-                        "thorns": 3,
+                        "feather_falling": 5,
                         "growth": 5
                       },
                       "timestamp": 1750926066454,
-                      "modifier": "groovy",
+                      "uuid": "316f46d9-5062-4576-ac64-4d5cc5cfd84c",
                       "gems": {
-                        "CITRINE_1": "PERFECT",
                         "unlocked_slots": [
                           "CITRINE_0",
                           "CITRINE_1"
                         ],
+                        "CITRINE_1": "PERFECT",
                         "CITRINE_0": "PERFECT"
                       },
                       "rarity_upgrades": 1,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "uuid": "316f46d9-5062-4576-ac64-4d5cc5cfd84c",
+                      "modifier": "groovy",
                       "donated_museum": 1,
                       "id": "HELIX_ARMOR_BOOTS"
                     },
@@ -13492,6 +13472,8 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "ABYSSAL_HELMET",
                       "enchantments": {
                         "aqua_affinity": 1,
                         "scuba": 5,
@@ -13499,11 +13481,9 @@
                         "respiration": 4,
                         "growth": 5
                       },
-                      "timestamp": 1636015200000,
-                      "id": "ABYSSAL_HELMET",
-                      "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
                       "originTag": "QUICK_CRAFTING",
-                      "donated_museum": 1
+                      "uuid": "ad10ae9c-05c6-4f75-b7b6-5a7e146393bf",
+                      "timestamp": 1636015200000
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
                   }
@@ -13832,16 +13812,16 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "ABYSSAL_CHESTPLATE",
                       "enchantments": {
-                        "scuba": 5,
                         "protection": 5,
+                        "scuba": 5,
                         "growth": 5
                       },
-                      "timestamp": 1636015200000,
-                      "id": "ABYSSAL_CHESTPLATE",
-                      "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
                       "originTag": "QUICK_CRAFTING",
-                      "donated_museum": 1
+                      "uuid": "40622eb1-ca45-495d-aee2-fcf00446bbf7",
+                      "timestamp": 1636015200000
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -14171,16 +14151,16 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "ABYSSAL_LEGGINGS",
                       "enchantments": {
-                        "scuba": 5,
                         "protection": 5,
+                        "scuba": 5,
                         "growth": 5
                       },
-                      "timestamp": 1636015200000,
-                      "id": "ABYSSAL_LEGGINGS",
-                      "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
                       "originTag": "QUICK_CRAFTING",
-                      "donated_museum": 1
+                      "uuid": "b4c2380c-e077-4ae1-8ab2-d0512274d719",
+                      "timestamp": 1636015200000
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -14586,6 +14566,8 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "ABYSSAL_BOOTS",
                       "enchantments": {
                         "feather_falling": 5,
                         "scuba": 5,
@@ -14593,11 +14575,9 @@
                         "depth_strider": 3,
                         "growth": 5
                       },
-                      "timestamp": 1636015200000,
-                      "id": "ABYSSAL_BOOTS",
-                      "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
                       "originTag": "CRAFTING_GRID_COLLECT",
-                      "donated_museum": 1
+                      "uuid": "170359a9-b15e-4cd2-9e79-c6fcec4a02fc",
+                      "timestamp": 1636015200000
                     },
                     "minecraft:dyed_color": 943725,
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -15096,16 +15076,16 @@
                         "growth": 5
                       },
                       "timestamp": 1636370520000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "bd61819d-5499-49a1-adab-8fea1a81d86f",
                       "gems": {
                         "unlocked_slots": [
                           "COMBAT_0",
                           "JASPER_0"
                         ]
                       },
-                      "uuid": "bd61819d-5499-49a1-adab-8fea1a81d86f",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_HELMET",
                       "dungeon_item_level": 5,
@@ -15550,16 +15530,16 @@
                         "growth": 5
                       },
                       "timestamp": 1633621860000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "0878a40a-d376-48a0-acdb-9883bd7308c1",
                       "gems": {
                         "unlocked_slots": [
                           "COMBAT_0",
                           "JASPER_0"
                         ]
                       },
-                      "uuid": "0878a40a-d376-48a0-acdb-9883bd7308c1",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_CHESTPLATE",
                       "dungeon_item_level": 5,
@@ -16005,16 +15985,16 @@
                         "growth": 5
                       },
                       "timestamp": 1636370520000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "340c6dd1-7940-424e-9914-d4afe47ffde4",
                       "gems": {
                         "unlocked_slots": [
                           "COMBAT_0",
                           "JASPER_0"
                         ]
                       },
-                      "uuid": "340c6dd1-7940-424e-9914-d4afe47ffde4",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_LEGGINGS",
                       "dungeon_item_level": 5,
@@ -16472,23 +16452,23 @@
                     ],
                     "minecraft:custom_data": {
                       "enchantments": {
-                        "feather_falling": 5,
                         "thorns": 3,
+                        "feather_falling": 5,
                         "protection": 5,
                         "depth_strider": 3,
                         "growth": 5
                       },
                       "timestamp": 1636288740000,
-                      "hot_potato_count": 15,
-                      "modifier": "submerged",
-                      "rarity_upgrades": 1,
+                      "uuid": "54271ba8-066e-4076-a908-259d3df6480f",
                       "gems": {
                         "unlocked_slots": [
                           "JASPER_0",
                           "COMBAT_0"
                         ]
                       },
-                      "uuid": "54271ba8-066e-4076-a908-259d3df6480f",
+                      "rarity_upgrades": 1,
+                      "hot_potato_count": 15,
+                      "modifier": "submerged",
                       "donated_museum": 1,
                       "id": "FROZEN_BLAZE_BOOTS",
                       "dungeon_item_level": 5,
@@ -44678,7 +44658,7 @@
           ]
         },
         "equipment": {
-          "currentSlot": 7,
+          "currentSlot": 3,
           "slots": [
             {
               "id": 1,
@@ -44787,6 +44767,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Magic Find: ",
                             "color": "gray"
                           },
@@ -44834,20 +44828,6 @@
                           },
                           {
                             "text": "+1",
-                            "color": "dark_aqua"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
                             "color": "dark_aqua"
                           }
                         ],
@@ -45034,12 +45014,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1687289880000,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1687289880000,
-                      "modifier": "strengthened",
                       "uuid": "2233b920-0c91-4fad-84a8-1c30a27d00c9",
+                      "modifier": "strengthened",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "RIFT_NECKLACE_OUTSIDE"
@@ -45328,8 +45308,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 5,
                       "timestamp": 1757331481098,
-                      "modifier": "blood_shot",
                       "uuid": "2b721a61-3bbf-4d53-9af9-eb77dabd8731",
+                      "modifier": "blood_shot",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "THE_PRIMORDIAL"
@@ -45593,11 +45573,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1664716500000,
-                      "id": "GAUNTLET_OF_CONTAGION",
                       "donated_museum": 1,
-                      "modifier": "glistening",
+                      "id": "GAUNTLET_OF_CONTAGION",
+                      "timestamp": 1664716500000,
                       "uuid": "5314be60-947c-4ffe-bfb4-a3b4218ed9f4",
+                      "modifier": "glistening",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -45880,9 +45860,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883287943,
-                      "id": "MYTHOS_NECKLACE",
                       "donated_museum": 1,
+                      "id": "MYTHOS_NECKLACE",
+                      "timestamp": 1762883287943,
                       "uuid": "44e563fe-8789-4ef1-9e3e-586458456a15"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -46125,11 +46105,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1766260000205,
-                      "id": "GOLDEN_FLEECE",
                       "donated_museum": 1,
-                      "modifier": "strengthened",
+                      "id": "GOLDEN_FLEECE",
+                      "timestamp": 1766260000205,
                       "uuid": "8410882e-051d-4c80-87f0-e1ad8d3c5cd9",
+                      "modifier": "strengthened",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -46406,9 +46386,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883299792,
-                      "id": "MYTHOS_BELT",
                       "donated_museum": 1,
+                      "id": "MYTHOS_BELT",
+                      "timestamp": 1762883299792,
                       "uuid": "768adbb7-bdd8-4fe0-b637-479faeba4ddc"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -46685,9 +46665,9 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1762883295124,
-                      "id": "MYTHOS_BRACELET",
                       "donated_museum": 1,
+                      "id": "MYTHOS_BRACELET",
+                      "timestamp": 1762883295124,
                       "uuid": "38c1caad-e1b9-48f7-9ff5-c27a53b64495"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -46726,6 +46706,20 @@
                       "italic": false
                     },
                     "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
                       {
                         "text": "",
                         "extra": [
@@ -46772,20 +46766,6 @@
                           {
                             "text": "(+3)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -47051,12 +47031,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1748172306288,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1748172306288,
-                      "modifier": "blazing",
                       "uuid": "96a57b3e-493a-4747-a53d-375585f19ca3",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "AMBER_NECKLACE"
@@ -47350,11 +47330,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1748172306838,
-                      "id": "SAPPHIRE_CLOAK",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "SAPPHIRE_CLOAK",
+                      "timestamp": 1748172306838,
                       "uuid": "85585f9c-c77a-409b-bbd6-ea4157cccdad",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -47646,11 +47626,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1748172307438,
-                      "id": "JADE_BELT",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "JADE_BELT",
+                      "timestamp": 1748172307438,
                       "uuid": "0011e7aa-6202-484f-8b96-f3a46032fa29",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -47864,11 +47844,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1718191185345,
-                      "id": "DWARVEN_HANDWARMERS",
                       "donated_museum": 1,
-                      "modifier": "blazing",
+                      "id": "DWARVEN_HANDWARMERS",
+                      "timestamp": 1718191185345,
                       "uuid": "4ff4683b-02c9-4064-a8d8-bc88ced07194",
+                      "modifier": "blazing",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -47929,6 +47909,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Farming Fortune: ",
                             "color": "gray"
                           },
@@ -47939,20 +47933,6 @@
                           {
                             "text": "(+18)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -48108,16 +48088,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -48182,13 +48156,13 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405220000,
                       "enchantments": {
                         "quantum": 5,
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405220000,
-                      "modifier": "rooted",
                       "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_NECKLACE"
@@ -48360,16 +48334,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -48434,12 +48402,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405400000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405400000,
-                      "modifier": "rooted",
                       "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_CLOAK"
@@ -48611,16 +48579,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -48685,12 +48647,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676405280000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676405280000,
-                      "modifier": "rooted",
                       "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_BELT"
@@ -48862,16 +48824,10 @@
                             "color": "gray"
                           },
                           {
-                            "text": "11,158",
+                            "text": "11,167",
                             "color": "red"
                           }
                         ],
-                        "italic": false
-                      },
-                      "",
-                      {
-                        "text": "Right-click to equip!",
-                        "color": "yellow",
                         "italic": false
                       },
                       "",
@@ -48936,12 +48892,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1676404560000,
                       "enchantments": {
                         "green_thumb": 5
                       },
-                      "timestamp": 1676404560000,
-                      "modifier": "rooted",
                       "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
+                      "modifier": "rooted",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "BLOSSOM_BRACELET"
@@ -49038,6 +48994,20 @@
                         "text": "",
                         "extra": [
                           {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
                             "text": "Fishing Speed: ",
                             "color": "gray"
                           },
@@ -49066,20 +49036,6 @@
                           {
                             "text": "(+1%)",
                             "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -49352,12 +49308,12 @@
                       ]
                     },
                     "minecraft:custom_data": {
+                      "timestamp": 1651345380000,
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1651345380000,
-                      "modifier": "snowy",
                       "uuid": "f4c61073-c6a9-4813-8e99-31e00b098fb0",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "MAGMA_LORD_GAUNTLET"
@@ -49534,8 +49490,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1666228500000,
-                      "modifier": "snowy",
                       "uuid": "44a1e477-89c3-4d01-a219-c8aeadc5c9ce",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_CLOAK"
@@ -49712,8 +49668,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1666228500000,
-                      "modifier": "snowy",
                       "uuid": "147da9c0-cf40-4c79-90f7-cda7c055e028",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_BELT"
@@ -49890,8 +49846,8 @@
                     "minecraft:custom_data": {
                       "upgrade_level": 10,
                       "timestamp": 1664019660000,
-                      "modifier": "snowy",
                       "uuid": "c40d696e-be5f-49c9-a3be-342f6c091ed5",
+                      "modifier": "snowy",
                       "rarity_upgrades": 1,
                       "donated_museum": 1,
                       "id": "GILLSPLASH_GLOVES"
@@ -49933,6 +49889,20 @@
                       "italic": false
                     },
                     "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Vitality: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3",
+                            "color": "dark_red"
+                          }
+                        ],
+                        "italic": false
+                      },
                       {
                         "text": "",
                         "extra": [
@@ -49983,20 +49953,6 @@
                           {
                             "text": "(+1)",
                             "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Taming Wisdom: ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+2",
-                            "color": "dark_aqua"
                           }
                         ],
                         "italic": false
@@ -50156,18 +50112,18 @@
                       }
                     ],
                     "minecraft:custom_data": {
+                      "donated_museum": 1,
+                      "id": "HONEYCOMB_NECKLACE",
+                      "timestamp": 1750839377334,
+                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
                       "enchantments": {
                         "quantum": 5
                       },
-                      "timestamp": 1750839377334,
-                      "id": "HONEYCOMB_NECKLACE",
-                      "uuid": "ee3fdd4c-5635-4ee4-af0a-558adcb4ab50",
-                      "donated_museum": 1,
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -50491,18 +50447,18 @@
                     },
                     "minecraft:custom_data": {
                       "timestamp": 1750708843299,
-                      "modifier": "strengthened",
                       "uuid": "a0283aad-b60b-4e16-8311-ccceea9683ef",
+                      "modifier": "strengthened",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       },
-                      "attributeMenuValue": 30,
+                      "donated_museum": 1,
                       "id": "DAVIDS_CLOAK",
-                      "donated_museum": 1
+                      "attributeMenuValue": 30
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:mythic"
                   }
@@ -50725,15 +50681,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1750850470008,
-                      "id": "TORRHUS_BELT",
                       "donated_museum": 1,
+                      "id": "TORRHUS_BELT",
+                      "timestamp": 1750850470008,
                       "uuid": "fcecf9f1-eceb-4872-8995-0c214125c03e",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -50925,15 +50881,15 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "timestamp": 1750966611761,
-                      "id": "VEILSHROOM_BRACELET",
                       "donated_museum": 1,
+                      "id": "VEILSHROOM_BRACELET",
+                      "timestamp": 1750966611761,
                       "uuid": "fd22f8f6-3a04-4f72-98a2-130be88fba03",
                       "booster_tiers": {
                         "foraging_fortune": 2,
                         "sweep": 2,
-                        "fighting": 2,
                         "hunting_wisdom": 2,
+                        "fighting": 2,
                         "foraging_wisdom": 2
                       }
                     },
@@ -51116,11 +51072,11 @@
                       ]
                     },
                     "minecraft:custom_data": {
-                      "timestamp": 1664690040000,
-                      "id": "IMPLOSION_BELT",
                       "donated_museum": 1,
-                      "modifier": "glistening",
+                      "id": "IMPLOSION_BELT",
+                      "timestamp": 1664690040000,
                       "uuid": "950fb44c-6614-412c-9664-d67ee005f6db",
+                      "modifier": "glistening",
                       "rarity_upgrades": 1
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -51157,11 +51113,84 @@
                     },
                     "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/safari_belt_common",
                     "minecraft:custom_name": {
-                      "text": "Safari Belt",
+                      "text": "Majestic Safari Belt",
                       "color": "white",
                       "italic": false
                     },
                     "minecraft:lore": [
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Sweep: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+0.5 ",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Foraging Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+3 ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+2)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Fortune: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1.5 ",
+                            "color": "light_purple"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Hunting Wisdom: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1.5 ",
+                            "color": "dark_aqua"
+                          },
+                          {
+                            "text": "(+0.5)",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
                       {
                         "text": "",
                         "extra": [
@@ -51217,10 +51246,43 @@
                       },
                       "",
                       {
-                        "text": "This item can be reforged!",
-                        "color": "dark_gray",
+                        "text": "Majestic Bonus",
+                        "color": "blue",
                         "italic": false
                       },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+50 Speed ",
+                            "color": "white"
+                          },
+                          {
+                            "text": "while in the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Critter Safari",
+                            "color": "dark_green"
+                          },
+                          {
+                            "text": ".",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      "",
                       {
                         "text": "",
                         "extra": [
@@ -51249,10 +51311,12 @@
                       }
                     ],
                     "minecraft:custom_data": {
-                      "upgraded_rarity": "COMMON",
+                      "donated_museum": 1,
                       "id": "SAFARI_BELT",
                       "timestamp": 1785926927848,
-                      "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f"
+                      "uuid": "61662ecb-7137-46d6-916e-4120180d1e9f",
+                      "modifier": "majestic",
+                      "upgraded_rarity": "COMMON"
                     },
                     "minecraft:tooltip_style": "hypixel_skyblock:common"
                   }
@@ -51906,6 +51970,400 @@
               "locked": true
             }
           ]
+        },
+        "loadouts": {
+          "currentSlot": 3,
+          "slots": [
+            {
+              "id": 0,
+              "name": "Mage",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "powerstone": {
+                "value": "Bizarre",
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "locked": false
+            },
+            {
+              "id": 1,
+              "name": "Berserk",
+              "armor": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "equipment": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "locked": false
+            },
+            {
+              "id": 2,
+              "name": "Miner",
+              "armor": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "equipment": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotm": {
+                "value": "Heart of the Mountain 1",
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494580
+              },
+              "locked": false
+            },
+            {
+              "id": 3,
+              "name": "Farmer",
+              "armor": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "equipment": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "locked": false
+            },
+            {
+              "id": 4,
+              "name": "Magic Finder",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "locked": false
+            },
+            {
+              "id": 5,
+              "name": "Fisher",
+              "armor": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "equipment": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494581
+              },
+              "locked": false
+            },
+            {
+              "id": 6,
+              "name": "Forager",
+              "armor": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "value": "Inspired",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "value": 3,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "value": "Heart of the Forest 1",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            },
+            {
+              "id": 7,
+              "name": "Diver",
+              "armor": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": 6,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            },
+            {
+              "id": 8,
+              "name": "Party Fisher",
+              "armor": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": 5,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "value": "Heart of the Forest 2",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            },
+            {
+              "id": 9,
+              "name": "Trophy Fisher",
+              "armor": {
+                "value": 9,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": 9,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            },
+            {
+              "id": 10,
+              "name": "Tarantula",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "value": 2,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            },
+            {
+              "id": 11,
+              "name": "Terror",
+              "armor": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "equipment": {
+                "value": -1,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "powerstone": {
+                "value": "Hurtful",
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "tunings": {
+                "value": 1,
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotm": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "hotf": {
+                "source": "OVERVIEW",
+                "time": 1787652494582
+              },
+              "locked": false
+            }
+          ]
         }
       },
       "Strawberry": {
@@ -52458,6 +52916,10 @@
               "locked": true
             }
           ]
+        },
+        "loadouts": {
+          "currentSlot": -1,
+          "slots": []
         }
       }
     }

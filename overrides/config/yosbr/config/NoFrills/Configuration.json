@@ -85,7 +85,8 @@
     "scale": 1.0
   },
   "bobberElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "slugfishTimer": 0
   },
   "fishingBagElement": {
     "scale": 1.0
@@ -121,11 +122,12 @@
   "chatWaypoints": {
     "partyDuration": 120,
     "allDuration": 60,
-    "enabled": true,
+    "enabled": false,
     "partyEnabled": true,
     "partyClearOnArrive": true,
     "allEnabled": true,
-    "allClearOnArrive": true
+    "allClearOnArrive": true,
+    "showDistance": true
   },
   "etherwarpOverlay": {
     "sound": "minecraft:block.note_block.pling",
@@ -213,7 +215,9 @@
     "hideTooltip": false,
     "protectRarityUpgraded": true,
     "protectStarred": true,
-    "protectValue": true
+    "protectValue": true,
+    "drawOverlay": true,
+    "regularOverlay": -9131
   },
   "infoTooltips": {
     "enabled": false,
@@ -232,7 +236,7 @@
     "enabled": true
   },
   "middleClickOverride": {
-    "enabled": false
+    "enabled": true
   },
   "noFrontPerspective": {
     "enabled": false
@@ -241,7 +245,7 @@
     "enabled": false
   },
   "middleClickFix": {
-    "enabled": false
+    "enabled": true
   },
   "noPearlCooldown": {
     "enabled": false
@@ -422,7 +426,11 @@
     "enabled": false
   },
   "terminalSolvers": {
-    "enabled": false
+    "enabled": false,
+    "firstClickTicks": 10,
+    "clickSound": "minecraft:entity.blaze.hurt",
+    "clickSoundVolume": 2.0,
+    "clickSoundPitch": 2.0
   },
   "terracottaTimer": {
     "scale": 0.4,
@@ -494,7 +502,8 @@
     "enabled": false
   },
   "croesusSolver": {
-    "enabled": false
+    "enabled": false,
+    "profitHighThreshold": 5000000.0
   },
   "dupeClassAlert": {
     "enabled": false
@@ -625,6 +634,31 @@
     "enabled": false
   },
   "muteComposter": {
+    "enabled": false
+  },
+  "slotLocking": {
+    "enabled": false
+  },
+  "inventoryButtons": {
+    "gridPrecision": 5,
+    "enabled": false
+  },
+  "soundBlocker": {
+    "enabled": false
+  },
+  "honeycombTimer": {
+    "scale": 0.5,
+    "enabled": true
+  },
+  "bonusScoreMessage": {
+    "msgPrince": "/pc Prince Killed!",
+    "msgBat": "/pc Bat Killed!",
+    "enabled": false,
+    "sendBat": false,
+    "sendPrince": false
+  },
+  "vesuviusSolver": {
+    "profitHighThreshold": 5000000.0,
     "enabled": false
   }
 }
