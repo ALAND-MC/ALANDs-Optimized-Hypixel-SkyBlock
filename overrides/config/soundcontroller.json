@@ -19,6 +19,18 @@
       "volume": 0.5
     },
     {
+      "soundId": "minecraft:block.candle.extinguish",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:block.fire.extinguish",
+      "volume": 0.5
+    },
+    {
+      "soundId": "minecraft:block.lava.extinguish",
+      "volume": 0.5
+    },
+    {
       "soundId": "minecraft:block.note_block.pling",
       "volume": 0.5
     },
@@ -165,6 +177,10 @@
     {
       "soundId": "minecraft:entity.generic.explode",
       "volume": 0.2
+    },
+    {
+      "soundId": "minecraft:entity.generic.extinguish_fire",
+      "volume": 0.5
     },
     {
       "soundId": "minecraft:entity.generic.splash",

@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "general": {
     "enableTips": false,
     "acceptReparty": true,
@@ -150,9 +150,7 @@
       "displayIcons": true,
       "compactWidgets": false,
       "enableHudBackground": true,
-      "effectsFromFooter": false,
-      "defaultPositioning": "CENTERED",
-      "nameSorting": "DEFAULT"
+      "defaultPositioning": "CENTERED"
     },
     "fancyAuctionHouse": {
       "enabled": false,
@@ -209,6 +207,7 @@
     "searchOverlay": {
       "enableBazaar": true,
       "enableAuctionHouse": true,
+      "enableIronmanAuctionHouse": false,
       "enableMuseum": true,
       "keepPreviousSearches": false,
       "maxSuggestions": 3,
@@ -216,14 +215,14 @@
       "enableCommands": false,
       "commandAutocomplete": true,
       "bazaarHistory": [
+        "feast",
         "Small Brain IV",
-        "experience",
-        "sunset"
+        "experience"
       ],
       "auctionHistory": [
+        "Finn\u0027s Focaccia",
         "Rosewater Flask",
-        "Cluck the Fish",
-        "Century Cake of the Seven Seas"
+        "Cluck the Fish"
       ],
       "museumHistory": [
         "Gemstone Gauntlet",
@@ -268,13 +267,6 @@
     "gyroOverlay": {
       "gyroOverlayMode": "OFF",
       "gyroOverlayColor": 2138445204
-    },
-    "itemPickup": {
-      "enabled": false,
-      "sackNotifications": false,
-      "showItemName": true,
-      "lifeTime": 3,
-      "splitNotifications": false
     }
   },
   "helpers": {
@@ -303,12 +295,8 @@
     },
     "fishing": {
       "enableFishingHelper": true,
-      "enableFishingTimer": false,
       "hideOtherPlayersRods": true,
-      "enableFishingHud": false,
-      "enableSeaCreatureCounter": false,
       "fishingHookDisplay": "HUD",
-      "onlyShowHudInBarn": false,
       "timerLength": 340,
       "seaCreatureTimerNotification": false,
       "seaCreatureCapNotification": true,
@@ -317,6 +305,7 @@
     "fairySouls": {
       "enableFairySoulsHelper": false,
       "highlightFoundSouls": false,
+      "highlightOnBingo": true,
       "highlightOnlyNearbySouls": false
     },
     "chocolateFactory": {
@@ -361,7 +350,6 @@
     "starredMobBoundingBoxes": false,
     "highlightDoorKeys": true,
     "allowDroppingProtectedItems": false,
-    "dungeonSplits": false,
     "hideSoulweaverSkulls": false,
     "dungeonMap": {
       "enableMap": true,
@@ -484,7 +472,7 @@
     "dungeonScore": {
       "enableDungeonScore270Message": true,
       "enableDungeonScore270Title": false,
-      "enableDungeonScore270Sound": false,
+      "enableDungeonScore270Sound": true,
       "dungeonScore270Message": "270 Score Reached! Keep going!",
       "enableDungeonScore300Message": true,
       "enableDungeonScore300Title": true,
@@ -517,9 +505,7 @@
       "enableLushlilacHighlighter": false,
       "enableSeaLumiesHighlighter": false,
       "seaLumiesMinimumCount": 3,
-      "enableTreeBreakProgress": false,
-      "enableTunerSolver": false,
-      "enableSweepDetailsWidget": false
+      "enableTunerSolver": false
     },
     "torrhusCanyon": {
       "solveDesertTemplePuzzles": true,
@@ -561,9 +547,8 @@
     "commissionHighlight": true,
     "callMismyla": false,
     "redialOnBadSignal": true,
-    "enablePickobulusHelper": false,
     "pickobulusHelper": {
-      "enablePickobulusHud": false,
+      "enablePickobulusHelper": false,
       "hideHudOnCooldown": false
     },
     "dwarvenMines": {
@@ -577,7 +562,6 @@
       "nucleusWaypoints": false,
       "chestHighlighter": true,
       "chestHighlightColor": -2147418368,
-      "enablePowderTracker": false,
       "countNaturalChestsInTracker": true,
       "powderTrackerFilter": []
     },
@@ -618,14 +602,6 @@
     }
   },
   "farming": {
-    "farmingHud": {
-      "enabled": false,
-      "counter": true,
-      "coins": true,
-      "type": "BOTH",
-      "includeSeedsPrice": true,
-      "experience": true
-    },
     "pestHighlighter": {
       "enabled": true,
       "vinylHighlighter": false,
@@ -697,9 +673,6 @@
     "floorDrops": {
       "highlightFloorDrops": true,
       "floorDropHighlightColor": -425955
-    },
-    "lassoHud": {
-      "enabled": false
     }
   },
   "otherLocations": {
@@ -721,13 +694,8 @@
     "end": {
       "enableEnderNodeHelper": false,
       "enderNodeWaypointType": "OUTLINED_HIGHLIGHT",
-      "hudEnabled": false,
-      "zealotKillsEnabled": false,
-      "protectorLocationEnabled": false,
       "waypoint": false,
-      "muteEndermanSounds": false,
-      "x": 10,
-      "y": 10
+      "muteEndermanSounds": false
     },
     "spidersDen": {
       "relics": {
@@ -809,6 +777,7 @@
     "hideDeath": "PASS",
     "hideMana": true,
     "hideDungeonBreaker": "PASS",
+    "hideCritterCapture": "PASS",
     "chatRuleConfig": {
       "announcementLength": 60
     }

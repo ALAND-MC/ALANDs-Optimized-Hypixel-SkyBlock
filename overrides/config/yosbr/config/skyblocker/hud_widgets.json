@@ -1,142 +1,227 @@
 {
-  "positions": {
-    "garden": {
-      "Item Pickup": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 5,
-        "relative_y": 5,
-        "layer": "DEFAULT"
+  "configs": {
+    "foraging_2": {
+      "hud": {
+        "widgets": {}
       },
-      "hud_farming": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 0,
-        "relative_y": 0,
-        "layer": "HUD"
-      }
-    },
-    "hub": {
-      "Item Pickup": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "CENTER",
-          "h": "CENTER"
-        },
-        "this_anchor": {
-          "v": "BOTTOM",
-          "h": "RIGHT"
-        },
-        "relative_x": 318,
-        "relative_y": 198,
-        "layer": "HUD"
-      }
-    },
-    "combat_3": {
-      "hud_end": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 10,
-        "relative_y": 10,
-        "layer": "HUD"
-      }
-    },
-    "mining_3": {
-      "powders": {
-        "parent": "commissions",
-        "parent_anchor": {
-          "v": "BOTTOM",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 0,
-        "relative_y": 2,
-        "layer": "HUD"
+      "tab": {
+        "widgets": {}
       },
-      "commissions": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 5,
-        "relative_y": 5,
-        "layer": "HUD"
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "foraging_3": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
       }
     },
     "crystal_hollows": {
-      "powders": {
-        "parent": "commissions",
-        "parent_anchor": {
-          "v": "BOTTOM",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 0,
-        "relative_y": 2,
-        "layer": "HUD"
+      "hud": {
+        "widgets": {
+          "hud_crystals": {
+            "config": {
+              "scale": 1.0
+            },
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 5,
+              "relative_y": 5
+            }
+          }
+        }
       },
-      "commissions": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "relative_x": 5,
-        "relative_y": 5,
-        "layer": "HUD"
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "combat_3": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "safari": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_3": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "lotus_atoll": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "fishing_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "foraging_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "dungeon_hub": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "combat_1": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "rift": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "garden": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "hub": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "crimson_isle": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "dynamic": {
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
       }
     },
     "dungeon": {
-      "Dungeon Splits": {
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "CENTER",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "CENTER",
-          "h": "LEFT"
-        },
-        "relative_x": 5,
-        "relative_y": 0,
-        "layer": "HUD"
+      "hud": {
+        "widgets": {}
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
       }
     }
-  }
+  },
+  "copies": {
+    "hud": {},
+    "tab": {},
+    "secondary_tab": {}
+  },
+  "version": 13,
+  "_defaults_version": 1
 }

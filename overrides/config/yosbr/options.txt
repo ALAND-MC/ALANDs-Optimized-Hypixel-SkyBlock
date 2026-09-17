@@ -1,4 +1,4 @@
-version:4790
+version:4903
 ao:true
 biomeBlendRadius:2
 chunkSectionFadeInTime:0.75
@@ -13,9 +13,10 @@ fovEffectScale:0.0
 darknessEffectScale:0.0
 glintSpeed:0.5
 glintStrength:0.75
+preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 exclusiveFullscreen:true
 gamma:0.5
 guiScale:3
@@ -49,7 +50,6 @@ invertYMouse:false
 realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
-touchscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -64,7 +64,7 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Skyblock Dark UI 1.17 for 1.21.11+.zip","file/Dark Skyblock v2.0c.cats.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","file/§6§lVanilla Tweaks 26.1.x.zip"]
+resourcePacks:["vanilla","server/00000000/242681e6-5e10-3cc8-8a64-451bdbf97e0b","file/Stay True 1.21.5.zip","file/FurSky Reborn.cats.zip","file/Skyblock Dark UI 1.18 for 26.1.2+.zip","file/Dark Skyblock v2.0c.cats.zip","file/§6§lCC Click Sound §e§l26.1+.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip","file/§6§lVanilla Tweaks 26.1.x.zip"]
 incompatibleResourcePacks:["file/Stay True 1.21.5.zip","file/§6§lALAND\u0027s Enchanted Books - Hypixel SkyBlock §e§l26.1.2+.zip"]
 lastServer:
 lang:en_us
@@ -98,6 +98,8 @@ joinedFirstServer:true
 syncChunkWrites:true
 showAutosaveIndicator:false
 allowServerListing:true
+inGameNotification:false
+sharePresence:"all"
 onlyShowSecureChat:false
 saveChatDrafts:false
 panoramaScrollSpeed:1.0
@@ -122,6 +124,7 @@ key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
+key_key.friends:key.keyboard.o
 key_key.socialInteractions:key.keyboard.unknown
 key_key.toggleGui:key.keyboard.f1
 key_key.toggleSpectatorShaderEffects:key.keyboard.f4
@@ -167,8 +170,6 @@ key_key.debug.profilingChart:key.keyboard.1
 key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.stfu.narrator_hotkey:key.keyboard.unknown
 key_key.stfu.skip_music:key.keyboard.unknown
 key_key.stfu.toggle_music:key.keyboard.unknown
@@ -181,6 +182,129 @@ key_key.tooltipscroll.moveDown:key.keyboard.unknown
 key_key.tooltipscroll.reset:key.keyboard.unknown
 key_key.tooltipscroll.horizontal:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_Blessing Display:key.keyboard.unknown
+key_Leap Menu (Top Left):key.keyboard.1
+key_Leap Menu (Top Right):key.keyboard.2
+key_Leap Menu (Bottom Left):key.keyboard.3
+key_Leap Menu (Bottom Right):key.keyboard.4
+key_Leap Menu (Archer):key.keyboard.unknown
+key_Leap Menu (Berserker):key.keyboard.unknown
+key_Leap Menu (Healer):key.keyboard.unknown
+key_Leap Menu (Mage):key.keyboard.unknown
+key_Leap Menu (Tank):key.keyboard.unknown
+key_Secret Clicked:key.keyboard.unknown
+key_Map Info:key.keyboard.unknown
+key_Mimic:key.keyboard.unknown
+key_Dungeon Queue:key.keyboard.unknown
+key_Door Highlight:key.keyboard.unknown
+key_Blood Camp:key.keyboard.unknown
+key_Positional Messages:key.keyboard.unknown
+key_Terracotta Timer:key.keyboard.unknown
+key_Breaker Display:key.keyboard.unknown
+key_Livid Solver:key.keyboard.unknown
+key_Invincibility Timer:key.keyboard.unknown
+key_Spirit Bear:key.keyboard.unknown
+key_Dungeon Waypoints (Cycle Waypoint):key.keyboard.unknown
+key_Dungeon Waypoints:key.keyboard.unknown
+key_Extra Stats:key.keyboard.unknown
+key_Better Party Finder:key.keyboard.unknown
+key_Croesus:key.keyboard.unknown
+key_Mage Beam:key.keyboard.unknown
+key_Secrets Counter:key.keyboard.unknown
+key_Dungeon Map:key.keyboard.unknown
+key_Puzzle HUD:key.keyboard.unknown
+key_Room Clear:key.keyboard.unknown
+key_Terminal Simulator:key.keyboard.unknown
+key_Terminal Solver:key.keyboard.unknown
+key_Terminal Times:key.keyboard.unknown
+key_Terminal Sounds:key.keyboard.unknown
+key_Tick Timers:key.keyboard.unknown
+key_Arrow Align (Prevent Blocking):key.keyboard.left.shift
+key_Arrow Align:key.keyboard.unknown
+key_Inactive Waypoints:key.keyboard.unknown
+key_Melody Message:key.keyboard.unknown
+key_Wither Dragons:key.keyboard.unknown
+key_Simon Says:key.keyboard.unknown
+key_King Relic:key.keyboard.unknown
+key_Arrows Device:key.keyboard.unknown
+key_Terminal Titles:key.keyboard.unknown
+key_Click GUI:key.keyboard.unknown
+key_Camera:key.keyboard.unknown
+key_Etherwarp:key.keyboard.unknown
+key_Player Size:key.keyboard.unknown
+key_Performance HUD:key.keyboard.unknown
+key_Render Optimizer:key.keyboard.unknown
+key_Player Display:key.keyboard.unknown
+key_Waypoints (Ping Keybind):key.keyboard.unknown
+key_Waypoints:key.keyboard.unknown
+key_Hide Players:key.keyboard.unknown
+key_Highlight:key.keyboard.unknown
+key_Gyro Wand:key.keyboard.unknown
+key_Chat Commands:key.keyboard.unknown
+key_No Cursor Reset:key.keyboard.unknown
+key_Ragnarock:key.keyboard.unknown
+key_Spring Boots:key.keyboard.unknown
+key_Wardrobe Keybinds (Next Page):key.keyboard.unknown
+key_Wardrobe Keybinds (Previous Page):key.keyboard.unknown
+key_Wardrobe Keybinds (Unequip):key.keyboard.unknown
+key_Wardrobe Keybinds (Wardrobe 1):key.keyboard.1
+key_Wardrobe Keybinds (Wardrobe 2):key.keyboard.2
+key_Wardrobe Keybinds (Wardrobe 3):key.keyboard.3
+key_Wardrobe Keybinds (Wardrobe 4):key.keyboard.4
+key_Wardrobe Keybinds (Wardrobe 5):key.keyboard.5
+key_Wardrobe Keybinds (Wardrobe 6):key.keyboard.6
+key_Wardrobe Keybinds (Wardrobe 7):key.keyboard.7
+key_Wardrobe Keybinds (Wardrobe 8):key.keyboard.8
+key_Wardrobe Keybinds (Wardrobe 9):key.keyboard.9
+key_Pet Keybinds (Unequip):key.keyboard.z
+key_Pet Keybinds (Next Page):key.keyboard.unknown
+key_Pet Keybinds (Previous Page):key.keyboard.unknown
+key_Pet Keybinds (Pet 1):key.keyboard.unknown
+key_Pet Keybinds (Pet 2):key.keyboard.unknown
+key_Pet Keybinds (Pet 3):key.keyboard.unknown
+key_Pet Keybinds (Pet 4):key.keyboard.unknown
+key_Pet Keybinds (Pet 5):key.keyboard.unknown
+key_Pet Keybinds (Pet 6):key.keyboard.unknown
+key_Pet Keybinds (Pet 7):key.keyboard.unknown
+key_Pet Keybinds (Pet 8):key.keyboard.unknown
+key_Pet Keybinds (Pet 9):key.keyboard.unknown
+key_Pet Keybinds:key.keyboard.unknown
+key_Auto Sprint:key.keyboard.unknown
+key_Command Keybinds (Pets):key.keyboard.unknown
+key_Command Keybinds (Storage):key.keyboard.unknown
+key_Command Keybinds (Armor Wardrobe):key.keyboard.unknown
+key_Command Keybinds (Equip Wardrobe):key.keyboard.unknown
+key_Command Keybinds (Loadouts):key.keyboard.unknown
+key_Command Keybinds (Stats):key.keyboard.unknown
+key_Command Keybinds (Dungeon Hub):key.keyboard.unknown
+key_Command Keybinds (Potion Bag):key.keyboard.unknown
+key_Slot Binds (Bind set key):key.keyboard.b
+key_Splits:key.keyboard.unknown
+key_Loadout Keybinds (Next Page):key.keyboard.right
+key_Loadout Keybinds (Previous Page):key.keyboard.left
+key_Loadout Keybinds (Loadout 1):key.keyboard.1
+key_Loadout Keybinds (Loadout 2):key.keyboard.2
+key_Loadout Keybinds (Loadout 3):key.keyboard.3
+key_Loadout Keybinds (Loadout 4):key.keyboard.4
+key_Loadout Keybinds (Loadout 5):key.keyboard.5
+key_Loadout Keybinds (Loadout 6):key.keyboard.6
+key_Loadout Keybinds (Loadout 7):key.keyboard.7
+key_Loadout Keybinds (Loadout 8):key.keyboard.8
+key_Loadout Keybinds (Loadout 9):key.keyboard.9
+key_Loadout Keybinds (Loadout 10):key.keyboard.0
+key_Loadout Keybinds (Loadout 11):key.keyboard.minus
+key_Loadout Keybinds (Loadout 12):key.keyboard.equal
+key_Quiver Display:key.keyboard.unknown
+key_Supply Helper:key.keyboard.unknown
+key_Build Helper:key.keyboard.unknown
+key_Remove Perks:key.keyboard.unknown
+key_Pre-Spot Alert:key.keyboard.unknown
+key_Pearl Waypoints:key.keyboard.unknown
+key_Fresh Tools:key.keyboard.unknown
+key_Kuudra Info:key.keyboard.unknown
+key_Misc:key.keyboard.unknown
+key_Vesuvius:key.keyboard.unknown
+key_Kuudra Tracker:key.keyboard.unknown
 key_key.sbo-kotlin.guess_warp:key.keyboard.r
 key_key.sbo-kotlin.rare_mob_warp:key.keyboard.f
 key_key.sbo-kotlin.general_warp:key.keyboard.unknown
@@ -204,9 +328,9 @@ key_key.skyblocker.loadout.09:key.keyboard.9
 key_key.skyblocker.loadout.10:key.keyboard.0
 key_key.skyblocker.loadout.11:key.keyboard.minus
 key_key.skyblocker.loadout.12:key.keyboard.equal
-key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
-key_key.skyblocker.valueBreadownPopup:key.keyboard.unknown
 key_key.skyblocker.itemProtection:key.keyboard.unknown
+key_key.skyblocker.valueBreadownPopup:key.keyboard.unknown
+key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown
 key_key.skyblocker.itemPriceLookup:key.keyboard.g
 key_key.skyblocker.slottext:key.keyboard.unknown
 key_key.skyblocker.wikiLookup.independent:key.keyboard.unknown

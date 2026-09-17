@@ -104,6 +104,7 @@
         "MERCENARY_LEGGINGS",
         "MINER_OUTFIT_CHESTPLATE",
         "AXE_OF_THE_SHREDDED",
+        "JUICY_SPRAYONATOR",
         "PERFECT_CHESTPLATE_12",
         "ARACHNE_BOOTS",
         "SKELETON_GRUNT_CHESTPLATE",
@@ -1098,6 +1099,7 @@
         "ANGLER_BOOTS",
         "SMALL_POCKET_BLACK_HOLE",
         "SCORPION_BOW",
+        "SALTY_SPRAYONATOR",
         "THEORETICAL_HOE_CANE_1",
         "BIOHAZARD_SUIT",
         "PROTECTOR_DRAGON_LEGGINGS",
@@ -1141,18 +1143,23 @@
       "collectedItemIds": [],
       "dataVersion": 1
     },
-    "c537f596-b1ea-4086-a729-4e1990b3b690": {
-      "lastResync": 1770301835944,
-      "collectedItemIds": [],
-      "dataVersion": 1
-    },
     "4babc446-fe9c-4420-96dd-c97e51df9e5f": {
       "lastResync": 1767276554835,
       "collectedItemIds": [],
       "dataVersion": 1
     },
+    "c537f596-b1ea-4086-a729-4e1990b3b690": {
+      "lastResync": 1770301835944,
+      "collectedItemIds": [],
+      "dataVersion": 1
+    },
     "c1df61bf-c2e7-4728-b1f6-fb6b809bb6b6": {
       "lastResync": 1780567847077,
+      "collectedItemIds": [],
+      "dataVersion": 1
+    },
+    "904896e7-c65d-4452-b43d-8d4725d3844a": {
+      "lastResync": 1788347494924,
       "collectedItemIds": [],
       "dataVersion": 1
     },

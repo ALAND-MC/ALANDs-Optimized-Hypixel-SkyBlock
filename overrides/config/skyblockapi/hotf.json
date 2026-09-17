@@ -100,8 +100,8 @@
             "disabled": false
           },
           "Deep Waters": {
-            "level": 41,
-            "unlocked": true,
+            "level": 1,
+            "unlocked": false,
             "disabled": false
           },
           "Efficient Forager": {

@@ -16,9 +16,7 @@
     "quad_splitting_mode": "SAFE"
   },
   "advanced": {
-    "enable_memory_tracing": false,
-    "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 3
+    "enable_memory_tracing": false
   },
   "debug": {
     "terrain_sorting_enabled": true

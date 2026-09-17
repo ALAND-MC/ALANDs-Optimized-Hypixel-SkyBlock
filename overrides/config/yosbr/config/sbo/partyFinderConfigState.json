@@ -4,8 +4,8 @@
       "eman9": false
     },
     "diana": {
-      "eman9": false,
-      "looting5": false
+      "eman9": true,
+      "looting5": true
     }
   },
   "inputs": {

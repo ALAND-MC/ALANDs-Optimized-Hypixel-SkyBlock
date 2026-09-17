@@ -1924,5 +1924,11 @@
     "rarity": "LEGENDARY",
     "enabled": true,
     "skill": "Global"
+  },
+  "chocobun": {
+    "level": 0,
+    "rarity": "COMMON",
+    "enabled": false,
+    "skill": "Global"
   }
 }

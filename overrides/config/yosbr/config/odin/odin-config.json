@@ -3,7 +3,7 @@
     "name": "Room Clear",
     "enabled": false,
     "settings": {
-      "Mode": "Both",
+      "Mode": "BOTH",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -20,7 +20,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -38,9 +39,10 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
-      "Show Own": false,
+      "Show Player": "NONE",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -52,19 +54,21 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Current Split HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Fixed Width": true,
       "Boss Entry Split": true,
-      "Send Splits": true,
+      "Show 0 splits": false,
       "Show Tick Time": false,
-      "Split Location": "Both",
+      "Location": "BOTH",
       "KuudraT5": {
         "§2Supplies": 40.219,
         "§bBuild": 22.496,
@@ -150,10 +154,11 @@
     "enabled": true,
     "settings": {
       "Spirit Bear": {
-        "x": 391,
-        "y": 11,
-        "scale": 2.0,
-        "enabled": true
+        "x": 134,
+        "y": 3,
+        "scale": 0.89999974,
+        "enabled": true,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -192,13 +197,13 @@
     "name": "Leap Menu",
     "enabled": true,
     "settings": {
-      "Sorting": "Odin Sorting",
+      "Sorting": "ODIN",
       "On Key Release": false,
       "Only Classes": false,
       "Color Style": false,
       "Background Color": "#262626BF",
       "Render Scale": 1.0000000149011612,
-      "Mode": "Corners",
+      "Mode": "CORNERS",
       "Top Left": "key.keyboard.1",
       "Top Right": "key.keyboard.2",
       "Bottom Left": "key.keyboard.3",
@@ -208,8 +213,7 @@
       "Healer": "key.keyboard.unknown",
       "Mage": "key.keyboard.unknown",
       "Tank": "key.keyboard.unknown",
-      "Leap Announce": true,
-      "Keybind": "key.keyboard.unknown"
+      "Leap Announce": true
     }
   },
   {
@@ -220,7 +224,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Relic Time": true,
       "Relic Beacon": false,
@@ -237,7 +242,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Render full": false,
       "Keybind": "key.keyboard.unknown"
@@ -301,7 +307,7 @@
       "First Color": "#55FF557F",
       "Second Color": "#FFAA007F",
       "Third Color": "#FF55557F",
-      "Style": "Outline",
+      "Style": "OUTLINE",
       "Announce Progress": true,
       "Block Wrong Clicks": false,
       "Block Wrong on Start": false,
@@ -325,6 +331,22 @@
       "Openable Door Color": "#55FF55CC",
       "Wither Color": "#000000CC",
       "Blood Color": "#FF5555CC",
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
+    "name": "Quiver Display",
+    "enabled": false,
+    "settings": {
+      "Show Name": true,
+      "Count Color": "#55FF55FF",
+      "Quiver HUD": {
+        "x": 10,
+        "y": 10,
+        "scale": 1.0,
+        "enabled": true,
+        "scaled": true
+      },
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -365,6 +387,7 @@
       "Disable in Boss": true,
       "Background Outline": "#1A1A1AFF",
       "Background Color": "#000000B2",
+      "Room Text": "BOTH",
       "Text Scaling": 0.45000000670552254,
       "Player Names Scaling": 0.7500000111758709,
       "Player Name Color": "#464646FF",
@@ -383,11 +406,13 @@
       "Fairy Door": "#F4138BFF",
       "Unknown Door": "#1C1C1CFF",
       "Disable Prediction": false,
+      "Parse map websocket": true,
       "Dungeon Map": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -396,24 +421,21 @@
     "name": "Terminal Solver",
     "enabled": true,
     "settings": {
-      "Render type": "Odin",
+      "Render type": "ODIN",
       "Normal Term Size": 3.0,
-      "Term Size": 1.5000000223517418,
+      "Term Size": 1.5,
       "Roundness": 9.0,
       "Slot gap": 2.0,
-      "Stop Tooltips": true,
-      "Middle Click GUI": true,
-      "Block Incorrect Clicks": true,
+      "Client Prediction": true,
+      "Resolve timeout": 600.0,
       "Stop Melody Solver": false,
-      "Melody Size": 1.5000000223517418,
-      "Show Numbers": true,
-      "First Click Protection": 350.0,
+      "Melody Size": 1.5,
+      "Rubix Mode": "FEWEST_CLICKS",
+      "First Click Prot": 500.0,
       "Account For Server Lag": false,
       "Lag Protection Ticks": 8.0,
-      "Hide Clicked": false,
-      "Resolve timeout": 600.0,
-      "Debug": false,
       "Background": "#1A1A1AFF",
+      "Text": "#FFFFFFFF",
       "Panes": "#55FF55FF",
       "Rubix 1": "#00AAAAFF",
       "Rubix 2": "#006464FF",
@@ -427,6 +449,7 @@
       "Melody Column": "#AA00AAFF",
       "Melody Pointer": "#55FF55FF",
       "Melody Background": "#262626FF",
+      "Debug": false,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -488,8 +511,8 @@
       "Bind set key": "key.keyboard.b",
       "Bind Color": "#55FF55FF",
       "Line Width": 0.5,
-      "Line Display": "Hover",
-      "Profile": "Profile 1",
+      "Line Display": "HOVER",
+      "Profile": "PROFILE_1",
       "ProfileData": {
         "Profile 1": {}
       }
@@ -507,9 +530,10 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
-      "Waypoint Type": "None",
+      "Waypoint Type": "NONE",
       "Color": "#55FF55FF",
       "Filled": false,
       "Depth check": false,
@@ -540,44 +564,58 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Goldor Hud": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Start timer": false,
       "Storm Pad Hud": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Storm Lightning Hud": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Storm PY Hud": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
-      "Outbounds Hud": {
+      "Storm Tick Hud": {
         "x": 10,
         "y": 10,
-        "scale": 2.0,
-        "enabled": false
+        "scale": 1.0,
+        "enabled": false,
+        "scaled": true
       },
       "Secrets Hud": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
+      },
+      "Fire Freeze Hud": {
+        "x": 10,
+        "y": 10,
+        "scale": 1.0,
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -590,6 +628,7 @@
       "Party Commands": true,
       "Guild Commands": false,
       "Private Commands": true,
+      "Co-op Commands": true,
       "Warp": true,
       "Coords (coords)": true,
       "Allinvite": true,
@@ -619,14 +658,38 @@
     }
   },
   {
+    "name": "Kuudra Tracker",
+    "enabled": false,
+    "settings": {
+      "Lines": 10.0,
+      "Kuudra Tracker HUD": {
+        "x": 10,
+        "y": 10,
+        "scale": 1.0,
+        "enabled": false,
+        "scaled": true
+      },
+      "Single Items": {},
+      "Multi Items": {},
+      "Paid Chests": 0.0,
+      "Free Chests": 0.0,
+      "Total Keys": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Keybind": "key.keyboard.unknown"
+    }
+  },
+  {
     "name": "Positional Messages",
     "enabled": true,
     "settings": {
       "Only in Dungeons": true,
-      "Once Per World": true,
       "Show Positions": true,
       "Height": 0.2,
-      "Depth Check": true,
       "Show Message": true,
       "Message Size": 1.0000000149011612,
       "Pos Messages": [
@@ -637,7 +700,8 @@
           "delay": 100,
           "distance": 7.0,
           "color": "#000000FF",
-          "message": "AT MID!"
+          "message": "AT MID!",
+          "dontSend": false
         },
         {
           "x": 107.0,
@@ -648,7 +712,8 @@
           "z2": 95.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "AT SS!"
+          "message": "AT SS!",
+          "dontSend": false
         },
         {
           "x": 57.0,
@@ -659,7 +724,8 @@
           "z2": 132.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "AT LEE2!"
+          "message": "AT LEE2!",
+          "dontSend": false
         },
         {
           "x": 62.0,
@@ -670,7 +736,8 @@
           "z2": 140.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "AT HEE2!"
+          "message": "AT HEE2!",
+          "dontSend": false
         },
         {
           "x": 1.0,
@@ -681,7 +748,8 @@
           "z2": 103.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "AT LEE3!"
+          "message": "AT LEE3!",
+          "dontSend": false
         },
         {
           "x": 18.0,
@@ -692,7 +760,8 @@
           "z2": 94.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "AT HEE3!"
+          "message": "AT HEE3!",
+          "dontSend": false
         },
         {
           "x": 50.0,
@@ -703,7 +772,8 @@
           "z2": 59.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "IN CORE!"
+          "message": "IN CORE!",
+          "dontSend": false
         },
         {
           "x": 51.0,
@@ -714,7 +784,8 @@
           "z2": 54.0,
           "delay": 100,
           "color": "#000000FF",
-          "message": "OUTSIDE CORE!"
+          "message": "OUTSIDE CORE!",
+          "dontSend": false
         },
         {
           "x": 54.5,
@@ -723,7 +794,8 @@
           "delay": 0,
           "distance": 0.0,
           "color": "#FF5555FF",
-          "message": "3x3"
+          "message": "3x3",
+          "dontSend": false
         }
       ],
       "Keybind": "key.keyboard.unknown"
@@ -734,7 +806,7 @@
     "enabled": false,
     "settings": {
       "Ping": 0.0,
-      "First Click Protection": false,
+      "First Click Prot": false,
       "TermsimPBs": {},
       "Keybind": "key.keyboard.unknown"
     }
@@ -744,17 +816,19 @@
     "enabled": true,
     "settings": {
       "Dragon Timer": true,
-      "Timer Style": "Milliseconds",
+      "Timer Style": "MILLISECONDS",
       "Timer Symbol": true,
       "Dragon Timer HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Dragon Boxes": true,
       "Target Tracer": true,
       "Send Dragon Confirmation": true,
+      "Dragon Title": true,
       "Send Dragon Time Alive": true,
       "Send Dragon Spawned": true,
       "Send Ice Sprayed": true,
@@ -762,7 +836,7 @@
       "Dragon Priority": true,
       "Normal Power": 0.0,
       "Easy Power": 0.0,
-      "Purple Solo Debuff": "Tank",
+      "Purple Solo Debuff": "TANK",
       "Solo Debuff on All Splits": false,
       "Paul Buff": false,
       "DragonPBs": {
@@ -792,7 +866,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -801,7 +876,6 @@
     "name": "Secrets Counter",
     "enabled": false,
     "settings": {
-      "Secrets Counter": true,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -813,7 +887,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Highlight Color": "#FF5555FF",
       "Keybind": "key.keyboard.unknown"
@@ -825,23 +900,23 @@
     "settings": {
       "Invincibility Alert": true,
       "Announce Invincibility": true,
-      "Show": "Always",
-      "Equipped Mask": "#AA00AAFF",
+      "Only In Dungeons": true,
       "Show Spirit Mask": true,
       "Show Bonzo Mask": true,
       "Show Phoenix Pet": true,
-      "Only In Dungeons": true,
-      "Show On Item": true,
-      "Phoenix As Top Left": false,
-      "Display As Durability": false,
-      "Cooldown Color": "#262626FF",
       "Invincibility Timer": {
-        "x": 392,
-        "y": 39,
+        "x": 130,
+        "y": 13,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Show In Boss": true,
+      "Show": "ALWAYS",
+      "Equipped Mask": "#AA00AAFF",
+      "Show On Item": true,
+      "Display As Durability": false,
+      "Cooldown Color": "#262626FF",
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -870,7 +945,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -881,7 +957,7 @@
     "settings": {
       "Highlight Starred Mobs": true,
       "Highlight color": "#FFD70000",
-      "Render Style": "Outline",
+      "Render Style": "OUTLINE",
       "Hide non-starred names": true,
       "Teammate Class Glow": true,
       "Keybind": "key.keyboard.unknown"
@@ -926,7 +1002,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -961,7 +1038,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Stun Percent": 93.0,
       "Keybind": "key.keyboard.unknown"
@@ -975,18 +1053,19 @@
       "Disable in boss": true,
       "300 Score Title": false,
       "Print Score Time": false,
-      "Paul Settings": "Automatic",
+      "Paul Settings": "AUTOMATIC",
       "Full Hud": {
-        "x": 36,
-        "y": 402,
-        "scale": 2.0,
-        "enabled": true
+        "x": 10,
+        "y": 133,
+        "scale": 0.6999997,
+        "enabled": true,
+        "scaled": true
       },
       "Flip Crypts and Score": false,
       "Include Remaining": false,
-      "Remaining Secrets": "Minimum",
+      "Remaining Secrets": "MINIMUM",
       "Width": 160.0,
-      "Deaths": "Deaths",
+      "Deaths": "DEATHS",
       "Hud Background": false,
       "Hud Margin": 0.0,
       "Hud Background Color": "#5555557F",
@@ -994,10 +1073,11 @@
         "x": 38,
         "y": 443,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Compact Include remaining": false,
-      "Min Secrets": "Minimum",
+      "Min Secrets": "MINIMUM",
       "Secret Background": false,
       "Secret Margin": 0.0,
       "Secret Background Color": "#5555557F",
@@ -1005,7 +1085,8 @@
         "x": 38,
         "y": 464,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Score Background": false,
       "Score Margin": 0.0,
@@ -1014,7 +1095,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1026,7 +1108,7 @@
       "Show Bits": true,
       "Show Class EXP": true,
       "Show Combat Stats": true,
-      "Show Team Stats": "Both",
+      "Show Team Stats": "BOTH",
       "Show Teammates": false,
       "Keybind": "key.keyboard.unknown"
     }
@@ -1040,7 +1122,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1063,7 +1146,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Announce Kick": false,
       "Auto Requeue": false,
@@ -1084,7 +1168,6 @@
       "Completion Sound": "entity.experience_orb.pickup",
       "Completion Sound Pitch": 0.9999999776482582,
       "Completion Sound Volume": 0.29999999329447746,
-      "Cancel Last Click": false,
       "Keybind": "key.keyboard.unknown"
     }
   },
@@ -1092,42 +1175,39 @@
     "name": "Click GUI",
     "enabled": false,
     "settings": {
+      "Click GUI Size": 2.0,
       "Chat notifications": true,
       "Color": "#3296DCFF",
-      "Rounded Panel Bottoms": true,
       "API URL": "https://api.odtheking.com/hypixel/",
       "Socket URL": "wss://ws.odtheking.com/",
       "Developer Message": false,
+      "Core loggings": false,
       "First join": false,
-      "Panel Settings": {
+      "Favorite Colors": {},
+      "Panel Data": {
         "Dungeon": {
-          "x": 10.0,
-          "y": 10.0,
-          "extended": true
-        },
-        "Floor 7": {
-          "x": 270.0,
-          "y": 10.0,
-          "extended": true
-        },
-        "Render": {
-          "x": 530.0,
-          "y": 10.0,
-          "extended": true
-        },
-        "Skyblock": {
-          "x": 790.0,
-          "y": 10.0,
-          "extended": true
-        },
-        "Nether": {
-          "x": 1050.0,
-          "y": 10.0,
+          "x": 10,
+          "y": 10,
           "extended": true
         },
         "Boss": {
-          "x": 270.0,
-          "y": 10.0,
+          "x": 180,
+          "y": 10,
+          "extended": true
+        },
+        "Render": {
+          "x": 350,
+          "y": 10,
+          "extended": true
+        },
+        "Skyblock": {
+          "x": 520,
+          "y": 10,
+          "extended": true
+        },
+        "Nether": {
+          "x": 690,
+          "y": 10,
           "extended": true
         }
       },
@@ -1140,11 +1220,14 @@
     "settings": {
       "Hide Claimed": true,
       "Use Salvaged": false,
+      "Kuudra Pet Bonus": 0.0,
+      "Lava Leech Bonus": 0.0,
       "Croesus Chest HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1155,7 +1238,7 @@
     "settings": {
       "Name Color": "#3296DCFF",
       "Value Color": "#FFFFFFFF",
-      "Direction": "Horizontal",
+      "Direction": "HORIZONTAL",
       "Show FPS": true,
       "Show TPS": true,
       "Show Ping": true,
@@ -1163,7 +1246,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1186,7 +1270,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": true
+        "enabled": true,
+        "scaled": true
       },
       "Keybind": "key.keyboard.unknown"
     }
@@ -1199,7 +1284,7 @@
       "Color": "#00FF00FF",
       "Show when failed": true,
       "Fail Color": "#FF0000FF",
-      "Render Style": "Filled Outline",
+      "Render Style": "FILLED_OUTLINE",
       "Use Server Position": true,
       "Full Block": true,
       "Depth": true,
@@ -1239,20 +1324,20 @@
       "Blaze Solver Next Line": true,
       "Blaze Solver Lines": 1.0,
       "Blaze Solver Lines Width": 2.0,
-      "Blaze Style": "Outline",
+      "Blaze Style": "OUTLINE",
       "First Color": "#55FF55BF",
       "Second Color": "#FFAA00BF",
       "Third Color": "#FF5555BF",
       "Other Color": "#FFFFFF4C",
       "Send Complete": false,
       "Creeper Beams Solver": false,
-      "Beams Style": "Filled Outline",
+      "Beams Style": "FILLED_OUTLINE",
       "Beams Tracer": false,
       "Beams Color Alpha": 0.7000000104308128,
       "Weirdos Solver": false,
       "Weirdos Correct Color": "#55FF55B2",
       "Weirdos Wrong Color": "#FF5555B2",
-      "Weirdos Style": "Filled Outline",
+      "Weirdos Style": "FILLED_OUTLINE",
       "Quiz Solver": false,
       "Quiz Color": "#55FF55BF",
       "Quiz Depth": false,
@@ -1260,11 +1345,12 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Boulder Solver": false,
       "Show All Boulder Clicks": false,
-      "Boulder Style": "Outline",
+      "Boulder Style": "OUTLINE",
       "Boulder Color": "#55FF557F",
       "Puzzle Timers": true,
       "Draft prompt": true,
@@ -1289,7 +1375,8 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Blood Camp Assist": true,
       "Spawn Color": "#FF5555FF",
@@ -1321,13 +1408,15 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Chest Count HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Chest Warning Threshold": 55.0,
       "Keybind": "key.keyboard.unknown"
@@ -1416,49 +1505,56 @@
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Health Color": "#FF5555FF",
       "Mana HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Mana Color": "#55FFFFFF",
       "Overflow Mana HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Overflow Mana Color": "#00AAAAFF",
       "Defense HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Defense Color": "#55FF55FF",
       "Vitality HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Vitality Color": "#AA0000FF",
       "EHP HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "EHP color": "#00AA00FF",
       "Speed HUD": {
         "x": 10,
         "y": 10,
         "scale": 2.0,
-        "enabled": false
+        "enabled": false,
+        "scaled": true
       },
       "Speed color": "#FFFFFFFF",
       "Keybind": "key.keyboard.unknown"
@@ -1481,8 +1577,8 @@
     "enabled": false,
     "settings": {
       "Secret Boxes": true,
-      "Style": "Outline",
-      "Color": "#FFAA0066",
+      "Box style": "FILLED_OUTLINE",
+      "Box color": "#FFAA00CC",
       "Depth check": false,
       "Locked Color": "#FF555566",
       "Time To Stay": 7.0,

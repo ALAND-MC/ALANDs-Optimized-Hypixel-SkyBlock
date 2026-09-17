@@ -358,7 +358,8 @@
     "enabled": false
   },
   "hoppitySolver": {
-    "enabled": false
+    "enabled": false,
+    "tracer": false
   },
   "beaconTuningSolver": {
     "enabled": false
@@ -430,7 +431,8 @@
     "firstClickTicks": 10,
     "clickSound": "minecraft:entity.blaze.hurt",
     "clickSoundVolume": 2.0,
-    "clickSoundPitch": 2.0
+    "clickSoundPitch": 2.0,
+    "throttleTicks": 1
   },
   "terracottaTimer": {
     "scale": 0.4,
@@ -660,5 +662,8 @@
   "vesuviusSolver": {
     "profitHighThreshold": 5000000.0,
     "enabled": false
+  },
+  "kickCooldownTimerElement": {
+    "scale": 1.0
   }
 }

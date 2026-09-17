@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "general": {
     "enabled": true,
     "nonPixelatedItemScale": true,
@@ -12,9 +12,10 @@
   "mainList": {
     "itemSize": 16,
     "centeredSearchBar": true,
-    "hideItemsWithoutSearch": true,
+    "hideListWhen": "SEARCH",
     "hideVanillaItems": false,
     "groupFamilies": false,
+    "prioritizePrefixMatches": true,
     "customFilters": [
       "ATTRIBUTE",
       "ENCHANTMENT",

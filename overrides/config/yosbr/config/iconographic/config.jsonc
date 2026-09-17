@@ -9,6 +9,7 @@
     "visuals": {
         "spinny": false,
         "vanillaBackground": false,
+        "forceDefaultVanillaBackground": false,
         "skyBlockColor": true,
         "shinyHolographic": true,
         "alignedStats": false,
@@ -22,6 +23,7 @@
         "breakingPower": true,
         "furniture": true,
         "shardId": true,
+        "dungeonized": false,
         "pet": true,
         "petCandy": true
     },
@@ -35,6 +37,9 @@
         "drillFuel": true,
         "drillComponents": true,
         "gemstoneSlots": true
+    },
+    "fishing": {
+        "rodParts": true
     },
     "misc": {
         "itemAbility": false,
