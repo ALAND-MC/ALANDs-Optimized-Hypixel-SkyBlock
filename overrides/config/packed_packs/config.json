@@ -8,8 +8,8 @@
     "replaceOriginal": true,
     "hideIncompatibleWarnings": true,
     "additionalFolders": [],
+    "foldersModuleByDefault": false,
     "rememberLastViewedProfile": false,
-    "lastViewedProfile": "Main",
     "profileOrder": [
       "Main",
       "Main - Backup"
@@ -19,6 +19,7 @@
     "replaceOriginal": true,
     "hideIncompatibleWarnings": false,
     "additionalFolders": [],
+    "foldersModuleByDefault": false,
     "rememberLastViewedProfile": false,
     "profileOrder": []
   }

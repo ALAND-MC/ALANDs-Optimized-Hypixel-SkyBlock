@@ -246,7 +246,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,201",
+                      "text": "11,249",
                       "color": "red"
                     }
                   ],
@@ -397,8 +397,8 @@
               },
               "minecraft:enchantment_glint_override": true,
               "minecraft:custom_name": {
-                "text": "Thorny Zorro's Cape",
-                "color": "light_purple",
+                "text": "Thorny Blossom Cloak",
+                "color": "gold",
                 "italic": false
               },
               "minecraft:lore": [
@@ -406,25 +406,11 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Strength: ",
+                      "text": "Health: ",
                       "color": "gray"
                     },
                     {
-                      "text": "+20",
-                      "color": "red"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Ferocity: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+4",
+                      "text": "+15",
                       "color": "red"
                     }
                   ],
@@ -438,11 +424,11 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+6.2 ",
+                      "text": "+2.85 ",
                       "color": "yellow"
                     },
                     {
-                      "text": "(+3.1)",
+                      "text": "(+2.85)",
                       "color": "blue"
                     }
                   ],
@@ -456,26 +442,12 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+113.5 ",
+                      "text": "+51.75 ",
                       "color": "gold"
                     },
                     {
-                      "text": "(+12)",
+                      "text": "(+10)",
                       "color": "blue"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Farming Wisdom: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "+2",
-                      "color": "dark_aqua"
                     }
                   ],
                   "italic": false
@@ -511,18 +483,23 @@
                 },
                 "",
                 {
+                  "text": "Piece Bonus: Florist",
+                  "color": "gold",
+                  "italic": false
+                },
+                {
                   "text": "",
                   "extra": [
                     {
-                      "text": "The stats of this Cape ",
+                      "text": "Complete ",
                       "color": "gray"
                     },
                     {
-                      "text": "double ",
+                      "text": "Garden Visitor Offers ",
                       "color": "green"
                     },
                     {
-                      "text": "",
+                      "text": "to",
                       "color": "gray"
                     }
                   ],
@@ -532,12 +509,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "during ",
+                      "text": "gain ",
                       "color": "gray"
                     },
                     {
-                      "text": "Jacob's Farming Contest",
-                      "color": "yellow"
+                      "text": " Farming Fortune",
+                      "color": "gold"
                     },
                     {
                       "text": ".",
@@ -546,39 +523,41 @@
                   ],
                   "italic": false
                 },
+                "",
                 {
                   "text": "",
                   "extra": [
                     {
-                      "text": "Additionally, you have a ",
+                      "text": "Piece Bonus: ",
                       "color": "gray"
                     },
                     {
-                      "text": "20% ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "chance",
-                      "color": "gray"
+                      "text": "+22.5",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "to obtain an extra medal from",
-                  "color": "gray",
-                  "italic": false
-                },
-                {
-                  "text": "contests.",
-                  "color": "gray",
+                  "text": "MAXED OUT! NICE!",
+                  "color": "green",
+                  "bold": true,
                   "italic": false
                 },
                 "",
                 {
-                  "text": "Not all Rabbits wear capes.",
-                  "color": "dark_gray",
-                  "italic": true
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Garden Visitors Served: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "11,249",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
                 },
                 "",
                 {
@@ -653,19 +632,19 @@
                   "extra": [
                     {
                       "text": "a",
-                      "color": "light_purple",
+                      "color": "gold",
                       "bold": true,
                       "obfuscated": true
                     },
                     " ",
                     {
-                      "text": "MYTHIC CLOAK ",
-                      "color": "light_purple",
+                      "text": "LEGENDARY CLOAK ",
+                      "color": "gold",
                       "bold": true
                     },
                     {
                       "text": "a",
-                      "color": "light_purple",
+                      "color": "gold",
                       "bold": true,
                       "obfuscated": true
                     }
@@ -675,31 +654,31 @@
               ],
               "minecraft:profile": {
                 "id": [
-                  -821459823,
-                  -651675929,
-                  -1938320423,
-                  -1964973834
+                  -1719036932,
+                  314260245,
+                  -1728587929,
+                  1813814881
                 ],
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjAyNDY1Mzc0MSwKICAicHJvZmlsZUlkIiA6ICI0MDNlYmEzYjhkODg0MDVlYjhjMDlkNTQ4NmFjYzdiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0ZXh0dHYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmNzIyNmE5Mjc1NThkMDY5YTZhZTM0M2I0ZTA4OWZiZDYwZmM2MDM3MTkwMDk3Yzc3MTMyMDhlOTg4ZmFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-                    "signature": "nGViCclXY0nHdAFJYhXFvGR6wXNO4BqBGE/QZjqDzFVlJuV0lBoZRXtFnQNcU1CSeqrSbGklXaCNCdQ5XpqOhcyImUtBtmhrpQ2wz5rHEAnmK+4h1qxxf5FTqydbq5kQgx5RQNT6gpauS2ltPchthvKL5IgCHtRtMW+bR/rxeuvbShTllBDRxlNbKuXraDHruBbVVvWvJqacWNk2T0XkDRsIef7Yu5auG6AA2jVFxmlQRh7PUwh4aXgCAoJm2VH1UUnXa57GxQKPFoT4gKz0VUkDO8svcYh24dh6y8IMnZ5iUn1VSKhf/Nlqn+62AO1LHkQa+7IWFREpFSZ1W7/l2MuT+7GmJsNhlWrgSZC+Gt6DhvalRokEM3mMGR8Q5Q/u39lA8aZdelolOYzsmPbwgPfEQjHBypZcYcmOuFDUGwGQ/TY6KbVKYPPes3+8NVw1PYVLP3Gz+70QE7AiY+0xRcPb88s7ehnRWmzzi4L6UsUsSTuXOxOW0luHEjv6yKbnOB8rBbjdaZUK3Z7ODGjDZQE5tD6xIRlBkGoD3Z66weacQOTs+HQqNiA7+9b2cXYCFOqL+xkcpCU+FkyTzZB4t43ZjcBDYlnHgwrqmpIiuiVoXoZ/tbDU2xhDz1uyDkrNo93vfvuNpjtyHJN8LXW8rvs2eAEvZHOR+L+K8gMnpvU="
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMDM1MywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDUzYTgwODRiNzc3M2MxYjJiYjYyMTM5MDFkYThjZmI1MGRlNWU1ZDBjOGM1MjRmZjRmYWQwZTE4MmVhNjhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "h2vhpLaPp6oEx2Rb0zHmUh0mqZmwbAqxjGRPa8vjLuuco+FikVMIB2P3xJg45HyEJeWOxSsyBhJnhbiKdrlzKNko3wsh5yHLGyijj+gTffxBnBh6uuxMir/YebgncOrO+LJY9NnIveQll8JdKOD8lCwa6liw5BKi00MBnna8FwgHIZtJXpbOc8tia7e8mq/va24JK2DFDrY0fd2ZAnlDtD1GEvOYg/c+gIa9ppaGdRpVI4Q+dRfK0EIDbN06RbllX5R4X3FJETwm1FikwTrmbRV1bl0yriLQyarMSe4YHAap8Ljdg+f3UoxuVstgSTqMK4FcRyhGEh7YAZaSQd4Q7M3BtS9KCoCOnJxPS42rrpbqeVaUoTqAWIDaXyADw9IpWhVNCCIBy6pW46sWh1CmqH2YamhtE9ik4TSEVzynA69Pchu5dbeZzwTwW5vX0T2U80GKcAh8tLcC3aOVoQFgPo6aWHzZ1shoR7FJzpOaonfyp/AfHwy2mVjfy+QXTqA+QjbDVU2TG9bD7jUZg6sMKLlJbuGZQybIVvC1NMI3dAZ11lp2mlBTgWzMQMoI9ETGDRDZtmWPi/gsfj/Sl7+RomtFz6pDRF2IG8XARI/chD5zhCdtTlkNBAga5mxi3M0PANpxXio5Z4RMnwdfXLNONKb6HDjFVCYCCqfaMVqZeP4="
                   }
                 ]
               },
               "minecraft:custom_data": {
-                "timestamp": 1727645122418,
+                "timestamp": 1676405400000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "uuid": "c5a9a34a-bd6b-41d0-8ed0-8e53ac9b1d70",
+                "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
                 "modifier": "thorny",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
-                "id": "ZORROS_CAPE"
+                "id": "BLOSSOM_CLOAK"
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:mythic"
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
           },
           "BELT": {
@@ -880,7 +859,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,201",
+                      "text": "11,249",
                       "color": "red"
                     }
                   ],
@@ -1186,7 +1165,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,201",
+                      "text": "11,249",
                       "color": "red"
                     }
                   ],

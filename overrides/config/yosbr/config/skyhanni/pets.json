@@ -6,7 +6,7 @@
           "pets": [
             {
               "petInternalName": "RABBIT;5",
-              "exp": 4.79988588E7,
+              "exp": 4.8064187E7,
               "uuid": "50dc765b-bdaa-4993-934f-3bf11d407909"
             },
             {
@@ -183,7 +183,7 @@
             {
               "petInternalName": "GRIFFIN;5",
               "heldItemInternalName": "FOUR_EYED_FISH",
-              "exp": 6.76278402E7,
+              "exp": 6.76642787E7,
               "uuid": "f060c493-7777-4048-8741-0fdae0cbde4f"
             },
             {
@@ -425,7 +425,7 @@
             {
               "petInternalName": "JADE_DRAGON;4",
               "heldItemInternalName": "WINDING_IVY",
-              "exp": 4.604553771E8,
+              "exp": 4.627575033E8,
               "uuid": "0afcd66c-ebe7-4863-b33a-de787781b2e7"
             },
             {
@@ -465,7 +465,7 @@
             {
               "petInternalName": "ROSE_DRAGON;4",
               "heldItemInternalName": "POIGNANT_LUCKY_CLOVER",
-              "exp": 3.511207972E8,
+              "exp": 3.623511141E8,
               "uuid": "c2911091-0dac-41fa-8876-b676c669b039"
             },
             {
@@ -488,7 +488,7 @@
             },
             {
               "petInternalName": "GOLDEN_DRAGON;4",
-              "exp": 3.0098997002887227E7,
+              "exp": 3.1082473891260378E7,
               "uuid": "f725eeaa-c149-4f88-9ead-0106b31c0679"
             },
             {
@@ -508,8 +508,7 @@
             "f725eeaa-c149-4f88-9ead-0106b31c0679",
             null,
             null
-          ],
-          "beastmasterPetXpMultiplier": 1.05
+          ]
         },
         "zucchini": {
           "pets": [],

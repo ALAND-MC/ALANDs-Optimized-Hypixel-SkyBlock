@@ -48,8 +48,12 @@
         "showTitleWhenFailure": false,
         // Shows a title to use spade when the burrow chain is complete and there's no more guesses or burrows at least 90 blocks nearby, which will usually point to a new Start burrow to hold up your concurrent chains.
         "showTitleWhenChainEnds": false,
+        // Fixes an Hypixel issue where using the Ancestral, Archaic or the Deific spade sometimes would play a bugged Minecraft music that does not end and could be scary for people. This does the exact same thing SkyHanni option under the same name does, which is to cancel the bugged music from playing, until Hypixel fixes the issue server-side.
+        "muteBuggedSpadeSounds": true,
         // Shows a display on screen with active chains amount. You can get up to 7 chains running at the same time.
         "ongoingChainsDisplay": false,
+        // Only shows Pending Start and Active waypoint amount, never showing internal state mismatch issues aimed at users that want to troubleshoot/debug mod issues.
+        "simpleChainsOverlayMode": true,
         /*
          * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
          * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, MUSEUM
@@ -62,7 +66,7 @@
         ],
         // If enabled, will show a title when warp is available. Wait a few seconds to see if any close burrows appear, and if not, proceed to warp with the key, as the title updates live with new burrows discovered, it might sometimes only show for a split second when a new closer burrow is found making the warp unnecessary after title was shown.
         "showTitleWhenWarpAvailable": false,
-        // If enabled, the warp key will not warp you if you are within 60 blocks of a burrow.
+        // If enabled, the warp key will not warp you if you are already within 60 blocks of a warp target (burrow, guess or rare mob waypoint).
         "dontWarpIfBurrowClose": true,
         /*
          * The additional block difference to consider when warping to a waypoint. (0 to disable)
@@ -84,7 +88,7 @@
          * Valid Values: OFF, TOTAL, EVENT, SESSION
          */
         "mobTracker": "EVENT",
-        // Assumes you get loot share on all Kings, Inquisitors and Manticores. This works around the LOOT SHARE! message not being always sent by the server, but might inflate your numbers if you don't actually do enough damage to these mobs for lootshare. To reduce false positives a bit (not fully!), you need to be 30 blocks nearby the rare mob when it died.
+        // Assumes you get loot share on all Kings, Inquisitors and Manticores. This works around the LOOT SHARE! message not being always sent by the server, but might inflate your numbers if you don't actually do enough damage to these mobs for lootshare. To reduce false positives a bit (not fully!), you need to be 32 blocks nearby the rare mob when it died.
         "assumeAllLS": false,
         /*
          * Shows your Diana loot, /sboguis to move the overlay.
@@ -96,6 +100,8 @@
         "lootTracker": "EVENT",
         // Always prefers NPC prices for select items; such as the Pet Item drops like Cretan Urn, Dwarf Turtle Shelmet, Antique Remedies, Washed Up Souvenir and Crochet Tiger Plushie, along with Hilt of Revelations, useful if NPC selling them.
         "npcPriceOverrides": false,
+        // Only show NPC prices for all items; other items will be displayed as having no monetary value.
+        "ironmanOverrides": false,
         // Excludes coins from the loot tracker's profit calculation when enabled, useful if using a non-1B crown since coins are consumed.
         "excludeCoinsFromProfit": false,
         // Hides any loot or mob lines that have not been tracked yet (value is 0) to reduce clutter in the overlays.
@@ -130,25 +136,27 @@
         "hiltDropMessage": true,
         // Announces chimera/stick/relic on screen.
         "lootAnnouncerScreen": true,
+        // Whether you want "§6Crown Of Greed§r" to appear on your screen when dropping one
+        "announceCrownOfGreed": true,
         // Announces chimera/wool/stinger/food in party chat.
         "lootAnnouncerParty": true,
-        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop Amount this event and {percentage} for chimera/inquis ratio.
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop Amount this event, {since} for inquis took to drop chim, {price} for chim price, {percentage} for chimera/inquis ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
         "customChimeraMessage": [
             ""
         ],
-        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for core/manti ratio.
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for manti took to drop core, {price} for manti price, {percentage} for core/manti ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
         "customManticoreMessage": [
             ""
         ],
-        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for stinger/manti ratio.
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for manti took to drop stinger, {price} for stinger price, {percentage} for stinger/manti ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
         "customFatefulStingerMessage": [
             ""
         ],
-        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for food/sphinx ratio.
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for sphinx took to drop food, {price} for food price, {percentage} for food/sphinx ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
         "customBrainFoodMessage": [
             ""
         ],
-        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event and {percentage} for wool/king ratio.
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for king took to drop wool, {price} for wool price, {percentage} for wool/king ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
         "customShimmeringWoolMessage": [
             ""
         ],
@@ -176,8 +184,10 @@
          * Range: 1 - 20
          */
         "dianaLineWidth": 5,
-        // Sends the coordinates of rare mobs to your party. (King, Manti, Sphinx, Inq)
+        // Sends the coordinates of rare mobs to your party or public chat. (King, Manti, Sphinx, Inq)
         "shareRareMob": true,
+        // Send rare mob coordinates to public chat instead of party chat.
+        "shareRareMobInPublicChat": false,
         /*
          * Select which mobs to share.
          * Valid Values: INQ, MANTICORE, KING, SPHINX
@@ -203,19 +213,19 @@
         ],
         // Highlights rare mobs (King, Manti, Sphinx, Inq) with a glowing effect.
         "HighlightRareMobs": true,
-        // Sends a text on Inq spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance.
+        // Sends a text on Inq spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
         "announceInqText": [
             ""
         ],
-        // Sends a text on Manti spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance.
+        // Sends a text on Manti spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
         "announceMantiText": [
             ""
         ],
-        // Sends a text on Sphinx spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance.
+        // Sends a text on Sphinx spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
         "announceSphinxText": [
             ""
         ],
-        // Sends a text on King spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance.
+        // Sends a text on King spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
         "announceKingText": [
             ""
         ],
@@ -228,6 +238,11 @@
          * Type: Double
          */
         "hpAlert": 0.0,
+        /*
+         * Sends the Low HP sound when the Rare Mob is below the set HP value in Million. (0 to disable)
+         * Type: Double
+         */
+        "soundHpAlert": 0.0,
         // Shows an overlay when the RareMob has no shuriken applied, /sboguis to move it.
         "noShurikenOverlay": false,
         /*
@@ -310,7 +325,7 @@
         // Sends your time in party chat. (!time)
         "timeCommand": false,
         // Sends the server tps in party chat. (!tps)
-        "tpsCommand": true,
+        "tpsCommand": false,
         // Enable Diana party commands. (!chim, !inq, !relic, !stick, !since, !burrow, !mob) (note: you need to have Diana tracker enabled)
         "dianaPartyCommands": true
     },
@@ -380,6 +395,8 @@
          * [Color Format: RGBA]
          */
         "SphinxGlowColor": -10892033,
+        // Mimics visuals of SkyHanni on the block outline opacity and guess/distance text. This can help if you are migrating between the mods and can't get used to the look of another.
+        "lookAlike": false,
         // Uses a dynamic waypoint opacity that changes based on how far or close you are to the waypoints. If you enable this, the Waypoint Opacity setting below will not take effect.
         "dynamicWaypointOpacity": true,
         /*
@@ -414,16 +431,11 @@
          */
         "masterVolume": 1.0
     },
-    "PartyFinder": {
+    "Party Finder": {
         // Auto invites players that send you a join request and meet the party requirements.
         "autoInvite": true,
         // Automatically requeues the party after a member leaves.
-        "autoRequeue": true,
-        /*
-         * Change the size of the text.
-         * Range: -2 - 2
-         */
-        "scaleText": 0.0
+        "autoRequeue": true
     },
     "QOL": {
         // Displays a pickup log in an overlay like sba. /sboguis to move the overlay.
@@ -440,12 +452,12 @@
         "hideSacksMSG": false
     },
     "Debug": {
-        // Its always Diana, no need to check for mayor, perks, spade or world.
-        "itsAlwaysDiana": false,
         // Always assume you are on hypixel skyblock.
         "alwaysInSkyblock": false,
-        // Enable debug messages for development purposes.
-        "debugMessages": false,
+        // Enable debug only messages for development purposes. Do not enable unless you are instructed to do so.
+        "debugOnlyMessages": false,
+        // Show debug waypoints for burrows and arrow guesses that do not have a regular waypoint.
+        "showInternalStateWaypoints": false,
         // Allows you to unlock repeatable achievements for each new event.
         "repeatableAchie": true
     },

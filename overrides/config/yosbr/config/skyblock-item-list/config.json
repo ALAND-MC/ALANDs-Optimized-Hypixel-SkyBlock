@@ -16,6 +16,7 @@
     "hideVanillaItems": false,
     "groupFamilies": false,
     "prioritizePrefixMatches": true,
+    "fuzzySearch": false,
     "customFilters": [
       "ATTRIBUTE",
       "ENCHANTMENT",

@@ -10,7 +10,7 @@
               "status": "CORRECT"
             },
             "CACTUS": {
-              "amount": 155232,
+              "amount": 2965,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -30,7 +30,7 @@
               "status": "CORRECT"
             },
             "COMPOST": {
-              "amount": 992,
+              "amount": 1143,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -65,7 +65,7 @@
               "status": "CORRECT"
             },
             "NETHER_STALK": {
-              "amount": 128,
+              "amount": 115268,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -95,7 +95,7 @@
               "status": "CORRECT"
             },
             "SQUASH": {
-              "amount": 1208,
+              "amount": 1144,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -105,7 +105,7 @@
               "status": "CORRECT"
             },
             "DOUBLE_PLANT": {
-              "amount": 155231,
+              "amount": 18642,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -115,7 +115,7 @@
               "status": "CORRECT"
             },
             "WILD_ROSE": {
-              "amount": 155230,
+              "amount": 3177,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -680,7 +680,7 @@
               "status": "CORRECT"
             },
             "OIL_BARREL": {
-              "amount": 2,
+              "amount": 3,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -740,47 +740,47 @@
               "status": "CORRECT"
             },
             "DUNG": {
-              "amount": 2278,
+              "amount": 2353,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ETHEREAL_VINE": {
-              "amount": 18147,
+              "amount": 18742,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FERMENTO": {
-              "amount": 1183,
+              "amount": 1196,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FINE_FLOUR": {
-              "amount": 336,
+              "amount": 390,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HELIANTHUS": {
-              "amount": 60,
+              "amount": 86,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "HONEY_JAR": {
-              "amount": 365,
+              "amount": 234,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JELLY": {
-              "amount": 595,
+              "amount": 622,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "PLANT_MATTER": {
-              "amount": 359,
+              "amount": 407,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CHEESE_FUEL": {
-              "amount": 2410,
+              "amount": 2644,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -910,7 +910,7 @@
               "status": "CORRECT"
             },
             "BIOFUEL": {
-              "amount": 63,
+              "amount": 66,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1720,12 +1720,12 @@
               "status": "CORRECT"
             },
             "GLACITE_JEWEL": {
-              "amount": 572,
+              "amount": 578,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOBLIN_EGG": {
-              "amount": 29,
+              "amount": 12,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1735,12 +1735,12 @@
               "status": "CORRECT"
             },
             "SUSPICIOUS_SCRAP": {
-              "amount": 12,
+              "amount": 13,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "TUNGSTEN_KEY": {
-              "amount": 0,
+              "amount": 1,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1755,12 +1755,12 @@
               "status": "CORRECT"
             },
             "GOBLIN_EGG_GREEN": {
-              "amount": 22,
+              "amount": 28,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "GOBLIN_EGG_RED": {
-              "amount": 19,
+              "amount": 21,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1770,7 +1770,7 @@
               "status": "CORRECT"
             },
             "AGGOURDIAN": {
-              "amount": 47,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1785,12 +1785,12 @@
               "status": "CORRECT"
             },
             "CANE_KNOT": {
-              "amount": 19,
+              "amount": 23,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "CARROT_ZEST": {
-              "amount": 45,
+              "amount": 12,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -1800,37 +1800,37 @@
               "status": "CORRECT"
             },
             "CRYSTALIZED_MOONLIGHT": {
-              "amount": 3,
+              "amount": 6,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "DEEPFRIES": {
-              "amount": 13,
+              "amount": 19,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "DESIGNER_COFFEE_BEANS": {
-              "amount": 45,
+              "amount": 14,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FEASTFUNGUS": {
-              "amount": 30,
+              "amount": 34,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "FLORAL_GELATIN": {
-              "amount": 30,
+              "amount": 69,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "MELON_JUICE": {
-              "amount": 39,
+              "amount": 27,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SALTED_SUNFLOWER_SEEDS": {
-              "amount": 2,
+              "amount": 9,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2235,7 +2235,7 @@
               "status": "CORRECT"
             },
             "OBFUSCATED_FISH_1_BRONZE": {
-              "amount": 0,
+              "amount": 22,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2330,7 +2330,7 @@
               "status": "CORRECT"
             },
             "ASCENSION_ROPE": {
-              "amount": 54,
+              "amount": 49,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2340,7 +2340,7 @@
               "status": "CORRECT"
             },
             "CONTROL_SWITCH": {
-              "amount": 5,
+              "amount": 6,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2355,12 +2355,12 @@
               "status": "CORRECT"
             },
             "FTX_3070": {
-              "amount": 9,
+              "amount": 11,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "JUNGLE_KEY": {
-              "amount": 3,
+              "amount": 7,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2370,12 +2370,12 @@
               "status": "CORRECT"
             },
             "ROBOTRON_REFLECTOR": {
-              "amount": 8,
+              "amount": 10,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "SLUDGE_JUICE": {
-              "amount": 1385,
+              "amount": 1479,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2390,7 +2390,7 @@
               "status": "CORRECT"
             },
             "WISHING_COMPASS": {
-              "amount": 83,
+              "amount": 81,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2585,7 +2585,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_FIG_LOG": {
-              "amount": 126,
+              "amount": 837,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2600,7 +2600,7 @@
               "status": "CORRECT"
             },
             "ENCHANTED_OAK_LOG": {
-              "amount": 0,
+              "amount": 4,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2635,12 +2635,12 @@
               "status": "CORRECT"
             },
             "ENCHANTED_HELIX_LOG": {
-              "amount": 77,
+              "amount": 2875,
               "lastChange": 0,
               "status": "CORRECT"
             },
             "ENCHANTED_HONEYCOMB": {
-              "amount": 97,
+              "amount": 448,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2655,7 +2655,7 @@
               "status": "CORRECT"
             },
             "HELIXIS": {
-              "amount": 6,
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             },
@@ -2691,6 +2691,136 @@
             },
             "CRUNCHY_BUG": {
               "amount": 25,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "BLESSED_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CARROT_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CORRUPTED_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DARK_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FISH_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FROZEN_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GLOWY_CHUM_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GOLDEN_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HOT_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HOTSPOT_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ICE_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "LIGHT_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MINNOW_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SHARK_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SPIKED_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SPOOKY_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TREASURE_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WHALE_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WOODEN_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WORM_BAIT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_1_SILVER": {
+              "amount": 6,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_1_GOLD": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_1_DIAMOND": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_2_SILVER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_2_GOLD": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBFUSCATED_FISH_2_DIAMOND": {
+              "amount": 0,
               "lastChange": 0,
               "status": "CORRECT"
             }
