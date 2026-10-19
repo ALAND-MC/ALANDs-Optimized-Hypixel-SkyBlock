@@ -1,6 +1,4 @@
 {
-  "rareMobSound": "",
-  "rareMobVolume": 1.0,
   "lowInqHpSound": "",
   "lowInqHpVoume": 1.0,
   "lowSphinxHpSound": "",
@@ -36,5 +34,7 @@
   "stickSound": "",
   "stickVolume": 1.0,
   "miscDropSound": "",
-  "miscDropVolume": 1.0
+  "miscDropVolume": 1.0,
+  "masterVolume": 1.0,
+  "masterVolumeMigrated": true
 }

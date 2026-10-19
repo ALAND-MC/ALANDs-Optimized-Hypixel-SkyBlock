@@ -203,8 +203,7 @@
         "scanWorldForRareMob": false,
         /*
          * Select which mobs to receive.
-         * §bOTHER = Rare mobs from players that don't ping with sbo. (mainly skyhanni)
-         * Valid Values: INQ, MANTICORE, KING, SPHINX, OTHER
+         * Valid Values: INQ, MANTICORE, KING, SPHINX
          */
         "ReceiveMobs": [
             "KING",
@@ -424,18 +423,15 @@
         // Shows times dug on the waypoint text for known burrows.
         "showTimesDug": true,
         // Shows the warp title as a subtitle instead of title, reducing its size on screen. This will also cause it to move down slightly.
-        "warpTitleAsSubtitle": false,
-        /*
-         * Set the volume for all sounds.
-         * Range: 0 - 1
-         */
-        "masterVolume": 1.0
+        "warpTitleAsSubtitle": false
     },
-    "Party Finder": {
-        // Auto invites players that send you a join request and meet the party requirements.
-        "autoInvite": true,
-        // Automatically requeues the party after a member leaves.
-        "autoRequeue": true
+    "Themes": {
+        // Colors of all SBO windows: party finder, settings, events, achievements, sounds, cloud sync and the hub. Hover a theme in the list to see what it does.
+        "theme": "sbo-dark",
+        // How big all SBO windows are. Auto uses your Minecraft GUI scale. Windows with their own Size setting keep it unless it is set to Global.
+        "uiScale": "auto",
+        // Blurs the game behind all SBO windows. Turn it off to see the game clearly, the dark overlay stays.
+        "backgroundBlur": true
     },
     "QOL": {
         // Displays a pickup log in an overlay like sba. /sboguis to move the overlay.
@@ -460,6 +456,5 @@
         "showInternalStateWaypoints": false,
         // Allows you to unlock repeatable achievements for each new event.
         "repeatableAchie": true
-    },
-    "Credits": {}
+    }
 }

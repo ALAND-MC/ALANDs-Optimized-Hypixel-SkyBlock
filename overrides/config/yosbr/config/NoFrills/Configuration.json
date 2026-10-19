@@ -1,104 +1,138 @@
 {
   "fpsElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "tpsElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "clockElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "pingElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "delay": 20,
+    "averageSize": 30,
+    "gridPrecision": 5
   },
   "dayElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "armorElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "inventoryElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "quiverElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "lagMeterElement": {
     "min": 500,
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "pickaxeAbilityTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "queueCooldownTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "slayerHealthElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "slayerTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "bossHealthElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "dungeonMapElement": {
     "selfMarkerScale": 7.0,
     "playerMarkerScale": 1.5,
     "playerNameScale": 0.8,
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "dungeonScoreElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "spiritMaskTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "phoenixPetTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "bonzoMaskTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "spiritBearTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "terracottaGyroTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "padTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "terminalStartTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "goldorTickTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "powerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "freshToolsTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "seaCreaturesElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "bobberElement": {
     "scale": 1.0,
-    "slugfishTimer": 0
+    "slugfishTimer": 0,
+    "gridPrecision": 5
   },
   "fishingBagElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "beaconPowerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "shardTrackerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "skillTrackerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   },
   "autoSprint": {
     "enabled": true,
@@ -236,7 +270,7 @@
     "enabled": true
   },
   "middleClickOverride": {
-    "enabled": true
+    "enabled": false
   },
   "noFrontPerspective": {
     "enabled": false
@@ -245,7 +279,7 @@
     "enabled": false
   },
   "middleClickFix": {
-    "enabled": true
+    "enabled": false
   },
   "noPearlCooldown": {
     "enabled": false
@@ -337,7 +371,8 @@
     "enabled": false
   },
   "blockList": {
-    "enabled": false
+    "enabled": false,
+    "kickMsg": "/pc Kicked {name} for: Player blocked with reason \"{reason}\""
   },
   "streamerMode": {
     "baseName": "nostrils-{}{}{}{}",
@@ -664,6 +699,7 @@
     "enabled": false
   },
   "kickCooldownTimerElement": {
-    "scale": 1.0
+    "scale": 1.0,
+    "gridPrecision": 5
   }
 }

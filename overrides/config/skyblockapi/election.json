@@ -2,25 +2,34 @@
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
     "mayor": {
-      "id": "DIANA",
+      "id": "DIAZ",
       "perks": [
-        "MYTHOLOGICAL_RITUAL",
-        "PET_XP_BUFF",
-        "SHARING_IS_CARING"
+        "STOCK_EXCHANGE",
+        "VOLUME_TRADING"
       ]
     },
     "minister": {
-      "id": "COLE",
+      "id": "FINNEGAN",
       "perks": [
-        "MINING_XP_BUFF"
+        "BLOOMING_BUSINESS"
       ]
     },
-    "next_mayor_time": 1791170100000,
+    "next_mayor_time": 1792509300000,
     "perk_descriptions": {
       "MYTHOLOGICAL_RITUAL": "Mayor Diana will sell the §fGriffin Pet§7, which lets you find §2Mythological Creatures §7and tons of §eunique items§7.",
       "PET_XP_BUFF": "Gain §d35% §7more pet XP.",
       "SHARING_IS_CARING": "Unlocks §a2 §7more §6Exp Share §7slots in your pets menu and increases the §6Exp Share §7rate by §a+10%§7!",
-      "MINING_XP_BUFF": "Get §3+60☯ Mining Wisdom §7on public islands."
+      "MINING_XP_BUFF": "Get §3+60☯ Mining Wisdom §7on public islands.",
+      "FISHING_XP_BUFF": "Gain §3+50☯ Fishing Wisdom §7on public islands.",
+      "LUCK_OF_THE_SEA_2_0": "Gain §315 Sea Creature Chance§7.",
+      "DOUBLE_TROUBLE": "For every §31 Sea Creature Chance§7, gain §9+0.1 Double Hook Chance§7.",
+      "EXTRA_EVENT": "Schedules an extra §bFishing Festival §7event during the year.",
+      "MARAUDER": "Dungeon reward chests are §e20% §7cheaper.",
+      "BENEDICTION": "Blessings are §d25% §7stronger.",
+      "MINING_FIESTA": "§7Gain §3+25☯ Mining Wisdom§7, §6+25%  Mining Fortune§7, and collect §9Refined Minerals §7and §5Glossy Gemstones§7 from mining!",
+      "STOCK_EXCHANGE": "Participate in the §dStonks Auction §7for a chance to win §5Stock of Stonks§7! Trade them for §6extravagant items §7at the §bTrade Center§7.",
+      "VOLUME_TRADING": "The available item quantity per §6Shen's Auction §7has been doubled, and two additional §6Shen's Special §7auctions will be available if Diaz is Mayor.",
+      "BLOOMING_BUSINESS": "All Garden Visitors reward §aFine Flour§7 and §c+10% Copper §7for accepting offers. Invites §a5 §7unique visitors to your §aGarden §7and makes higher rarity visitors §a20% §7more likely to show up."
     }
   }
 }

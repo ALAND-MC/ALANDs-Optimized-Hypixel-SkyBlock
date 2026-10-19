@@ -1,0 +1,460 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    "General": {
+        // Tracks the number of bobbers near you /sboguis to move the overlay.
+        "bobberOverlay": false,
+        // Tracks the players near you for legion buff /sboguis to move the overlay.
+        "legionOverlay": false,
+        /*
+         * Hides waypoints you created.
+         * Valid Values: NORMAL, INQ, MANTICORE, KING, SPHINX
+         */
+        "hideOwnWaypoints": [],
+        // Creates waypoints from chat messages. (format: x: 20, y: 60, z: 80)
+        "patcherWaypoints": true,
+        // Assumes you are muted and instead of running /pc to send mod messages always prefers to send them client-side to yourself only.
+        "assumeMuted": false,
+        // Disables the SBO Achievements. Note that, internally your achievements will still be tracked and unlocked, just that you won't be notified in chat, via a title, and a sound, when one unlocks, if this option is enabled.
+        "disableAchievements": false,
+        // Shows the SBO Achievements button in the pause menu.
+        "achievementsButton": false
+    },
+    "Diana": {
+        // Guess the burrow location when using spade ability. Needs Dripping Lava Particles and set /particlequality to Extreme for more accuracy.
+        "spadeGuess": true,
+        /*
+         * Guesses the burrow location from the arrow direction after digging a burrow. 
+         * §cHave Dust and Smoke Particles enabled and /particlequality extreme!
+         * §aDo every burrow you see and Use Spade when the mod tells you to for doing Diana the fastest way!
+         */
+        "arrowGuess": true,
+        // Detects burrow locations when being close to them from the particles when holding shovel to register/update it as a Treasure, Mob or Start burrow. Needs Critical Hit and Enchant particles, and set /particlequality extreme. To reset waypoints type /sboclearburrows.
+        "closeBurrowDetection": true,
+        // Displays the other possible arrow guess locations as gray (configurable) waypoints until the active guess advances. This is not recommended for inexperienced users to reduce confusion and is so defaults to being disabled.
+        "showArrowSubGuesses": false,
+        // Shows "Possible" text on sub guesses in addition to the block higlight. Might increase visual clutter in exchange of making subguesses more visible.
+        "showTextOnSubGuess": false,
+        // Draws lines between burrows from closest to your current location to the farthest from current location (e.g., optimal order to do them in).
+        "drawOptimalOrderLines": false,
+        // Shows a beacon beam for waypoints going to the sky if enabled.
+        "showBeaconBeam": true,
+        /*
+         * Hide the beam when this many blocks or more close to it.
+         * Type: Integer
+         */
+        "beamDistance": 8,
+        // Shows a title to use spade when the arrow guess fails to solve the burrow. This might sometimes show wrongfully on a second solve attempt if the first was successfull and second failed for any reason.
+        "showTitleWhenFailure": false,
+        // Shows a title to use spade when the burrow chain is complete and there's no more guesses or burrows at least 90 blocks nearby, which will usually point to a new Start burrow to hold up your concurrent chains.
+        "showTitleWhenChainEnds": false,
+        // Fixes an Hypixel issue where using the Ancestral, Archaic or the Deific spade sometimes would play a bugged Minecraft music that does not end and could be scary for people. This does the exact same thing SkyHanni option under the same name does, which is to cancel the bugged music from playing, until Hypixel fixes the issue server-side.
+        "muteBuggedSpadeSounds": true,
+        // Shows a display on screen with active chains amount. You can get up to 7 chains running at the same time.
+        "ongoingChainsDisplay": false,
+        // Only shows Pending Start and Active waypoint amount, never showing internal state mismatch issues aimed at users that want to troubleshoot/debug mod issues.
+        "simpleChainsOverlayMode": true,
+        /*
+         * Select the warps you want to be able to warp to with the guess and inquisitor warp keys.
+         * Valid Values: CASTLE, WIZARD, CRYPT, STONKS, DA, TAYLOR, MUSEUM
+         */
+        "allowedWarps": [
+            "STONKS",
+            "DA",
+            "WIZARD",
+            "CASTLE"
+        ],
+        // If enabled, will show a title when warp is available. Wait a few seconds to see if any close burrows appear, and if not, proceed to warp with the key, as the title updates live with new burrows discovered, it might sometimes only show for a split second when a new closer burrow is found making the warp unnecessary after title was shown.
+        "showTitleWhenWarpAvailable": false,
+        // If enabled, the warp key will not warp you if you are already within 60 blocks of a warp target (burrow, guess or rare mob waypoint).
+        "dontWarpIfBurrowClose": true,
+        /*
+         * The additional block difference to consider when warping to a waypoint. (0 to disable)
+         * Range: 0 - 60
+         */
+        "warpDiff": 10,
+        // If enabled, ignores Y-Level when comparing distance between warp and the burrow when determining the closest warp for the Wizard and Castle warps, which have high Y-Level.
+        "ignoreYLevel": false,
+        /*
+         * Blocks at which good warps are prioritized over bad ones (Currently only Castle and Crypt). For example, if you set it to 100, when the Crypt warp is the closest warp to a burrow, and the Castle is second closest, with Crypt warp being only 100 blocks or less closer than Castle, Castle will be preferred over Crypt warp for accessibility, as it can be faster to AOTV out of castle to reach the burrow whereas Crypt is longer to get out. (0 to disable)
+         * Range: 0 - 150
+         */
+        "badWarpDistance": 0,
+        /*
+         * Shows your Diana mob kills, /sboguis to move the overlay.
+         * §bNOTE!: You can interact with the tracker in the inventory!!!§r
+         * By clicking on a mob line you can hide/unhide it.
+         * Hovering over some lines may display additional information.
+         * Valid Values: OFF, TOTAL, EVENT, SESSION
+         */
+        "mobTracker": "EVENT",
+        // Assumes you get loot share on all Kings, Inquisitors and Manticores. This works around the LOOT SHARE! message not being always sent by the server, but might inflate your numbers if you don't actually do enough damage to these mobs for lootshare. To reduce false positives a bit (not fully!), you need to be 32 blocks nearby the rare mob when it died.
+        "assumeAllLS": false,
+        /*
+         * Shows your Diana loot, /sboguis to move the overlay.
+         * §bNOTE!: You can interact with the tracker in the inventory!!!§r
+         * By clicking on a loot line you can hide/unhide it.
+         * Hovering over some lines may display additional information.
+         * Valid Values: OFF, TOTAL, EVENT, SESSION
+         */
+        "lootTracker": "EVENT",
+        // Always prefers NPC prices for select items; such as the Pet Item drops like Cretan Urn, Dwarf Turtle Shelmet, Antique Remedies, Washed Up Souvenir and Crochet Tiger Plushie, along with Hilt of Revelations, useful if NPC selling them.
+        "npcPriceOverrides": false,
+        // Only show NPC prices for all items; other items will be displayed as having no monetary value.
+        "ironmanOverrides": false,
+        // Excludes coins from the loot tracker's profit calculation when enabled, useful if using a non-1B crown since coins are consumed.
+        "excludeCoinsFromProfit": false,
+        // Hides any loot or mob lines that have not been tracked yet (value is 0) to reduce clutter in the overlays.
+        "hideUnobtainedItems": true,
+        // Combines the base item and the Loot Share (LS) variant into a single line. The individual LS count is shown on hover.
+        "combineLootLines": true,
+        /*
+         * Pause the trackers if it is not modified for this amount of seconds. Minimum 15, maximum 900 seconds is allowed.
+         * Range: 15 - 900
+         */
+        "afkTimeout": 60,
+        // Shows stats like Mobs since Inquisitor, Inquisitors since Chimera, /sboguis to move the overlay.
+        "statsTracker": false,
+        // Hides the Loot Share (LS) portion of the Diana stats lines.
+        "hideLsStats": false,
+        // Resets the Diana session tracker when you restart Minecraft.
+        "resetSessionOnGameRestart": false,
+        // Shows your highest magic find for sticks and chimeras (only after you dropped it once), /sboguis to move the overlay.
+        "magicFindTracker": false,
+        // Set if you have a Four-Eyed Fish on your griffin pet.
+        "fourEyedFish": true,
+        // Sends the chat Message with stat: [SBO] Took 120 Mobs to get a Inquis!
+        "sendSinceMessage": true,
+        /*
+         * Bazaar setting to set the price for loot.
+         * Valid Values: INSTASELL, SELLOFFER
+         */
+        "bazaarSettingDiana": "SELLOFFER",
+        // Announces relic/shelmet/plushie/remedies in chat.
+        "lootAnnouncerChat": true,
+        // Sends rare drop message for Hilt of Revelations, since Hypixel does not send one.
+        "hiltDropMessage": true,
+        // Announces chimera/stick/relic on screen.
+        "lootAnnouncerScreen": true,
+        // Whether you want "§6Crown Of Greed§r" to appear on your screen when dropping one
+        "announceCrownOfGreed": true,
+        // Announces chimera/wool/stinger/food in party chat.
+        "lootAnnouncerParty": true,
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop Amount this event, {since} for inquis took to drop chim, {price} for chim price, {percentage} for chimera/inquis ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
+        "customChimeraMessage": [
+            ""
+        ],
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for manti took to drop core, {price} for manti price, {percentage} for core/manti ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
+        "customManticoreMessage": [
+            ""
+        ],
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for manti took to drop stinger, {price} for stinger price, {percentage} for stinger/manti ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
+        "customFatefulStingerMessage": [
+            ""
+        ],
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for sphinx took to drop food, {price} for food price, {percentage} for food/sphinx ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
+        "customBrainFoodMessage": [
+            ""
+        ],
+        // Leave empty to use default. Use: {mf} for MagicFind, {amount} for drop amount this event, {since} for king took to drop wool, {price} for wool price, {percentage} for wool/king ratio, and {lstext} for (LS) on lootshare drops. Colors can be used with & and a color code (stripped when announcing to party).
+        "customShimmeringWoolMessage": [
+            ""
+        ],
+        /*
+         * Fade-in (ticks) for rare mob titles. Enter 0 in all three settings to disable the titles.
+         * Range: 0 - 100
+         */
+        "rareMobTitleFadeInTime": 0,
+        /*
+         * Display time (ticks) for rare mob titles. Enter 0 in all three settings to disable the titles.
+         * Range: 0 - 100
+         */
+        "rareMobTitleStayTime": 40,
+        /*
+         * Fade-out (ticks) for rare mob titles. Enter 0 in all three settings to disable the titles.
+         * Range: 0 - 100
+         */
+        "rareMobTitleFadeOutTime": 0,
+        // Draws line to the closest guess and/or burrow, Disable View Bobbing in controls if its buggy.
+        "guessAndBurrowLine": true,
+        // Draws line to rare mob waypoints, Disable View Bobbing in controls if its buggy.
+        "inqLine": true,
+        /*
+         * The width of the lines drawn for Diana waypoints.
+         * Range: 1 - 20
+         */
+        "dianaLineWidth": 5,
+        // Sends the coordinates of rare mobs to your party or public chat. (King, Manti, Sphinx, Inq)
+        "shareRareMob": true,
+        // Send rare mob coordinates to public chat instead of party chat.
+        "shareRareMobInPublicChat": false,
+        /*
+         * Select which mobs to share.
+         * Valid Values: INQ, MANTICORE, KING, SPHINX
+         */
+        "ShareMobs": [
+            "KING",
+            "INQ",
+            "MANTICORE"
+        ],
+        // Create a waypoint when someone in your party shares a rare mob. (King, Manti, Sphinx, Inq)
+        "receiveRareMob": true,
+        // Create a waypoint when finding a rare mob entity in a loaded chunk automatically. (King, Manti, Sphinx, Inq)
+        "scanWorldForRareMob": false,
+        /*
+         * Select which mobs to receive.
+         * Valid Values: INQ, MANTICORE, KING, SPHINX
+         */
+        "ReceiveMobs": [
+            "KING",
+            "MANTICORE",
+            "INQ"
+        ],
+        // Highlights rare mobs (King, Manti, Sphinx, Inq) with a glowing effect.
+        "HighlightRareMobs": true,
+        // Sends a text on Inq spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
+        "announceInqText": [
+            ""
+        ],
+        // Sends a text on Manti spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
+        "announceMantiText": [
+            ""
+        ],
+        // Sends a text on Sphinx spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
+        "announceSphinxText": [
+            ""
+        ],
+        // Sends a text on King spawn 5 seconds after spawn, use {since} for mobs since mob, {chance} for mob chance. Leave empty to disable.
+        "announceKingText": [
+            ""
+        ],
+        // Sends a message to party chat on cocoon.
+        "announceCocoon": false,
+        // Shows a title on cocoon.
+        "cocoonTitle": false,
+        /*
+         * Sends a title alert when a Rare Mob is below the set HP value in Million. (0 to disable)
+         * Type: Double
+         */
+        "hpAlert": 0.0,
+        /*
+         * Sends the Low HP sound when the Rare Mob is below the set HP value in Million. (0 to disable)
+         * Type: Double
+         */
+        "soundHpAlert": 0.0,
+        // Shows an overlay when the RareMob has no shuriken applied, /sboguis to move it.
+        "noShurikenOverlay": false,
+        /*
+         * Select which mobs to check for shuriken.
+         * Valid Values: INQ, MANTICORE, KING, SPHINX
+         */
+        "NoShurikenMobs": [
+            "INQ",
+            "MANTICORE",
+            "KING",
+            "SPHINX"
+        ],
+        // Displays HP of mythological mobs near you, /sboguis to move it.
+        "mythosMobHp": false,
+        /*
+         * Helps you solve the sphinx riddle by showing you the answer choices in chat and it automatically clicks the correct one for you when you click anywhere while the chat is open.
+         * Theres also the option to us a keybind in the mc keybinds menu but §c⚠ USE AT YOUR OWN RISK ⚠
+         */
+        "sphinxSolver": true
+    },
+    "Medal": {
+        // Saves Medal clips on selected Diana drops
+        "medalEnabled": false,
+        // Saves a Medal clip when Chimera drops
+        "medalChimeraEnabled": true,
+        // Saves a Medal clip when Shimmering Wool drops
+        "medalWoolEnabled": true,
+        // Saves a Medal clip when Brain Food drops
+        "medalBrainFoodEnabled": true,
+        // Saves a Medal clip when Minos Relic drops
+        "medalMinosRelicEnabled": true,
+        // Saves a Medal clip when Manti-core drops
+        "medalMantiCoreEnabled": true,
+        // Saves a Medal clip when Fateful Stinger drops
+        "medalFatefulStingerEnabled": true,
+        // Saves a Medal clip when Daedalus Stick drops
+        "medalDaedalusStickEnabled": true,
+        // Saves a Medal clip when Braided Griffin Feather drops
+        "medalBraidedGriffinFeatherEnabled": true,
+        // Saves a Medal clip when Mythological Dye drops
+        "medalMythologicalDyeEnabled": true,
+        // Saves a Medal clip when Myth the Fish drops
+        "medalMythTheFishEnabled": true,
+        // Saves a Medal clip when Crown of Greed drops
+        "medalCrownOfGreedEnabled": true,
+        // Saves a Medal clip when Hilt of Revelations drops
+        "medalHiltOfRevelationsEnabled": true,
+        // Saves a Medal clip when Washed-up Souvenir drops
+        "medalWashedUpSouvenirEnabled": true,
+        // Saves a Medal clip when Dwarf Turtle Shelmet drops
+        "medalDwarfTurtleShelmetEnabled": true,
+        // Saves a Medal clip when Crochet Tiger Plushie drops
+        "medalCrochetTigerPlushieEnabled": true,
+        // Saves a Medal clip when Antique Remedies drops
+        "medalAntiqueRemediesEnabled": true,
+        // Saves a Medal clip when Cretan Urn drops
+        "medalCretanUrnEnabled": true,
+        /*
+         * How long Medal clips should be
+         * Range: 1 - 120
+         */
+        "medalClipDurationSeconds": 30,
+        /*
+         * Delay before Medal captures clips
+         * Range: 0 - 60000
+         */
+        "medalCaptureDelayMs": 10000
+    },
+    "Party Commands": {
+        // Enables !w, !warp command.
+        "warpCommand": false,
+        // Enables !allinv, !allinvite command.
+        "allinviteCommand": false,
+        // Enables !transfer [Player] command. (if no player is defined it transfers the party to the command writer)
+        "transferCommand": false,
+        // Enables !promote/demote [Player] command. (if no player is defined it pro/demotes the command writer)
+        "moteCommand": false,
+        // Enables the !carrot command.
+        "carrotCommand": false,
+        // Sends your time in party chat. (!time)
+        "timeCommand": false,
+        // Sends the server tps in party chat. (!tps)
+        "tpsCommand": false,
+        // Enable Diana party commands. (!chim, !inq, !relic, !stick, !since, !burrow, !mob) (note: you need to have Diana tracker enabled)
+        "dianaPartyCommands": true
+    },
+    "Customization": {
+        /*
+         * Pick a color for closest guess.
+         * [Color Format: RGB]
+         */
+        "ClosestGuessColor": -16711936,
+        /*
+         * Pick a color for other guesses.
+         * [Color Format: RGB]
+         */
+        "OtherGuessColor": -16711681,
+        /*
+         * Color of inactive arrow guess locations. (only used if "Show Arrow Sub Guesses" enabled in Diana category)
+         * [Color Format: RGB]
+         */
+        "SubGuessColor": -7566196,
+        /*
+         * Pick a color for optimal order line color. (line drawn between guesses in the optimal order to them, only used if "Draw Optimal Order Lines" enabled in Diana category)
+         * [Color Format: RGB]
+         */
+        "OptimalOrderLineColor": -1,
+        /*
+         * Pick a color for start burrows.
+         * [Color Format: RGB]
+         */
+        "StartColor": -1,
+        /*
+         * Pick a color for mob burrows.
+         * [Color Format: RGB]
+         */
+        "MobColor": -65536,
+        /*
+         * Pick a color for treasure burrows.
+         * [Color Format: RGB]
+         */
+        "TreasureColor": -22016,
+        /*
+         * Pick a color for rare mob waypoints.
+         * [Color Format: RGB]
+         */
+        "RareMobColor": -10752,
+        /*
+         * Pick a color for other waypoints, e.g., waypoints created from non-SBO player-sent coordinates. (Separate from rare mob color)
+         * [Color Format: RGB]
+         */
+        "OtherWaypointColor": -16763905,
+        /*
+         * Glow color for King Minos.
+         * [Color Format: RGBA]
+         */
+        "KingMinosGlowColor": -29696,
+        /*
+         * Glow color for Minos Inquisitor.
+         * [Color Format: RGBA]
+         */
+        "MinosInquisitorGlowColor": -42561,
+        /*
+         * Glow color for Manticore.
+         * [Color Format: RGBA]
+         */
+        "ManticoreGlowColor": -16747776,
+        /*
+         * Glow color for Sphinx.
+         * [Color Format: RGBA]
+         */
+        "SphinxGlowColor": -10892033,
+        // Mimics visuals of SkyHanni on the block outline opacity and guess/distance text. This can help if you are migrating between the mods and can't get used to the look of another.
+        "lookAlike": false,
+        // Uses a dynamic waypoint opacity that changes based on how far or close you are to the waypoints. If you enable this, the Waypoint Opacity setting below will not take effect.
+        "dynamicWaypointOpacity": true,
+        /*
+         * The opacity of the rendered waypoints. 50 will make it 50% transparent, 100% fully opaque, 0% fully invisible, etc. (default 50)
+         * Range: 0 - 100
+         */
+        "waypointOpacity": 50,
+        /*
+         * The opacity of the text on the rendered waypoints. 50 will make it 50% transparent, 100% fully opaque, 0% fully invisible, etc. (default 100)
+         * Range: 0 - 100
+         */
+        "waypointTextOpacity": 100,
+        // Enables shadow for waypoint text.
+        "waypointTextShadow": true,
+        /*
+         * Scale of the waypoint text.
+         * Range: 0.30000001192092896 - 2
+         */
+        "waypointTextScale": 0.7,
+        /*
+         * The distance cutoff at which the distance text disappears, and the times dug text appears. For example if set to 50 will not display the distance text if 50m or closer, and will only display the times dug when 50m or closer. (0 to always show distance and times dug, if times dug is enabled)
+         * Range: 0 - 150
+         */
+        "showDistanceCutoff": 50,
+        // Shows times dug on the waypoint text for known burrows.
+        "showTimesDug": true,
+        // Shows the warp title as a subtitle instead of title, reducing its size on screen. This will also cause it to move down slightly.
+        "warpTitleAsSubtitle": false
+    },
+    "Themes": {
+        // Colors of all SBO windows: party finder, settings, events, achievements, sounds, cloud sync and the hub. Hover a theme in the list to see what it does.
+        "theme": "sbo-dark",
+        // How big all SBO windows are. Auto uses your Minecraft GUI scale. Windows with their own Size setting keep it unless it is set to Global.
+        "uiScale": "auto",
+        // Blurs the game behind all SBO windows. Turn it off to see the game clearly, the dark overlay stays.
+        "backgroundBlur": true
+    },
+    "QOL": {
+        // Displays a pickup log in an overlay like sba. /sboguis to move the overlay.
+        "pickuplogOverlay": false,
+        // Announces on screen when you drop a phoenix pet.
+        "phoenixAnnouncer": true,
+        // Hides all spammy Diana messages.
+        "dianaMessageHider": false,
+        // Hides all autopet messages.
+        "hideAutoPetMSG": false,
+        // Hides all implosion messages.
+        "hideImplosionMSG": false,
+        // Hides all sack messages.
+        "hideSacksMSG": false
+    },
+    "Debug": {
+        // Always assume you are on hypixel skyblock.
+        "alwaysInSkyblock": false,
+        // Enable debug only messages for development purposes. Do not enable unless you are instructed to do so.
+        "debugOnlyMessages": false,
+        // Show debug waypoints for burrows and arrow guesses that do not have a regular waypoint.
+        "showInternalStateWaypoints": false,
+        // Allows you to unlock repeatable achievements for each new event.
+        "repeatableAchie": true
+    }
+}

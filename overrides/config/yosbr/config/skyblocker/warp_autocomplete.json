@@ -5,6 +5,7 @@
   "crystals": false,
   "bayou": false,
   "wasteland": true,
+  "ci": false,
   "trapper": false,
   "trap": false,
   "rift": false,

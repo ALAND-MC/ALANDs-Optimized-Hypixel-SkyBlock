@@ -5,7 +5,7 @@
       "Pear": {
         "slots": {
           "NECKLACE": {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -25,6 +25,7 @@
                 ]
               },
               "minecraft:enchantment_glint_override": true,
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/garden/equipment/blossom/blossom_necklace",
               "minecraft:custom_name": {
                 "text": "Thorny Blossom Necklace",
                 "color": "gold",
@@ -85,7 +86,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+51.75 ",
+                      "text": "+52 ",
                       "color": "gold"
                     },
                     {
@@ -246,7 +247,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,249",
+                      "text": "11,282",
                       "color": "red"
                     }
                   ],
@@ -345,29 +346,14 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  -1142087558,
-                  -1326894569,
-                  -1599952386,
-                  1419476057
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAxOTE2MSwKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb25raWl6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlOGUyMGYxNTM0YzJhOWQ5NDBiYWM5N2M0YzRiMjliNjhkYjZhMjg2YWQ5YzkyYWU4NWFlZTc4ZTA0ODYwNDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-                    "signature": "oCxjq1ZiecABgfgzI5Iov/ujYBFFA3jooIRhhx9sC49qMWe7IkuqtcDVBMOkfhjZ9PC7t9WCP5pqS3aoVowbtEUKkfe+1nWvbGbdqXy/ZIj+ntYPQuWe/Bt76Udg7MOUFoY28djMMkw8VAPPcIVWBSvJsCfdHHxyQEg+Q22PJPL3dqvsZUpr106sUIGP9vsDkV0W99hvw0ND97/IG566L2BpkC3IbPjQol8OAn+eNcN2rcBLjxqPLkX7wqT7C3A7EMtiPR1yufBm5EbySv3NwZSOlpm5d77EYxTRAFGLtJ4ngWHHyFDjQ50P4LH3Fbi7jswhJPy7CNOtZezRH4DtMeZ7YLszGFgDuzhVcXUMd+MdjL9Z77c5c+QaGpQuaAthfksSEsJkK6voMpG3RxRruiyufW6Ofnngm4FUWdpaaj8NQXDEgF5FhhThtuO1jcQYooae/7teafahMBor7xrkOAEj9Rj8sW3JCcDpaYE08T/imWcoanRv8VTSrr8Am5mUVRyj8y5NoZ4Bj+cc0X7Nw4jPrjeFhndiMGL+VG8eJklVkW1iH5fPRxUu/M6OU8jGyoz5uQNZNW4HEEzpIC88ZKUnPQVdRC1Ac/j8scOWhuIfegWn4mKFaC/KgruQbzQxrEPZOijsop2ZP1MGTsWtNQToKe3NJRTF+08jkVUPcFY="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
-                "timestamp": 1676405220000,
                 "enchantments": {
                   "quantum": 5,
                   "green_thumb": 5
                 },
-                "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
+                "timestamp": 1676405220000,
                 "modifier": "thorny",
+                "uuid": "731e73c7-e6d4-4e3b-82f3-b1755649ad36",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_NECKLACE"
@@ -376,7 +362,7 @@
             }
           },
           "CLOAK": {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -396,9 +382,10 @@
                 ]
               },
               "minecraft:enchantment_glint_override": true,
+              "minecraft:item_model": "hypixel_skyblock:item/events/easter/zorros_cape",
               "minecraft:custom_name": {
-                "text": "Thorny Blossom Cloak",
-                "color": "gold",
+                "text": "Thorny Zorro's Cape",
+                "color": "light_purple",
                 "italic": false
               },
               "minecraft:lore": [
@@ -406,11 +393,25 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Health: ",
+                      "text": "Strength: ",
                       "color": "gray"
                     },
                     {
-                      "text": "+15",
+                      "text": "+20",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Ferocity: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4",
                       "color": "red"
                     }
                   ],
@@ -424,11 +425,11 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+2.85 ",
+                      "text": "+6.2 ",
                       "color": "yellow"
                     },
                     {
-                      "text": "(+2.85)",
+                      "text": "(+3.1)",
                       "color": "blue"
                     }
                   ],
@@ -442,12 +443,26 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+51.75 ",
+                      "text": "+114 ",
                       "color": "gold"
                     },
                     {
-                      "text": "(+10)",
+                      "text": "(+12)",
                       "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Farming Wisdom: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+2",
+                      "color": "dark_aqua"
                     }
                   ],
                   "italic": false
@@ -483,23 +498,18 @@
                 },
                 "",
                 {
-                  "text": "Piece Bonus: Florist",
-                  "color": "gold",
-                  "italic": false
-                },
-                {
                   "text": "",
                   "extra": [
                     {
-                      "text": "Complete ",
+                      "text": "The stats of this Cape ",
                       "color": "gray"
                     },
                     {
-                      "text": "Garden Visitor Offers ",
+                      "text": "double ",
                       "color": "green"
                     },
                     {
-                      "text": "to",
+                      "text": "",
                       "color": "gray"
                     }
                   ],
@@ -509,12 +519,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "gain ",
+                      "text": "during ",
                       "color": "gray"
                     },
                     {
-                      "text": " Farming Fortune",
-                      "color": "gold"
+                      "text": "Jacob's Farming Contest",
+                      "color": "yellow"
                     },
                     {
                       "text": ".",
@@ -523,41 +533,39 @@
                   ],
                   "italic": false
                 },
-                "",
                 {
                   "text": "",
                   "extra": [
                     {
-                      "text": "Piece Bonus: ",
+                      "text": "Additionally, you have a ",
                       "color": "gray"
                     },
                     {
-                      "text": "+22.5",
-                      "color": "gold"
+                      "text": "20% ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "chance",
+                      "color": "gray"
                     }
                   ],
                   "italic": false
                 },
                 {
-                  "text": "MAXED OUT! NICE!",
-                  "color": "green",
-                  "bold": true,
+                  "text": "to obtain an extra medal from",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "contests.",
+                  "color": "gray",
                   "italic": false
                 },
                 "",
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "Garden Visitors Served: ",
-                      "color": "gray"
-                    },
-                    {
-                      "text": "11,249",
-                      "color": "red"
-                    }
-                  ],
-                  "italic": false
+                  "text": "Not all Rabbits wear capes.",
+                  "color": "dark_gray",
+                  "italic": true
                 },
                 "",
                 {
@@ -632,19 +640,19 @@
                   "extra": [
                     {
                       "text": "a",
-                      "color": "gold",
+                      "color": "light_purple",
                       "bold": true,
                       "obfuscated": true
                     },
                     " ",
                     {
-                      "text": "LEGENDARY CLOAK ",
-                      "color": "gold",
+                      "text": "MYTHIC CLOAK ",
+                      "color": "light_purple",
                       "bold": true
                     },
                     {
                       "text": "a",
-                      "color": "gold",
+                      "color": "light_purple",
                       "bold": true,
                       "obfuscated": true
                     }
@@ -652,37 +660,22 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  -1719036932,
-                  314260245,
-                  -1728587929,
-                  1813814881
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMDM1MywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDUzYTgwODRiNzc3M2MxYjJiYjYyMTM5MDFkYThjZmI1MGRlNWU1ZDBjOGM1MjRmZjRmYWQwZTE4MmVhNjhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-                    "signature": "h2vhpLaPp6oEx2Rb0zHmUh0mqZmwbAqxjGRPa8vjLuuco+FikVMIB2P3xJg45HyEJeWOxSsyBhJnhbiKdrlzKNko3wsh5yHLGyijj+gTffxBnBh6uuxMir/YebgncOrO+LJY9NnIveQll8JdKOD8lCwa6liw5BKi00MBnna8FwgHIZtJXpbOc8tia7e8mq/va24JK2DFDrY0fd2ZAnlDtD1GEvOYg/c+gIa9ppaGdRpVI4Q+dRfK0EIDbN06RbllX5R4X3FJETwm1FikwTrmbRV1bl0yriLQyarMSe4YHAap8Ljdg+f3UoxuVstgSTqMK4FcRyhGEh7YAZaSQd4Q7M3BtS9KCoCOnJxPS42rrpbqeVaUoTqAWIDaXyADw9IpWhVNCCIBy6pW46sWh1CmqH2YamhtE9ik4TSEVzynA69Pchu5dbeZzwTwW5vX0T2U80GKcAh8tLcC3aOVoQFgPo6aWHzZ1shoR7FJzpOaonfyp/AfHwy2mVjfy+QXTqA+QjbDVU2TG9bD7jUZg6sMKLlJbuGZQybIVvC1NMI3dAZ11lp2mlBTgWzMQMoI9ETGDRDZtmWPi/gsfj/Sl7+RomtFz6pDRF2IG8XARI/chD5zhCdtTlkNBAga5mxi3M0PANpxXio5Z4RMnwdfXLNONKb6HDjFVCYCCqfaMVqZeP4="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
-                "timestamp": 1676405400000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "uuid": "274810cd-5f3f-45d5-bb29-30d73ecc318f",
+                "timestamp": 1727645122418,
                 "modifier": "thorny",
+                "uuid": "c5a9a34a-bd6b-41d0-8ed0-8e53ac9b1d70",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
-                "id": "BLOSSOM_CLOAK"
+                "id": "ZORROS_CAPE"
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+              "minecraft:tooltip_style": "hypixel_skyblock:mythic"
             }
           },
           "BELT": {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -702,6 +695,7 @@
                 ]
               },
               "minecraft:enchantment_glint_override": true,
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/garden/equipment/blossom/blossom_belt",
               "minecraft:custom_name": {
                 "text": "Thorny Blossom Belt",
                 "color": "gold",
@@ -748,7 +742,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+51.75 ",
+                      "text": "+52 ",
                       "color": "gold"
                     },
                     {
@@ -859,7 +853,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,249",
+                      "text": "11,282",
                       "color": "red"
                     }
                   ],
@@ -958,28 +952,13 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  907380003,
-                  481378166,
-                  -1346849325,
-                  1648503514
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMjAwOCwKICAicHJvZmlsZUlkIiA6ICI1ODM1MmNlODFmM2I0YjQxODFjOWNiYzM3MTY4NGYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdm9JX1NlTVBhSV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE4YzQ4Y2JmMzcxYzJkYWY0MWZjMjJlNWE5ZjhhMzVlZTZhNGJiMmU4YmM2MWQ2YjI0NzAwOWJlNDlkZDI1YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-                    "signature": "UvslxJm0ydul+u05Ijx2+cyKPK2AWwWB68NFsPc145k/UbB6ApnT4sx7T94LREDqgUrX7AlwojX/ayk65X+27X5ObyPJpO3ySHcNplYh2mqj1ui7esvW6R0f4LtHMiEyZYcCWm75sJAwtBHHQFW86wwCyYbedWAhJELJ/Fdnb/axzzytQrBFpxxguHPFYWtULhy7DniSZL9SW441fsPrZvjlzkNX8hBLc4M82vxhFCvj7EhJxyyJ47j4YbKTYZE/y7BIqgAEsd4MuBbw6hhQ7bL0BZ7sJaorbs8S4kpZSiTMuuzlXa4EWIVp5RjttvO2xK5LXjGuBvfTTDurXoYbN/Ho5bqaPaiqIUy6NUEN7oC2PPWJY3TpA3vx+ALA2z1CVuRUiFMH8q7vNhd/V9FK+ETpn9UAwnLJiiCeCwF4pp4KQfUG3GrNh/Fnq0SAAaaVQdGd1YQnCRUvAhB4YDNCjWb6eYxGcPSLiwqDqpgoDNx6/6mKb4G5o6NwBQRpWvoahtujX8qoF9vNyLJOhrIBJCxJtzOwLiX6mHTOq3vN5innR/NKpu7MPEqo2Tio1mtqRY8JpWbxxPiACSwE2iMtDVa+5D//NKJb2H3aiiV0gE875fy3JpIwP68grS9wAdhp4Er0r0JhoZWc+Z5UETuEHn5+qBFSg9MVFfJx2VEULVY="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
-                "timestamp": 1676405280000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
+                "timestamp": 1676405280000,
                 "modifier": "thorny",
+                "uuid": "12322eaf-55f0-4266-9209-d866fd46cd0b",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BELT"
@@ -988,7 +967,7 @@
             }
           },
           "GLOVES": {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -1008,6 +987,7 @@
                 ]
               },
               "minecraft:enchantment_glint_override": true,
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/garden/equipment/blossom/blossom_bracelet",
               "minecraft:custom_name": {
                 "text": "Thorny Blossom Bracelet",
                 "color": "gold",
@@ -1054,7 +1034,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+51.75 ",
+                      "text": "+52 ",
                       "color": "gold"
                     },
                     {
@@ -1165,7 +1145,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "11,249",
+                      "text": "11,282",
                       "color": "red"
                     }
                   ],
@@ -1264,28 +1244,13 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  645583040,
-                  1518550204,
-                  -1522318790,
-                  -616729133
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyNTEwMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjFkOGZmOGY0NjEzNDBjZDczYzkxMGFhNmRmMjk5Mzk1ZjVlODBhZGE0OWU0MzBlZmE5YzU3ZjViZjc1NWY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-                    "signature": "Xso6o7oXhlXBJ5n9H4wPNnGKzJvns2NbRYF172X2zC+xqoFbQ/nAs4h+RRl0QplD1UiVkK2CCqNMs+L7WmsECI6HeOoIQK7IxcXrqIg0gzj1Mz/+JLXEaF8ZBAv7kr5Sp81vExne+tYz19t6s9H/7PZx48YHAyp8ZkZJgkTIXl5aGCPtc2nWSHb1pEOPimt9jYqLCdybFdVkvh+Nrhit4AJEOUt3qHve+ZhtlhFSsDiAkEdqx0jl5xAL/DkhPP+LAFRy8ABZi9Teao0HQWdDZcbD1rNo6B9CCxQVCSnuqL1ffphwkHaA+LuNFQ3DP3AHmvODbjBLMAz0sEcimiiZy8eGkkEhirAW+EenX46CEVgrSPUYRC14lRMvt4uM4tsSNduO4+WPyoHxe/tYqVn/p4nuOEqRTP4M5s692RtgOpUHGbLAR3u7+kyEFC8vVtkIdSKNPX/Aaek92patzp4LDl7MXPmHjdxovnDZr5CSDW5VyLcAA8eeH3FHWpf8UPhshewlBbPU3s2It1NEptG3Mjg63+fAmkRFT+LWZCwtrLIKkxibBjLvuvdkhorg8nDZzuDgb1Qdtpl4LpapxCTM8/EFsE6VeUwkQ3K+EEo82wk5yklC9ARCdk/ZVq0MojwlrdVJfhH+FmHJgqbedvebG973SzNa4AZ57W4bGimgpqY="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
-                "timestamp": 1676404560000,
                 "enchantments": {
                   "green_thumb": 5
                 },
-                "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
+                "timestamp": 1676404560000,
                 "modifier": "thorny",
+                "uuid": "2c8ae7e6-f42d-45ae-b9f5-1a0b7eb28a21",
                 "rarity_upgrades": 1,
                 "donated_museum": 1,
                 "id": "BLOSSOM_BRACELET"
@@ -1419,7 +1384,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "Elise CMXL",
+                      "text": "Elise MLXXXVII",
                       "color": "light_purple"
                     },
                     {
@@ -1544,6 +1509,49 @@
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Rift Time: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1,040s",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Speed: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+26",
+                      "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Mana Regen: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+52%",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
                 {
                   "text": "",
                   "extra": [

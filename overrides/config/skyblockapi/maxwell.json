@@ -4,7 +4,7 @@
     "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
       "Pear": {
         "power": "MAGMA_URCHIN",
-        "accessory_power": 0,
+        "accessory_power": 2163,
         "accessories": [
           {
             "id": "minecraft:player_head",
@@ -1891,21 +1891,21 @@
                   "RUBY_0": "PERFECT",
                   "AMBER_0": "PERFECT",
                   "JASPER_0": "PERFECT",
-                  "OPAL_0": {
-                    "uuid": "a5081879-9488-45fb-bf05-a04621c440c3",
-                    "quality": "PERFECT"
-                  },
                   "CITRINE_0": {
                     "uuid": "bb2d99cc-823e-43f0-bee0-05c989d09ff3",
                     "quality": "PERFECT"
                   },
-                  "JADE_0": "PERFECT",
-                  "PERIDOT_0": {
-                    "uuid": "38f9fa73-5747-4d59-8f0d-ec5e7f31d215",
+                  "OPAL_0": {
+                    "uuid": "a5081879-9488-45fb-bf05-a04621c440c3",
                     "quality": "PERFECT"
                   },
+                  "JADE_0": "PERFECT",
                   "ONYX_0": {
                     "uuid": "d7cc1074-ab6c-4566-a46d-4f3067a090c2",
+                    "quality": "PERFECT"
+                  },
+                  "PERIDOT_0": {
+                    "uuid": "38f9fa73-5747-4d59-8f0d-ec5e7f31d215",
                     "quality": "PERFECT"
                   },
                   "AQUAMARINE_0": {
@@ -3267,7 +3267,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "28,496",
+                      "text": "28,860",
                       "color": "dark_green"
                     }
                   ],
@@ -4304,26 +4304,26 @@
                 }
               ],
               "minecraft:custom_data": {
-                "originTag": "PERSONAL_COMPACTOR_7000",
+                "personal_compact_4": "ENCHANTED_CACTUS_GREEN",
                 "personal_compact_1": "ENCHANTED_PUMPKIN",
                 "timestamp": 1596690420000,
                 "personal_compact_2": "ENCHANTED_WILD_ROSE",
                 "modifier": "none",
                 "personal_compact_7": "ENCHANTED_POTATO",
                 "id": "PERSONAL_COMPACTOR_7000",
-                "talisman_enrichment": "magic_find",
+                "personal_compact_11": "ENCHANTED_DANDELION",
                 "personal_compact_9": "ENCHANTED_RED_MUSHROOM",
                 "personal_compact_3": "ENCHANTED_MOONFLOWER",
                 "personal_compact_5": "ENCHANTED_NETHER_STALK",
-                "personal_compact_11": "ENCHANTED_DANDELION",
+                "talisman_enrichment": "magic_find",
                 "personal_compact_10": "ENCHANTED_SUGAR",
-                "uuid": "fe65c43d-5ece-45a4-803d-2e0e5919ebd0",
                 "PERSONAL_DELETOR_ACTIVE": 1,
+                "uuid": "fe65c43d-5ece-45a4-803d-2e0e5919ebd0",
                 "rarity_upgrades": 1,
                 "personal_compact_8": "ENCHANTED_CARROT",
                 "personal_compact_0": "ENCHANTED_MELON",
                 "personal_compact_6": "ENCHANTED_SUNFLOWER",
-                "personal_compact_4": "ENCHANTED_CACTUS_GREEN"
+                "originTag": "PERSONAL_COMPACTOR_7000"
               },
               "minecraft:tooltip_style": "hypixel_skyblock:mythic"
             }
@@ -4438,21 +4438,21 @@
                 }
               ],
               "minecraft:custom_data": {
-                "personal_deletor_4": "DUNGEON_LORE_PAPER",
-                "personal_deletor_2": "TRIPWIRE_HOOK",
+                "personal_deletor_3": "SAPLING",
                 "timestamp": 1619437500000,
-                "personal_deletor_1": "LEVER",
+                "personal_deletor_2": "TRIPWIRE_HOOK",
+                "personal_deletor_6": "DEFUSE_KIT",
                 "modifier": "none",
                 "personal_deletor_5": "TRAINING_WEIGHTS",
-                "personal_deletor_8": "COBBLE_WALL",
                 "personal_deletor_7": "SIGN",
-                "personal_deletor_6": "DEFUSE_KIT",
-                "personal_deletor_3": "SAPLING",
-                "personal_deletor_0": "STONE",
-                "talisman_enrichment": "magic_find",
+                "personal_deletor_8": "COBBLE_WALL",
+                "personal_deletor_1": "LEVER",
+                "personal_deletor_4": "DUNGEON_LORE_PAPER",
                 "id": "PERSONAL_DELETOR_7000",
-                "uuid": "2b10f6ec-a7d5-419a-8a76-e460dcda982f",
+                "talisman_enrichment": "magic_find",
+                "personal_deletor_0": "STONE",
                 "PERSONAL_DELETOR_ACTIVE": 1,
+                "uuid": "2b10f6ec-a7d5-419a-8a76-e460dcda982f",
                 "rarity_upgrades": 1,
                 "originTag": "CRAFTING_GRID_COLLECT"
               },
@@ -4926,11 +4926,11 @@
                 ]
               },
               "minecraft:custom_data": {
-                "boss_tier": 3,
+                "timestamp": 1673622300000,
                 "id": "INFERNAL_KUUDRA_CORE",
                 "talisman_enrichment": "magic_find",
                 "uuid": "1815d2d4-8d00-4679-909e-0bcb67a1e365",
-                "timestamp": 1673622300000,
+                "boss_tier": 3,
                 "rarity_upgrades": 1
               },
               "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -5274,9 +5274,9 @@
               "minecraft:custom_data": {
                 "timestamp": 1651403400000,
                 "id": "PULSE_RING",
-                "talisman_enrichment": "magic_find",
-                "uuid": "b188e518-4660-4296-b330-83f089df7905",
                 "thunder_charge": 5000000,
+                "uuid": "b188e518-4660-4296-b330-83f089df7905",
+                "talisman_enrichment": "magic_find",
                 "rarity_upgrades": 1
               },
               "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -8953,7 +8953,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "7,347⸎ Soulflow",
+                      "text": "7,343⸎ Soulflow",
                       "color": "dark_aqua"
                     }
                   ],
@@ -9127,12 +9127,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Foraging Fortune: ",
+                      "text": "Strength: ",
                       "color": "gray"
                     },
                     {
                       "text": "+25",
-                      "color": "gold"
+                      "color": "red"
                     }
                   ],
                   "italic": false
@@ -9155,7 +9155,7 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Foraging Wisdom: ",
+                      "text": "Combat Wisdom: ",
                       "color": "gray"
                     },
                     {
@@ -9260,8 +9260,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✦ Reply hazy, try again.",
-                  "color": "green",
+                  "text": "✧ Reply hazy, try again.",
+                  "color": "gray",
                   "italic": false
                 },
                 {
@@ -9359,8 +9359,8 @@
                   "italic": false
                 },
                 {
-                  "text": "✧ My sources say no.",
-                  "color": "gray",
+                  "text": "✦ My sources say no.",
+                  "color": "green",
                   "italic": false
                 },
                 {
@@ -9474,6 +9474,26 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "Enriched with Magic Find",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Magic Find: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
                   "text": "",
                   "extra": [
                     {
@@ -9578,7 +9598,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "1,276",
+                      "text": "1,277",
                       "color": "red"
                     }
                   ],
@@ -9648,10 +9668,11 @@
               },
               "minecraft:custom_data": {
                 "soulbound": 1,
-                "runic_kills": 1276,
+                "runic_kills": 1277,
                 "id": "RUNEBOOK",
-                "giftbag_claim": 400,
-                "uuid": "8f66906e-ab8d-4844-a62c-332ea8ba6592"
+                "talisman_enrichment": "magic_find",
+                "uuid": "8f66906e-ab8d-4844-a62c-332ea8ba6592",
+                "giftbag_claim": 400
               },
               "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
@@ -9941,7 +9962,7 @@
             }
           },
           {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -9960,12 +9981,103 @@
                   "minecraft:charged_projectiles"
                 ]
               },
+              "minecraft:item_model": "hypixel_skyblock:item/uncategorized/beastslayers_codex_6",
               "minecraft:custom_name": {
-                "text": "Hocus-Pocus Cipher",
-                "color": "gold",
+                "text": "Beastslayer's Codex",
+                "color": "light_purple",
                 "italic": false
               },
               "minecraft:lore": [
+                {
+                  "text": "Enriched with Magic Find",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Strength: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+6",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Crit Damage: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+4%",
+                      "color": "blue"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Intelligence: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+5",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Ability Damage: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3%",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Magic Find: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+1.5",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Tracking: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+2",
+                      "color": "light_purple"
+                    }
+                  ],
+                  "italic": false
+                },
                 {
                   "text": "",
                   "extra": [
@@ -9974,7 +10086,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+16",
+                      "text": "+22",
                       "color": "gold"
                     }
                   ],
@@ -9982,78 +10094,42 @@
                 },
                 "",
                 {
-                  "text": "While in the rift:",
-                  "color": "gray",
-                  "italic": false
+                  "text": "“Within these pages lie the memories",
+                  "color": "dark_gray",
+                  "italic": true
                 },
                 {
-                  "text": " ",
-                  "extra": [
-                    {
-                      "text": "+65 Rift Time",
-                      "color": "green"
-                    }
-                  ],
-                  "italic": false
+                  "text": "of every creature you've",
+                  "color": "dark_gray",
+                  "italic": true
                 },
                 {
-                  "text": " ",
-                  "extra": [
-                    {
-                      "text": "+5 Intelligence",
-                      "color": "aqua"
-                    }
-                  ],
-                  "italic": false
+                  "text": "conquered... and those still waiting to",
+                  "color": "dark_gray",
+                  "italic": true
                 },
                 {
-                  "text": " ",
-                  "extra": [
-                    {
-                      "text": "+5 Mana Regen",
-                      "color": "aqua"
-                    }
-                  ],
-                  "italic": false
+                  "text": "meet you.”",
+                  "color": "dark_gray",
+                  "italic": true
                 },
                 "",
                 {
                   "text": "",
                   "extra": [
                     {
-                      "text": "This item ",
-                      "extra": [
-                        {
-                          "text": "CANNOT",
-                          "bold": true
-                        }
-                      ],
+                      "text": "* ",
+                      "color": "dark_gray",
+                      "bold": true
+                    },
+                    {
+                      "text": "Soulbound ",
                       "color": "dark_gray"
                     },
                     {
-                      "text": " be reforged!",
-                      "color": "dark_gray"
-                    }
-                  ],
-                  "italic": false
-                },
-                {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "X",
-                      "color": "dark_purple",
-                      "obfuscated": true
-                    },
-                    {
-                      "text": " Rift-Transferable ",
-                      "extra": [
-                        {
-                          "text": "X",
-                          "obfuscated": true
-                        }
-                      ],
-                      "color": "dark_purple"
+                      "text": "*",
+                      "color": "dark_gray",
+                      "bold": true
                     }
                   ],
                   "italic": false
@@ -10064,52 +10140,20 @@
                   "italic": false
                 },
                 {
-                  "text": "",
-                  "extra": [
-                    {
-                      "text": "a",
-                      "color": "gold",
-                      "bold": true,
-                      "obfuscated": true
-                    },
-                    " ",
-                    {
-                      "text": "LEGENDARY ACCESSORY ",
-                      "color": "gold",
-                      "bold": true
-                    },
-                    {
-                      "text": "a",
-                      "color": "gold",
-                      "bold": true,
-                      "obfuscated": true
-                    }
-                  ],
+                  "text": "MYTHIC ACCESSORY",
+                  "color": "light_purple",
+                  "bold": true,
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  -464793186,
-                  866926277,
-                  -1472083573,
-                  -1101483773
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzY5Njk5MDAzNywKICAicHJvZmlsZUlkIiA6ICI3MmNiMDYyMWU1MTA0MDdjOWRlMDA1OTRmNjAxNTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3M5OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI2OTc1YWY3MDcyNGQ2YTQ0ZmQ1OTQ2ZTYwYjI3MTc3MzdkZmRiNTQ1YjRkYWIxODkzMzUxYTljOWRkMTgzYyIKICAgIH0KICB9Cn0=",
-                    "signature": "DzsWY4ID5UyOtAZFX44pTWWYw2hl5UMZH4dhxIUwouyoJXVkQleOuwQ+rbo4cl3KGF81KrYKtHLAGoUGwvpMZDNipFq957ISQiAuCpRsUF4/uoNc0lD4pSkd+zJ7nUhdYjFdsAXWdRYTdxUftU8a9aJImORaPXFHmMU6ad+Qn/uqEJDDtztHBdHMw1lEvRqBzH20xXNL5pfpofhB8hSmP+OdsdZPGViHsfgmoTbJU+96MXXc3K1sgFXV7gVD0HcieC5+s3pvHZwGpNn76x3SxC6nx19Z1gFB6sx3x+vVyMQ3pcSxs+VVd+LZFYt5bfykryMrF/ZJBpsTWy5nxKomvDZZCT9+EnALOgdmfP/ZaL4lRaBYgl8JnDjSfWov/98ZGFEUKnZqT4cxrEk5YjBR18cWBqc5aWTBLCVQayxeAGslh/gqXaNZ4CplVPZEC4ImqFs3JJUZMv+07RYUAQZG2QvFYKZPfT11NpU7JtTv/L0AOuA+FPspV/6asq9/OcJuprBivW0OzTa7GPgv+wLyeleWXJbhcpv67gQIQnUGbPrlwHS03qTDF/dg2cNE7s8f+d306nWRII1qD+Bbi5CCLmzHsm87309QrgLvin9m3WBAeaYopd317k6+EycDeMXzT/QXMP/+OdtULhGg8xgGnQzkyGSvbgzG9NTMAMD5bRw="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
-                "timestamp": 1712512631117,
-                "id": "HOCUS_POCUS_CIPHER",
-                "uuid": "9f4ee994-c154-4b36-9fd7-4210e24fd407",
-                "rarity_upgrades": 1
+                "upgradedRarity": "MYTHIC",
+                "timestamp": 1791306424818,
+                "id": "BEASTSLAYERS_CODEX",
+                "talisman_enrichment": "magic_find",
+                "uuid": "e4b32801-004b-4ca2-a93f-3d882c10298e"
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+              "minecraft:tooltip_style": "hypixel_skyblock:mythic"
             }
           },
           {
@@ -10373,7 +10417,7 @@
             }
           },
           {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -10392,6 +10436,7 @@
                   "minecraft:charged_projectiles"
                 ]
               },
+              "minecraft:item_model": "hypixel_skyblock:item/uncategorized/sunshine_crystal",
               "minecraft:custom_name": {
                 "text": "Sunshine Crystal",
                 "color": "gold",
@@ -10508,21 +10553,6 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  971285271,
-                  2079536987,
-                  -1651883958,
-                  -953837493
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg4NjQzMTEwMCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xM2NmYzNjYmMwY2Y2ZjgxNzc0ZmEzN2IxZjY2MDg0MTdjMzZhYTE5ZTVhNDI5Yzk3Njk4ZmY5NGRhZmIzYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-                    "signature": "qdjK6qHWzSq5AwZcpvp8PeB4/g/qRm2vpwZQVGI/gr5Wn7DVzgWCUCvkg1UjxBFodb49yTYshnWtiGyaVMBx8MtGW0CcCJVn+19gZe/t3t8/8JSQeniPPNicakNxQQyrl9EkvESN+OPwlbYfB5C4ofzFWrB40ieRxUmsxmlyACW02RWs0r01ozobcR+H2Quz/LulYr7/Az1ad1D/Hui7N8aKlcwjFJw9iZIMWmcPuRccruAcKCjR4fonlLjpc5sJZiGdFJCyRqZxsBjNz1700P0OihdE0Vjbf0lA8+cjs5cFaPmzkfgChVcxFIHLEH1P3x7AZgzocKsSs1VHwb8qu4JLZOM8e2IMpSioqLneSo5MvihH0CvqV7MBCD8IUgfsGqtQye+KFcENcuyJQqlHOXWjXkAnuUyLzV+RKYN1Xlobzah9O56vIgkyVWW39wOS52CbhbDfLN+Gw08DFxEUL9859Vz0ruqbiA+RWUuTjYlUssPkfspghD5xdYNVnsc6GjRTw6PoZpVr6QwHV/IrPoLCQcZdZzTYCmUO9M1DXgF+BaWPUpPxeXmVxeV7FupL2KawaGrj9ECBsgZteVLkdlvxwqo+IxDaqOV0jEQe2Zhkdp3lqXjwEIOPeEAiW1QEF0BPoTSwIv4lEOpq+Z+SG5R1ZThoPmIm/PUshglg0bc="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
                 "timestamp": 1564433580000,
                 "uuid": "747a9639-6459-4107-901d-5207e07accfa",
@@ -10536,7 +10566,7 @@
             }
           },
           {
-            "id": "minecraft:player_head",
+            "id": "minecraft:paper",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -10555,6 +10585,7 @@
                   "minecraft:charged_projectiles"
                 ]
               },
+              "minecraft:item_model": "hypixel_skyblock:item/uncategorized/moonlight_crystal",
               "minecraft:custom_name": {
                 "text": "Moonlight Crystal",
                 "color": "gold",
@@ -10671,21 +10702,6 @@
                   "italic": false
                 }
               ],
-              "minecraft:profile": {
-                "id": [
-                  -1933395717,
-                  751317887,
-                  -1439777144,
-                  -818197304
-                ],
-                "properties": [
-                  {
-                    "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwNDU1NDc4MCwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODUzY2ZkYjUwNDk3NDg2ZjI1ZWEwN2U0YzZmMmE3NTIwM2ZiMTdhMmI1Yzg0ODJiMzg5NDc4NDAwODAwZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-                    "signature": "CAF6HEIXxMR2cbvBr1UHST41OA1vndgKR3U2cTtVB2jPfXfoAvF7vA2adJItQHr60/SHmqTA+ADGY0Pf4EqwpUNrs1SisR0Wojw43tROqikho9NrdlZsTvFw2kfeTRyPnEwADDdmfKyu8LGa45q52cZ4E1jRaDwlbMd9cGbtg7vYXd81BhdytwZtEIQtUC31jfwhOJbB/az3i6koQ0Q2c/fTdgBrcIx5n3yd9cUZNvl7foKX7dbztAhCVdvLukGBfgO97GzDYQAg0ghqcfqB4LsJ8yxvH9oORiMBFyVrelyUgfEOBHcrsgKlUE+j1zOE6IX9ol06BOdouUlFHh4BQandZggh5n/oIDzWBwW+GSbG4N900iYo/Y/kGGVkMmUP4CT/daReSkNZh4gvARwKBr3v+0T3kcxNUFX43qCQ1K+9SCO7LQh9zONbBq6yx+MM28ndRJ8MgOeuVTUAlbBpFezhY3PsgHvixlAf7atVjr0v4LxQ7zT6S7bWuusvnclA/TmRBII7CSws+iQxmTQlDmXH/wdJ5V6did7N+GB0FfGdI1ZQkf50v/vaVWtNI2w79NxLsZNZCwzSkm2hbf563NaWMrmBJdFuqA5/Ex7vhQki5FifrR4ixSZynlTVm9Pvc436WVBDbHeA+sWlTY1xk18OLRsxk/hUxtvrekEvkLk="
-                  }
-                ]
-              },
               "minecraft:custom_data": {
                 "timestamp": 1563380580000,
                 "uuid": "0927cd47-26c0-4f08-adb6-bf9a5473ddb7",
@@ -11151,6 +11167,12 @@
               },
               "minecraft:lore": [
                 {
+                  "text": "Enriched with Magic Find",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                "",
+                {
                   "text": "",
                   "extra": [
                     {
@@ -11202,6 +11224,20 @@
                     {
                       "text": "+7",
                       "color": "white"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Magic Find: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5",
+                      "color": "aqua"
                     }
                   ],
                   "italic": false
@@ -11267,12 +11303,13 @@
                 ]
               },
               "minecraft:custom_data": {
-                "modifier": "strange",
                 "timestamp": 1609453500000,
-                "id": "SPEED_RELIC",
-                "originTag": "QUICK_CRAFTING",
                 "uuid": "4d39e491-3f16-448f-835b-95e767958fc1",
-                "rarity_upgrades": 1
+                "modifier": "strange",
+                "rarity_upgrades": 1,
+                "id": "SPEED_RELIC",
+                "talisman_enrichment": "magic_find",
+                "originTag": "QUICK_CRAFTING"
               },
               "minecraft:tooltip_style": "hypixel_skyblock:legendary"
             }
@@ -16409,8 +16446,8 @@
                   "text": " ",
                   "extra": [
                     {
-                      "text": "✦ ",
-                      "color": "green"
+                      "text": "✧ ",
+                      "color": "dark_gray"
                     },
                     {
                       "text": "Summer",
@@ -16477,8 +16514,8 @@
                   "text": " ",
                   "extra": [
                     {
-                      "text": "✧ ",
-                      "color": "dark_gray"
+                      "text": "✦ ",
+                      "color": "green"
                     },
                     {
                       "text": "Winter",
@@ -22213,7 +22250,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "12,477,872",
+                      "text": "12,479,918",
                       "color": "red"
                     }
                   ],
@@ -22284,7 +22321,7 @@
                 "uuid": "eea2b54f-fa06-45cf-ac13-6901666dd18a",
                 "modifier": "none",
                 "rarity_upgrades": 1,
-                "blood_god_kills": 12477872,
+                "blood_god_kills": 12479918,
                 "id": "BLOOD_GOD_SIGIL",
                 "originTag": "SHOP_PURCHASE"
               },
@@ -22312,7 +22349,7 @@
                 ]
               },
               "minecraft:custom_name": {
-                "text": "Blue™ but Yellow Abicase",
+                "text": "Blue™ but Red Abicase",
                 "color": "blue",
                 "italic": false
               },
@@ -22321,7 +22358,7 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Farming Wisdom: ",
+                      "text": "Combat Wisdom: ",
                       "color": "gray"
                     },
                     {
@@ -22399,24 +22436,24 @@
               ],
               "minecraft:profile": {
                 "id": [
-                  -483301034,
-                  -1666895678,
-                  -1464793184,
-                  1020973965
+                  -1519650584,
+                  682572551,
+                  -1995643642,
+                  -2035325013
                 ],
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjAxOTAwOTgyMiwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVlYzNkOGQ0YzJhYjVjYWYzYzVmNTA4ODU2ZGMxMDM4NDMzMDBmYWE0YmEwYTBhMzE0MjUxMzRhM2RhOGQ2MiIKICAgIH0KICB9Cn0=",
-                    "signature": "IU0oQC9CKRkpXb1YDrTeyaPTrlqb6eTIM133NLS52fSbxXFq9CBoOkXqhHGNoCsF3rjYC/BVizs+l+wOUrpE0Sq40tU24N+iJAR/88p/ucueTil2fRw/Qwp4Pl2IAfnCNI5kwSbGvcA1XT9Gu6trW6drStPmA99dc70U59sJbJ/nvIDfCPrkV5TEk1s75zSBVg6uGYW4VHUf5lKCcgSzyzc9kqAOVg/6q+Q18HaAS/aI3V0DWnZ9t2kkkM9Y/kjSXsLw4mFCBh8dx99FgTpXDu8pj2Y0bT6jkTQzHEnHwzxHg0YpWewgDBsEjy9jm3mVm6umpv2rb/I5WFSWcTxcIR/e0E+oEPjMrSics33GkaqRbM3Pw/II9oBZ+O4ckS+FKl8qZZpvb/ZpdEpUTi4A7gsE3rhW4O9zcRZCBc7T9FRpKTxPSZ/yGCDaUefw32u6F3RJPIpyePhkgzfmxiYnnif4D5cvR4GmmLiD1TpDnbfXhawiEf9qyHPqRFc3MbAzLgsYp1xQArGW1GhXJVqx0xy076XbzMbJvhP8bJvajLTjVkhbRDZfMmdnAJ+wLtyITaZEPHnAYGM1OXqPNR7diu9jGrIKPP8j06U+rtKYd4EWuP3w/Ojnscp8ZqfkDU6n0ffl6WwEmB1z1/Ho1s3ECykwXv+W311QQMFihv7SyrQ="
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMDczNDQ2MCwKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWlqdW5va2kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQyNTgwZTE1MWY5NjJkNzM2MTE2ODZmNWE5MDlmMjJhZjJjZjhlM2ZiYTVmYmY5MTIyNjkyZTg5ZTY0YTY2NyIKICAgIH0KICB9Cn0=",
+                    "signature": "eZfr3JBGoaxkKvA21ddYNONo7Og+BOsrv5BSaIqlUwgVQeR7UtN2nMppVJl+D0IqGIO+izYj3UmiSHuZgPX7V3XS7blxH6jnqIIIndxbsAnlVfApmK/1ldQbQyQhO0sMCn+mdMU6nxUlgxssDMm8ZynmOuRwreEkWl0JeiFSNcNb4vkU6pMQt4Bj7U9od+V4qbcyIlHx2bSOP6szNRlFZAS7K7rH49ZYHKYWZ9cpK9M5sJ4LmmS1GplhU0nlFAmwTlKXAHUm63wD1zYC26LX0orkJhs7ff/EQhyFItJr/ABNiTvUy3+BiJG7rCxjPjB7OZVQ1+grwcMLWE1+LMRlFsTqsRBrlTGZpbekZhCoiljwG9WNSmARovwp5rJ0Noz9bUf+QM/HhfI1GNjUiZYJoijbinhQ+ASEV4Bp4AtEaa2p6HoMCNbLEkmqRGxCXLvjFyFRI2O5bHb6MKe+mdA58la1orllsA0GZ4kMES0LUgnx9yt5whY11eJ3K/ENmUR+n9m6FLbSBVSZ7k6QrYdPS2i2lH9kmRwdDmsSCAVgIU1Qbsmb6DQaIA2GiW/gwcPn/0A258rY0jadjOWhlMULxcQwAXGjn5WA/1yT2kA2k2qgsNCgRYF79RD1fPryJUrClVY3z6kcHud51VgI8BBVz0BMrIJ9TOvUd4X807N0scI="
                   }
                 ]
               },
               "minecraft:custom_data": {
                 "timestamp": 1666201020000,
                 "id": "ABICASE",
-                "model": "BLUE_YELLOW",
-                "uuid": "471f9f4f-01d4-4c18-b37c-6c3f830382f4"
+                "model": "BLUE_RED",
+                "uuid": "cfb48913-f64e-4091-abd1-2aa013bb7bb2"
               },
               "minecraft:tooltip_style": "hypixel_skyblock:rare"
             }
@@ -22745,7 +22782,7 @@
                     },
                     {
                       "text": "Mining",
-                      "color": "aqua"
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -22755,7 +22792,7 @@
                   "extra": [
                     {
                       "text": "Islands",
-                      "color": "aqua"
+                      "color": "gold"
                     },
                     {
                       "text": ".",
@@ -24294,7 +24331,7 @@
               },
               "minecraft:custom_name": {
                 "text": "Organ Donor Ring",
-                "color": "green",
+                "color": "blue",
                 "italic": false
               },
               "minecraft:lore": [
@@ -24320,7 +24357,7 @@
                       "color": "gray"
                     },
                     {
-                      "text": "+5",
+                      "text": "+8",
                       "color": "gold"
                     }
                   ],
@@ -24404,9 +24441,27 @@
                   "italic": false
                 },
                 {
-                  "text": "UNCOMMON ACCESSORY",
-                  "color": "green",
-                  "bold": true,
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "blue",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "RARE ACCESSORY ",
+                      "color": "blue",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "blue",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
                   "italic": false
                 }
               ],
@@ -24426,11 +24481,12 @@
                 ]
               },
               "minecraft:custom_data": {
-                "uuid": "baa285e0-dd93-4c69-b8d2-781c83a10872",
                 "timestamp": 1771959143996,
-                "id": "ORGAN_DONOR_RING"
+                "id": "ORGAN_DONOR_RING",
+                "uuid": "baa285e0-dd93-4c69-b8d2-781c83a10872",
+                "rarity_upgrades": 1
               },
-              "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+              "minecraft:tooltip_style": "hypixel_skyblock:rare"
             }
           },
           {
@@ -25190,7 +25246,7 @@
             }
           },
           {
-            "id": "minecraft:paper",
+            "id": "minecraft:player_head",
             "count": 1,
             "components": {
               "minecraft:tooltip_display": {
@@ -25209,9 +25265,8 @@
                   "minecraft:charged_projectiles"
                 ]
               },
-              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact",
               "minecraft:custom_name": {
-                "text": "Honeycomb Artifact",
+                "text": "Gratitude Artifact",
                 "color": "dark_purple",
                 "italic": false
               },
@@ -25235,16 +25290,20 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Trees ",
-                      "color": "green"
+                      "text": "Visitors ",
+                      "color": "aqua"
                     },
                     {
-                      "text": "smeared with ",
+                      "text": "appear ",
                       "color": "gray"
                     },
                     {
-                      "text": "Honeycomb",
-                      "color": "gold"
+                      "text": "5% ",
+                      "color": "green"
+                    },
+                    {
+                      "text": "faster while",
+                      "color": "gray"
                     }
                   ],
                   "italic": false
@@ -25253,15 +25312,15 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "attract mobs ",
+                      "text": "you're in ",
                       "color": "gray"
                     },
                     {
-                      "text": "15% ",
+                      "text": "The Garden",
                       "color": "green"
                     },
                     {
-                      "text": "faster.",
+                      "text": ".",
                       "color": "gray"
                     }
                   ],
@@ -25298,10 +25357,25 @@
                   "italic": false
                 }
               ],
+              "minecraft:profile": {
+                "id": [
+                  776806676,
+                  -1054853332,
+                  -1523881462,
+                  1895467064
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMjg2MiwKICAicHJvZmlsZUlkIiA6ICI0NDYwMjU3Y2U3MTE0MzQ1YTA2MzBkMjgzNWY3MzcxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWxlZGljdF9ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmJhODQ0ZmY2OTJmMWRlNDZkNjY2NGE5YzZjNGQyOWJiZmI4NjJjNjdkZjc0NTVmNDdkZWUyMTUyZWE0YzgwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                    "signature": "J5SAPZC4taleCe4toYY7gMSMDEWYm+YJKAnKy+upyLcxQShUuTG+VA3zwBCj5+DFtRFBDFKDhHLX63H721N132wROnJQTDnWXxUEHHrpOBO5t9vn47ElSgakLbuSd1XWK7tgXZbQEWQH5NvxcRRcZmwWedsbLfVEu2psN7IcMRS+CrOOodsKAEjv5fIK/405Kh4am4Uf6Inv/ZkCyiNm60zgbwcpZmaWCpmb9EVwWhl6aDha8i6uQBQorx11n9mUrDX1Nw8GL72yT9Mpw5Bd7lERAFCYclx6oqxI2duHCpE6RJ7Tf+L/KCIhnwqCtZ+Wxg073r3pBefB+YibuE8jFvHneY7CwtONJEzjzh8bILH1BJKTWY1VkX5q1b93YgYbEI+WFz8vgwv42cyJUKU98Fo+Izfi0FkL1hRaMlnlHYvZSXvj+841x9yrxXdnaSjHr4lKP32PN7rUWg1nJ/BfOjlN/1kQ0bRG9QX5f7WvlA5stgt5Jf5FUb0tOwBH3b+/Z2Az7v8MNmxqDSgzsyViarZKKKuYdx4uJeJVLeK2ZBHoTBaFQmawVnzfTyZxvAJb44HQLAW5/8+lWPtV63iiaoJ66EAqce4tnu6/y3Fa8COiRqAAmwJ6DMTp8NzjkL1U/JKyellkX19/i+8TJAPzngn6hs5kBNatODbPzhdr4So="
+                  }
+                ]
+              },
               "minecraft:custom_data": {
-                "timestamp": 1785874660510,
-                "id": "HONEYCOMB_ARTIFACT",
-                "uuid": "8bbb8968-7388-4d89-a707-b9baa2316a3e",
+                "timestamp": 1789751608478,
+                "id": "GRATITUDE_ARTIFACT",
+                "uuid": "d7ada09e-4a9b-4b78-a4b8-d8ebc3071c55",
                 "rarity_upgrades": 1
               },
               "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -25327,9 +25401,9 @@
                   "minecraft:charged_projectiles"
                 ]
               },
-              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact",
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/infinipot",
               "minecraft:custom_name": {
-                "text": "Honeycomb Artifact",
+                "text": "InfiniPot™",
                 "color": "dark_purple",
                 "italic": false
               },
@@ -25353,16 +25427,12 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "Trees ",
-                      "color": "green"
-                    },
-                    {
-                      "text": "smeared with ",
+                      "text": "Upon starting a floor in ",
                       "color": "gray"
                     },
                     {
-                      "text": "Honeycomb",
-                      "color": "gold"
+                      "text": "The",
+                      "color": "red"
                     }
                   ],
                   "italic": false
@@ -25371,16 +25441,542 @@
                   "text": "",
                   "extra": [
                     {
-                      "text": "attract mobs ",
+                      "text": "Catacombs",
+                      "color": "red"
+                    },
+                    {
+                      "text": ", automatically consumes",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "the selected ",
                       "color": "gray"
                     },
                     {
-                      "text": "15% ",
+                      "text": "Dungeon Potion",
+                      "color": "aqua"
+                    },
+                    {
+                      "text": " from",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "your inventory or Potion Bag.",
+                  "color": "gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "If you do not have the selected",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "potion in your inventory or Potion",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Bag, it will be purchased and",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "consumed automatically using ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Coins",
+                      "color": "gold"
+                    },
+                    {
+                      "text": "",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "from your purse or bank.",
+                  "color": "gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Selected Potion: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Dungeon VII Potion",
+                      "color": "dark_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Left-click to select a potion!",
+                  "color": "yellow",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Enabled: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Off",
+                      "color": "red"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Right-click to toggle!",
+                  "color": "yellow",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "“Alixer’s latest and greatest",
+                  "color": "dark_gray",
+                  "italic": true
+                },
+                {
+                  "text": "creation!”",
+                  "color": "dark_gray",
+                  "italic": true
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "EPIC DUNGEON ACCESSORY ",
+                      "color": "dark_purple",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "dark_purple",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "timestamp": 1791306042642,
+                "id": "INFINIPOT",
+                "uuid": "9cb2a592-4ecc-43b6-9d4f-2610ef465279",
+                "rarity_upgrades": 1
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:epic"
+            }
+          },
+          {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:custom_name": {
+                "text": "Hocus-Pocus Cipher",
+                "color": "gold",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "Enriched with Magic Find",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Magic Find: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+0.5",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+16",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "While in the rift:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": " ",
+                  "extra": [
+                    {
+                      "text": "+65 Rift Time",
+                      "color": "green"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": " ",
+                  "extra": [
+                    {
+                      "text": "+5 Intelligence",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": " ",
+                  "extra": [
+                    {
+                      "text": "+5 Mana Regen",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "X",
+                      "color": "dark_purple",
+                      "obfuscated": true
+                    },
+                    {
+                      "text": " Rift-Transferable ",
+                      "extra": [
+                        {
+                          "text": "X",
+                          "obfuscated": true
+                        }
+                      ],
+                      "color": "dark_purple"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "a",
+                      "color": "gold",
+                      "bold": true,
+                      "obfuscated": true
+                    },
+                    " ",
+                    {
+                      "text": "LEGENDARY ACCESSORY ",
+                      "color": "gold",
+                      "bold": true
+                    },
+                    {
+                      "text": "a",
+                      "color": "gold",
+                      "bold": true,
+                      "obfuscated": true
+                    }
+                  ],
+                  "italic": false
+                }
+              ],
+              "minecraft:profile": {
+                "id": [
+                  -464793186,
+                  866926277,
+                  -1472083573,
+                  -1101483773
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzY5Njk5MDAzNywKICAicHJvZmlsZUlkIiA6ICI3MmNiMDYyMWU1MTA0MDdjOWRlMDA1OTRmNjAxNTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3M5OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI2OTc1YWY3MDcyNGQ2YTQ0ZmQ1OTQ2ZTYwYjI3MTc3MzdkZmRiNTQ1YjRkYWIxODkzMzUxYTljOWRkMTgzYyIKICAgIH0KICB9Cn0=",
+                    "signature": "DzsWY4ID5UyOtAZFX44pTWWYw2hl5UMZH4dhxIUwouyoJXVkQleOuwQ+rbo4cl3KGF81KrYKtHLAGoUGwvpMZDNipFq957ISQiAuCpRsUF4/uoNc0lD4pSkd+zJ7nUhdYjFdsAXWdRYTdxUftU8a9aJImORaPXFHmMU6ad+Qn/uqEJDDtztHBdHMw1lEvRqBzH20xXNL5pfpofhB8hSmP+OdsdZPGViHsfgmoTbJU+96MXXc3K1sgFXV7gVD0HcieC5+s3pvHZwGpNn76x3SxC6nx19Z1gFB6sx3x+vVyMQ3pcSxs+VVd+LZFYt5bfykryMrF/ZJBpsTWy5nxKomvDZZCT9+EnALOgdmfP/ZaL4lRaBYgl8JnDjSfWov/98ZGFEUKnZqT4cxrEk5YjBR18cWBqc5aWTBLCVQayxeAGslh/gqXaNZ4CplVPZEC4ImqFs3JJUZMv+07RYUAQZG2QvFYKZPfT11NpU7JtTv/L0AOuA+FPspV/6asq9/OcJuprBivW0OzTa7GPgv+wLyeleWXJbhcpv67gQIQnUGbPrlwHS03qTDF/dg2cNE7s8f+d306nWRII1qD+Bbi5CCLmzHsm87309QrgLvin9m3WBAeaYopd317k6+EycDeMXzT/QXMP/+OdtULhGg8xgGnQzkyGSvbgzG9NTMAMD5bRw="
+                  }
+                ]
+              },
+              "minecraft:custom_data": {
+                "timestamp": 1712512631117,
+                "id": "HOCUS_POCUS_CIPHER",
+                "talisman_enrichment": "magic_find",
+                "uuid": "9f4ee994-c154-4b36-9fd7-4210e24fd407",
+                "rarity_upgrades": 1
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+            }
+          },
+          {
+            "id": "minecraft:paper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:item_model": "hypixel_skyblock:item/island_relevant/mining_3/accessories/powder_of_one",
+              "minecraft:custom_name": {
+                "text": "Powder of One",
+                "color": "white",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+3",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Increases ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "Mithril Powder",
+                      "color": "dark_green"
+                    },
+                    {
+                      "text": " gain by",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "+2.5%",
                       "color": "green"
                     },
                     {
-                      "text": "faster.",
+                      "text": ".",
                       "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Right-click to view recipes!",
+                  "color": "yellow",
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Works while in Accessory Bag!",
+                  "color": "dark_gray",
+                  "italic": false
+                },
+                {
+                  "text": "COMMON ACCESSORY",
+                  "color": "white",
+                  "bold": true,
+                  "italic": false
+                }
+              ],
+              "minecraft:custom_data": {
+                "uuid": "6a1f87ee-5616-4dcf-b94d-146677092cdf",
+                "timestamp": 1791367352798,
+                "id": "POWDER_OF_ONE"
+              },
+              "minecraft:tooltip_style": "hypixel_skyblock:common"
+            }
+          },
+          {
+            "id": "minecraft:paper",
+            "count": 1,
+            "components": {
+              "minecraft:tooltip_display": {
+                "hidden_components": [
+                  "minecraft:jukebox_playable",
+                  "minecraft:painting/variant",
+                  "minecraft:map_id",
+                  "minecraft:fireworks",
+                  "minecraft:attribute_modifiers",
+                  "minecraft:unbreakable",
+                  "minecraft:written_book_content",
+                  "minecraft:banner_patterns",
+                  "minecraft:trim",
+                  "minecraft:potion_contents",
+                  "minecraft:dyed_color",
+                  "minecraft:charged_projectiles"
+                ]
+              },
+              "minecraft:item_model": "hypixel_skyblock:item/uncategorized/hotspot_artifact",
+              "minecraft:custom_name": {
+                "text": "Hotspot Artifact",
+                "color": "dark_purple",
+                "italic": false
+              },
+              "minecraft:lore": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Accessory Power: ",
+                      "color": "gray"
+                    },
+                    {
+                      "text": "+12",
+                      "color": "gold"
+                    }
+                  ],
+                  "italic": false
+                },
+                "",
+                {
+                  "text": "Grants buffs when fishing in a",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Fishing Hotspot",
+                      "color": "light_purple"
+                    },
+                    {
+                      "text": ":",
+                      "color": "gray"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "• ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "+10 Fishing Speed",
+                      "color": "aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "• ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "+1 Sea Creature Chance",
+                      "color": "dark_aqua"
+                    }
+                  ],
+                  "italic": false
+                },
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "• ",
+                      "color": "dark_gray"
+                    },
+                    {
+                      "text": "+0.5 Treasure Chance",
+                      "color": "gold"
                     }
                   ],
                   "italic": false
@@ -25417,9 +26013,9 @@
                 }
               ],
               "minecraft:custom_data": {
-                "timestamp": 1785874660510,
-                "id": "HONEYCOMB_ARTIFACT",
-                "uuid": "8bbb8968-7388-4d89-a707-b9baa2316a3e",
+                "timestamp": 1791305920204,
+                "id": "HOTSPOT_ARTIFACT",
+                "uuid": "466df22f-6a81-4838-936e-fe07db178f78",
                 "rarity_upgrades": 1
               },
               "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -25459,7 +26055,11 @@
           "PROTECTED",
           "SIMPLE",
           "WARRIOR"
-        ]
+        ],
+        "tunings": {
+          "stat": "INTELLIGENCE",
+          "value": 434.0
+        }
       },
       "Grapes": {
         "power": "WARRIOR",
@@ -25599,38 +26199,6 @@
               }
             }
           },
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
-          {},
           {
             "id": "minecraft:dropper",
             "count": 1,

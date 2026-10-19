@@ -2421,11 +2421,6 @@
           "bestFriend": false
         },
         {
-          "name": "ChudMaxPika",
-          "uuid": "3c8ea521-ef71-4eaf-b5c7-32eaa2245a91",
-          "bestFriend": false
-        },
-        {
           "name": "FemboyKurdish",
           "uuid": "2dc24bb3-cdd0-41c9-94af-bd3b49eb44e6",
           "bestFriend": false
@@ -2493,6 +2488,19 @@
         },
         {
           "name": "PabloFrostedIce_",
+          "bestFriend": false
+        },
+        {
+          "name": "Bloxigus",
+          "bestFriend": false
+        },
+        {
+          "name": "artisanal_bow",
+          "uuid": "3c8ea521-ef71-4eaf-b5c7-32eaa2245a91",
+          "bestFriend": false
+        },
+        {
+          "name": "Rhynohowl",
           "bestFriend": false
         }
       ]

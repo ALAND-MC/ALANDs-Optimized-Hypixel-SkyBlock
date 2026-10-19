@@ -188,6 +188,7 @@
       "enableTeleportOverlays": false,
       "showWhenInAir": false,
       "teleportOverlayColor": -16711936,
+      "highlightType": "HIGHLIGHT",
       "enableWeirdTransmission": false,
       "enableInstantTransmission": false,
       "enableEtherTransmission": false,
@@ -324,7 +325,8 @@
     "bazaar": {
       "enableBazaarHelper": true,
       "enableReorderHelper": true,
-      "enableOrderTracker": true
+      "enableOrderTracker": true,
+      "enableBazaarMax": true
     },
     "itemPrice": {
       "enableItemPriceLookup": true
@@ -639,7 +641,9 @@
       "highlightShellwise": false,
       "shellwiseGlowColor": -38881,
       "highlightCoralot": false,
-      "coralotGlowColor": -16776961
+      "coralotGlowColor": -16776961,
+      "highlightInvisibug": true,
+      "invisibugGlowColor": -16711681
     },
     "torrhusMobs": {
       "highlightHideonsun": true,
@@ -650,7 +654,9 @@
     "safari": {
       "silencePhantoms": true,
       "highlightSparklingCritters": true,
-      "sparklingCritterHighlightColor": -28672
+      "sparklingCritterHighlightColor": -28672,
+      "critterCapsuleHelper": false,
+      "critterCapsuleHelperColor": -16711936
     },
     "cavernBiome": {
       "highlightRockmiteMounds": true,
@@ -765,6 +771,7 @@
     "hideImplosion": "PASS",
     "hideSpiritSceptre": "PASS",
     "hideMoltenWave": "PASS",
+    "hideRareCrops": "PASS",
     "hideAds": "PASS",
     "hideTeleportPad": "PASS",
     "hideCombo": "PASS",

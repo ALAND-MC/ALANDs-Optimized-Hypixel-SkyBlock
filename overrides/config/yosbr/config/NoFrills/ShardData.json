@@ -984,9 +984,9 @@
     "skill": "Fishing"
   },
   "minos hunter": {
-    "level": 0,
+    "level": 10,
     "rarity": "UNCOMMON",
-    "enabled": false,
+    "enabled": true,
     "skill": "Combat"
   },
   "bloodbat": {
@@ -1926,9 +1926,21 @@
     "skill": "Global"
   },
   "chocobun": {
-    "level": 0,
+    "level": 10,
     "rarity": "COMMON",
-    "enabled": false,
+    "enabled": true,
     "skill": "Global"
+  },
+  "packrat": {
+    "level": 0,
+    "rarity": "UNCOMMON",
+    "enabled": false,
+    "skill": "Mining"
+  },
+  "folf": {
+    "level": 10,
+    "rarity": "RARE",
+    "enabled": true,
+    "skill": "Combat"
   }
 }

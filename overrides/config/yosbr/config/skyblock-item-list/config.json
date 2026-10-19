@@ -4,6 +4,7 @@
     "enabled": true,
     "nonPixelatedItemScale": true,
     "maxWidth": 1.0,
+    "listSide": "RIGHT",
     "leftClickAction": "OPEN_RECIPE",
     "middleClickAction": "NOTHING",
     "rightClickAction": "OPEN_INDEPENDENT_WIKI",
@@ -17,6 +18,7 @@
     "groupFamilies": false,
     "prioritizePrefixMatches": true,
     "fuzzySearch": false,
+    "clearSearchOnRestart": false,
     "customFilters": [
       "ATTRIBUTE",
       "ENCHANTMENT",

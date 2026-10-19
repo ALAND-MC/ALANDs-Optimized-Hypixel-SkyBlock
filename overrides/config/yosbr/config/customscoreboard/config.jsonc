@@ -4,6 +4,7 @@
     "enabled": true,
     "hideWhenTab": false,
     "hideWhenChat": false,
+    "hideWhenF3": false,
     "hide_hypixel": true,
     "text_shadow": true,
     "customLines": true,
@@ -40,7 +41,7 @@
             "POWDER",
             "PARTY"
         ],
-        // Valid Values: DOJO, ANNIVERSARY, WINTER, GARDEN, CARNIVAL, QUEUE, FORAGING, DARK_AUCTION, BROODMOTHER, MINING, FLIGHT_DURATION, SERVER_RESTART, ACTIVE_TABLIST, NEW_YEAR, KUUDRA, DAMAGE, RIFT, REDSTONE, ESSENCE, VOTING, JACOBS_CONTEST, MAGMA_BOSS, DUNGEONS, STARTING_SOON_TABLIST, JACOB_MEDALS, SPOOKY, TRAPPER
+        // Valid Values: CARNIVAL, MAGMA_BOSS, FLIGHT_DURATION, DAMAGE, FORAGING, KUUDRA, STARTING_SOON_TABLIST, BROODMOTHER, ESSENCE, DOJO, JACOB_MEDALS, DUNGEONS, QUEUE, RIFT, SERVER_RESTART, REDSTONE, TRAPPER, NEW_YEAR, VOTING, ANNIVERSARY, JACOBS_CONTEST, SPOOKY, DARK_AUCTION, GARDEN, WINTER, ACTIVE_TABLIST, MINING
         "events": [
             "SPOOKY",
             "DUNGEONS",
@@ -121,7 +122,65 @@
             "alignment": "START"
         },
         // Valid Values: START, CENTER, END
-        "defaultTextAlignment": "START"
+        "defaultTextAlignment": "START",
+        "enableCustomPrefixes": false,
+        "pursePrefix": [
+            "Purse:"
+        ],
+        "piggyPrefix": [
+            "Piggy:"
+        ],
+        "bankPrefix": [
+            "Bank:"
+        ],
+        "motesPrefix": [
+            "Motes:"
+        ],
+        "bitsPrefix": [
+            "Bits:"
+        ],
+        "copperPrefix": [
+            "Copper:"
+        ],
+        "sowdustPrefix": [
+            "Sowdust:"
+        ],
+        "kernelsPrefix": [
+            "Kernels:"
+        ],
+        "heatPrefix": [
+            "Heat:"
+        ],
+        "coldPrefix": [
+            "Cold:"
+        ],
+        "northStarsPrefix": [
+            "North Stars:"
+        ],
+        "soulflowPrefix": [
+            "Soulflow:"
+        ],
+        "gemsPrefix": [
+            "Gems:"
+        ],
+        "cookieBuffPrefix": [
+            "Cookie Buff:"
+        ],
+        "petPrefix": [
+            "Pet:"
+        ],
+        "godPotionPrefix": [
+            "God Potion:"
+        ],
+        "maxwellPowerPrefix": [
+            "Power:"
+        ],
+        "maxwellTuningPrefix": [
+            "Tunings:"
+        ],
+        "playerCountPrefix": [
+            "Players:"
+        ]
     },
     "Background": {
         "enabled": true,
@@ -134,6 +193,10 @@
         // Range: 0 - 20
         "radius": 5,
         "blurEnabled": false,
+        // Range: 0 - 1000
+        "minWidth": 0,
+        // Range: 0 - 1000
+        "minHeight": 0,
         "borderEnabled": false,
         // Range: 0 - 10
         "borderSize": 3,
@@ -158,6 +221,7 @@
         "includeMinutes": true,
         "smoothTime": false,
         "colored_month": true,
+        "indentLocationTimeLines": false,
         // Valid Values: LONG, SHORT
         "number_format": "LONG",
         // Valid Values: TEXT_COLOR_NUMBER, COLOR_TEXT_NUMBER, COLOR_NUMBER_TEXT, COLOR_NUMBER_RESET_TEXT
@@ -165,12 +229,12 @@
         "forcedLocale": false,
         "showCurrencyGain": true,
         "bits_available": false,
+        "gemsAlwaysCompact": true,
         "bankAlwaysCompact": true,
         // Valid Values: PERSONAL_COOP, COOP_PERSONAL, COMBINED
         "coopBankLayout": "PERSONAL_COOP",
         "piggy": false,
         "hidePurseInDungeons": true,
-        "isActuallyCoopProfile": false,
         "slayerLevel": false,
         "magicalPower": false,
         "color_arrow": true,
@@ -190,11 +254,14 @@
         "mayor_time": false,
         // Valid Values: OFF, COUNT, ALL
         "mayorPerksDisplay": "OFF",
+        "showFoxyEvent": true,
         // Valid Values: OFF, COMPACT, FULL
         "ministerDisplay": "OFF",
         "showJerryInMinister": false,
         "all_events": true,
+        "separatorBetweenEvents": false,
         "showEventPrefix": true,
+        "tablistEventsInDungeon": true,
         "showActiveOnly": false,
         "hideSlayerOutsideSlayerAreas": false,
         "consecutive_separator": true,
