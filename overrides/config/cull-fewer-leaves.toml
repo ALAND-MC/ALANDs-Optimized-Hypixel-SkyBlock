@@ -1,0 +1,17 @@
+# Enables Cull Fewer Leaves mod.
+# default: true
+enabled = true
+# Amount of layers of leaves before the inside of the leaves is culled.
+# 1 = Fastest but least good-looking.
+# 2 = Recommended.
+# 4 = Slowest but most good-looking.
+# range: 1 - 4
+# default: 2
+depth = 2
+# Reject a percentage of inner-layer leaves inside of the accepted depth range randomly.
+# range: 0 - 100
+# default: 0
+randomRejection = 0
+# Does a depth-1 cull on mangrove roots, any more is useless as roots generate in single layers. This doesn't do much.
+# default: false
+fastMangroveRootsCulling = false

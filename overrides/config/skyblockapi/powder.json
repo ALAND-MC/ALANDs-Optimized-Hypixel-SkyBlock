@@ -1,0 +1,15 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "loadouts": [],
+        "total": {
+          "MITHRIL": 69127300,
+          "GEMSTONE": 106081630,
+          "GLACITE": 28093805
+        }
+      }
+    }
+  }
+}

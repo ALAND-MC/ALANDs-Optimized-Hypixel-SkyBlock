@@ -1,0 +1,9 @@
+#ifndef SHOCKWAVE_SETTINGS_FILE
+#define SHOCKWAVE_SETTINGS_FILE
+
+#define SHOCKWAVE 0 //[0 1 2]
+//#define SHOCKWAVE_CROUCHING
+#ifdef SHOCKWAVE_CROUCHING
+#endif
+
+#endif

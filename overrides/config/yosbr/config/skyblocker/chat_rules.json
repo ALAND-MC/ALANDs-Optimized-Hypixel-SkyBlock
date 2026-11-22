@@ -1,0 +1,138 @@
+{
+  "rules": [
+    {
+      "name": "Hide Stealth",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "your presence thanks to your Stealth enchantment!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide No Network Booster",
+      "enabled": true,
+      "partialMatch": false,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "No one has a network booster active right now! Try again later.",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Tip All",
+      "enabled": true,
+      "partialMatch": false,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "You already tipped everyone that has boosters active, so there isn\u0027t anybody to be tipped right now!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Pest Error",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[SkyHanni] Pest detection requires the tab list widget to be enabled. Enable the \u0027Pests Widget\u0027 via /widget!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Crop Spam",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "There is already a crop planted here.",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Greenhouse Spam",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "You cannot place crops outside of the Greenhouse planter.",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Packet Error",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "Unable to handle packet. Click here to",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide SkyHanni Error",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[SkyHanni] Can not read Farming Fortune from tab list! Open /widget, enable the Stats Widget and show the Farming Fortune stat, also give the widget enough priority.",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Skyblocker Error",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "[Skyblocker] Failed to refresh your Skyblocker API token, some features may not work temporarily!",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Hide Waypoint Error",
+      "enabled": true,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": false,
+      "filter": "[Skyblocker] Received a waypoint to",
+      "locations": [],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Clean Hub Chat",
+      "enabled": false,
+      "partialMatch": true,
+      "regex": true,
+      "ignoreCase": true,
+      "filter": "(selling)|(buying)|(lowb)|(visit)|(/p)|(/ah)|(my ah)",
+      "locations": [
+        "hub"
+      ],
+      "hideOriginalMessage": true
+    },
+    {
+      "name": "Mining Ability Alert",
+      "enabled": false,
+      "partialMatch": true,
+      "regex": false,
+      "ignoreCase": true,
+      "filter": "is now available!",
+      "locations": [
+        "mining_3",
+        "crystal_hollows"
+      ],
+      "hideOriginalMessage": false,
+      "chatMessage": "\u00261Ability",
+      "announcementMessage": {
+        "message": "\u00261Ability",
+        "displayDuration": 3000
+      },
+      "customSound": {
+        "sound_id": "minecraft:entity.arrow.hit_player"
+      }
+    }
+  ],
+  "version": 13
+}

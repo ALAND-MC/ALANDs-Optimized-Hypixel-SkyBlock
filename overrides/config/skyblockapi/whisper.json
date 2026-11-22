@@ -1,0 +1,23 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "FOREST": {
+          "current": 12879546,
+          "total": 21651898
+        },
+        "DESERT": {
+          "current": 23405662,
+          "total": 58148088
+        }
+      },
+      "Mango": {
+        "FOREST": {
+          "current": 723,
+          "total": 1498
+        }
+      }
+    }
+  }
+}

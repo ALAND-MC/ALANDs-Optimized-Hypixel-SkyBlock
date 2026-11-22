@@ -1,0 +1,372 @@
+{
+  "ENCHANTED_NETHER_STALK": [
+    {
+      "quantity": 1,
+      "items": {
+        "NETHER_STALK": 160
+      }
+    }
+  ],
+  "MUTANT_NETHER_STALK": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_NETHER_STALK": 160
+      }
+    }
+  ],
+  "ENCHANTED_FIG_LOG": [
+    {
+      "quantity": 1,
+      "items": {
+        "FIG_LOG": 160
+      }
+    }
+  ],
+  "SUNFLOWER_OIL": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_SUNFLOWER": 9
+      }
+    }
+  ],
+  "ENCHANTED_IRON_BLOCK": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_IRON": 160
+      }
+    }
+  ],
+  "ENCHANTED_IRON": [
+    {
+      "quantity": 1,
+      "items": {
+        "IRON_INGOT": 160
+      }
+    }
+  ],
+  "ENCHANTED_RABBIT_HIDE": [
+    {
+      "quantity": 1,
+      "items": {
+        "RABBIT_HIDE": 160
+      }
+    }
+  ],
+  "ENCHANTED_PAPER": [
+    {
+      "quantity": 1,
+      "items": {
+        "SUGAR_CANE": 192
+      }
+    }
+  ],
+  "ENCHANTED_GLISTERING_MELON": [
+    {
+      "quantity": 1,
+      "items": {
+        "SPECKLED_MELON": 256
+      }
+    }
+  ],
+  "SUPER_JACOB_SYSTEM": [
+    {
+      "quantity": 1,
+      "items": {
+        "CHIRPING_STEREO": 2,
+        "PLANTBOY_ADVANCE": 1,
+        "BOTROOT": 64,
+        "ENCHANTED_PAPER": 32,
+        "ENCHANTED_IRON_BLOCK": 3
+      }
+    }
+  ],
+  "ENCHANTED_CARROT": [
+    {
+      "quantity": 1,
+      "items": {
+        "CARROT_ITEM": 160
+      }
+    }
+  ],
+  "ENCHANTED_GOLDEN_CARROT": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_CARROT": 160
+      }
+    }
+  ],
+  "ENCHANTED_CACTUS_GREEN": [
+    {
+      "quantity": 1,
+      "items": {
+        "CACTUS": 160
+      }
+    }
+  ],
+  "ENCHANTED_CACTUS": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_CACTUS_GREEN": 160
+      }
+    }
+  ],
+  "ENCHANTED_RED_MUSHROOM": [
+    {
+      "quantity": 1,
+      "items": {
+        "RED_MUSHROOM": 160
+      }
+    }
+  ],
+  "ENCHANTED_BROWN_MUSHROOM": [
+    {
+      "quantity": 1,
+      "items": {
+        "BROWN_MUSHROOM": 160
+      }
+    }
+  ],
+  "ENCHANTED_HUGE_MUSHROOM_2": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_RED_MUSHROOM": 160
+      }
+    }
+  ],
+  "ENCHANTED_HUGE_MUSHROOM_1": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_BROWN_MUSHROOM": 160
+      }
+    }
+  ],
+  "ENCHANTED_POTATO": [
+    {
+      "quantity": 1,
+      "items": {
+        "POTATO_ITEM": 160
+      }
+    }
+  ],
+  "ENCHANTED_BAKED_POTATO": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_POTATO": 160
+      }
+    }
+  ],
+  "ENCHANTED_SUGAR_CANE": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_SUGAR": 160
+      }
+    }
+  ],
+  "ENCHANTED_SUGAR": [
+    {
+      "quantity": 1,
+      "items": {
+        "SUGAR_CANE": 160
+      }
+    }
+  ],
+  "ENCHANTED_COCOA": [
+    {
+      "quantity": 1,
+      "items": {
+        "INK_SACK:3": 160
+      }
+    }
+  ],
+  "ENCHANTED_COOKIE": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_COCOA": 160
+      }
+    }
+  ],
+  "ENCHANTED_WHEAT": [
+    {
+      "quantity": 1,
+      "items": {
+        "WHEAT": 160
+      }
+    }
+  ],
+  "ENCHANTED_HAY_BALE": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_WHEAT": 160
+      }
+    }
+  ],
+  "ENCHANTED_SUNFLOWER": [
+    {
+      "quantity": 1,
+      "items": {
+        "DOUBLE_PLANT": 160
+      }
+    }
+  ],
+  "COMPACTED_SUNFLOWER": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_SUNFLOWER": 160
+      }
+    }
+  ],
+  "ENCHANTED_MOONFLOWER": [
+    {
+      "quantity": 1,
+      "items": {
+        "MOONFLOWER": 160
+      }
+    }
+  ],
+  "COMPACTED_MOONFLOWER": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_MOONFLOWER": 160
+      }
+    }
+  ],
+  "COMPACTED_WILD_ROSE": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_WILD_ROSE": 160
+      }
+    }
+  ],
+  "ENCHANTED_WILD_ROSE": [
+    {
+      "quantity": 1,
+      "items": {
+        "WILD_ROSE": 160
+      }
+    }
+  ],
+  "ENCHANTED_MELON_BLOCK": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_MELON": 160
+      }
+    }
+  ],
+  "ENCHANTED_MELON": [
+    {
+      "quantity": 1,
+      "items": {
+        "MELON": 160
+      }
+    }
+  ],
+  "POLISHED_PUMPKIN": [
+    {
+      "quantity": 1,
+      "items": {
+        "ENCHANTED_PUMPKIN": 160
+      }
+    }
+  ],
+  "ENCHANTED_PUMPKIN": [
+    {
+      "quantity": 1,
+      "items": {
+        "PUMPKIN": 160
+      }
+    }
+  ],
+  "BACHELOR_ROSE": [
+    {
+      "quantity": 1,
+      "items": {
+        "COMPACTED_WILD_ROSE": 8,
+        "RED_ROSE": 64
+      }
+    }
+  ],
+  "ENCHANTED_SEEDS": [
+    {
+      "quantity": 1,
+      "items": {
+        "SEEDS": 160
+      }
+    }
+  ],
+  "HELIX_ARMOR_BOOTS": [
+    {
+      "quantity": 1,
+      "items": {
+        "HELIXIS": 4,
+        "FIG_BOOTS": 1
+      }
+    }
+  ],
+  "MINERAL_CHESTPLATE": [
+    {
+      "quantity": 1,
+      "items": {
+        "REFINED_MINERAL": 8,
+        "HARDENED_DIAMOND_CHESTPLATE": 1
+      }
+    }
+  ],
+  "MINERAL_LEGGINGS": [
+    {
+      "quantity": 1,
+      "items": {
+        "REFINED_MINERAL": 7,
+        "HARDENED_DIAMOND_LEGGINGS": 1
+      }
+    }
+  ],
+  "MINERAL_BOOTS": [
+    {
+      "quantity": 1,
+      "items": {
+        "REFINED_MINERAL": 4,
+        "HARDENED_DIAMOND_BOOTS": 1
+      }
+    }
+  ],
+  "MINERAL_TALISMAN": [
+    {
+      "quantity": 1,
+      "items": {
+        "REFINED_MINERAL": 9
+      }
+    }
+  ],
+  "MINERAL_HELMET": [
+    {
+      "quantity": 1,
+      "items": {
+        "REFINED_MINERAL": 5,
+        "HARDENED_DIAMOND_HELMET": 1
+      }
+    }
+  ],
+  "ENCHANTED_INK_SACK": [
+    {
+      "quantity": 1,
+      "items": {
+        "INK_SACK": 80
+      }
+    }
+  ]
+}

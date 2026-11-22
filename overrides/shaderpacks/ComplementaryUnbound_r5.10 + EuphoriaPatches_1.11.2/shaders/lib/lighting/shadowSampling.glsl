@@ -1,0 +1,215 @@
+float GetShadowDistortFactor(vec3 shadowPos) {
+    float distb = sqrt(shadowPos.x * shadowPos.x + shadowPos.y * shadowPos.y);
+    return distb * shadowMapBias + (1.0 - shadowMapBias);
+}
+
+vec3 GetShadowPos(vec3 playerPos) {
+    vec3 shadowPos = PlayerToShadow(playerPos);
+    shadowPos.xy /= GetShadowDistortFactor(shadowPos);
+    shadowPos.z *= 0.2;
+    return shadowPos * 0.5 + 0.5;
+}
+
+#ifndef COMPOSITE1
+    vec3 SampleShadow(vec3 shadowPos, float colorMult, float colorPow) {
+        float shadow0 = shadow2D(shadowtex0, vec3(shadowPos.st, shadowPos.z)).x;
+
+        vec3 shadowcol = vec3(0.0);
+        if (shadow0 < 1.0) {
+            float shadow1 = shadow2D(shadowtex1, vec3(shadowPos.st, shadowPos.z)).x;
+
+            if (shadow1 * 0.9999 > shadow0)
+            {
+                shadowcol = texture2D(shadowcolor0, shadowPos.st).rgb * shadow1;
+
+                shadowcol *= colorMult;
+                shadowcol = pow(shadowcol, vec3(colorPow));
+            }
+        }
+
+        return shadowcol * (1.0 - shadow0) + shadow0;
+    }
+
+    float InterleavedGradientNoiseForShadows() {
+        float n = 52.9829189 * fract(0.06711056 * gl_FragCoord.x + 0.00583715 * gl_FragCoord.y);
+        #if !defined GBUFFERS_ENTITIES && !defined GBUFFERS_HAND && !defined GBUFFERS_TEXTURED && defined TAA
+            return fract(n + goldenRatio * mod(float(frameCounter), 3600.0));
+        #else
+            return fract(n);
+        #endif
+    }
+
+    vec2 offsetDist(float x, int s) {
+        float n = fract(x * 2.427) * 3.1415;
+        return vec2(cos(n), sin(n)) * 1.4 * x / s;
+    }
+
+    vec3 SampleTAAFilteredShadow(vec3 shadowPos, float offset, int shadowSamples, bool leaves, float colorMult, float colorPow) {
+        vec3 shadow = vec3(0.0);
+        float gradientNoise = InterleavedGradientNoiseForShadows();
+
+        #if !defined GBUFFERS_ENTITIES && !defined GBUFFERS_HAND && !defined GBUFFERS_TEXTURED
+            offset *= 1.3875;
+        #else
+            shadowSamples *= 2;
+            offset *= 0.69375;
+        #endif
+
+        float shadowPosZM = shadowPos.z;
+        for (int i = 0; i < shadowSamples; i++) {
+            vec2 offset2 = offsetDist(gradientNoise + i, shadowSamples) * offset;
+            if (leaves) shadowPosZM = shadowPos.z - 0.12 * offset * (gradientNoise + i) / shadowSamples;
+            shadow += SampleShadow(vec3(shadowPos.st + offset2, shadowPosZM), colorMult, colorPow);
+            shadow += SampleShadow(vec3(shadowPos.st - offset2, shadowPosZM), colorMult, colorPow);
+        }
+
+        shadow /= shadowSamples * 2.0;
+
+        return shadow;
+    }
+
+    vec2 shadowOffsets[4] = vec2[4](
+        vec2( 1.0, 0.0),
+        vec2( 0.0, 1.0),
+        vec2(-1.0, 0.0),
+        vec2( 0.0,-1.0));
+
+    vec3 SampleFilteredShadow(vec3 shadowPos, float offset, float colorMult, float colorPow) {
+        vec3 shadow = vec3(0.0);
+
+        for (int i = 0; i < 4; i++) {
+            shadow += SampleShadow(vec3(offset * shadowOffsets[i] + shadowPos.st, shadowPos.z), colorMult, colorPow);
+        }
+        shadow += SampleShadow(shadowPos, colorMult, colorPow);
+
+        return shadow * 0.2;
+    }
+
+    vec3 SampleBasicFilteredShadow(vec3 shadowPos, float offset) {
+        float shadow = 0.0;
+
+        for (int i = 0; i < 4; i++) {
+            shadow += shadow2D(shadowtex0, vec3(offset * shadowOffsets[i] + shadowPos.st, shadowPos.z)).x;
+        }
+
+        return vec3(shadow * 0.25);
+    }
+
+    void GetShadowColorSettings(float lightmapY, out float colorMult, out float colorPow) {
+        float lightmapY2 = pow2(lightmapY);
+        float lightmapY4 = pow2(lightmapY2);
+
+        colorMult = 2.5 + 5.5 * pow1_5(lightmapY) + 2.0 * lightmapY2; // 423HDSS: Shadow color strength is stored 10 times lower to allow for water shadows going above 1.0
+        colorPow = mix(1.5 + 0.5 * float(isEyeInWater == 0), 0.5, lightmapY4);
+    }
+
+    vec3 GetShadow(vec3 shadowPos, float lightmapY, float offset, int shadowSamples, bool leaves, vec3 playerPos) {
+        #if SHADOW_QUALITY > 0
+            #if ENTITY_SHADOW <= 1 && defined GBUFFERS_BLOCK
+                offset *= 4.0;
+            #else
+                #ifdef DIMENSION_SPACE_AIRLESS
+                    offset *= 0.5;
+                #elif defined OVERWORLD
+                    offset *= 1.0 + rainFactor2
+                        #ifdef SUN_MOON_DURING_RAIN
+                            * 2.0
+                        #else
+                            * 4.0
+                        #endif
+                    ;
+                #else
+                    offset *= 3.0;
+                #endif
+            #endif
+        #endif
+
+        float colorMult, colorPow;
+        GetShadowColorSettings(lightmapY, colorMult, colorPow);
+
+        #if defined DISTANT_HORIZONS || defined VOXY
+            float lightmapY4 = pow2(pow2(lightmapY));
+            float horizontalDistance = length(playerPos.xz);
+            float verticalDistance = abs(playerPos.y);
+            float fadeEndistance = max(horizontalDistance, verticalDistance);
+            #ifdef DISTANT_HORIZONS
+                float farM = far * 0.8;
+            #else
+                float farM = far * 0.95;
+            #endif
+            float fade = smoothstep(far * 0.4, far * 0.9, fadeEndistance);
+
+            colorMult *= mix(1.0, 0.1 + 0.99 * pow2(pow2(lightmapY4)), fade);
+            colorPow *= mix(1.0, 1.0 - 0.99 * lightmapY4, fade);
+        #endif
+
+        #if SHADOW_QUALITY >= 2 && defined TAA // Medium and Above
+            vec3 shadow = SampleTAAFilteredShadow(shadowPos, offset, shadowSamples, leaves, colorMult, colorPow);
+        #elif SHADOW_QUALITY >= 1 // Low
+            vec3 shadow = SampleFilteredShadow(shadowPos, offset, colorMult, colorPow);
+        #elif SHADOW_QUALITY == 0 // Very Low
+            vec3 shadow = SampleBasicFilteredShadow(shadowPos, offset);
+        #endif
+
+        return shadow;
+    }
+
+    #ifdef BETTER_LABPBR_SSS_INTERNAL
+        // Opaque blocks only need one read per tap from shadowtex1. Translucent blocks need full color lookup
+        #if defined GBUFFERS_WATER || defined GBUFFERS_ENTITIES_TRANSLUCENT || defined GBUFFERS_BLOCK_TRANSLUCENT
+            #define SSS_TRANSLUCENT_PASS
+            #define SSS_SAMPLE(pos) SampleShadow(pos, colorMult, colorPow)
+        #else
+            #define SSS_SAMPLE(pos) vec3(shadow2D(shadowtex1, pos).x)
+        #endif
+
+        // Some ideas from BSL, thank you Capt Tatsu! <3
+        vec3 GetLabPBRSubsurfaceShadow(vec3 playerPos, float subsurface, float lightmapY) {
+            vec3 shadowPos = GetShadowPos(playerPos);
+            float distortFactor = GetShadowDistortFactor(PlayerToShadow(playerPos));
+
+            #ifdef SSS_TRANSLUCENT_PASS
+                float colorMult, colorPow;
+                GetShadowColorSettings(lightmapY, colorMult, colorPow);
+            #endif
+
+            vec3 offsetScale = vec3(0.0014 / distortFactor, 0.0014 / distortFactor, 0.001) * (subsurface * 0.75 + 0.25);
+            float gradientNoise = InterleavedGradientNoiseForShadows();
+
+            #ifdef GBUFFERS_ENTITIES
+                // No jitter on entities, so we need to do this
+                #ifdef TAA
+                    gradientNoise = fract(gradientNoise + goldenRatio * mod(float(frameCounter), 3600.0));
+                #endif
+            #endif
+
+            // Opaque taps only cost 1 read, translucent ones up to 3, so opaque can afford more
+            #ifdef SSS_TRANSLUCENT_PASS
+                #if DETAIL_QUALITY >= 4
+                    const int sssSamples = 8;
+                #elif DETAIL_QUALITY >= 3
+                    const int sssSamples = 6;
+                #else
+                    const int sssSamples = 4;
+                #endif
+            #else
+                #if DETAIL_QUALITY >= 3
+                    const int sssSamples = 16;
+                #else
+                    const int sssSamples = 12;
+                #endif
+            #endif
+            vec3 sssShadow = vec3(0.0);
+            for (int i = 0; i < sssSamples; i++) {
+                gradientNoise = fract(gradientNoise + goldenRatio); // New noise for every tap, so angle and radius are independent per tap
+                float dist = (float(i) + gradientNoise) / float(sssSamples);
+
+                vec3 offset = vec3(rotate(gradientNoise * tau) * vec2(1.4 * dist, 0.0), -(dist * dist + 0.025)) * offsetScale;
+                sssShadow += SSS_SAMPLE(shadowPos + offset);
+            }
+            sssShadow /= float(sssSamples);
+
+            return sssShadow * sssShadow;
+        }
+    #endif
+#endif

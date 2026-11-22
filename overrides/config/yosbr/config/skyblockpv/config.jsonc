@@ -1,0 +1,33 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 3,
+    "profileSpying": true,
+    "profileChatClick": true,
+    "profileChatClickOther": true,
+    // Valid Values: AUD, ARS, BRL, CAD, CHF, CNH, CZK, CLP, DKK, EUR, GBP, HKD, HUF, INR, IDR, JPY, KRW, MXN, MYR, NZD, NOK, PLN, PHP, RUB, RON, SGD, SEK, THB, TRY, TWD, USD, UAH, VND, ZAR, ZWG, BTC, DOGE, ETH, LTC, SOL
+    "currency": "USD",
+    "alignCategoryButtonsLeft": true,
+    "showPronouns": true,
+    // Valid Values: OFF, OPEN_PV, BREAKDOWN
+    "partyFinderMessage": "OPEN_PV",
+    "disableOutsideHypixel": false,
+    "skillOverflow": true,
+    "displayScaling": false,
+    "theme": "skyblock-pv:neu",
+    "seenAutoThemes": [],
+    "socials": true,
+    "rememberLastTab": true,
+    // Valid Values: PARTY, FRIENDS, LOBBY
+    "autocompleteSources": [
+        "PARTY",
+        "FRIENDS",
+        "LOBBY"
+    ],
+    "replaceStatisticsButton": true,
+    "Dev": {
+        "devMode": false,
+        "hoppityParser": false,
+        "sacksParser": false,
+        "offlineMode": false
+    }
+}

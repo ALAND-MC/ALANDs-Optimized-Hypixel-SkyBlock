@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "general": {
+    "enabled": true,
+    "nonPixelatedItemScale": true,
+    "maxWidth": 1.0,
+    "listSide": "RIGHT",
+    "scrollToNavigate": true,
+    "leftClickAction": "OPEN_RECIPE",
+    "middleClickAction": "NOTHING",
+    "rightClickAction": "OPEN_INDEPENDENT_WIKI",
+    "showOutsideSkyBlock": false
+  },
+  "mainList": {
+    "itemSize": 16,
+    "centeredSearchBar": true,
+    "hideListWhen": "SEARCH",
+    "hideVanillaItems": false,
+    "groupFamilies": false,
+    "prioritizePrefixMatches": true,
+    "fuzzySearch": false,
+    "clearSearchOnRestart": false,
+    "customFilters": [
+      "ATTRIBUTE",
+      "ENCHANTMENT",
+      "ITEM",
+      "PET",
+      "POTION",
+      "RUNE",
+      "ALL",
+      "CUSTOM"
+    ],
+    "lastSearch": "",
+    "lastFilter": "ALL"
+  },
+  "favoritesList": {
+    "enableFavorites": false,
+    "favoritesItemSize": 16
+  },
+  "calculator": {
+    "requiresEquals": false,
+    "replaceWithEnter": true,
+    "customConstants": {}
+  }
+}

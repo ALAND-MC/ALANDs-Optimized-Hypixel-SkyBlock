@@ -1,0 +1,18 @@
+{
+  "@skyblockapi:version": 2,
+  "@skyblockapi:data": {
+    "2c3c97d7-2b1c-4355-b856-dae991ddf5db": {
+      "Pear": {
+        "currentLoadoutName": "Heart of the Forest 2",
+        "loadouts": [],
+        "tier": 0,
+        "maxTokens": 1
+      },
+      "Mango": {
+        "loadouts": [],
+        "tier": 0,
+        "maxTokens": 1
+      }
+    }
+  }
+}

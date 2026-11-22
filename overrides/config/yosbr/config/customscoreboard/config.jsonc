@@ -1,0 +1,275 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 11,
+    "enabled": true,
+    "hideWhenTab": false,
+    "hideWhenChat": false,
+    "hideWhenF3": false,
+    "hide_hypixel": true,
+    "text_shadow": true,
+    "customLines": true,
+    "actions": true,
+    "outsideSkyBlock": false,
+    "updateEveryTick": false,
+    "update_notification": false,
+    "customization": {
+        "appearance": [
+            "TITLE",
+            "LOBBY",
+            "SEPARATOR",
+            "DATE",
+            "TIME",
+            "AREA",
+            "SEPARATOR",
+            "PURSE",
+            "MOTES",
+            "BITS",
+            "COPPER",
+            "SOWDUST",
+            "KERNELS",
+            "GEMS",
+            "HEAT",
+            "COLD",
+            "NORTH_STARS",
+            "SOULFLOW",
+            "SEPARATOR",
+            "PET",
+            "OBJECTIVE",
+            "SLAYER",
+            "QUIVER",
+            "EVENTS",
+            "POWDER",
+            "PARTY"
+        ],
+        // Valid Values: CARNIVAL, MAGMA_BOSS, FLIGHT_DURATION, DAMAGE, FORAGING, KUUDRA, STARTING_SOON_TABLIST, BROODMOTHER, ESSENCE, DOJO, JACOB_MEDALS, DUNGEONS, QUEUE, RIFT, SERVER_RESTART, REDSTONE, TRAPPER, NEW_YEAR, VOTING, ANNIVERSARY, JACOBS_CONTEST, SPOOKY, DARK_AUCTION, GARDEN, WINTER, ACTIVE_TABLIST, MINING
+        "events": [
+            "SPOOKY",
+            "DUNGEONS",
+            "ESSENCE",
+            "KUUDRA",
+            "TRAPPER",
+            "JACOBS_CONTEST",
+            "GARDEN",
+            "DOJO",
+            "QUEUE",
+            "SERVER_RESTART",
+            "JACOB_MEDALS",
+            "CARNIVAL",
+            "VOTING",
+            "BROODMOTHER",
+            "ANNIVERSARY",
+            "DAMAGE",
+            "REDSTONE",
+            "MINING",
+            "FLIGHT_DURATION",
+            "DARK_AUCTION",
+            "WINTER",
+            "NEW_YEAR",
+            "MAGMA_BOSS",
+            "RIFT",
+            "FORAGING"
+        ],
+        // Valid Values: AREA, PROFILE, PET, DAILY_QUESTS, SKILLS, ELECTION, BESTIARY, COLLECTION, STATS, EVENT, EVENT_TRACKERS, ACTIVE_EFFECTS, TIMERS, FIRE_SALE, MINIONS, PITY, SLAYER, FORGES, COMMISSIONS, POWDERS, CRYSTALS, MINING_EVENT, FROZEN_CORPSES, PICKAXE_ABILITY, WORMS, AGATHA_CONTEST, STARBORN_TEMPLE, FOREST_WHISPERS, DESERT_WHISPERS, MOONGLADE_BEACON, TORRHUS_BEACON, SHARD_TRAPS, SALTS, COMPOSTER, JACOBS_CONTEST, PESTS, PEST_TRAPS, VISITORS, TRAPPER, CROP_MILESTONES, REPUTATION, TROPHY_FISH, FACTION_QUESTS, DRAGON, TROPHY_FROGS, DOWNED, TEAM_DEATHS, DISCOVERIES, PUZZLES, RNG_METER, PARTY, DUNGEONS, ESSENCE, GOOD_TO_KNOW, SHEN, ADVERTISEMENT
+        "tablistLines": [],
+        // Valid Values: PURSE, MOTES, BANK, BITS, COPPER, SOWDUST, GEMS, HEAT, COLD, NORTH_STARS
+        "chunkedStats": [
+            "PURSE",
+            "MOTES",
+            "BANK",
+            "BITS",
+            "COPPER",
+            "SOWDUST",
+            "GEMS",
+            "HEAT",
+            "COLD",
+            "NORTH_STARS"
+        ],
+        // Range: 1 - 5
+        "statsPerLine": 3,
+        "useHypixelTitle": true,
+        // Valid Values: START, CENTER, END
+        "titleAlignment": "CENTER",
+        "titleUseCustomText": false,
+        "useCustomTitleOutsideSkyBlock": false,
+        "titleText": [
+            ""
+        ],
+        // Valid Values: START, CENTER, END
+        "footerAlignment": "CENTER",
+        "footerUseCustomText": false,
+        "footerText": [
+            ""
+        ],
+        "alphaFooterText": [
+            ""
+        ],
+        // Range: 0.1 - 2
+        "scale": 1.0,
+        // Range: 0 - 10
+        "lineSpacing": 0,
+        // Valid Values: TOP, CENTER, BOTTOM, FREE_MOVE
+        "vertical_alignment": "CENTER",
+        // Valid Values: LEFT, CENTER, RIGHT, FREE_MOVE
+        "horizontal_alignment": "RIGHT",
+        "position": {
+            // Type: Integer
+            "x": 0,
+            // Type: Integer
+            "y": 0,
+            // Type: Float
+            "scale": 1.0,
+            // Valid Values: START, CENTER, END
+            "alignment": "START"
+        },
+        // Valid Values: START, CENTER, END
+        "defaultTextAlignment": "START",
+        "enableCustomPrefixes": false,
+        "pursePrefix": [
+            "Purse:"
+        ],
+        "piggyPrefix": [
+            "Piggy:"
+        ],
+        "bankPrefix": [
+            "Bank:"
+        ],
+        "motesPrefix": [
+            "Motes:"
+        ],
+        "bitsPrefix": [
+            "Bits:"
+        ],
+        "copperPrefix": [
+            "Copper:"
+        ],
+        "sowdustPrefix": [
+            "Sowdust:"
+        ],
+        "kernelsPrefix": [
+            "Kernels:"
+        ],
+        "heatPrefix": [
+            "Heat:"
+        ],
+        "coldPrefix": [
+            "Cold:"
+        ],
+        "northStarsPrefix": [
+            "North Stars:"
+        ],
+        "soulflowPrefix": [
+            "Soulflow:"
+        ],
+        "gemsPrefix": [
+            "Gems:"
+        ],
+        "cookieBuffPrefix": [
+            "Cookie Buff:"
+        ],
+        "petPrefix": [
+            "Pet:"
+        ],
+        "godPotionPrefix": [
+            "God Potion:"
+        ],
+        "maxwellPowerPrefix": [
+            "Power:"
+        ],
+        "maxwellTuningPrefix": [
+            "Tunings:"
+        ],
+        "playerCountPrefix": [
+            "Players:"
+        ]
+    },
+    "Background": {
+        "enabled": true,
+        // [Color Format: RGBA]
+        "color": 1677721600,
+        // Range: 0 - 20
+        "padding": 5,
+        // Range: 0 - 20
+        "margin": 0,
+        // Range: 0 - 20
+        "radius": 5,
+        "blurEnabled": false,
+        // Range: 0 - 1000
+        "minWidth": 0,
+        // Range: 0 - 1000
+        "minHeight": 0,
+        "borderEnabled": false,
+        // Range: 0 - 10
+        "borderSize": 3,
+        // [Color Format: RGBA]
+        "borderColorTopLeft": -13458981,
+        // [Color Format: RGBA]
+        "borderColorTopRight": -13444158,
+        // [Color Format: RGBA]
+        "borderColorBottomLeft": -14039890,
+        // [Color Format: RGBA]
+        "borderColorBottomRight": -13906054,
+        "imageBackground": false,
+        // Range: 5 - 100
+        "imageBackgroundTransparency": 90,
+        "customImageFile": ""
+    },
+    "line_modification": {
+        // Valid Values: ISO_YYYYMMDD, YEAR_MONTH_DAY, US_SLASH_MMDDYYYY, US_DASH_MMDDYYYY, UK_DDMMYYYY, UK_DASH_DDMMYYYY, DAY_MONTH_YEAR, DAY_MONTH_YEAR_SHORT, FULL_MONTH_DAY_YEAR, SHORT_MONTH_DAY_YEAR
+        "dateFormat": "US_SLASH_MMDDYYYY",
+        "dateInLobbyCode": true,
+        "time24hFormat": false,
+        "includeMinutes": true,
+        "smoothTime": false,
+        "colored_month": true,
+        "indentLocationTimeLines": false,
+        // Valid Values: LONG, SHORT
+        "number_format": "LONG",
+        // Valid Values: TEXT_COLOR_NUMBER, COLOR_TEXT_NUMBER, COLOR_NUMBER_TEXT, COLOR_NUMBER_RESET_TEXT
+        "number_display_format": "TEXT_COLOR_NUMBER",
+        "forcedLocale": false,
+        "showCurrencyGain": true,
+        "bits_available": false,
+        "gemsAlwaysCompact": true,
+        "bankAlwaysCompact": true,
+        // Valid Values: PERSONAL_COOP, COOP_PERSONAL, COMBINED
+        "coopBankLayout": "PERSONAL_COOP",
+        "piggy": false,
+        "hidePurseInDungeons": true,
+        "slayerLevel": false,
+        "magicalPower": false,
+        "color_arrow": true,
+        // Valid Values: NUMBER, PERCENTAGE
+        "arrow_display": "NUMBER",
+        // Valid Values: CURRENT, TOTAL, BOTH
+        "powderDisplay": "CURRENT",
+        "hypixel_powder": true,
+        "addBetterTogetherTitle": false,
+        "profile_name": false,
+        "party_everywhere": true,
+        // Range: 1 - 10
+        "max_party": 5,
+        "party_leader": true,
+        "petPrefix": true,
+        "pet_max": false,
+        "mayor_time": false,
+        // Valid Values: OFF, COUNT, ALL
+        "mayorPerksDisplay": "OFF",
+        "showFoxyEvent": true,
+        // Valid Values: OFF, COMPACT, FULL
+        "ministerDisplay": "OFF",
+        "showJerryInMinister": false,
+        "all_events": true,
+        "separatorBetweenEvents": false,
+        "showEventPrefix": true,
+        "tablistEventsInDungeon": true,
+        "showActiveOnly": false,
+        "hideSlayerOutsideSlayerAreas": false,
+        "consecutive_separator": true,
+        "separators_start_end": true
+    },
+    "compatibility": {
+        "scoreboardOverhaul": true,
+        "skyblockLevelColor": false,
+        "overrideSkyHanniScoreboard": true
+    }
+}

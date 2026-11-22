@@ -1,0 +1,16 @@
+#ifndef REFLECTION_ROUGHNESS_SETTINGS_FILE
+#define REFLECTION_ROUGHNESS_SETTINGS_FILE
+
+#define REFLECTION_ROUGHNESS_MULT 1.00 //[0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.35 0.40 0.45 0.50 0.55 0.60 0.65 0.70 0.75 0.80 0.85 0.90 0.95 1.00 1.10 1.20 1.30 1.40 1.50 1.60 1.70 1.80 1.90 2.00 2.50 3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00 9.50 10.00]
+#define ROUGHNESS_INTENSITY 1.0 //[0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 10.0]
+#define REFLECTION_MIRRORNESS 1.00 //[0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.35 0.40 0.45 0.50 0.55 0.60 0.65 0.70 0.75 0.80 0.85 0.90 0.95 1.00 1.05 1.10 1.15 1.20 1.25 1.30 1.35 1.40 1.45 1.50 1.55 1.60 1.65 1.70 1.75 1.80 1.85 1.90 1.95 2.00]
+
+float ApplyReflectionMirrorness(float smoothness) {
+    return REFLECTION_MIRRORNESS <= 1.0 ? smoothness * REFLECTION_MIRRORNESS : mix(smoothness, 1.0, min(REFLECTION_MIRRORNESS - 1.0, 1.0));
+}
+
+float ApplyReflectionRoughnessMult(float smoothness) {
+    return clamp(1.0 - (1.0 - smoothness) * REFLECTION_ROUGHNESS_MULT, 0.0, 1.0);
+}
+
+#endif

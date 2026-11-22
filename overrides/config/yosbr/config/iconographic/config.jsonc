@@ -1,0 +1,68 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 3,
+    "enabled": true,
+    "onlyInSkyblock": true,
+    "hideVanillaTooltipData": true,
+    // Valid Values: NORMAL, NO_ICON, NOTHING
+    "nonSkyBlockItemMode": "NO_ICON",
+    "visuals": {
+        "spinny": false,
+        "vanillaBackground": false,
+        "forceDefaultVanillaBackground": false,
+        "skyBlockColor": true,
+        "replaceNoRarityColor": false,
+        // [Color Format: RGB]
+        "customNoRarityColor": 16777215,
+        "shinyHolographic": true,
+        "alignedStats": false,
+        "colorStatName": false,
+        // Valid Values: NORMAL, HIDE, SIDE, SIDE_SHIFT
+        "extraStatsDisplay": "NORMAL"
+    },
+    "tags": {
+        "rarity": true,
+        "category": true,
+        "stars": true,
+        "breakingPower": true,
+        "furniture": true,
+        "shardId": true,
+        "dungeonized": false,
+        "pet": true,
+        "petCandy": true
+    },
+    "pets": {
+        "petAbilities": true,
+        "petHeldItem": true,
+        "petLevel": true,
+        // Valid Values: SHORTENED, DECIMALS, INTEGER
+        "experienceFormat": "INTEGER",
+        // Valid Values: SHORTENED, DECIMALS, INTEGER
+        "maxExperienceFormat": "SHORTENED",
+        "petFavourite": true
+    },
+    "mining": {
+        "drillFuel": true,
+        "drillComponents": true,
+        "gemstoneSlots": true
+    },
+    "fishing": {
+        "rodParts": true
+    },
+    "foraging": {
+        "boosters": true
+    },
+    "misc": {
+        "alignedItemAbility": false,
+        // Valid Values: OFF, INLINE, REPLACE
+        "clickIcons": "REPLACE",
+        "enchantedBookNames": true,
+        "skillLevelBar": true,
+        "itemEnchants": false,
+        "romanEnchant": true,
+        "smallEnchantText": true,
+        "enchantNameBackground": false,
+        "centerEnchantments": true,
+        "stackingProgress": true
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "sboVersion": "0.7.2-beta.3",
+    "mcVersion": "26.2",
+    "failed": [],
+    "suspects": [
+        {
+            "target": "net.minecraft.client.gui.components.ChatComponent",
+            "mods": [
+                {
+                    "id": "stfu",
+                    "version": "2.9.1"
+                },
+                {
+                    "id": "compacting",
+                    "version": "1.1.1"
+                },
+                {
+                    "id": "skyblock-api",
+                    "version": "4.3.1"
+                },
+                {
+                    "id": "nofrills",
+                    "version": "0.4.15"
+                },
+                {
+                    "id": "skyhanni",
+                    "version": "9.3.0"
+                }
+            ]
+        },
+        {
+            "target": "net.minecraft.client.renderer.entity.EntityRenderer",
+            "mods": [
+                {
+                    "id": "sodium",
+                    "version": "0.9.2+mc26.2"
+                },
+                {
+                    "id": "entityculling",
+                    "version": "1.11.3"
+                },
+                {
+                    "id": "owo",
+                    "version": "0.13.1+26.2"
+                },
+                {
+                    "id": "skyocean",
+                    "version": "1.18.2"
+                },
+                {
+                    "id": "skyhanni",
+                    "version": "9.3.0"
+                },
+                {
+                    "id": "odin",
+                    "version": "0.3.6"
+                },
+                {
+                    "id": "skyblocker",
+                    "version": "6.11.0+26.2"
+                },
+                {
+                    "id": "catharsis",
+                    "version": "1.0.0-beta.22"
+                },
+                {
+                    "id": "skyblock-api",
+                    "version": "4.3.1"
+                },
+                {
+                    "id": "nofrills",
+                    "version": "0.4.15"
+                },
+                {
+                    "id": "render-chest",
+                    "version": "1.0.3+26.2"
+                },
+                {
+                    "id": "transition",
+                    "version": "1.0.26"
+                }
+            ]
+        },
+        {
+            "target": "net.minecraft.client.renderer.entity.player.AvatarRenderer",
+            "mods": [
+                {
+                    "id": "meowdding-lib",
+                    "version": "4.3.3"
+                },
+                {
+                    "id": "skyocean",
+                    "version": "1.18.2"
+                },
+                {
+                    "id": "skyblockpv",
+                    "version": "1.10.0"
+                },
+                {
+                    "id": "odin",
+                    "version": "0.3.6"
+                },
+                {
+                    "id": "skyhanni",
+                    "version": "9.3.0"
+                },
+                {
+                    "id": "skyblock-api",
+                    "version": "4.3.1"
+                }
+            ]
+        },
+        {
+            "target": "net.minecraft.client.gui.components.PlayerTabOverlay",
+            "mods": [
+                {
+                    "id": "skyblocker",
+                    "version": "6.11.0+26.2"
+                },
+                {
+                    "id": "nofrills",
+                    "version": "0.4.15"
+                }
+            ]
+        }
+    ]
+}

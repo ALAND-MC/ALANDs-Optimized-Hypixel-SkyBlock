@@ -1,0 +1,8 @@
+#version 430 compatibility
+
+#define OVERWORLD
+#define DIMENSION_CAVE_VOID
+#define DIMENSION_NO_CLOUDS
+#define FRAGMENT_SHADER
+
+#include "/program/shadow_voxels.glsl"
